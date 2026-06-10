@@ -11,6 +11,8 @@ export type Article = {
   description: string;
   category: string;
   categorySlug: string;
+  subcategory?: string;
+  subcategorySlug?: string;
   readingTime: string;
   publishedAt: string;
   updatedAt: string;
@@ -26,6 +28,8 @@ export const articles: Article[] = [
     description: "Les premiers repères pour prendre soin de sa santé et préparer cette nouvelle étape sans pression.",
     category: "Avant la grossesse",
     categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
     readingTime: "6 min",
     publishedAt: "2026-01-10",
     updatedAt: "2026-05-20",
@@ -67,6 +71,8 @@ export const articles: Article[] = [
     description: "Consultations, symptômes fréquents et signaux qui justifient de demander rapidement un avis médical.",
     category: "Pendant la grossesse",
     categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
     readingTime: "7 min",
     publishedAt: "2026-02-05",
     updatedAt: "2026-05-28",
@@ -107,6 +113,8 @@ export const articles: Article[] = [
     description: "Une liste simple et modulable pour préparer les affaires du bébé, de la maman et de l’accompagnant.",
     category: "Accouchement",
     categorySlug: "accouchement",
+    subcategory: "Préparation",
+    subcategorySlug: "preparation",
     readingTime: "5 min",
     publishedAt: "2026-02-22",
     updatedAt: "2026-04-15",
@@ -148,6 +156,8 @@ export const articles: Article[] = [
     description: "Des repères concrets pour traverser les premiers jours, s’organiser et savoir vers qui se tourner.",
     category: "Post-partum",
     categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
     readingTime: "8 min",
     publishedAt: "2026-03-12",
     updatedAt: "2026-05-18",
@@ -189,6 +199,8 @@ export const articles: Article[] = [
     description: "Des méthodes souples pour alléger la charge mentale pendant les premières semaines.",
     category: "Vie pratique",
     categorySlug: "vie-pratique",
+    subcategory: "Organisation",
+    subcategorySlug: "organisation",
     readingTime: "6 min",
     publishedAt: "2026-04-02",
     updatedAt: "2026-05-02",
@@ -227,6 +239,8 @@ export const articles: Article[] = [
     description: "Comment formuler ses souhaits, dialoguer avec l’équipe et garder de la flexibilité le jour J.",
     category: "Accouchement",
     categorySlug: "accouchement",
+    subcategory: "Préparation",
+    subcategorySlug: "preparation",
     readingTime: "7 min",
     publishedAt: "2026-04-18",
     updatedAt: "2026-05-24",
@@ -266,32 +280,67 @@ export const categories = [
   {
     slug: "avant-grossesse",
     title: "Avant la grossesse",
-    description: "Projet bébé, santé préconceptionnelle, fertilité et démarches.",
-    tone: "rose"
+    description: "Projet bébé, fertilité, santé, hygiène de vie, vaccins et médicaments.",
+    tone: "rose",
+    subcategories: [
+      { slug: "projet-bebe", title: "Projet bébé", description: "Préparer son projet, savoir par où commencer et avancer sereinement." },
+      { slug: "fertilite-cycle", title: "Fertilité et cycle", description: "Comprendre le cycle, l’ovulation et les délais pour concevoir." },
+      { slug: "sante-rendez-vous", title: "Santé et rendez-vous", description: "Consultation préconceptionnelle, examens et professionnels à consulter." },
+      { slug: "hygiene-vie", title: "Hygiène de vie", description: "Alimentation, activité physique, sommeil, tabac et alcool." },
+      { slug: "vaccins-medicaments", title: "Vaccins et médicaments", description: "Faire le point sur ses vaccins, traitements et compléments." }
+    ]
   },
   {
     slug: "pendant-grossesse",
     title: "Pendant la grossesse",
-    description: "Suivi, alimentation, symptômes, examens et bien-être.",
-    tone: "sage"
+    description: "Suivi, examens, symptômes et bien-être, trimestre après trimestre.",
+    tone: "sage",
+    subcategories: [
+      { slug: "premier-trimestre", title: "Premier trimestre", description: "Les premières semaines, les symptômes et les premiers rendez-vous." },
+      { slug: "deuxieme-trimestre", title: "Deuxième trimestre", description: "L’évolution de la grossesse et les repères du milieu de parcours." },
+      { slug: "troisieme-trimestre", title: "Troisième trimestre", description: "Se préparer à la naissance et vivre les dernières semaines." },
+      { slug: "examens-suivi", title: "Examens et suivi", description: "Consultations, échographies, analyses et démarches médicales." },
+      { slug: "symptomes-bien-etre", title: "Symptômes et bien-être", description: "Comprendre les petits maux et savoir quand demander conseil." }
+    ]
   },
   {
     slug: "accouchement",
     title: "Accouchement",
-    description: "Préparation, maternité, projet de naissance et jour J.",
-    tone: "sand"
+    description: "Préparation, début du travail, maternité et suites immédiates.",
+    tone: "sand",
+    subcategories: [
+      { slug: "preparation", title: "Préparation", description: "Projet de naissance, valise, cours et choix pour le jour J." },
+      { slug: "debut-travail", title: "Début du travail", description: "Contractions, perte des eaux et départ à la maternité." },
+      { slug: "maternite", title: "Maternité", description: "Accueil, accompagnement et déroulement du séjour." },
+      { slug: "voies-accouchement", title: "Voies d’accouchement", description: "Voie basse, césarienne, instruments et soulagement de la douleur." },
+      { slug: "suites-immediates", title: "Suites immédiates", description: "Les premières heures après la naissance pour le parent et le bébé." }
+    ]
   },
   {
     slug: "post-partum",
     title: "Post-partum",
-    description: "Récupération, émotions, alimentation du bébé et soutien.",
-    tone: "rose"
+    description: "Récupération, alimentation du bébé, santé mentale et retour à la maison.",
+    tone: "rose",
+    subcategories: [
+      { slug: "recuperation", title: "Récupération", description: "Repos, douleurs, saignements et récupération physique." },
+      { slug: "alimentation-bebe", title: "Allaitement ou alimentation du bébé", description: "Allaitement, biberon et alimentation mixte sans culpabilité." },
+      { slug: "sante-mentale", title: "Santé mentale", description: "Baby blues, émotions, fatigue et signes qui doivent alerter." },
+      { slug: "retour-maison", title: "Retour à la maison", description: "Les premiers jours, l’aide, les visites et l’organisation." },
+      { slug: "corps-apres-accouchement", title: "Corps après l’accouchement", description: "Périnée, cicatrices, sexualité et changements corporels." }
+    ]
   },
   {
     slug: "vie-pratique",
     title: "Vie pratique",
-    description: "Organisation, démarches, budget et quotidien familial.",
-    tone: "sage"
+    description: "Démarches, organisation, matériel, budget et quotidien avec bébé.",
+    tone: "sage",
+    subcategories: [
+      { slug: "demarches", title: "Démarches", description: "Déclarations, droits, congés et formalités administratives." },
+      { slug: "organisation", title: "Organisation", description: "Répartir les tâches et alléger la charge mentale." },
+      { slug: "materiel", title: "Matériel", description: "Choisir l’essentiel pour bébé sans acheter inutilement." },
+      { slug: "budget", title: "Budget", description: "Anticiper les dépenses et connaître les aides possibles." },
+      { slug: "quotidien-bebe", title: "Quotidien avec bébé", description: "Sommeil, sorties, repas et rythme des premières semaines." }
+    ]
   }
 ];
 
