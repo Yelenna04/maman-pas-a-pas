@@ -1,7 +1,8 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, CalendarDays, Clock } from "lucide-react";
 import type { Article } from "@/lib/articles";
-import { MiniIllustration } from "./LogoIllustration";
+import { getArticleImage } from "@/lib/articleImages";
 
 function formatDate(value: string) {
   return new Intl.DateTimeFormat("fr-FR", { dateStyle: "medium" }).format(new Date(value));
@@ -9,10 +10,16 @@ function formatDate(value: string) {
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
-    <article className="card card-hover article-card">
+    <article className="card card-hover article-card editorial-card">
       <Link href={`/articles/${article.slug}`} aria-label={`Lire ${article.title}`}>
-        <div className={`article-cover ${article.tone}`}>
-          <MiniIllustration tone={article.tone} />
+        <div className="article-photo-wrap">
+          <Image
+            src={getArticleImage(article.categorySlug, article.slug)}
+            alt=""
+            fill
+            sizes="(max-width: 700px) 100vw, (max-width: 1100px) 50vw, 33vw"
+            className="article-photo"
+          />
         </div>
       </Link>
 
