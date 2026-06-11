@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
@@ -19,20 +20,37 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container navbar">
-        <Link href="/" className="brand brand-refined" onClick={() => setOpen(false)}>
-          <span className="brand-mark">M</span>
-          <span className="brand-title">Maman, Pas à Pas</span>
+        <Link
+          href="/"
+          className="brand-logo-link"
+          aria-label="Maman, Pas à Pas — Accueil"
+          onClick={() => setOpen(false)}
+        >
+          <Image
+            src="/images/logo-maman-pas-a-pas.png"
+            alt="Maman, Pas à Pas"
+            width={420}
+            height={130}
+            className="site-logo"
+            priority
+          />
         </Link>
 
         <nav className="nav-links" aria-label="Navigation principale">
           {links.map(([label, href]) => (
-            <Link key={href} href={href}>{label}</Link>
+            <Link key={href} href={href}>
+              {label}
+            </Link>
           ))}
-          <Link className="header-about-link" href="/a-propos">À propos</Link>
+
+          <Link className="header-about-link" href="/a-propos">
+            À propos
+          </Link>
         </nav>
 
         <button
           className="menu-button"
+          type="button"
           aria-label={open ? "Fermer le menu" : "Ouvrir le menu"}
           aria-expanded={open}
           onClick={() => setOpen((value) => !value)}
@@ -44,10 +62,22 @@ export function Header() {
       {open && (
         <nav className="mobile-menu container" aria-label="Navigation mobile">
           {links.map(([label, href]) => (
-            <Link key={href} href={href} onClick={() => setOpen(false)}>{label}</Link>
+            <Link
+              key={href}
+              href={href}
+              onClick={() => setOpen(false)}
+            >
+              {label}
+            </Link>
           ))}
-          <Link href="/a-propos" onClick={() => setOpen(false)}>À propos</Link>
-          <Link href="/contact" onClick={() => setOpen(false)}>Contact</Link>
+
+          <Link href="/a-propos" onClick={() => setOpen(false)}>
+            À propos
+          </Link>
+
+          <Link href="/contact" onClick={() => setOpen(false)}>
+            Contact
+          </Link>
         </nav>
       )}
     </header>
