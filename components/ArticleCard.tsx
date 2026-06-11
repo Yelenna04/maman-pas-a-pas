@@ -1,17 +1,17 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, CalendarDays, Clock } from "lucide-react";
+import { ArrowRight } from "lucide-react";
+
 import type { Article } from "@/lib/articles";
 import { getArticleImage } from "@/lib/articleImages";
-
-function formatDate(value: string) {
-  return new Intl.DateTimeFormat("fr-FR", { dateStyle: "medium" }).format(new Date(value));
-}
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
     <article className="card card-hover article-card editorial-card">
-      <Link href={`/articles/${article.slug}`} aria-label={`Lire ${article.title}`}>
+      <Link
+        href={`/articles/${article.slug}`}
+        aria-label={`Lire ${article.title}`}
+      >
         <div className="article-photo-wrap">
           <Image
             src={getArticleImage(article.categorySlug, article.slug)}
@@ -24,21 +24,26 @@ export function ArticleCard({ article }: { article: Article }) {
       </Link>
 
       <div className="article-card-body">
-        <span className="badge">{article.subcategory || article.category}</span>
-
-        <div className="article-meta">
-          <span><CalendarDays size={15} /> {formatDate(article.updatedAt)}</span>
-          <span><Clock size={15} /> {article.readingTime}</span>
-        </div>
+        <span className="badge">
+          {article.subcategory || article.category}
+        </span>
 
         <h3>
-          <Link href={`/articles/${article.slug}`}>{article.title}</Link>
+          <Link href={`/articles/${article.slug}`}>
+            {article.title}
+          </Link>
         </h3>
 
-        <p className="muted">{article.description}</p>
+        <p className="muted">
+          {article.description}
+        </p>
 
-        <Link className="link-arrow" href={`/articles/${article.slug}`}>
-          Lire l’article <ArrowRight size={17} />
+        <Link
+          className="link-arrow"
+          href={`/articles/${article.slug}`}
+        >
+          Lire l’article
+          <ArrowRight size={17} />
         </Link>
       </div>
     </article>
