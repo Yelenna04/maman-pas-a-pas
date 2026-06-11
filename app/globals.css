@@ -807,3 +807,39 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     padding-bottom: 26px;
   }
 }
+
+/* === Logo du header : agrandi et sans fond beige visible === */
+
+.brand-logo-link {
+  gap: 16px;
+  overflow: visible;
+}
+
+.site-logo-icon {
+  width: 72px;
+  height: 72px;
+  flex: 0 0 72px;
+  object-fit: cover;
+  border-radius: 50%;
+  background: transparent;
+  transform: scale(1.12);
+  transform-origin: center;
+}
+
+@media (max-width: 980px) {
+  .site-logo-icon {
+    width: 62px;
+    height: 62px;
+    flex-basis: 62px;
+    transform: scale(1.08);
+  }
+}
+
+@media (max-width: 600px) {
+  .site-logo-icon {
+    width: 54px;
+    height: 54px;
+    flex-basis: 54px;
+    transform: scale(1.05);
+  }
+}
