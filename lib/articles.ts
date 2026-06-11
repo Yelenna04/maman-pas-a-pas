@@ -139,12 +139,12 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Les méthodes naturelles de contraception",
-        url: "https://www.ameli.fr/assure/sante/themes/contraception/methodes-naturelles-contraception"
+        label: "Assurance Maladie — Informations et conseils sur les règles",
+        url: "https://www.ameli.fr/assure/sante/themes/puberte/informations-conseils-regles"
       },
       {
-        label: "Assurance Maladie — Comprendre l’infertilité : définition et causes",
-        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/comprendre-sterilite"
+        label: "ACOG — The Menstrual Cycle",
+        url: "https://www.acog.org/womens-health/infographics/the-menstrual-cycle"
       },
       {
         label: "ACOG — Fertility Awareness-Based Methods of Family Planning",
@@ -153,6 +153,10 @@ export const articles: Article[] = [
       {
         label: "NHS — Periods and fertility in the menstrual cycle",
         url: "https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/"
+      },
+      {
+        label: "NHS — Ovulation pain",
+        url: "https://www.nhs.uk/symptoms/ovulation-pain/"
       }
     ]
   },
