@@ -13,12 +13,20 @@ export default function ArticlesPage() {
     <>
       <section className="page-hero">
         <div className="container">
-          <div className="breadcrumbs"><Link href="/">Accueil</Link><span>›</span><span>Articles</span></div>
-          <p className="eyebrow">La bibliothèque</p>
+          <div className="breadcrumbs">
+            <Link href="/">Accueil</Link>
+            <span>›</span>
+            <span>Articles</span>
+          </div>
+
           <h1>Tous les articles</h1>
-          <p className="lead">Recherchez un sujet ou explorez les contenus par étape de votre parcours.</p>
+
+          <p className="lead">
+            Recherchez un sujet ou explorez les contenus par étape de votre parcours.
+          </p>
         </div>
       </section>
+
       <section className="section-sm">
         <div className="container">
           <ArticlesExplorer articles={articles} />
