@@ -19,16 +19,19 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container navbar">
-        <Link href="/" className="brand" onClick={() => setOpen(false)}>
+        <Link href="/" className="brand brand-editorial" onClick={() => setOpen(false)}>
           <span className="brand-mark">M</span>
-          <span>Maman, Pas à Pas</span>
+          <span className="brand-copy">
+            <strong>Maman, Pas à Pas</strong>
+            <small>Grossesse, naissance et post-partum</small>
+          </span>
         </Link>
 
         <nav className="nav-links" aria-label="Navigation principale">
           {links.map(([label, href]) => (
             <Link key={href} href={href}>{label}</Link>
           ))}
-          <Link className="btn btn-primary" href="/a-propos">À propos</Link>
+          <Link className="header-about-link" href="/a-propos">À propos</Link>
         </nav>
 
         <button
