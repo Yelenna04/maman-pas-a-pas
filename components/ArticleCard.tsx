@@ -10,17 +10,26 @@ function formatDate(value: string) {
 export function ArticleCard({ article }: { article: Article }) {
   return (
     <article className="card card-hover article-card">
-      <div className={`article-cover ${article.tone}`}>
-        <MiniIllustration tone={article.tone} />
-      </div>
+      <Link href={`/articles/${article.slug}`} aria-label={`Lire ${article.title}`}>
+        <div className={`article-cover ${article.tone}`}>
+          <MiniIllustration tone={article.tone} />
+        </div>
+      </Link>
+
       <div className="article-card-body">
-        <span className="badge">{article.category}</span>
+        <span className="badge">{article.subcategory || article.category}</span>
+
         <div className="article-meta">
           <span><CalendarDays size={15} /> {formatDate(article.updatedAt)}</span>
           <span><Clock size={15} /> {article.readingTime}</span>
         </div>
-        <h3>{article.title}</h3>
+
+        <h3>
+          <Link href={`/articles/${article.slug}`}>{article.title}</Link>
+        </h3>
+
         <p className="muted">{article.description}</p>
+
         <Link className="link-arrow" href={`/articles/${article.slug}`}>
           Lire l’article <ArrowRight size={17} />
         </Link>
