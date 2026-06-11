@@ -40,40 +40,43 @@ export function CategoryPage({ slug }: { slug: string }) {
                   article.subcategorySlug === subcategory.slug
               ).length;
 
+              const href = `/categories/${slug}/${subcategory.slug}`;
+
               return (
-                <section
-                  className="card card-hover"
+                <Link
                   key={subcategory.slug}
+                  href={href}
+                  className="category-card-link"
+                  aria-label={`Découvrir ${subcategory.title}`}
                 >
-                  <div className="icon-chip sage">
-                    <FolderOpen />
-                  </div>
+                  <section className="card card-hover">
+                    <div className="icon-chip sage">
+                      <FolderOpen />
+                    </div>
 
-                  <h3>{subcategory.title}</h3>
+                    <h3>{subcategory.title}</h3>
 
-                  <p className="muted">
-                    {subcategory.description}
-                  </p>
+                    <p className="muted">
+                      {subcategory.description}
+                    </p>
 
-                  <p
-                    className="muted"
-                    style={{ fontSize: ".88rem" }}
-                  >
-                    {count === 0
-                      ? "Les premiers articles arrivent bientôt."
-                      : `${count} article${
-                          count > 1 ? "s" : ""
-                        } disponible${count > 1 ? "s" : ""}`}
-                  </p>
+                    <p
+                      className="muted"
+                      style={{ fontSize: ".88rem" }}
+                    >
+                      {count === 0
+                        ? "Les premiers articles arrivent bientôt."
+                        : `${count} article${
+                            count > 1 ? "s" : ""
+                          } disponible${count > 1 ? "s" : ""}`}
+                    </p>
 
-                  <Link
-                    className="link-arrow"
-                    href={`/categories/${slug}/${subcategory.slug}`}
-                  >
-                    Découvrir
-                    <ArrowRight size={17} />
-                  </Link>
-                </section>
+                    <span className="link-arrow">
+                      Découvrir
+                      <ArrowRight size={17} />
+                    </span>
+                  </section>
+                </Link>
               );
             })}
           </div>
