@@ -556,8 +556,8 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
 
 .site-logo-icon {
   display: block;
-  width: 54px;
-  height: 54px;
+  width: 62px;
+  height: 62px;
   object-fit: contain;
   flex-shrink: 0;
 }
