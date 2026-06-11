@@ -539,3 +539,9 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
   .step-strip { grid-template-columns: 1fr; }
   .editorial-featured { border-radius: 22px; }
 }
+.page-hero .lead {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: 720px;
+}
