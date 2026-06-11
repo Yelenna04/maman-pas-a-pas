@@ -7,6 +7,10 @@ export function getArticleImage(categorySlug: string, slug?: string) {
     return "/images/retour-maison-bebe.png";
   }
 
+  if (slug === "preparer-valise-maternite") {
+    return "/images/valise-maternite.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
