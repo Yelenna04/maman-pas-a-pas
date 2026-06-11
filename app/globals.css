@@ -611,7 +611,6 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
 .article-card-body .link-arrow {
   margin-top: auto;
 }
-```css
 /* === Recherche et filtres des articles === */
 
 .search-bar {
@@ -709,4 +708,3 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     font-size: 0.84rem;
   }
 }
-```
