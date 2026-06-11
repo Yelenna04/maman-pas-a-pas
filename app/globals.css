@@ -717,3 +717,96 @@ body {
     border-radius: 20px;
   }
 }
+
+
+/* === Identité du site renforcée dans l’en-tête === */
+.brand-editorial {
+  gap: 14px;
+  min-width: 310px;
+}
+
+.brand-editorial .brand-mark {
+  width: 50px;
+  height: 50px;
+  flex: 0 0 50px;
+  font-size: 1.25rem;
+}
+
+.brand-copy {
+  display: grid;
+  gap: 2px;
+  line-height: 1;
+}
+
+.brand-copy strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.46rem;
+  letter-spacing: -.025em;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.brand-copy small {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .69rem;
+  line-height: 1.25;
+  letter-spacing: .075em;
+  text-transform: uppercase;
+  color: var(--rose-dark);
+  font-weight: 700;
+}
+
+.header-about-link {
+  padding: 10px 14px !important;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255,255,255,.72);
+}
+
+.header-about-link::after {
+  display: none !important;
+}
+
+.header-about-link:hover {
+  background: white;
+  color: var(--rose-dark);
+}
+
+@media (max-width: 1100px) {
+  .brand-editorial {
+    min-width: auto;
+  }
+
+  .brand-copy strong {
+    font-size: 1.28rem;
+  }
+
+  .brand-copy small {
+    font-size: .62rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .navbar {
+    min-height: 72px;
+  }
+
+  .brand-editorial {
+    gap: 10px;
+  }
+
+  .brand-editorial .brand-mark {
+    width: 42px;
+    height: 42px;
+    flex-basis: 42px;
+    font-size: 1.05rem;
+  }
+
+  .brand-copy strong {
+    font-size: 1.12rem;
+  }
+
+  .brand-copy small {
+    display: none;
+  }
+}
