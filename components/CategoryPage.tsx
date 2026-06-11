@@ -3,74 +3,82 @@ import { ArrowRight, FolderOpen } from "lucide-react";
 import { articles, getCategory } from "@/lib/articles";
 
 export function CategoryPage({ slug }: { slug: string }) {
-const category = getCategory(slug);
+  const category = getCategory(slug);
 
-if (!category) {
-return null;
-}
+  if (!category) {
+    return null;
+  }
 
-const matching = articles.filter(
-(article) => article.categorySlug === slug
-);
+  const matching = articles.filter(
+    (article) => article.categorySlug === slug
+  );
 
-return (
-<> <section className="page-hero category-page-hero"> <div className="container"> <div className="breadcrumbs"> <Link href="/">Accueil</Link> <span>›</span> <span>{category.title}</span> </div>
+  return (
+    <>
+      <section className="page-hero category-page-hero">
+        <div className="container">
+          <div className="breadcrumbs">
+            <Link href="/">Accueil</Link>
+            <span>›</span>
+            <span>{category.title}</span>
+          </div>
 
-```
-      <h1>{category.title}</h1>
-      <p className="lead">{category.description}</p>
-    </div>
-  </section>
+          <h1>{category.title}</h1>
 
-  <section className="section-sm category-page-content">
-    <div className="container">
-      <div className="grid-3 category-grid">
-        {category.subcategories.map((subcategory) => {
-          const count = matching.filter(
-            (article) =>
-              article.subcategorySlug === subcategory.slug
-          ).length;
+          <p className="lead">
+            {category.description}
+          </p>
+        </div>
+      </section>
 
-          return (
-            <section
-              className="card card-hover"
-              key={subcategory.slug}
-            >
-              <div className="icon-chip sage">
-                <FolderOpen />
-              </div>
+      <section className="section-sm category-page-content">
+        <div className="container">
+          <div className="grid-3 category-grid">
+            {category.subcategories.map((subcategory) => {
+              const count = matching.filter(
+                (article) =>
+                  article.subcategorySlug === subcategory.slug
+              ).length;
 
-              <h3>{subcategory.title}</h3>
+              return (
+                <section
+                  className="card card-hover"
+                  key={subcategory.slug}
+                >
+                  <div className="icon-chip sage">
+                    <FolderOpen />
+                  </div>
 
-              <p className="muted">
-                {subcategory.description}
-              </p>
+                  <h3>{subcategory.title}</h3>
 
-              <p
-                className="muted"
-                style={{ fontSize: ".88rem" }}
-              >
-                {count === 0
-                  ? "Les premiers articles arrivent bientôt."
-                  : `${count} article${
-                      count > 1 ? "s" : ""
-                    } disponible${count > 1 ? "s" : ""}`}
-              </p>
+                  <p className="muted">
+                    {subcategory.description}
+                  </p>
 
-              <Link
-                className="link-arrow"
-                href={`/categories/${slug}/${subcategory.slug}`}
-              >
-                Découvrir <ArrowRight size={17} />
-              </Link>
-            </section>
-          );
-        })}
-      </div>
-    </div>
-  </section>
-</>
+                  <p
+                    className="muted"
+                    style={{ fontSize: ".88rem" }}
+                  >
+                    {count === 0
+                      ? "Les premiers articles arrivent bientôt."
+                      : `${count} article${
+                          count > 1 ? "s" : ""
+                        } disponible${count > 1 ? "s" : ""}`}
+                  </p>
 
-
-);
+                  <Link
+                    className="link-arrow"
+                    href={`/categories/${slug}/${subcategory.slug}`}
+                  >
+                    Découvrir
+                    <ArrowRight size={17} />
+                  </Link>
+                </section>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    </>
+  );
 }
