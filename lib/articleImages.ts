@@ -4,7 +4,7 @@ export function getArticleImage(categorySlug: string, slug?: string) {
   }
 
   const images: Record<string, string> = {
-    "avant-grossesse": "/images/projet-bebe.png",D
+    "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
     accouchement: "/images/article-a-la-une.png",
     "post-partum": "/images/hero-maman-pas-a-pas.png",
