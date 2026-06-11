@@ -27,7 +27,7 @@ export function Header() {
           onClick={() => setOpen(false)}
         >
           <Image
-            src="/images/logo-maman-pas-a-pas.png"
+            src="/images/logo-maman-pas-a-pas-cadre.png"
             alt="Maman, Pas à Pas"
             width={420}
             height={130}
