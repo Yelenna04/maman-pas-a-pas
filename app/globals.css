@@ -708,3 +708,52 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     font-size: 0.84rem;
   }
 }
+.category-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.category-overview-grid .card {
+  min-height: 265px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-overview-grid .icon-chip {
+  width: 46px;
+  height: 46px;
+  margin-bottom: 16px;
+  border-radius: 14px;
+}
+
+.category-overview-grid h3 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+}
+
+.category-overview-grid p {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.category-overview-grid .link-arrow {
+  margin-top: auto;
+}
+
+.page-hero + .section-sm {
+  padding-top: 24px;
+}
+
+@media (max-width: 1180px) {
+  .category-overview-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 780px) {
+  .category-overview-grid {
+    grid-template-columns: 1fr;
+  }
+}
