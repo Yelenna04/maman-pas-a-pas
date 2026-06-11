@@ -43,6 +43,7 @@ export function Footer() {
               <Link href="/articles">Tous les articles</Link>
               <Link href="/avant-grossesse">Avant la grossesse</Link>
               <Link href="/pendant-grossesse">Pendant la grossesse</Link>
+              <Link href="/accouchement">Accouchement</Link>
               <Link href="/post-partum">Post-partum</Link>
             </div>
           </div>
