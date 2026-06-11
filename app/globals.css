@@ -784,42 +784,22 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
   }
 }
 
-/* === Accueil : remonter la section des derniers articles === */
+/* === Accueil : réduire l’espace avant “Les derniers articles” === */
 
-.latest-blog-section {
-  padding-top: 0;
-  margin-top: -34px;
+/* La section n’a pas la classe .latest-blog-section dans page.tsx.
+   On cible donc précisément la section qui suit l’article à la une. */
+.editorial-featured-section + .section {
+  padding-top: 24px;
 }
 
 @media (max-width: 980px) {
-  .latest-blog-section {
-    margin-top: -18px;
+  .editorial-featured-section + .section {
+    padding-top: 32px;
   }
 }
 
 @media (max-width: 700px) {
-  .latest-blog-section {
-    margin-top: 0;
-    padding-top: 18px;
-  }
-}
-
-/* === Accueil : remonter davantage la section des derniers articles === */
-
-.latest-blog-section {
-  padding-top: 0;
-  margin-top: -82px;
-}
-
-@media (max-width: 980px) {
-  .latest-blog-section {
-    margin-top: -42px;
-  }
-}
-
-@media (max-width: 700px) {
-  .latest-blog-section {
-    margin-top: 0;
-    padding-top: 18px;
+  .editorial-featured-section + .section {
+    padding-top: 40px;
   }
 }
