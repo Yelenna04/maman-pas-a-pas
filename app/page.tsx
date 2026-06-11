@@ -3,7 +3,7 @@ import {
   ArrowRight, Baby, BookOpenCheck, HeartHandshake, Leaf,
   ShieldCheck, Sparkles, Stethoscope, CalendarHeart
 } from "lucide-react";
-import { LogoIllustration } from "@/components/LogoIllustration";
+import { LogoIllustration, MiniIllustration } from "@/components/LogoIllustration";
 import { ArticleCard } from "@/components/ArticleCard";
 import { articles, categories } from "@/lib/articles";
 
@@ -11,6 +11,7 @@ export default function HomePage() {
   const latest = [...articles].sort(
     (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
   );
+  const featured = latest[0];
 
   return (
     <>
@@ -45,28 +46,30 @@ export default function HomePage() {
             <div className="floating-card two">Sources fiables</div>
           </div>
         </div>
-
-        <div className="container blog-strip">
-          <Link href="/avant-grossesse" className="blog-strip-card featured">
-            <span className="badge">À la une</span>
-            <h3>Vous avez un projet bébé ?</h3>
-            <p className="muted">Les premiers repères pour commencer sereinement.</p>
-            <span className="link-arrow">Découvrir le dossier <ArrowRight size={17} /></span>
-          </Link>
-
-          <Link href="/pendant-grossesse" className="blog-strip-card sage">
-            <span className="badge">Grossesse</span>
-            <h3>Suivre chaque trimestre</h3>
-            <span className="link-arrow">Voir les guides <ArrowRight size={17} /></span>
-          </Link>
-
-          <Link href="/post-partum" className="blog-strip-card sand">
-            <span className="badge">Après la naissance</span>
-            <h3>Mieux vivre le post-partum</h3>
-            <span className="link-arrow">Lire les conseils <ArrowRight size={17} /></span>
-          </Link>
-        </div>
       </section>
+
+      {featured && (
+        <section className="section-sm">
+          <div className="container">
+            <article className="featured-story">
+              <div className="featured-story-copy">
+                <span className="editorial-label">Article à la une</span>
+                <span className="badge">{featured.subcategory || featured.category}</span>
+                <h2>{featured.title}</h2>
+                <p className="lead">{featured.description}</p>
+                <div>
+                  <Link className="btn btn-primary" href={`/articles/${featured.slug}`}>
+                    Lire l’article <ArrowRight size={18} />
+                  </Link>
+                </div>
+              </div>
+              <div className="featured-story-visual">
+                <MiniIllustration tone={featured.tone} />
+              </div>
+            </article>
+          </div>
+        </section>
+      )}
 
       <section className="section soft-bg">
         <div className="container">
@@ -110,7 +113,7 @@ export default function HomePage() {
           </div>
 
           <div className="grid-3">
-            {latest.slice(0, 6).map((article) => (
+            {latest.slice(1, 7).map((article) => (
               <ArticleCard key={article.slug} article={article} />
             ))}
           </div>
