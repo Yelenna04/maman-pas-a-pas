@@ -850,3 +850,35 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     flex-basis: 44px;
   }
 }
+
+/* === Logo du pied de page === */
+
+.footer-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-logo-icon {
+  display: block;
+  width: 52px;
+  height: 52px;
+  flex: 0 0 52px;
+  object-fit: contain;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+@media (max-width: 600px) {
+  .footer-logo-icon {
+    width: 46px;
+    height: 46px;
+    flex-basis: 46px;
+  }
+}
