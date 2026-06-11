@@ -1,11 +1,14 @@
+```tsx
 import Link from "next/link";
 import { ArrowRight, FolderOpen } from "lucide-react";
-import { ArticleCard } from "./ArticleCard";
 import { articles, getCategory } from "@/lib/articles";
 
 export function CategoryPage({ slug }: { slug: string }) {
   const category = getCategory(slug);
-  if (!category) return null;
+
+  if (!category) {
+    return null;
+  }
 
   const matching = articles.filter(
     (article) => article.categorySlug === slug
@@ -61,80 +64,19 @@ export function CategoryPage({ slug }: { slug: string }) {
                         } disponible${count > 1 ? "s" : ""}`}
                   </p>
 
-                  <a
+                  <Link
                     className="link-arrow"
-                    href={`#${subcategory.slug}`}
+                    href={`/categories/${slug}/${subcategory.slug}`}
                   >
                     Découvrir <ArrowRight size={17} />
-                  </a>
+                  </Link>
                 </section>
               );
             })}
           </div>
         </div>
       </section>
-
-      <section className="section soft-bg">
-        <div className="container">
-          {category.subcategories.map((subcategory) => {
-            const subcategoryArticles = matching.filter(
-              (article) =>
-                article.subcategorySlug === subcategory.slug
-            );
-
-            return (
-              <section
-                id={subcategory.slug}
-                key={subcategory.slug}
-                style={{
-                  scrollMarginTop: 100,
-                  marginBottom: 56
-                }}
-              >
-                <h2
-                  style={{
-                    fontSize: "2rem",
-                    marginBottom: 20
-                  }}
-                >
-                  {subcategory.title}
-                </h2>
-
-                {subcategoryArticles.length ? (
-                  <div className="grid-3">
-                    {subcategoryArticles.map((article) => (
-                      <ArticleCard
-                        key={article.slug}
-                        article={article}
-                      />
-                    ))}
-                  </div>
-                ) : (
-                  <div className="card">
-                    <p
-                      className="muted"
-                      style={{ marginBottom: 0 }}
-                    >
-                      Les premiers articles de cette rubrique
-                      sont en préparation.
-                    </p>
-                  </div>
-                )}
-              </section>
-            );
-          })}
-
-          <div className="center">
-            <Link
-              href="/articles"
-              className="btn btn-primary"
-            >
-              Voir tous les articles
-              <ArrowRight size={18} />
-            </Link>
-          </div>
-        </div>
-      </section>
     </>
   );
 }
+```
