@@ -708,180 +708,78 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     font-size: 0.84rem;
   }
 }
-
-/* === Grandes sous-catégories sur deux lignes === */
-
-.category-page-hero {
-  padding-top: 42px;
-  padding-bottom: 18px;
+.category-overview-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 18px;
 }
 
-.category-page-hero .breadcrumbs {
-  margin-bottom: 14px;
-}
-
-.category-page-hero h1 {
-  margin-bottom: 12px;
-}
-
-.category-page-content {
-  padding-top: 10px;
-}
-
-.category-grid {
-  align-items: stretch;
-}
-
-.category-grid .card {
-  min-height: 250px;
-  padding: 26px;
+.category-overview-grid .card {
+  min-height: 265px;
+  padding: 22px;
   display: flex;
   flex-direction: column;
 }
 
-.category-grid .icon-chip {
-  width: 48px;
-  height: 48px;
+.category-overview-grid .icon-chip {
+  width: 46px;
+  height: 46px;
   margin-bottom: 16px;
+  border-radius: 14px;
 }
 
-.category-grid h3 {
-  margin-bottom: 14px;
-}
-
-.category-grid .link-arrow {
-  margin-top: auto;
-}
-
-@media (max-width: 780px) {
-  .category-page-hero {
-    padding-top: 32px;
-    padding-bottom: 14px;
-  }
-
-  .category-grid .card {
-    min-height: auto;
-  }
-}
-/* === Alignement de la page Articles sur les pages de catégories === */
-
-.articles-page-hero {
-  padding-top: 42px;
-  padding-bottom: 18px;
-}
-
-.articles-page-hero .breadcrumbs {
-  margin-bottom: 14px;
-}
-
-.articles-page-hero h1 {
+.category-overview-grid h3 {
+  font-size: 1.25rem;
   margin-bottom: 12px;
 }
 
-.articles-page-content {
-  padding-top: 10px;
+.category-overview-grid p {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.category-overview-grid .link-arrow {
+  margin-top: auto;
+}
+
+.page-hero + .section-sm {
+  padding-top: 24px;
+}
+
+@media (max-width: 1180px) {
+  .category-overview-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 780px) {
-  .articles-page-hero {
-    padding-top: 32px;
-    padding-bottom: 14px;
-  }
-
-  .articles-page-content {
-    padding-top: 8px;
+  .category-overview-grid {
+    grid-template-columns: 1fr;
   }
 }
-/* === Cartes de sous-catégories entièrement cliquables === */
 
-.category-card-link {
-  display: block;
-  height: 100%;
-  color: inherit;
-  text-decoration: none;
-  border-radius: var(--radius);
-}
+/* === Accueil : rapprochement des catégories du hero === */
 
-.category-card-link .card {
-  height: 100%;
-  cursor: pointer;
-}
-
-.category-card-link:focus-visible {
-  outline: 3px solid rgba(168, 180, 155, 0.45);
-  outline-offset: 4px;
-}
-
-.category-card-link:hover .link-arrow,
-.category-card-link:focus-visible .link-arrow {
-  color: var(--rose-dark);
-}
-
-/* === Accueil : titre légèrement réduit et catégories agrandies === */
-
-.editorial-hero-copy h1 {
-  font-size: clamp(3rem, 4.7vw, 5rem);
-  max-width: 660px;
+.editorial-hero {
+  padding-bottom: 14px;
 }
 
 .step-strip {
-  gap: 18px;
-}
-
-.step-strip-card {
-  min-height: 142px;
-  padding: 26px 24px;
-  gap: 18px;
-  border-radius: 22px;
-}
-
-.step-strip-icon {
-  width: 64px;
-  height: 64px;
-  flex: 0 0 64px;
-}
-
-.step-strip-card h3 {
-  font-size: 1.2rem;
-  margin-bottom: 6px;
-}
-
-.step-strip-card p {
-  font-size: 0.94rem;
-  line-height: 1.45;
+  margin-top: -22px;
 }
 
 @media (max-width: 980px) {
-  .editorial-hero-copy h1 {
-    font-size: clamp(2.8rem, 8vw, 4.5rem);
-  }
-
-  .step-strip-card {
-    min-height: 132px;
+  .step-strip {
+    margin-top: -10px;
   }
 }
 
 @media (max-width: 700px) {
-  .editorial-hero-copy h1 {
-    font-size: clamp(2.55rem, 12vw, 4rem);
+  .editorial-hero {
+    padding-bottom: 24px;
   }
 
-  .step-strip-card {
-    min-height: 118px;
-    padding: 22px 20px;
-  }
-
-  .step-strip-icon {
-    width: 58px;
-    height: 58px;
-    flex-basis: 58px;
-  }
-
-  .step-strip-card h3 {
-    font-size: 1.12rem;
-  }
-
-  .step-strip-card p {
-    font-size: 0.9rem;
+  .step-strip {
+    margin-top: 0;
   }
 }
