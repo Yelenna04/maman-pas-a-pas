@@ -758,48 +758,52 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
   }
 }
 
-/* === Accueil : rapprochement des catégories du hero === */
+/* === Accueil : espacements verticaux harmonisés === */
 
 .editorial-hero {
-  padding-bottom: 14px;
+  padding-top: 44px;
+  padding-bottom: 28px;
 }
 
-.step-strip {
-  margin-top: -22px;
+.editorial-hero + .section {
+  padding-top: 28px;
+  padding-bottom: 40px;
+}
+
+.editorial-featured-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.editorial-featured-section + .section {
+  padding-top: 40px;
+  padding-bottom: 64px;
 }
 
 @media (max-width: 980px) {
-  .step-strip {
-    margin-top: -10px;
+  .editorial-hero {
+    padding-top: 36px;
+    padding-bottom: 24px;
+  }
+
+  .editorial-hero + .section,
+  .editorial-featured-section,
+  .editorial-featured-section + .section {
+    padding-top: 32px;
+    padding-bottom: 32px;
   }
 }
 
 @media (max-width: 700px) {
   .editorial-hero {
-    padding-bottom: 24px;
+    padding-top: 30px;
+    padding-bottom: 22px;
   }
 
-  .step-strip {
-    margin-top: 0;
-  }
-}
-
-/* === Accueil : réduire l’espace avant “Les derniers articles” === */
-
-/* La section n’a pas la classe .latest-blog-section dans page.tsx.
-   On cible donc précisément la section qui suit l’article à la une. */
-.editorial-featured-section + .section {
-  padding-top: 24px;
-}
-
-@media (max-width: 980px) {
+  .editorial-hero + .section,
+  .editorial-featured-section,
   .editorial-featured-section + .section {
-    padding-top: 32px;
-  }
-}
-
-@media (max-width: 700px) {
-  .editorial-featured-section + .section {
-    padding-top: 40px;
+    padding-top: 26px;
+    padding-bottom: 26px;
   }
 }
