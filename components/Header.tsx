@@ -28,7 +28,7 @@ export function Header() {
           {links.map(([label, href]) => (
             <Link key={href} href={href}>{label}</Link>
           ))}
-          <Link className="btn btn-primary" href="/a-propos">Notre démarche</Link>
+          <Link className="btn btn-primary" href="/a-propos">À propos</Link>
         </nav>
 
         <button
@@ -46,7 +46,7 @@ export function Header() {
           {links.map(([label, href]) => (
             <Link key={href} href={href} onClick={() => setOpen(false)}>{label}</Link>
           ))}
-          <Link href="/a-propos" onClick={() => setOpen(false)}>Notre démarche</Link>
+          <Link href="/a-propos" onClick={() => setOpen(false)}>À propos</Link>
           <Link href="/contact" onClick={() => setOpen(false)}>Contact</Link>
         </nav>
       )}
