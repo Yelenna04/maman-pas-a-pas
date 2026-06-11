@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function ArticlesPage() {
   return (
     <>
-      <section className="page-hero">
+      <section className="page-hero category-page-hero articles-page-hero">
         <div className="container">
           <div className="breadcrumbs">
             <Link href="/">Accueil</Link>
@@ -27,7 +27,7 @@ export default function ArticlesPage() {
         </div>
       </section>
 
-      <section className="section-sm">
+      <section className="section-sm category-page-content articles-page-content">
         <div className="container">
           <ArticlesExplorer articles={articles} />
         </div>
