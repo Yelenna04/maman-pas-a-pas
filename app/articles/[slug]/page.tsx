@@ -1,9 +1,10 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AlertTriangle, CalendarDays, Clock, RefreshCw } from "lucide-react";
 import { articles, getArticle } from "@/lib/articles";
-import { MiniIllustration } from "@/components/LogoIllustration";
+import { getArticleImage } from "@/lib/articleImages";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -38,7 +39,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <>
       <div className="article-shell">
-        <div className="article-hero-card">
+        <div className="article-hero-card photo-article-hero">
           <div className="article-hero-copy">
             <div className="breadcrumbs" style={{ justifyContent: "flex-start" }}>
               <Link href="/">Accueil</Link><span>›</span>
@@ -47,20 +48,24 @@ export default async function ArticlePage({ params }: Props) {
             </div>
 
             <span className="badge">{article.subcategory || article.category}</span>
-            <h1 style={{ marginTop: 18, fontSize: "clamp(2.7rem, 6vw, 5rem)" }}>
-              {article.title}
-            </h1>
+            <h1>{article.title}</h1>
             <p className="lead">{article.description}</p>
 
-            <div className="article-meta" style={{ fontSize: ".92rem" }}>
+            <div className="article-meta">
               <span><CalendarDays size={16} /> Publié le {formatDate(article.publishedAt)}</span>
               <span><RefreshCw size={16} /> Mis à jour le {formatDate(article.updatedAt)}</span>
               <span><Clock size={16} /> {article.readingTime}</span>
             </div>
           </div>
 
-          <div className="article-hero-art">
-            <MiniIllustration tone={article.tone} />
+          <div className="article-hero-photo">
+            <Image
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 980px) 100vw, 42vw"
+            />
           </div>
         </div>
 
