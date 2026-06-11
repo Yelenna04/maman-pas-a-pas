@@ -1,142 +1,187 @@
 import Link from "next/link";
 import {
-  ArrowRight, Baby, BookOpenCheck, HeartHandshake, Leaf,
-  ShieldCheck, Sparkles, Stethoscope, CalendarHeart
+  ArrowRight,
+  BookOpenCheck,
+  CalendarHeart,
+  HeartPulse,
+  Leaf,
+  ShieldCheck,
+  Stethoscope,
+  Baby,
+  Flower2,
+  Sparkles,
+  NotebookPen
 } from "lucide-react";
-import { LogoIllustration, MiniIllustration } from "@/components/LogoIllustration";
-import { ArticleCard } from "@/components/ArticleCard";
-import { articles, categories } from "@/lib/articles";
+import { articles } from "@/lib/articles";
+
+const stepCards = [
+  {
+    title: "Avant grossesse",
+    description: "Se préparer pour accueillir bébé dans les meilleures conditions.",
+    href: "/avant-grossesse",
+    Icon: CalendarHeart
+  },
+  {
+    title: "Grossesse",
+    description: "Comprendre les étapes, les examens et prendre soin de soi.",
+    href: "/pendant-grossesse",
+    Icon: HeartPulse
+  },
+  {
+    title: "Accouchement",
+    description: "Le jour J, les différentes options et le séjour à la maternité.",
+    href: "/accouchement",
+    Icon: Baby
+  },
+  {
+    title: "Post-partum",
+    description: "Récupération, allaitement, retour à la maison et bien-être.",
+    href: "/post-partum",
+    Icon: Leaf
+  }
+];
 
 export default function HomePage() {
   const latest = [...articles].sort(
     (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
   );
+
   const featured = latest[0];
+  const secondary = latest.slice(1, 4);
 
   return (
     <>
-      <section className="hero">
-        <div className="container hero-grid">
+      <section className="hero hero-blog-home">
+        <div className="container home-hero-grid">
           <div>
-            <p className="eyebrow"><Sparkles size={16} /> Le blog qui accompagne les futurs parents</p>
-            <h1>Des réponses simples pour chaque étape de la maternité.</h1>
-            <p className="lead">
-              Projet bébé, grossesse, accouchement, post-partum et quotidien :
-              des articles fiables, chaleureux et faciles à comprendre.
+            <p className="eyebrow"><Flower2 size={16} /> À vos côtés, à chaque étape</p>
+            <h1>
+              Des réponses simples <br />
+              pour chaque étape <br />
+              de la <span className="accent-word">maternité.</span>
+            </h1>
+            <p className="lead hero-copy-lead">
+              Des informations claires, fiables et bienveillantes pour vous accompagner avant,
+              pendant et après la naissance.
             </p>
 
             <div className="hero-actions">
-              <Link className="btn btn-primary" href="/articles">
-                Lire les articles <ArrowRight size={18} />
+              <Link className="btn btn-sage" href="/articles">
+                Explorer les articles <ArrowRight size={18} />
               </Link>
-              <Link className="btn btn-secondary" href="/avant-grossesse">
-                Commencer par le projet bébé
+              <Link className="btn btn-secondary" href="/methode-verification">
+                Découvrir nos guides
               </Link>
             </div>
 
             <div className="hero-note">
-              <ShieldCheck size={22} />
-              <span>Des contenus sourcés auprès d’organismes officiels et régulièrement vérifiés.</span>
+              <ShieldCheck size={20} />
+              <span>Contenus vérifiés par des sources médicales et institutionnelles.</span>
             </div>
           </div>
 
-          <div className="hero-visual">
-            <LogoIllustration />
-            <div className="floating-card one">Conseils pratiques</div>
-            <div className="floating-card two">Sources fiables</div>
+          <div className="hero-photo-frame">
+            <div className="hero-photo-scene">
+              <div className="photo-sun" />
+              <div className="photo-window" />
+              <div className="photo-table" />
+              <div className="photo-vase" />
+              <div className="photo-notebook" />
+              <div className="photo-booties" />
+              <div className="photo-figure">
+                <div className="figure-head" />
+                <div className="figure-body" />
+                <div className="figure-mug" />
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
-      {featured && (
-        <section className="section-sm">
-          <div className="container">
-            <article className="featured-story">
-              <div className="featured-story-copy">
-                <span className="editorial-label">Article à la une</span>
-                <span className="badge">{featured.subcategory || featured.category}</span>
-                <h2>{featured.title}</h2>
-                <p className="lead">{featured.description}</p>
-                <div>
-                  <Link className="btn btn-primary" href={`/articles/${featured.slug}`}>
-                    Lire l’article <ArrowRight size={18} />
-                  </Link>
+      <section className="section-sm">
+        <div className="container home-feature-grid">
+          {featured && (
+            <article className="home-featured-card">
+              <div className="feature-image-card">
+                <div className="feature-notebook-scene">
+                  <div className="feature-eucalyptus" />
+                  <div className="feature-cup" />
+                  <div className="feature-notebook" />
+                  <div className="feature-pencil" />
                 </div>
               </div>
-              <div className="featured-story-visual">
-                <MiniIllustration tone={featured.tone} />
+
+              <div className="feature-copy-card">
+                <p className="section-kicker">Article à la une</p>
+                <h2>{featured.title}</h2>
+                <p className="muted">{featured.description}</p>
+                <Link className="link-arrow" href={`/articles/${featured.slug}`}>
+                  Lire l’article <ArrowRight size={17} />
+                </Link>
               </div>
             </article>
-          </div>
-        </section>
-      )}
+          )}
 
-      <section className="section soft-bg">
-        <div className="container">
-          <div className="section-title-row">
-            <div>
-              <p className="eyebrow">Explorer le blog</p>
-              <h2 style={{ marginBottom: 0 }}>Toutes les grandes étapes</h2>
+          <div className="step-browser">
+            <h2 className="step-browser-title">Parcourez par étape</h2>
+            <div className="step-grid">
+              {stepCards.map(({ title, description, href, Icon }) => (
+                <article className="step-card" key={href}>
+                  <div className="step-icon-wrap"><Icon size={26} /></div>
+                  <h3>{title}</h3>
+                  <p>{description}</p>
+                  <Link className="step-button" href={href}>Découvrir</Link>
+                </article>
+              ))}
             </div>
-            <Link className="btn btn-secondary" href="/articles">Voir tous les articles</Link>
-          </div>
-
-          <div className="blog-category-grid">
-            {categories.map((category, index) => {
-              const icons = [HeartHandshake, Leaf, CalendarHeart, Baby, BookOpenCheck];
-              const Icon = icons[index] ?? Stethoscope;
-              return (
-                <Link
-                  href={`/${category.slug}`}
-                  className="blog-category-card"
-                  key={category.slug}
-                >
-                  <div className={`icon-chip ${index % 2 ? "sage" : ""}`}>
-                    <Icon size={22} />
-                  </div>
-                  <h3>{category.title}</h3>
-                  <p className="muted">{category.description}</p>
-                </Link>
-              );
-            })}
           </div>
         </div>
       </section>
 
-      <section className="section">
+      <section className="section latest-blog-section">
         <div className="container">
-          <div className="section-title-row">
-            <div>
-              <p className="eyebrow">Nouveautés</p>
-              <h2 style={{ marginBottom: 0 }}>Les derniers articles</h2>
-            </div>
+          <div className="latest-heading center">
+            <p className="eyebrow center-eyebrow"><Leaf size={16} /> Les derniers articles</p>
+            <p className="lead">Des contenus récents pour vous informer et vous inspirer au quotidien.</p>
           </div>
 
           <div className="grid-3">
-            {latest.slice(1, 7).map((article) => (
-              <ArticleCard key={article.slug} article={article} />
+            {secondary.map((article) => (
+              <article className="blog-post-card card card-hover" key={article.slug}>
+                <div className={`blog-post-visual ${article.tone || "rose"}`}>
+                  <div className="blog-visual-badge">{article.subcategory || article.category}</div>
+                  <NotebookPen size={34} />
+                </div>
+                <div className="article-card-body">
+                  <h3>{article.title}</h3>
+                  <p className="muted">{article.description}</p>
+                  <Link className="link-arrow" href={`/articles/${article.slug}`}>
+                    Lire l’article <ArrowRight size={17} />
+                  </Link>
+                </div>
+              </article>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="section soft-bg">
-        <div className="container grid-2">
-          <div>
-            <p className="eyebrow">Une information de confiance</p>
-            <h2>Fiable dans le fond, simple dans la forme.</h2>
+      <section className="section soft-bg trust-section">
+        <div className="container trust-grid">
+          <div className="trust-copy">
+            <p className="eyebrow"><Stethoscope size={16} /> Informations claires et vérifiées</p>
+            <h2>Un blog pensé pour rassurer, guider et informer.</h2>
             <p className="lead">
-              Chaque sujet est expliqué avec des mots du quotidien, sans jargon inutile,
-              tout en s’appuyant sur des sources officielles.
+              Les contenus sont rédigés avec des mots simples à partir de sources médicales,
+              institutionnelles et scientifiques reconnues.
             </p>
           </div>
 
-          <div className="card">
+          <div className="trust-panel card">
             <ul className="check-list">
-              <li>Des sources officielles clairement indiquées.</li>
-              <li>Des dates de publication et de mise à jour visibles.</li>
-              <li>Un ton bienveillant, chaleureux et non culpabilisant.</li>
-              <li>Des réponses pratiques aux vraies questions des futurs parents.</li>
+              <li>Des articles construits autour des vraies questions des futurs parents.</li>
+              <li>Une approche chaleureuse, bienveillante et jamais culpabilisante.</li>
+              <li>Des sources officielles visibles à la fin de chaque article.</li>
+              <li>Des repères concrets avant, pendant et après la grossesse.</li>
             </ul>
             <Link className="link-arrow" href="/methode-verification">
               Découvrir notre méthode <ArrowRight size={17} />
@@ -146,14 +191,15 @@ export default function HomePage() {
       </section>
 
       <section className="section">
-        <div className="container banner">
+        <div className="container banner banner-soft-blog">
           <div>
-            <h2 style={{ fontSize: "2.2rem", marginBottom: 10 }}>
+            <p className="eyebrow"><Sparkles size={16} /> Une idée d’article ?</p>
+            <h2 style={{ fontSize: "2.25rem", marginBottom: 10 }}>
               Une question que vous aimeriez voir traitée ?
             </h2>
-            <p>Chaque nouvelle question peut devenir un futur article du blog.</p>
+            <p>Chaque nouveau sujet peut devenir un futur article du blog.</p>
           </div>
-          <Link className="btn btn-secondary" href="/contact">
+          <Link className="btn btn-primary" href="/contact">
             Proposer un sujet <BookOpenCheck size={18} />
           </Link>
         </div>
