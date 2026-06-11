@@ -19,9 +19,9 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container navbar">
-        <Link href="/" className="brand" onClick={() => setOpen(false)}>
+        <Link href="/" className="brand brand-refined" onClick={() => setOpen(false)}>
           <span className="brand-mark">M</span>
-          <span>Maman, Pas à Pas</span>
+          <span className="brand-title">Maman, Pas à Pas</span>
         </Link>
 
         <nav className="nav-links" aria-label="Navigation principale">
