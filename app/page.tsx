@@ -17,20 +17,20 @@ import { articles } from "@/lib/articles";
 
 const steps = [
   {
-    title: "Projet bébé",
-    description: "Se préparer sereinement.",
+    title: "Avant la grossesse",
+    description: "Préparer son projet sereinement.",
     href: "/avant-grossesse",
     Icon: CalendarHeart
   },
   {
     title: "Grossesse",
-    description: "Suivre chaque trimestre.",
+    description: "Vivre chaque trimestre sereinement.",
     href: "/pendant-grossesse",
     Icon: HeartPulse
   },
   {
     title: "Accouchement",
-    description: "Préparer le jour J.",
+    description: "Préparer le jour J sereinement.",
     href: "/accouchement",
     Icon: Baby
   },
@@ -44,8 +44,11 @@ const steps = [
 
 export default function HomePage() {
   const latest = [...articles].sort(
-    (a, b) => new Date(b.updatedAt).getTime() - new Date(a.updatedAt).getTime()
+    (a, b) =>
+      new Date(b.updatedAt).getTime() -
+      new Date(a.updatedAt).getTime()
   );
+
   const featured = latest[0];
 
   return (
@@ -53,26 +56,40 @@ export default function HomePage() {
       <section className="editorial-hero">
         <div className="container editorial-hero-grid">
           <div className="editorial-hero-copy">
-            <p className="eyebrow"><Flower2 size={16} /> À vos côtés, à chaque étape</p>
+            <p className="eyebrow">
+              <Flower2 size={16} />
+              À vos côtés, à chaque étape
+            </p>
+
             <h1>
               Des réponses simples pour vivre la maternité
               <span className="accent-word"> en confiance.</span>
             </h1>
+
             <p className="lead">
-              Des informations fiables, des conseils pratiques et un soutien bienveillant,
-              avant, pendant et après la grossesse.
+              Des informations fiables, des conseils pratiques et un soutien
+              bienveillant, avant, pendant et après la grossesse.
             </p>
+
             <div className="hero-actions">
               <Link className="btn btn-sage" href="/articles">
-                Découvrir les articles <ArrowRight size={18} />
+                Découvrir les articles
+                <ArrowRight size={18} />
               </Link>
-              <Link className="btn btn-secondary" href="/methode-verification">
+
+              <Link
+                className="btn btn-secondary"
+                href="/methode-verification"
+              >
                 Notre méthode
               </Link>
             </div>
+
             <div className="hero-note">
               <ShieldCheck size={20} />
-              <span>Des sources officielles visibles à la fin de chaque article.</span>
+              <span>
+                Des sources officielles visibles à la fin de chaque article.
+              </span>
             </div>
           </div>
 
@@ -90,10 +107,20 @@ export default function HomePage() {
 
       <section className="section-sm">
         <div className="container">
-          <div className="step-strip" aria-label="Parcourir le site par étape">
+          <div
+            className="step-strip"
+            aria-label="Parcourir le site par étape"
+          >
             {steps.map(({ title, description, href, Icon }) => (
-              <Link className="step-strip-card" href={href} key={href}>
-                <div className="step-strip-icon"><Icon size={24} /></div>
+              <Link
+                className="step-strip-card"
+                href={href}
+                key={href}
+              >
+                <div className="step-strip-icon">
+                  <Icon size={24} />
+                </div>
+
                 <div>
                   <h3>{title}</h3>
                   <p>{description}</p>
@@ -115,13 +142,26 @@ export default function HomePage() {
                 sizes="(max-width: 980px) 100vw, 48vw"
               />
             </div>
+
             <div className="editorial-featured-copy">
-              <p className="eyebrow"><Sparkles size={16} /> Article à la une</p>
-              <span className="badge">{featured.subcategory || featured.category}</span>
+              <p className="eyebrow">
+                <Sparkles size={16} />
+                Article à la une
+              </p>
+
+              <span className="badge">
+                {featured.subcategory || featured.category}
+              </span>
+
               <h2>{featured.title}</h2>
               <p className="lead">{featured.description}</p>
-              <Link className="btn btn-primary" href={`/articles/${featured.slug}`}>
-                Lire l’article <ArrowRight size={18} />
+
+              <Link
+                className="btn btn-primary"
+                href={`/articles/${featured.slug}`}
+              >
+                Lire l’article
+                <ArrowRight size={18} />
               </Link>
             </div>
           </div>
@@ -132,10 +172,17 @@ export default function HomePage() {
         <div className="container">
           <div className="section-title-row">
             <div>
-              <p className="eyebrow"><Leaf size={16} /> À lire maintenant</p>
+              <p className="eyebrow">
+                <Leaf size={16} />
+                À lire maintenant
+              </p>
+
               <h2>Les derniers articles</h2>
             </div>
-            <Link className="btn btn-secondary" href="/articles">Voir tous les articles</Link>
+
+            <Link className="btn btn-secondary" href="/articles">
+              Voir tous les articles
+            </Link>
           </div>
 
           <div className="grid-3">
@@ -149,22 +196,40 @@ export default function HomePage() {
       <section className="section soft-bg">
         <div className="container trust-grid">
           <div>
-            <p className="eyebrow"><Stethoscope size={16} /> Informations claires et vérifiées</p>
-            <h2>Un blog doux dans la forme, rigoureux dans le fond.</h2>
+            <p className="eyebrow">
+              <Stethoscope size={16} />
+              Informations claires et vérifiées
+            </p>
+
+            <h2>
+              Un blog doux dans la forme, rigoureux dans le fond.
+            </h2>
+
             <p className="lead">
-              Nous transformons des recommandations médicales et institutionnelles en réponses
-              simples, accessibles et utiles au quotidien.
+              Nous transformons des recommandations médicales et
+              institutionnelles en réponses simples, accessibles et utiles au
+              quotidien.
             </p>
           </div>
+
           <div className="card trust-card">
             <ul className="check-list">
-              <li>Des sources reconnues : HAS, Ameli, OMS, Santé publique France.</li>
+              <li>
+                Des sources reconnues : HAS, Ameli, OMS, Santé publique France.
+              </li>
               <li>Des dates de mise à jour visibles.</li>
               <li>Un ton chaleureux et jamais culpabilisant.</li>
-              <li>Des indications claires pour savoir quand consulter.</li>
+              <li>
+                Des indications claires pour savoir quand consulter.
+              </li>
             </ul>
-            <Link className="link-arrow" href="/methode-verification">
-              Découvrir notre méthode <ArrowRight size={17} />
+
+            <Link
+              className="link-arrow"
+              href="/methode-verification"
+            >
+              Découvrir notre méthode
+              <ArrowRight size={17} />
             </Link>
           </div>
         </div>
@@ -173,14 +238,26 @@ export default function HomePage() {
       <section className="section">
         <div className="container banner editorial-banner">
           <div>
-            <p className="eyebrow"><Sparkles size={16} /> Une question ?</p>
-            <h2 style={{ fontSize: "2.25rem", marginBottom: 10 }}>
+            <p className="eyebrow">
+              <Sparkles size={16} />
+              Une question ?
+            </p>
+
+            <h2
+              style={{
+                fontSize: "2.25rem",
+                marginBottom: 10
+              }}
+            >
               Proposez un sujet pour un prochain article.
             </h2>
+
             <p>Chaque question peut aider d’autres futurs parents.</p>
           </div>
+
           <Link className="btn btn-primary" href="/contact">
-            Nous écrire <BookOpenCheck size={18} />
+            Nous écrire
+            <BookOpenCheck size={18} />
           </Link>
         </div>
       </section>
