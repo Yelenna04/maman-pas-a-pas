@@ -792,3 +792,27 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     padding-top: 8px;
   }
 }
+/* === Cartes de sous-catégories entièrement cliquables === */
+
+.category-card-link {
+  display: block;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+  border-radius: var(--radius);
+}
+
+.category-card-link .card {
+  height: 100%;
+  cursor: pointer;
+}
+
+.category-card-link:focus-visible {
+  outline: 3px solid rgba(168, 180, 155, 0.45);
+  outline-offset: 4px;
+}
+
+.category-card-link:hover .link-arrow,
+.category-card-link:focus-visible .link-arrow {
+  color: var(--rose-dark);
+}
