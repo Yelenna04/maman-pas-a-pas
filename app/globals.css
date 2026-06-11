@@ -882,3 +882,37 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     flex-basis: 46px;
   }
 }
+
+/* === Pages catégories : cadres remontés === */
+
+.category-page-hero {
+  padding-top: 24px;
+  padding-bottom: 8px;
+}
+
+.category-page-hero .breadcrumbs {
+  margin-bottom: 10px;
+}
+
+.category-page-hero h1 {
+  margin-bottom: 8px;
+}
+
+.category-page-content {
+  padding-top: 0;
+}
+
+.category-grid {
+  row-gap: 20px;
+}
+
+@media (max-width: 780px) {
+  .category-page-hero {
+    padding-top: 24px;
+    padding-bottom: 10px;
+  }
+
+  .category-page-content {
+    padding-top: 0;
+  }
+}
