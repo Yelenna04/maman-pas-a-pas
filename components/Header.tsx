@@ -27,13 +27,17 @@ export function Header() {
           onClick={() => setOpen(false)}
         >
           <Image
-            src="/images/logo-maman-pas-a-pas-cadre.png"
-            alt="Maman, Pas à Pas"
-            width={420}
-            height={130}
-            className="site-logo"
+            src="/images/logo-instagram-maman-pas-a-pas.png"
+            alt=""
+            width={80}
+            height={80}
+            className="site-logo-icon"
             priority
           />
+
+          <span className="site-brand-name">
+            Maman, Pas à Pas
+          </span>
         </Link>
 
         <nav className="nav-links" aria-label="Navigation principale">
