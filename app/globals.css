@@ -763,3 +763,32 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     min-height: auto;
   }
 }
+/* === Alignement de la page Articles sur les pages de catégories === */
+
+.articles-page-hero {
+  padding-top: 42px;
+  padding-bottom: 18px;
+}
+
+.articles-page-hero .breadcrumbs {
+  margin-bottom: 14px;
+}
+
+.articles-page-hero h1 {
+  margin-bottom: 12px;
+}
+
+.articles-page-content {
+  padding-top: 10px;
+}
+
+@media (max-width: 780px) {
+  .articles-page-hero {
+    padding-top: 32px;
+    padding-bottom: 14px;
+  }
+
+  .articles-page-content {
+    padding-top: 8px;
+  }
+}
