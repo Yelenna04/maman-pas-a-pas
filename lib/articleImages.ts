@@ -3,6 +3,10 @@ export function getArticleImage(categorySlug: string, slug?: string) {
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "comment-reperer-ovulation-periode-fertile") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
   if (slug === "retour-maison-bebe") {
     return "/images/retour-maison-bebe.png";
   }
