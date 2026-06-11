@@ -3,6 +3,10 @@ export function getArticleImage(categorySlug: string, slug?: string) {
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "retour-maison-bebe") {
+    return "/images/retour-maison-bebe.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
