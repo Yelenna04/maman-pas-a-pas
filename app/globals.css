@@ -916,3 +916,65 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     padding-top: 0;
   }
 }
+
+/* === Accueil : catégories principales légèrement agrandies === */
+
+.step-strip {
+  gap: 18px;
+}
+
+.step-strip-card {
+  min-height: 132px;
+  padding: 24px 22px;
+  gap: 17px;
+  border-radius: 22px;
+}
+
+.step-strip-icon {
+  width: 60px;
+  height: 60px;
+  flex: 0 0 60px;
+}
+
+.step-strip-card h3 {
+  font-size: 1.16rem;
+  margin-bottom: 6px;
+}
+
+.step-strip-card p {
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 980px) {
+  .step-strip-card {
+    min-height: 124px;
+  }
+
+  .step-strip-icon {
+    width: 56px;
+    height: 56px;
+    flex-basis: 56px;
+  }
+}
+
+@media (max-width: 700px) {
+  .step-strip-card {
+    min-height: 112px;
+    padding: 21px 18px;
+  }
+
+  .step-strip-icon {
+    width: 54px;
+    height: 54px;
+    flex-basis: 54px;
+  }
+
+  .step-strip-card h3 {
+    font-size: 1.08rem;
+  }
+
+  .step-strip-card p {
+    font-size: 0.88rem;
+  }
+}
