@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "produits-quotidien-environnement-que-limiter-avant-grossesse": {
+    essentialIcons: [Leaf, ShieldCheck, Sparkles, ClipboardList],
+    cardIcons: [CalendarDays, Leaf, ShieldCheck],
+    cardTitles: ["Aérer", "Simplifier", "Éviter les sprays"]
+  },
   "alcool-projet-bebe-faut-il-arreter-avant-grossesse": {
     essentialIcons: [ShieldCheck, Heart, ClipboardList, Users],
     cardIcons: [ShieldCheck, ClipboardList, Users],
