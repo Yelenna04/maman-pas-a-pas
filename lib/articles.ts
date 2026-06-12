@@ -388,7 +388,7 @@ export const articles: Article[] = [
         title: "Les 3 repères les plus utiles",
         paragraphs: [
           "La fréquence : essayez de bouger plusieurs jours par semaine plutôt que de concentrer tous les efforts sur une seule séance.",
-          "L’intensité : une activité modérée vous fait respirer un peu plus vite tout en vous permettant encore de parler.",
+          "L’intensité : une activité modérée accélère légèrement votre respiration, mais vous devez encore pouvoir parler sans être trop essoufflée.",
           "La variété : associez endurance, renforcement musculaire et mobilité selon vos envies et vos capacités."
         ],
         quote:
