@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "automedication-avant-pendant-grossesse-reflexes") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "vitamine-b9-avant-grossesse-quand-comment-prendre") {
     return "/images/article-a-la-une.png";
   }
