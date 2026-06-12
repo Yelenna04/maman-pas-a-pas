@@ -231,6 +231,112 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "quel-professionnel-consulter-avant-projet-bebe",
+    title: "Quel professionnel consulter avant un projet bébé ?",
+    description:
+      "Médecin généraliste, sage-femme ou gynécologue : comprendre qui peut vous accompagner et comment choisir le bon interlocuteur.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un médecin généraliste, une sage-femme ou un gynécologue peut réaliser une consultation préconceptionnelle.",
+          "Le médecin généraliste est souvent le plus pratique pour faire le point sur votre santé globale et vos traitements.",
+          "La sage-femme peut accompagner un projet bébé et assurer le suivi gynécologique des personnes en bonne santé.",
+          "Le gynécologue est particulièrement utile en cas d’antécédent gynécologique, de douleur, de cycles très irréguliers ou de difficulté à concevoir."
+        ],
+        quote:
+          "Le meilleur professionnel est d’abord celui qui connaît votre situation, vous écoute et peut vous orienter si nécessaire."
+      },
+      {
+        title: "Qui peut accompagner un projet de grossesse ?",
+        paragraphs: [
+          "La consultation préconceptionnelle peut être réalisée par un médecin généraliste, une sage-femme, un gynécologue médical ou un gynécologue-obstétricien.",
+          "Ces professionnels peuvent faire le point sur vos antécédents, vos traitements, vos vaccinations, la vitamine B9, vos habitudes de vie et les éventuels examens utiles.",
+          "Vous n’avez pas besoin de choisir dès maintenant la personne qui suivra toute la grossesse. Un premier rendez-vous peut simplement servir à préparer le projet et à vous orienter."
+        ]
+      },
+      {
+        title: "Les 3 professionnels les plus souvent consultés",
+        paragraphs: [
+          "Le médecin généraliste. Il connaît souvent votre dossier médical, vos maladies chroniques et vos traitements. Il peut coordonner les soins et demander l’avis d’un spécialiste.",
+          "La sage-femme. Elle peut réaliser une consultation préconceptionnelle, assurer le suivi gynécologique de prévention, prescrire certains examens et accompagner ensuite une grossesse physiologique.",
+          "Le gynécologue. Il est particulièrement adapté en cas d’antécédent gynécologique, de douleurs, de saignements inhabituels, de cycles très irréguliers, d’endométriose ou de difficulté à concevoir."
+        ],
+        quote:
+          "Vous pouvez choisir selon votre situation et votre niveau de confiance : il n’existe pas un seul parcours valable pour tout le monde."
+      },
+      {
+        title: "Quand choisir plutôt un médecin généraliste ?",
+        paragraphs: [
+          "Le médecin généraliste est un bon premier interlocuteur si vous souhaitez un bilan global de votre santé.",
+          "Il est particulièrement utile si vous vivez avec une maladie chronique, prenez plusieurs traitements ou devez coordonner différents spécialistes.",
+          "Il peut vérifier vos vaccins, prescrire la vitamine B9, demander des analyses et vous adresser à une sage-femme, un gynécologue ou un autre spécialiste si besoin."
+        ]
+      },
+      {
+        title: "Quand choisir plutôt une sage-femme ?",
+        paragraphs: [
+          "La sage-femme peut accompagner le projet de grossesse, répondre aux questions sur le cycle, la contraception, la sexualité et la préparation à la grossesse.",
+          "Elle peut aussi assurer le suivi gynécologique de prévention chez les personnes en bonne santé, réaliser certains dépistages et prescrire des examens dans le cadre de ses compétences.",
+          "La consulter dès le projet bébé peut permettre de créer une relation de confiance avant un éventuel suivi de grossesse."
+        ]
+      },
+      {
+        title: "Quand choisir plutôt un gynécologue ?",
+        paragraphs: [
+          "Le gynécologue est à privilégier si vous avez une maladie gynécologique connue, des douleurs importantes, des saignements anormaux ou des antécédents de chirurgie gynécologique.",
+          "Il est également utile en cas de cycles absents ou très irréguliers, d’endométriose, de syndrome des ovaires polykystiques, de fausses couches répétées ou de difficulté à concevoir.",
+          "Un gynécologue-obstétricien peut aussi être indiqué lorsqu’une grossesse future nécessite une surveillance spécialisée."
+        ]
+      },
+      {
+        title: "Et pour le ou la partenaire ?",
+        paragraphs: [
+          "Le ou la partenaire peut participer à la consultation préconceptionnelle, notamment pour parler de ses traitements, de ses antécédents, du tabac, de l’alcool ou d’expositions professionnelles.",
+          "Son médecin traitant peut être consulté si un problème de santé ou un traitement doit être évalué.",
+          "En cas de difficulté à concevoir, le bilan concerne généralement les deux partenaires et peut inclure un avis en urologie, andrologie ou médecine de la reproduction."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Médecin généraliste, sage-femme et gynécologue peuvent tous être de bons interlocuteurs avant une grossesse.",
+          "Choisissez selon votre état de santé, vos antécédents, vos besoins et la relation de confiance. Le premier professionnel consulté pourra toujours vous orienter vers un autre si nécessaire."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "1000 premiers jours — Consultation préconceptionnelle",
+        url: "https://www.1000-premiers-jours.fr/fr/consultation-preconceptionnelle"
+      },
+      {
+        label: "Ordre des sages-femmes — Les compétences des sages-femmes",
+        url: "https://www.ordre-sages-femmes.fr/exercice/vos-competences/les-competences-des-sages-femmes/"
+      },
+      {
+        label: "1000 premiers jours — Le suivi médical de grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/le-suivi-medical-de-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Désir de grossesse et endométriose",
+        url: "https://www.ameli.fr/assure/sante/themes/endometriose/desir-de-grossesse-et-endometriose"
+      }
+    ]
+  },
+  {
     slug: "quels-examens-faire-avant-grossesse",
     title: "Quels examens faire avant une grossesse ?",
     description:
