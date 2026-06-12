@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "pma-amp-definition-a-qui-adresse") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "produits-quotidien-environnement-que-limiter-avant-grossesse") {
     return "/images/article-a-la-une.png";
   }
