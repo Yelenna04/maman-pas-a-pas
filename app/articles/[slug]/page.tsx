@@ -13,9 +13,11 @@ import {
   Heart,
   Leaf,
   Lightbulb,
+  MessageCircle,
   Pill,
   ShieldCheck,
   Syringe,
+  Sparkles,
   TestTubeDiagonal,
   Thermometer
 } from "lucide-react";
@@ -708,7 +710,7 @@ function ProjectBabyArticle({
           </section>
         )}
 
-        <div className="project-baby-flow">
+        <div className="project-baby-layout">
           <article className="project-checklist-card">
             <div className="project-card-heading">
               <ClipboardList size={24} />
@@ -725,7 +727,7 @@ function ProjectBabyArticle({
             </ul>
           </article>
 
-          <div className="project-info-grid">
+          <aside className="project-baby-side">
             {startHere && (
               <section className="project-start-card">
                 <div className="project-card-heading">
@@ -754,18 +756,202 @@ function ProjectBabyArticle({
                 ))}
               </section>
             )}
+          </aside>
+        </div>
+
+        <div className="project-details-grid">
+          {b9 && (
+            <section className="compact-section">
+              <h2>
+                <span>1</span>
+                {b9.title}
+              </h2>
+              {b9.paragraphs?.map((paragraph) => (
+                <p key={paragraph}>{renderRichText(paragraph)}</p>
+              ))}
+            </section>
+          )}
+
+          {takeaway && (
+            <section className="compact-takeaway">
+              <h2>À retenir</h2>
+              {takeaway.paragraphs?.map((paragraph) => (
+                <p key={paragraph}>{renderRichText(paragraph)}</p>
+              ))}
+              {essentials?.quote && (
+                <div className="project-takeaway-note">
+                  {renderRichText(essentials.quote)}
+                </div>
+              )}
+            </section>
+          )}
+        </div>
+
+        <section className="compact-source-box">
+          <h2>Sources consultées</h2>
+          <ul>
+            {article.sources.map((source) => (
+              <li key={source.label}>
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  {source.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+    </main>
+  );
+}
+
+
+function EmotionalProjectArticle({
+  article
+}: {
+  article: NonNullable<ReturnType<typeof getArticle>>;
+}) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const emotions = article.sections.find(
+    (section) => section.title === "Accueillir ses émotions sans les juger"
+  );
+  const markers = article.sections.find(
+    (section) => section.title === "Les 3 repères les plus utiles"
+  );
+  const pressure = article.sections.find(
+    (section) => section.title === "Comment alléger la pression au quotidien ?"
+  );
+  const waiting = article.sections.find(
+    (section) => section.title === "Et si une grossesse tarde à arriver ?"
+  );
+  const help = article.sections.find(
+    (section) => section.title === "Quand demander de l’aide ?"
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+
+  const essentialIcons = [Heart, Sparkles, Lightbulb, ShieldCheck];
+  const markerIcons = [Heart, CalendarDays, MessageCircle];
+
+  return (
+    <main className="compact-article">
+      <div className="article-shell">
+        <section className="compact-article-hero">
+          <div className="compact-hero-copy">
+            <div className="breadcrumbs compact-breadcrumbs">
+              <Link href="/">Accueil</Link>
+              <span>›</span>
+              <Link href={`/${article.categorySlug}`}>
+                {article.category}
+              </Link>
+              <span>›</span>
+              <span>{article.subcategory}</span>
+            </div>
+
+            <h1>{article.title}</h1>
+            <p className="lead">{article.description}</p>
+
+            <div className="verified-pill">
+              <ShieldCheck size={18} />
+              Informations vérifiées
+            </div>
           </div>
 
-          <div className="project-details-grid project-details-grid-visible">
-            {b9 && (
+          <div className="compact-hero-photo">
+            <Image
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 900px) 100vw, 43vw"
+            />
+          </div>
+        </section>
+
+        {essentials?.bullets && (
+          <section className="compact-essentials">
+            <h2>L’essentiel en 30 secondes</h2>
+            <div className="essential-grid">
+              {essentials.bullets.slice(0, 4).map((bullet, index) => {
+                const Icon = essentialIcons[index];
+                return (
+                  <div className="essential-card" key={bullet}>
+                    <span className="essential-icon">
+                      <Icon size={23} />
+                    </span>
+                    <p>{renderRichText(bullet)}</p>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <div className="compact-article-grid">
+          <article className="compact-main-column">
+            {emotions && (
               <section className="compact-section">
                 <h2>
                   <span>1</span>
-                  {b9.title}
+                  {emotions.title}
                 </h2>
-                {b9.paragraphs?.map((paragraph) => (
+                {emotions.paragraphs?.map((paragraph) => (
                   <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
+                {essentials?.quote && (
+                  <div className="compact-note rose-note">
+                    <strong>Bon à savoir</strong>
+                    <p>{renderRichText(essentials.quote)}</p>
+                  </div>
+                )}
+              </section>
+            )}
+
+            {markers && (
+              <section className="compact-section">
+                <h2>
+                  <span>2</span>
+                  {markers.title}
+                </h2>
+                <div className="sign-grid">
+                  {markers.paragraphs?.slice(0, 3).map((paragraph, index) => {
+                    const Icon = markerIcons[index];
+                    const titles = [
+                      "Clarifier ses attentes",
+                      "Choisir ses priorités",
+                      "Identifier ses soutiens"
+                    ];
+
+                    return (
+                      <div className="sign-card" key={paragraph}>
+                        <span className="sign-icon">
+                          <Icon size={25} />
+                        </span>
+                        <h3>{index + 1}. {titles[index]}</h3>
+                        <p>{renderRichText(paragraph)}</p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            )}
+
+            {help && (
+              <section className="compact-section medical-section">
+                <h2>
+                  <span>3</span>
+                  {help.title}
+                </h2>
+                <div className="medical-list">
+                  {help.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>
+                      <Check size={18} />
+                      <span>{renderRichText(paragraph)}</span>
+                    </p>
+                  ))}
+                </div>
               </section>
             )}
 
@@ -775,14 +961,47 @@ function ProjectBabyArticle({
                 {takeaway.paragraphs?.map((paragraph) => (
                   <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
-                {essentials?.quote && (
-                  <div className="project-takeaway-note">
-                    {renderRichText(essentials.quote)}
-                  </div>
-                )}
               </section>
             )}
-          </div>
+          </article>
+
+          <aside className="compact-side-column">
+            <section className="learn-more-box">
+              <h2>En savoir plus</h2>
+
+              {pressure && (
+                <details>
+                  <summary>
+                    Alléger la pression au quotidien
+                    <ChevronDown size={18} />
+                  </summary>
+                  {pressure.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+
+              {waiting && (
+                <details>
+                  <summary>
+                    Si une grossesse tarde à arriver
+                    <ChevronDown size={18} />
+                  </summary>
+                  {waiting.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+            </section>
+
+            {markers?.quote && (
+              <section className="simple-advice-box">
+                <Lightbulb size={25} />
+                <h2>Le conseil le plus simple</h2>
+                <p>{renderRichText(markers.quote)}</p>
+              </section>
+            )}
+          </aside>
         </div>
 
         <section className="compact-source-box">
@@ -818,6 +1037,10 @@ export default async function ArticlePage({ params }: Props) {
 
   if (article.slug === "que-faire-avant-essayer-avoir-bebe") {
     return <ProjectBabyArticle article={article} />;
+  }
+
+  if (article.slug === "se-preparer-emotionnellement-projet-bebe") {
+    return <EmotionalProjectArticle article={article} />;
   }
 
   return <StandardArticle article={article} />;
