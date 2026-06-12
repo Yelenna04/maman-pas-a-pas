@@ -1556,3 +1556,26 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     font-size: 1.3rem;
   }
 }
+
+/* === Correction du grand espace sous la checklist === */
+/* === Correction du grand espace sous la checklist === */
+
+.project-baby-main {
+  display: grid;
+  gap: 28px;
+  align-content: start;
+}
+
+.project-baby-side {
+  align-content: start;
+}
+
+.project-details-grid {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .project-baby-main {
+    gap: 20px;
+  }
+}
