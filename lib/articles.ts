@@ -231,6 +231,173 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "comment-se-deroule-fiv-etape-par-etape",
+    title: "Comment se déroule une FIV, étape par étape ?",
+    description:
+      "De la stimulation ovarienne au test de grossesse, comprendre les principales étapes d’une fécondation in vitro.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "7 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une FIV commence généralement par une stimulation des ovaires avec des injections hormonales.",
+          "Les follicules sont surveillés par échographies et prises de sang avant la ponction des ovocytes.",
+          "Les ovocytes et les spermatozoïdes sont mis en fécondation au laboratoire, puis les embryons sont observés pendant plusieurs jours.",
+          "Un embryon peut ensuite être transféré dans l’utérus, avant un test de grossesse environ deux semaines plus tard."
+        ],
+        quote:
+          "Le calendrier peut changer en fonction de la réponse des ovaires et du développement des embryons : chaque tentative est adaptée au fur et à mesure."
+      },
+      {
+        title: "Avant de commencer : le bilan et la préparation",
+        paragraphs: [
+          "Avant une FIV, l’équipe reprend les antécédents médicaux et les examens déjà réalisés afin de confirmer l’indication et de choisir le protocole.",
+          "Des prises de sang, une échographie ovarienne, un spermogramme et d’autres examens peuvent être demandés selon la situation.",
+          "Le centre explique les traitements, les risques, les chances de réussite, les consentements nécessaires et l’organisation pratique de la tentative."
+        ]
+      },
+      {
+        title: "Les 3 grandes phases d’une FIV",
+        paragraphs: [
+          "La stimulation et la surveillance : des injections hormonales font mûrir plusieurs follicules, contrôlés par échographies et dosages sanguins.",
+          "La ponction et la fécondation : les ovocytes sont prélevés, puis mis en contact avec les spermatozoïdes en FIV classique ou injectés en ICSI.",
+          "La culture et le transfert : les embryons se développent au laboratoire pendant quelques jours avant le transfert d’un embryon ou une congélation."
+        ],
+        quote:
+          "Une tentative de FIV comprend plusieurs étapes, mais toutes ne se déroulent pas forcément au même rythme ni jusqu’au transfert."
+      },
+      {
+        title: "Étape 1 : la stimulation ovarienne",
+        paragraphs: [
+          "La stimulation vise à faire mûrir plusieurs follicules au lieu d’un seul. Elle repose généralement sur des injections hormonales quotidiennes.",
+          "Selon le protocole, un autre traitement peut être ajouté pour éviter une ovulation trop précoce.",
+          "La stimulation dure souvent une dizaine de jours, mais elle peut être plus courte ou plus longue selon la réponse des ovaires."
+        ]
+      },
+      {
+        title: "Étape 2 : la surveillance du traitement",
+        paragraphs: [
+          "Des échographies vaginales mesurent le nombre et la taille des follicules.",
+          "Des prises de sang peuvent suivre les taux hormonaux et aider à ajuster les doses.",
+          "Les rendez-vous deviennent parfois rapprochés en fin de stimulation, car la date de ponction dépend de la maturation des follicules."
+        ]
+      },
+      {
+        title: "Étape 3 : le déclenchement de l’ovulation",
+        paragraphs: [
+          "Lorsque les follicules sont prêts, une injection déclenche la maturation finale des ovocytes.",
+          "Cette injection doit être réalisée à l’heure indiquée, car la ponction est programmée environ 34 à 36 heures plus tard selon le protocole.",
+          "Le centre donne des consignes précises : en cas d’oubli ou de retard, il faut le prévenir rapidement."
+        ]
+      },
+      {
+        title: "Étape 4 : la ponction des ovocytes",
+        paragraphs: [
+          "La ponction est réalisée par voie vaginale sous contrôle échographique, généralement lors d’une hospitalisation de jour.",
+          "Une aiguille fine traverse la paroi vaginale pour aspirer le liquide des follicules et récupérer les ovocytes.",
+          "L’anesthésie peut être locale, générale ou associée à une sédation selon le centre et la situation.",
+          "Le geste dure souvent une dizaine à une vingtaine de minutes, puis une surveillance est prévue avant le retour à domicile."
+        ]
+      },
+      {
+        title: "Étape 5 : le recueil et la préparation des spermatozoïdes",
+        paragraphs: [
+          "Le sperme du partenaire est généralement recueilli le jour de la ponction, sauf si un échantillon congelé ou un don est utilisé.",
+          "Le laboratoire prépare l’échantillon afin de sélectionner les spermatozoïdes les plus mobiles.",
+          "En cas de difficulté de recueil ou d’antécédent particulier, une congélation préalable peut être discutée avec l’équipe."
+        ]
+      },
+      {
+        title: "Étape 6 : la fécondation au laboratoire",
+        paragraphs: [
+          "En FIV classique, les ovocytes sont placés avec plusieurs spermatozoïdes afin que la fécondation se produise au laboratoire.",
+          "En ICSI, un spermatozoïde est injecté directement dans chaque ovocyte mature.",
+          "Le lendemain, les biologistes vérifient quels ovocytes ont été fécondés. Tous les ovocytes recueillis ne sont pas forcément matures ou fécondés."
+        ]
+      },
+      {
+        title: "Étape 7 : la culture des embryons",
+        paragraphs: [
+          "Les embryons sont conservés dans des incubateurs et observés pendant plusieurs jours.",
+          "Le transfert peut être envisagé entre le deuxième et le sixième jour de développement, selon le nombre et l’évolution des embryons ainsi que la stratégie du centre.",
+          "Certains embryons peuvent cesser de se développer. Les embryons de qualité suffisante non transférés peuvent être congelés pour une utilisation ultérieure."
+        ]
+      },
+      {
+        title: "Étape 8 : le transfert embryonnaire",
+        paragraphs: [
+          "Le transfert consiste à déposer un embryon dans l’utérus à l’aide d’un cathéter fin introduit par le col.",
+          "Le geste est généralement rapide, sans anesthésie, et ressemble à un examen gynécologique.",
+          "Le transfert d’un seul embryon est souvent privilégié pour limiter le risque de grossesse multiple.",
+          "Dans certaines situations, aucun transfert frais n’est réalisé et tous les embryons sont congelés pour un transfert ultérieur."
+        ]
+      },
+      {
+        title: "Étape 9 : l’attente et le test de grossesse",
+        paragraphs: [
+          "Un traitement par progestérone peut être prescrit après la ponction ou le transfert.",
+          "Le test de grossesse est réalisé par prise de sang à la date indiquée par le centre, généralement environ 12 à 14 jours après le transfert.",
+          "Les symptômes ressentis pendant l’attente ne permettent pas de savoir si la tentative a réussi, car ils peuvent aussi être liés aux hormones.",
+          "N’arrêtez pas le traitement avant les consignes du centre, même en cas de petit saignement."
+        ]
+      },
+      {
+        title: "Pourquoi une tentative peut-elle être interrompue ?",
+        paragraphs: [
+          "Le cycle peut être annulé si les ovaires répondent trop peu ou trop fortement à la stimulation.",
+          "Il peut arriver qu’aucun ovocyte ne soit recueilli, qu’aucun ovocyte ne soit fécondé ou qu’aucun embryon ne poursuive son développement.",
+          "Le transfert peut aussi être reporté pour protéger la santé de la patiente, notamment en cas de risque d’hyperstimulation, ou si l’endomètre n’est pas favorable.",
+          "L’équipe analyse alors la tentative afin d’expliquer la situation et de discuter d’un éventuel ajustement."
+        ]
+      },
+      {
+        title: "Quels effets secondaires doivent alerter ?",
+        paragraphs: [
+          "Une gêne abdominale, des ballonnements, de la fatigue ou de légers saignements peuvent survenir après la stimulation ou la ponction.",
+          "Contactez rapidement le centre en cas de douleurs importantes, ventre très gonflé, essoufflement, vomissements, prise de poids rapide, saignements abondants, fièvre ou malaise.",
+          "Ces symptômes peuvent notamment évoquer une complication de la ponction ou un syndrome d’hyperstimulation ovarienne."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une FIV se déroule en plusieurs étapes : bilan, stimulation, surveillance, déclenchement, ponction, fécondation, culture embryonnaire, transfert puis test de grossesse.",
+          "Le parcours est ajusté en fonction de la réponse des ovaires et des embryons. Une tentative peut ne pas aller jusqu’au transfert sans que cela signifie que tout le parcours est terminé.",
+          "Gardez les coordonnées du centre et suivez ses consignes, car les horaires des injections et des rendez-vous sont importants."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Techniques d’AMP : insémination artificielle, FIV, accueil d’embryon",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp/techniques-procreation-medicalement-assistee-pma"
+      },
+      {
+        label: "Agence de la biomédecine — Quelles sont les différentes techniques d’AMP ?",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-techniques-d-amp-pour-les-personnes-qui-ont-un-projet-parental"
+      },
+      {
+        label: "Agence de la biomédecine — Guide de l’assistance médicale à la procréation",
+        url: "https://www.agence-biomedecine.fr/IMG/pdf/bd_biom24-5_maj_broch_patients_amp_a5_40p_pap.pdf"
+      },
+      {
+        label: "Agence de la biomédecine — Les différentes étapes des parcours d’AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-etapes-des-parcours-d-assistance-medicale-a-la-procreation"
+      },
+      {
+        label: "Assurance Maladie — Prise en charge de l’assistance médicale à la procréation",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/assistance-medicale-la-procreation-amp/prise-en-charge-de-l-assistance-medicale-la-procreation-amp"
+      }
+    ]
+  },
+  {
     slug: "fiv-classique-icsi-quelles-differences",
     title: "FIV classique et ICSI : quelles différences ?",
     description:
