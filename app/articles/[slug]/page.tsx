@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "antecedents-medicaux-que-signaler-avant-grossesse": {
+    essentialIcons: [ShieldCheck, ClipboardList, Users, Heart],
+    cardIcons: [ShieldCheck, Heart, Users],
+    cardTitles: ["Santé et opérations", "Grossesses précédentes", "Antécédents familiaux"]
+  },
   "quand-faire-bilan-fertilite": {
     essentialIcons: [CalendarDays, CalendarDays, ShieldCheck, Users],
     cardIcons: [CalendarDays, ClipboardList, Users],
