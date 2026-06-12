@@ -14,6 +14,14 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "combien-temps-moyenne-tomber-enceinte") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
+  if (slug === "tests-ovulation-utiliser-interpreter") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
   if (slug === "cycles-irreguliers-mieux-comprendre") {
     return "/images/article-ovulation-periode-fertile.png";
   }
