@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "alcool-projet-bebe-faut-il-arreter-avant-grossesse": {
+    essentialIcons: [ShieldCheck, Heart, ClipboardList, Users],
+    cardIcons: [ShieldCheck, ClipboardList, Users],
+    cardTitles: ["Zéro verre", "Tous les alcools", "Soutien du partenaire"]
+  },
   "tabac-projet-grossesse-pourquoi-comment-arreter": {
     essentialIcons: [ShieldCheck, Heart, ClipboardList, Users],
     cardIcons: [CalendarDays, Sparkles, ShieldCheck],
