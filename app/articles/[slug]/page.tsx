@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "cycles-irreguliers-mieux-comprendre": {
+    essentialIcons: [CalendarDays, CalendarDays, Sparkles, ClipboardList],
+    cardIcons: [CalendarDays, ClipboardList, Sparkles],
+    cardTitles: ["Noter les dates", "Observer les symptômes", "Repérer les changements"]
+  },
   "comment-reperer-ovulation-periode-fertile": {
     essentialIcons: [CalendarDays, Droplets, TestTubeDiagonal, Thermometer],
     cardIcons: [Droplets, TestTubeDiagonal, Thermometer],
