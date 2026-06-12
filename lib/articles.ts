@@ -499,11 +499,8 @@ export const articles: Article[] = [
         paragraphs: [
           "Le pharmacien peut vérifier un produit sans ordonnance, repérer les doublons et vous orienter si une consultation est nécessaire.",
           "Le médecin ou la sage-femme peut évaluer vos symptômes et choisir un traitement compatible avec votre situation.",
-          "Vous pouvez aussi consulter le site du CRAT, le Centre de référence sur les agents tératogènes. En recherchant le nom de la substance active d’un médicament, vous trouverez des informations de référence sur son utilisation pendant la grossesse et l’allaitement.",
-          "Le CRAT aide à s’informer, mais il ne remplace pas l’avis d’un professionnel qui connaît votre état de santé, vos autres traitements et le stade de la grossesse."
-        ],
-        quote:
-          "Pour vérifier un médicament, recherchez sa substance active sur le site du CRAT, puis confirmez la conduite à tenir avec un médecin, une sage-femme ou un pharmacien."
+          "Vous pouvez aussi consulter le site du CRAT, le Centre de référence sur les agents tératogènes. En recherchant le nom de la substance active d’un médicament, vous trouverez des informations de référence sur son utilisation pendant la grossesse et l’allaitement."
+        ]
       },
       {
         title: "À retenir",
