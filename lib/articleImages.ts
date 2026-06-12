@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "antecedents-medicaux-que-signaler-avant-grossesse") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "quand-faire-bilan-fertilite") {
     return "/images/article-a-la-une.png";
   }
