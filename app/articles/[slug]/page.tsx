@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "sante-partenaire-points-verifier-avant-grossesse": {
+    essentialIcons: [Users, ShieldCheck, Heart, ClipboardList],
+    cardIcons: [ShieldCheck, ClipboardList, Heart],
+    cardTitles: ["Antécédents", "Traitements", "Habitudes et expositions"]
+  },
   "antecedents-medicaux-que-signaler-avant-grossesse": {
     essentialIcons: [ShieldCheck, ClipboardList, Users, Heart],
     cardIcons: [ShieldCheck, Heart, Users],
