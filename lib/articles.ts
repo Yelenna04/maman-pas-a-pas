@@ -231,6 +231,127 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "sante-partenaire-points-verifier-avant-grossesse",
+    title: "Santé du partenaire : quels points vérifier avant une grossesse ?",
+    description:
+      "Les principaux éléments à vérifier du côté du partenaire pour préparer le projet bébé et repérer les situations qui méritent un avis médical.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La santé du partenaire compte autant que celle de la personne qui portera la grossesse.",
+          "Les traitements, les antécédents testiculaires, les infections et les habitudes de vie peuvent influencer la fertilité.",
+          "Le tabac, l’alcool excessif, certains produits toxiques et les stéroïdes anabolisants peuvent altérer la qualité du sperme.",
+          "En cas d’antécédent ou de doute, un médecin peut proposer un examen et, si besoin, un spermogramme."
+        ],
+        quote:
+          "Un projet de grossesse se prépare à deux : le bilan ne doit pas reposer uniquement sur la personne qui portera la grossesse."
+      },
+      {
+        title: "Pourquoi vérifier aussi la santé du partenaire ?",
+        paragraphs: [
+          "Les difficultés à concevoir peuvent être liées à la femme, à l’homme, aux deux partenaires ou rester sans cause clairement identifiée.",
+          "Chez l’homme, la fertilité dépend notamment de la production des spermatozoïdes, de leur mobilité, de leur forme et du bon fonctionnement des voies génitales.",
+          "Faire le point tôt permet de repérer un facteur modifiable, d’adapter un traitement ou d’orienter rapidement vers un spécialiste si nécessaire."
+        ]
+      },
+      {
+        title: "Les 3 points à vérifier en priorité",
+        paragraphs: [
+          "Les antécédents médicaux et testiculaires : testicule non descendu, torsion, traumatisme, infection, varicocèle, opération, cancer, chimiothérapie ou radiothérapie.",
+          "Les médicaments et produits utilisés : traitements sur ordonnance, compléments, drogues, testostérone ou stéroïdes anabolisants peuvent parfois réduire la production de spermatozoïdes.",
+          "Les habitudes de vie et les expositions : tabac, alcool excessif, surpoids, chaleur importante, solvants, pesticides ou autres produits toxiques peuvent influencer la qualité du sperme."
+        ],
+        quote:
+          "Il ne faut jamais arrêter seul un traitement : le médecin peut évaluer son effet sur la fertilité et proposer une alternative si nécessaire."
+      },
+      {
+        title: "Quels antécédents faut-il signaler ?",
+        paragraphs: [
+          "Il est utile de parler de toute maladie chronique, opération, hospitalisation ou traitement lourd, même ancien.",
+          "Les antécédents de testicule non descendu, d’infection génitale, d’oreillons compliqués, de torsion testiculaire, de traumatisme ou de chirurgie urologique sont particulièrement importants.",
+          "Une baisse de libido, des troubles de l’érection ou de l’éjaculation doivent aussi être signalés, car ils peuvent rendre les rapports plus difficiles ou révéler un problème de santé."
+        ]
+      },
+      {
+        title: "Quelles habitudes peuvent influencer la fertilité ?",
+        paragraphs: [
+          "Le tabac peut réduire la qualité du sperme. Une consommation excessive d’alcool, l’obésité et certaines drogues peuvent également affecter la fertilité.",
+          "Les stéroïdes anabolisants et la testostérone prise sans indication peuvent diminuer fortement la production naturelle de spermatozoïdes.",
+          "Des expositions répétées à une forte chaleur ou à certains produits chimiques au travail peuvent aussi jouer un rôle. Il est utile d’en parler au médecin du travail ou au médecin traitant."
+        ]
+      },
+      {
+        title: "Faut-il modifier ses habitudes avant les essais ?",
+        paragraphs: [
+          "Arrêter le tabac, limiter l’alcool, éviter les drogues et maintenir un poids adapté sont des mesures favorables à la santé générale et reproductive.",
+          "Une activité physique régulière, un sommeil suffisant et une alimentation variée peuvent également soutenir la santé du partenaire.",
+          "La fabrication des spermatozoïdes prend plusieurs semaines. Les changements d’habitudes ne produisent donc pas un effet immédiat, mais restent utiles sur la durée."
+        ],
+        bullets: [
+          "Demander de l’aide pour arrêter le tabac si nécessaire.",
+          "Éviter les stéroïdes anabolisants et les produits non prescrits.",
+          "Limiter les expositions professionnelles à risque.",
+          "Parler des médicaments et compléments avec un médecin.",
+          "Consulter en cas de douleur, masse ou gonflement testiculaire."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter ?",
+        paragraphs: [
+          "Un rendez-vous est conseillé avant les essais en cas d’antécédent testiculaire, de cancer, de chimiothérapie, de radiothérapie, de chirurgie pelvienne ou de maladie génétique.",
+          "Il faut aussi consulter en cas de douleur, de masse, de gonflement, de problème sexuel persistant ou de traitement susceptible d’affecter la fertilité.",
+          "En cas d’absence de grossesse après les délais habituels, le bilan doit concerner les deux partenaires dès le départ."
+        ]
+      },
+      {
+        title: "Quels examens peuvent être proposés ?",
+        paragraphs: [
+          "Le médecin commence par un entretien et un examen clinique, puis recherche les facteurs médicaux, sexuels, professionnels et liés au mode de vie.",
+          "Le spermogramme est l’examen de référence pour analyser le volume de sperme, le nombre de spermatozoïdes, leur mobilité et leur forme.",
+          "Selon les résultats, des dosages hormonaux, une échographie, des examens génétiques ou un avis en urologie ou en andrologie peuvent être proposés."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La santé du partenaire fait pleinement partie de la préparation à une grossesse. Les antécédents, les traitements et les habitudes de vie peuvent apporter des informations utiles.",
+          "Un avis médical est recommandé en présence d’un facteur de risque ou d’un symptôme. Si un bilan de fertilité devient nécessaire, il doit être réalisé pour les deux partenaires."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Bilan médical de l’infertilité",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/bilan-medical-infertilite-sterilite"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Infertility",
+        url: "https://www.who.int/news-room/fact-sheets/detail/infertility"
+      },
+      {
+        label: "NHS — Infertility",
+        url: "https://www.nhs.uk/conditions/infertility/"
+      },
+      {
+        label: "ASRM — Diagnosis and treatment of infertility in men",
+        url: "https://www.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-auaasrm-guideline-part-i-2020/"
+      },
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      }
+    ]
+  },
+  {
     slug: "antecedents-medicaux-que-signaler-avant-grossesse",
     title: "Antécédents médicaux : que faut-il signaler avant une grossesse ?",
     description:
