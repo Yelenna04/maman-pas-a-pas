@@ -250,7 +250,7 @@ export const articles: Article[] = [
           "Une FIV commence généralement par une stimulation des ovaires avec des injections hormonales.",
           "Les follicules sont surveillés par échographies et prises de sang avant la ponction des ovocytes.",
           "Les ovocytes et les spermatozoïdes sont mis en fécondation au laboratoire, puis les embryons sont observés pendant plusieurs jours.",
-          "Un embryon peut ensuite être transféré dans l’utérus, avant un test de grossesse environ deux semaines plus tard."
+          "Un embryon peut ensuite être transféré dans l’utérus. Le test de grossesse est généralement réalisé environ deux semaines plus tard."
         ],
         quote:
           "Le calendrier peut changer en fonction de la réponse des ovaires et du développement des embryons : chaque tentative est adaptée au fur et à mesure."
