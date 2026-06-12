@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "apres-arret-contraception-quand-cycle-revient": {
+    essentialIcons: [CalendarDays, ShieldCheck, CalendarDays, Thermometer],
+    cardIcons: [CalendarDays, ShieldCheck, Thermometer],
+    cardTitles: ["Pilule, patch, anneau", "Implant ou stérilet", "Injection"]
+  },
   "combien-temps-moyenne-tomber-enceinte": {
     essentialIcons: [CalendarDays, Heart, Users, ShieldCheck],
     cardIcons: [CalendarDays, Heart, ShieldCheck],
