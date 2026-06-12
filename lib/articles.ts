@@ -231,6 +231,112 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "tests-ovulation-utiliser-interpreter",
+    title: "Tests d’ovulation : comment les utiliser et les interpréter ?",
+    description:
+      "Un guide simple pour choisir le bon moment, lire le résultat et comprendre les limites des tests d’ovulation.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Fertilité et cycle",
+    subcategorySlug: "fertilite-cycle",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le test recherche dans les urines une hausse de l’hormone LH qui précède généralement l’ovulation.",
+          "Un résultat positif indique que l’ovulation est probablement proche, souvent dans les 24 à 48 heures.",
+          "Le jour de début et l’heure du test dépendent du produit : suivez toujours sa notice.",
+          "Un test positif ne prouve pas à lui seul qu’une ovulation a réellement eu lieu."
+        ],
+        quote:
+          "Le test d’ovulation donne un repère utile, mais il doit être interprété avec votre cycle et les instructions du fabricant."
+      },
+      {
+        title: "Comment fonctionne un test d’ovulation ?",
+        paragraphs: [
+          "La plupart des tests d’ovulation urinaires détectent une augmentation de l’hormone lutéinisante, appelée LH. Cette hausse, ou « pic de LH », déclenche normalement la libération d’un ovocyte.",
+          "Lorsque le test devient positif, l’ovulation est généralement attendue dans les 24 à 48 heures suivantes. Cette estimation n’est pas une garantie : le test repère une variation hormonale, pas la libération de l’ovocyte elle-même.",
+          "Certains tests numériques suivent aussi une hausse des œstrogènes afin d’indiquer plusieurs jours de fertilité élevée. Leur fonctionnement et leurs symboles varient selon les marques."
+        ]
+      },
+      {
+        title: "Les 3 étapes pour bien l’utiliser",
+        paragraphs: [
+          "Déterminez le jour où commencer à tester. La notice propose généralement un tableau basé sur la durée habituelle de votre cycle. Avec des cycles irréguliers, il peut être nécessaire de commencer plus tôt ou de demander conseil.",
+          "Testez dans des conditions comparables. Utilisez le test à l’heure recommandée par la notice, évitez de boire beaucoup juste avant et essayez de tester à une heure proche chaque jour.",
+          "Respectez le délai de lecture. Lisez le résultat uniquement dans la fenêtre de temps indiquée et ne réutilisez pas une bandelette. Un résultat lu trop tard peut être trompeur."
+        ],
+        quote:
+          "La notice de votre marque reste la référence : tous les tests ne s’utilisent pas exactement de la même manière."
+      },
+      {
+        title: "Comment lire le résultat ?",
+        paragraphs: [
+          "Sur un test à bandelettes, le résultat est généralement positif lorsque la ligne test est aussi foncée ou plus foncée que la ligne témoin. Une ligne test plus pâle correspond habituellement à un résultat négatif.",
+          "Sur un test numérique, un symbole indique le résultat. La signification des symboles et la durée pendant laquelle ils restent affichés dépendent du fabricant.",
+          "Un test positif suggère que les rapports le jour même et dans les jours proches peuvent couvrir la période fertile. Des rapports réguliers tous les deux ou trois jours restent une alternative simple si les tests deviennent contraignants."
+        ]
+      },
+      {
+        title: "Que signifie un test négatif ?",
+        paragraphs: [
+          "Un résultat négatif signifie qu’aucun pic de LH n’a été détecté au moment du test. Cela ne signifie pas forcément que vous n’ovulerez pas.",
+          "Le test a pu être commencé trop tôt ou trop tard, le pic peut être bref, l’urine peut avoir été trop diluée ou l’ovulation peut être décalée ce mois-ci.",
+          "Continuez à tester selon la notice. Si vous n’obtenez jamais de résultat positif pendant plusieurs cycles, ou si vos règles sont très irrégulières ou absentes, parlez-en à un professionnel de santé."
+        ]
+      },
+      {
+        title: "Dans quelles situations le résultat peut-il être trompeur ?",
+        paragraphs: [
+          "Un test peut détecter une hausse de LH sans qu’une ovulation ait ensuite lieu. À l’inverse, un pic très court peut être manqué entre deux tests.",
+          "Le syndrome des ovaires polykystiques peut entraîner des taux de LH élevés ou plusieurs variations au cours du cycle, ce qui rend parfois l’interprétation plus difficile.",
+          "Une grossesse, la période qui suit une grossesse, la périménopause et certains traitements de fertilité peuvent aussi modifier les résultats. Demandez conseil si vous êtes dans l’une de ces situations."
+        ]
+      },
+      {
+        title: "Quand demander un avis médical ?",
+        paragraphs: [
+          "Demandez conseil si vous n’obtenez jamais de test positif pendant plusieurs cycles, si vos règles sont absentes ou très irrégulières, ou si l’utilisation des tests vous inquiète.",
+          "Consultez également si vous prenez un traitement de fertilité : certains médicaments peuvent influencer le résultat et le calendrier des tests.",
+          "Le test d’ovulation ne remplace pas un bilan médical. Si les essais se prolongent ou si vous avez des antécédents gynécologiques, un professionnel pourra vérifier si l’ovulation a lieu et rechercher d’autres facteurs."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le test d’ovulation peut aider à repérer le pic de LH et à situer les jours proches de l’ovulation. Pour être utile, il doit être commencé au bon moment, utilisé selon la notice et lu dans le délai prévu.",
+          "Un résultat positif annonce une ovulation probable, mais ne la confirme pas. Un résultat négatif isolé ne permet pas non plus de conclure que vous n’ovulez pas."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "ACOG — Evaluating Infertility",
+        url: "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+      },
+      {
+        label: "ACOG — Fertility Awareness-Based Methods of Family Planning",
+        url: "https://www.acog.org/womens-health/faqs/fertility-awareness-based-methods-of-family-planning"
+      },
+      {
+        label: "Mayo Clinic — Ovulation signs: When is conception most likely?",
+        url: "https://www.mayoclinic.org/healthy-lifestyle/getting-pregnant/expert-answers/ovulation-signs/faq-20058000"
+      },
+      {
+        label: "Mayo Clinic — Finding your fertility window",
+        url: "https://mcpress.mayoclinic.org/pregnancy/finding-your-fertility-window/"
+      },
+      {
+        label: "Assurance Maladie — Comprendre le syndrome des ovaires polykystiques",
+        url: "https://www.ameli.fr/assure/sante/themes/syndrome-ovaires-polykystiques/comprendre"
+      }
+    ]
+  },
+  {
     slug: "cycles-irreguliers-mieux-comprendre",
     title: "Cycles irréguliers : comment mieux les comprendre ?",
     description:
