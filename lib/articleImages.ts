@@ -6,6 +6,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "se-preparer-emotionnellement-projet-bebe") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "comment-reperer-ovulation-periode-fertile") {
     return "/images/article-ovulation-periode-fertile.png";
   }
