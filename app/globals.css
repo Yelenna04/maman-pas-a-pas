@@ -1579,3 +1579,74 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     gap: 20px;
   }
 }
+
+/* === Correction définitive mise en page Projet bébé === */
+/* === Correction définitive mise en page Projet bébé === */
+
+.project-baby-layout,
+.project-baby-main,
+.project-baby-side {
+  display: initial;
+}
+
+.project-baby-flow {
+  display: grid;
+  gap: 28px;
+  margin-top: 34px;
+}
+
+.project-checklist-card {
+  width: 100%;
+}
+
+.project-checklist {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 28px;
+}
+
+.project-checklist li:nth-last-child(-n + 2) {
+  border-bottom: 0;
+}
+
+.project-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  align-items: stretch;
+}
+
+.project-info-grid > section {
+  height: 100%;
+}
+
+.project-details-grid {
+  display: none;
+}
+
+.project-details-grid-visible {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+  margin-top: 0;
+}
+
+.project-details-grid-visible > section {
+  height: 100%;
+}
+
+@media (max-width: 900px) {
+  .project-checklist,
+  .project-info-grid,
+  .project-details-grid-visible {
+    grid-template-columns: 1fr;
+  }
+
+  .project-checklist li:nth-last-child(-n + 2) {
+    border-bottom: 1px solid rgba(126, 102, 91, .13);
+  }
+
+  .project-checklist li:last-child {
+    border-bottom: 0;
+  }
+}
