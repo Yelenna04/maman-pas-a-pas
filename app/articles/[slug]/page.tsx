@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "tabac-projet-grossesse-pourquoi-comment-arreter": {
+    essentialIcons: [ShieldCheck, Heart, ClipboardList, Users],
+    cardIcons: [CalendarDays, Sparkles, ShieldCheck],
+    cardTitles: ["Préparer l’arrêt", "Repérer les déclencheurs", "Se faire aider"]
+  },
   "sommeil-stress-projet-bebe-prendre-soin-de-soi": {
     essentialIcons: [Heart, Sparkles, CalendarDays, ShieldCheck],
     cardIcons: [CalendarDays, Sparkles, Heart],
