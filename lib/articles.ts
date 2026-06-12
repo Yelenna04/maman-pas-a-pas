@@ -231,6 +231,137 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "pma-amp-definition-a-qui-adresse",
+    title: "PMA ou AMP : qu’est-ce que c’est et à qui s’adresse-t-elle ?",
+    description:
+      "Comprendre simplement ce que signifie l’assistance médicale à la procréation, les personnes concernées et les principales étapes du parcours.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "AMP est le terme médical officiel ; PMA reste le terme couramment utilisé.",
+          "L’AMP regroupe plusieurs techniques, dont l’insémination, la FIV et l’accueil d’embryon.",
+          "En France, elle est accessible aux couples hétérosexuels, aux couples de femmes et aux femmes non mariées.",
+          "Le parcours commence par des consultations et un bilan permettant de choisir la technique la plus adaptée."
+        ],
+        quote:
+          "Entrer dans un parcours d’AMP ne signifie pas automatiquement faire une FIV : la technique dépend de la situation médicale et du projet parental."
+      },
+      {
+        title: "Que signifient PMA et AMP ?",
+        paragraphs: [
+          "PMA signifie « procréation médicalement assistée ». AMP signifie « assistance médicale à la procréation » : c’est le terme aujourd’hui utilisé dans les textes médicaux et administratifs français.",
+          "L’AMP rassemble les techniques médicales qui aident à concevoir un enfant lorsqu’une conception naturelle est difficile, impossible ou ne correspond pas à la situation familiale.",
+          "Elle peut utiliser les gamètes du couple, un don de spermatozoïdes, un don d’ovocytes ou, dans certaines situations, un accueil d’embryon."
+        ]
+      },
+      {
+        title: "Les 3 principales techniques d’AMP",
+        paragraphs: [
+          "L’insémination artificielle, souvent réalisée directement dans l’utérus, consiste à déposer des spermatozoïdes préparés au moment proche de l’ovulation.",
+          "La fécondation in vitro, ou FIV, consiste à mettre en contact les ovocytes et les spermatozoïdes en laboratoire avant de transférer un embryon dans l’utérus.",
+          "L’accueil d’embryon permet à une personne ou à un couple de recevoir un embryon donné par un autre couple après un parcours encadré."
+        ],
+        quote:
+          "L’ICSI est une variante de la FIV : un spermatozoïde est injecté directement dans l’ovocyte en laboratoire."
+      },
+      {
+        title: "À qui l’AMP s’adresse-t-elle en France ?",
+        paragraphs: [
+          "L’AMP est accessible aux couples hétérosexuels confrontés à une infertilité ou à un risque de transmettre une maladie grave.",
+          "Elle est également accessible aux couples formés de deux femmes et aux femmes non mariées qui souhaitent avoir un enfant.",
+          "L’accès ne peut pas être refusé en raison de l’orientation sexuelle ou du statut matrimonial. La demande est toutefois évaluée par une équipe médicale dans le cadre prévu par la loi."
+        ]
+      },
+      {
+        title: "Faut-il obligatoirement avoir un diagnostic d’infertilité ?",
+        paragraphs: [
+          "Non. Un diagnostic d’infertilité est généralement recherché chez les couples hétérosexuels lorsque la grossesse ne survient pas après une période d’essais.",
+          "Les couples de femmes et les femmes non mariées peuvent accéder à l’AMP sans avoir à démontrer une infertilité médicale.",
+          "Dans toutes les situations, des consultations et des examens sont nécessaires afin de vérifier l’état de santé, d’expliquer les techniques et de préparer le parcours."
+        ]
+      },
+      {
+        title: "Comment débute un parcours d’AMP ?",
+        paragraphs: [
+          "Le parcours commence généralement par une consultation auprès d’un gynécologue, d’un médecin spécialisé en fertilité ou d’un centre d’AMP.",
+          "L’équipe recueille les antécédents, réalise ou complète le bilan médical et discute du projet parental.",
+          "Plusieurs rendez-vous peuvent être nécessaires avant de choisir la technique, expliquer le traitement, recueillir les consentements et fixer le calendrier."
+        ],
+        bullets: [
+          "Consultation médicale et histoire du projet.",
+          "Bilan de santé et de fertilité selon la situation.",
+          "Présentation des techniques possibles.",
+          "Information sur les chances, les limites et les risques.",
+          "Consentements et organisation du traitement."
+        ]
+      },
+      {
+        title: "L’AMP fonctionne-t-elle à chaque tentative ?",
+        paragraphs: [
+          "Non. Les chances de réussite dépendent notamment de l’âge, de la cause de l’infertilité, de la technique utilisée, de la qualité des gamètes et des antécédents médicaux.",
+          "Plusieurs tentatives peuvent être nécessaires et certaines étapes peuvent être interrompues si la réponse au traitement n’est pas suffisante.",
+          "L’équipe médicale doit expliquer les chances attendues dans votre situation plutôt que de donner un chiffre général applicable à tout le monde."
+        ]
+      },
+      {
+        title: "Quelle prise en charge en France ?",
+        paragraphs: [
+          "Les actes d’AMP peuvent être pris en charge à 100 % par l’Assurance Maladie dans les limites prévues par la réglementation.",
+          "La prise en charge est identique pour les couples hétérosexuels, les couples de femmes et les femmes non mariées.",
+          "Les éventuels dépassements d’honoraires, frais non remboursables ou soins réalisés à l’étranger peuvent obéir à des règles différentes."
+        ],
+        quote:
+          "L’Assurance Maladie prévoit actuellement une prise en charge maximale de 6 inséminations et 4 tentatives de FIV pour obtenir une grossesse."
+      },
+      {
+        title: "Le parcours peut-il être long ?",
+        paragraphs: [
+          "Oui. Le délai dépend du bilan, de la technique, de la disponibilité du centre et, en cas de don, du nombre de donneurs disponibles.",
+          "Le parcours peut comporter des périodes d’attente, des traitements hormonaux, des examens répétés et une charge émotionnelle importante.",
+          "Il est possible de demander un soutien psychologique ou associatif dès le début, sans attendre que la situation devienne trop difficile."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’AMP, souvent appelée PMA, regroupe plusieurs techniques permettant d’accompagner un projet parental. Elle ne se résume pas à la FIV.",
+          "En France, elle concerne les couples hétérosexuels, les couples de femmes et les femmes non mariées. Le choix de la technique se fait après une évaluation médicale et une information complète."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Qu’est-ce que l’assistance médicale à la procréation ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp/qu-est-ce-que-l-assistance-medicale-la-procreation-amp"
+      },
+      {
+        label: "Assurance Maladie — Techniques d’AMP : insémination artificielle, FIV, accueil d’embryon",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp/techniques-procreation-medicalement-assistee-pma"
+      },
+      {
+        label: "Service-Public.fr — Procréation médicalement assistée (PMA)",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F31462"
+      },
+      {
+        label: "Assurance Maladie — Prise en charge de l’assistance médicale à la procréation",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/assistance-medicale-la-procreation-amp/prise-en-charge-de-l-assistance-medicale-la-procreation-amp"
+      },
+      {
+        label: "Agence de la biomédecine — Assistance médicale à la procréation",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation"
+      }
+    ]
+  },
+  {
     slug: "produits-quotidien-environnement-que-limiter-avant-grossesse",
     title: "Produits du quotidien et environnement : que limiter avant une grossesse ?",
     description:
