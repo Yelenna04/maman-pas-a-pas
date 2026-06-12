@@ -231,6 +231,156 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "produits-quotidien-environnement-que-limiter-avant-grossesse",
+    title: "Produits du quotidien et environnement : que limiter avant une grossesse ?",
+    description:
+      "Des gestes simples pour réduire certaines expositions sans chercher à supprimer tous les produits du quotidien.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il est impossible d’éviter toutes les substances chimiques du quotidien.",
+          "Aérer, limiter les sprays et choisir des produits simples réduit déjà de nombreuses expositions.",
+          "Les travaux, pesticides, solvants et produits très parfumés méritent une attention particulière.",
+          "Les expositions professionnelles doivent être signalées dès le projet de grossesse."
+        ],
+        quote:
+          "L’objectif n’est pas de tout éliminer, mais de réduire les expositions inutiles avec quelques gestes réalistes."
+      },
+      {
+        title: "Pourquoi réduire certaines expositions ?",
+        paragraphs: [
+          "De nombreuses substances chimiques sont présentes dans l’air intérieur, les produits ménagers, les cosmétiques, les emballages, les meubles ou les produits de bricolage.",
+          "Certaines peuvent agir comme perturbateurs endocriniens ou être classées cancérogènes, mutagènes ou toxiques pour la reproduction.",
+          "La période qui précède la grossesse est un bon moment pour adopter quelques habitudes simples, sans transformer le quotidien en source d’angoisse."
+        ]
+      },
+      {
+        title: "Les 3 gestes les plus utiles",
+        paragraphs: [
+          "Aérez le logement chaque jour, idéalement au moins 10 minutes, et davantage pendant ou après le ménage, la cuisine, la douche ou le bricolage.",
+          "Réduisez le nombre de produits utilisés et privilégiez des produits simples, sans parfum, avec une liste d’ingrédients courte.",
+          "Évitez autant que possible les sprays, aérosols, parfums d’ambiance, insecticides et mélanges de plusieurs produits ménagers."
+        ],
+        quote:
+          "Ne mélangez jamais les produits ménagers, notamment l’eau de Javel avec un détartrant, du vinaigre ou un autre nettoyant."
+      },
+      {
+        title: "Quels produits ménagers limiter ?",
+        paragraphs: [
+          "Les sprays, désodorisants, diffuseurs parfumés et produits très parfumés augmentent les substances présentes dans l’air intérieur.",
+          "Pour l’entretien courant, un petit nombre de produits suffit souvent. Respectez les doses, aérez et portez des gants si le produit l’exige.",
+          "Conservez toujours les produits dans leur emballage d’origine afin de garder les consignes d’utilisation et les informations utiles en cas d’intoxication."
+        ]
+      },
+      {
+        title: "Cosmétiques et produits d’hygiène : faut-il tout changer ?",
+        paragraphs: [
+          "Non. Il est préférable de simplifier progressivement plutôt que de jeter tous les produits déjà utilisés.",
+          "Choisissez en priorité les produits nécessaires, avec peu d’ingrédients, et limitez ceux qui restent longtemps sur la peau ou qui sont fortement parfumés.",
+          "Les huiles essentielles sont déconseillées pendant la grossesse sans avis professionnel. Dès le projet bébé, demandez conseil avant de les utiliser par voie orale, cutanée ou en diffusion."
+        ]
+      },
+      {
+        title: "Que faire avec les contenants alimentaires ?",
+        paragraphs: [
+          "Évitez de chauffer les aliments dans des contenants en plastique qui ne sont pas prévus pour cet usage.",
+          "Le verre et l’inox sont des options simples pour conserver ou réchauffer les aliments lorsque cela est possible.",
+          "Lavez les fruits et légumes, variez l’alimentation et limitez les produits très transformés plutôt que de chercher à supprimer chaque substance séparément."
+        ]
+      },
+      {
+        title: "Travaux, peinture et bricolage : quelles précautions ?",
+        paragraphs: [
+          "Les peintures, colles, vernis, solvants et produits de décapage peuvent libérer des substances irritantes ou toxiques.",
+          "Si possible, réalisez les gros travaux avant la grossesse, déléguez les tâches les plus exposantes et aérez longuement les pièces.",
+          "Portez les protections indiquées sur l’étiquette et évitez les produits contenant des substances classées toxiques pour la reproduction."
+        ]
+      },
+      {
+        title: "Pesticides et produits contre les insectes",
+        paragraphs: [
+          "Évitez les insecticides, diffuseurs électriques, bombes et traitements pesticides lorsqu’une alternative non chimique est possible.",
+          "Pour limiter les moustiques, privilégiez les moustiquaires, les vêtements couvrants et l’élimination des eaux stagnantes.",
+          "Si un répulsif est nécessaire, demandez conseil à un pharmacien ou à un médecin, surtout pendant la grossesse ou lors d’un voyage."
+        ]
+      },
+      {
+        title: "Et au travail ?",
+        paragraphs: [
+          "Certaines professions exposent aux solvants, pesticides, métaux, rayonnements, médicaments dangereux, fumées ou autres agents reprotoxiques.",
+          "Parlez-en au médecin du travail dès le projet de grossesse, sans attendre forcément un test positif. Il peut évaluer le poste et proposer des mesures de prévention.",
+          "N’hésitez pas à apporter les noms ou les fiches de données de sécurité des produits utilisés afin de faciliter l’évaluation."
+        ],
+        bullets: [
+          "Produits de nettoyage professionnels.",
+          "Peintures, colles, solvants et résines.",
+          "Pesticides et produits vétérinaires.",
+          "Médicaments cytotoxiques ou substances de laboratoire.",
+          "Plomb, mercure et autres métaux.",
+          "Rayonnements ou fumées industrielles."
+        ]
+      },
+      {
+        title: "Comment commencer sans se compliquer la vie ?",
+        paragraphs: [
+          "Commencez par les gestes qui réduisent plusieurs expositions à la fois : aérer, limiter les sprays et simplifier les produits.",
+          "Remplacez les produits au fur et à mesure qu’ils sont terminés plutôt que de tout racheter immédiatement.",
+          "Concentrez-vous sur les expositions répétées et importantes. Une utilisation ponctuelle passée n’est pas une raison de culpabiliser."
+        ],
+        bullets: [
+          "Aérer chaque jour.",
+          "Supprimer les parfums d’ambiance.",
+          "Choisir un nettoyant simple.",
+          "Éviter de chauffer dans du plastique.",
+          "Reporter ou déléguer les gros travaux.",
+          "Parler des expositions professionnelles."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, quelques gestes simples permettent de diminuer les expositions inutiles : aérer, limiter les sprays, simplifier les produits et prendre des précautions lors des travaux.",
+          "Il n’est ni possible ni nécessaire de vivre dans un environnement parfaitement exempt de substances chimiques. En cas d’exposition professionnelle ou de doute sur un produit, demandez un avis adapté."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Grossesse et petite enfance : agir sur l’environnement",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse-environnement/grossesse-environnement"
+      },
+      {
+        label: "Assurance Maladie — Perturbateurs endocriniens : comment les éviter ?",
+        url: "https://www.ameli.fr/assure/sante/themes/perturbateurs-endocriniens-sante/perturbateurs-endocriniens-comment-les-eviter"
+      },
+      {
+        label: "1000 premiers jours — Limiter les perturbateurs endocriniens",
+        url: "https://www.1000-premiers-jours.fr/fr/limiter-les-perturbateurs-endocriniens"
+      },
+      {
+        label: "1000 premiers jours — Améliorer la qualité de l’air intérieur",
+        url: "https://www.1000-premiers-jours.fr/fr/ameliorer-la-qualite-de-lair-interieur"
+      },
+      {
+        label: "Anses — Huiles essentielles : risques et précautions",
+        url: "https://www.anses.fr/fr/content/huiles-essentielles-risques-et-precautions"
+      },
+      {
+        label: "Anses — Produits ménagers : les laisser dans leur contenant d’origine",
+        url: "https://www.anses.fr/fr/content/produits-menagers-les-laisser-dans-leur-contenant-dorigine"
+      }
+    ]
+  },
+  {
     slug: "alcool-projet-bebe-faut-il-arreter-avant-grossesse",
     title: "Alcool et projet bébé : faut-il arrêter avant la grossesse ?",
     description:
