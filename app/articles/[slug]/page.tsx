@@ -6,12 +6,16 @@ import { notFound } from "next/navigation";
 import {
   AlertTriangle,
   CalendarDays,
+  ClipboardList,
   Check,
   ChevronDown,
   Droplets,
   Heart,
+  Leaf,
   Lightbulb,
+  Pill,
   ShieldCheck,
+  Syringe,
   TestTubeDiagonal,
   Thermometer
 } from "lucide-react";
@@ -623,6 +627,181 @@ function FertilityArticle({
   );
 }
 
+
+function ProjectBabyArticle({
+  article
+}: {
+  article: NonNullable<ReturnType<typeof getArticle>>;
+}) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const checklist = article.sections.find(
+    (section) => section.title === "Checklist : les premières étapes"
+  );
+  const startHere = article.sections.find(
+    (section) => section.title === "Par où commencer cette semaine ?"
+  );
+  const b9 = article.sections.find(
+    (section) => section.title === "Pourquoi parler de la vitamine B9 ?"
+  );
+  const personalised = article.sections.find(
+    (section) => section.title === "Quand demander un avis personnalisé ?"
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+
+  const essentialIcons = [CalendarDays, Leaf, Syringe, Heart];
+
+  return (
+    <main className="compact-article project-baby-article">
+      <div className="article-shell">
+        <section className="compact-article-hero">
+          <div className="compact-hero-copy">
+            <div className="breadcrumbs compact-breadcrumbs">
+              <Link href="/">Accueil</Link>
+              <span>›</span>
+              <Link href={`/${article.categorySlug}`}>
+                {article.category}
+              </Link>
+              <span>›</span>
+              <span>{article.subcategory}</span>
+            </div>
+
+            <h1>{article.title}</h1>
+            <p className="lead">{article.description}</p>
+
+            <div className="verified-pill">
+              <ShieldCheck size={18} />
+              Informations médicales vérifiées
+            </div>
+          </div>
+
+          <div className="compact-hero-photo">
+            <Image
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 900px) 100vw, 43vw"
+            />
+          </div>
+        </section>
+
+        {essentials?.bullets && (
+          <section className="compact-essentials">
+            <h2>L’essentiel en 30 secondes</h2>
+            <div className="essential-grid">
+              {essentials.bullets.slice(0, 4).map((bullet, index) => {
+                const Icon = essentialIcons[index];
+                return (
+                  <div className="essential-card" key={bullet}>
+                    <span className="essential-icon">
+                      <Icon size={23} />
+                    </span>
+                    <p>{renderRichText(bullet)}</p>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <div className="project-baby-layout">
+          <article className="project-checklist-card">
+            <div className="project-card-heading">
+              <ClipboardList size={24} />
+              <h2>Checklist : les premières étapes</h2>
+            </div>
+
+            <ul className="project-checklist">
+              {checklist?.bullets?.map((bullet) => (
+                <li key={bullet}>
+                  <span aria-hidden="true" />
+                  {renderRichText(bullet)}
+                </li>
+              ))}
+            </ul>
+          </article>
+
+          <aside className="project-baby-side">
+            {startHere && (
+              <section className="project-start-card">
+                <div className="project-card-heading">
+                  <Leaf size={24} />
+                  <h2>{startHere.title}</h2>
+                </div>
+                {startHere.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+                {startHere.quote && (
+                  <div className="project-mini-tip">
+                    {renderRichText(startHere.quote)}
+                  </div>
+                )}
+              </section>
+            )}
+
+            {personalised && (
+              <section className="project-personal-card">
+                <div className="project-card-heading">
+                  <ShieldCheck size={24} />
+                  <h2>{personalised.title}</h2>
+                </div>
+                {personalised.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+              </section>
+            )}
+          </aside>
+        </div>
+
+        <div className="project-details-grid">
+          {b9 && (
+            <section className="compact-section">
+              <h2>
+                <span>1</span>
+                {b9.title}
+              </h2>
+              {b9.paragraphs?.map((paragraph) => (
+                <p key={paragraph}>{renderRichText(paragraph)}</p>
+              ))}
+            </section>
+          )}
+
+          {takeaway && (
+            <section className="compact-takeaway">
+              <h2>À retenir</h2>
+              {takeaway.paragraphs?.map((paragraph) => (
+                <p key={paragraph}>{renderRichText(paragraph)}</p>
+              ))}
+              {essentials?.quote && (
+                <div className="project-takeaway-note">
+                  {renderRichText(essentials.quote)}
+                </div>
+              )}
+            </section>
+          )}
+        </div>
+
+        <section className="compact-source-box">
+          <h2>Sources consultées</h2>
+          <ul>
+            {article.sources.map((source) => (
+              <li key={source.label}>
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  {source.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+    </main>
+  );
+}
+
 export default async function ArticlePage({ params }: Props) {
   const { slug } = await params;
   const article = getArticle(slug);
@@ -635,6 +814,10 @@ export default async function ArticlePage({ params }: Props) {
 
   if (article.slug === "periode-fertile-jours-plus-favorables") {
     return <FertilityArticle article={article} />;
+  }
+
+  if (article.slug === "que-faire-avant-essayer-avoir-bebe") {
+    return <ProjectBabyArticle article={article} />;
   }
 
   return <StandardArticle article={article} />;
