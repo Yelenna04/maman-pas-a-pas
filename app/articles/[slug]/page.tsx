@@ -63,41 +63,6 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
-  "medicaments-projet-bebe-lesquels-signaler": {
-    essentialIcons: [ClipboardList, ShieldCheck, Heart, Users],
-    cardIcons: [ClipboardList, ShieldCheck, Leaf],
-    cardTitles: ["Traitements prescrits", "Sans ordonnance", "Produits naturels"]
-  },
-  "quels-vaccins-verifier-avant-grossesse": {
-    essentialIcons: [ShieldCheck, ClipboardList, CalendarDays, Heart],
-    cardIcons: [ShieldCheck, Heart, ClipboardList],
-    cardTitles: ["Vaccin ROR", "Varicelle", "Rappels habituels"]
-  },
-  "comment-vivre-emotionnellement-parcours-pma": {
-    essentialIcons: [Heart, Sparkles, Users, ShieldCheck],
-    cardIcons: [Heart, Users, Sparkles],
-    cardTitles: ["Nommer ses émotions", "Choisir ce que l’on partage", "Préserver des espaces sans PMA"]
-  },
-  "comment-se-deroule-fiv-etape-par-etape": {
-    essentialIcons: [CalendarDays, TestTubeDiagonal, Sparkles, ShieldCheck],
-    cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
-    cardTitles: ["Stimulation", "Ponction et fécondation", "Culture et transfert"]
-  },
-  "fiv-classique-icsi-quelles-differences": {
-    essentialIcons: [TestTubeDiagonal, Users, ShieldCheck, ClipboardList],
-    cardIcons: [TestTubeDiagonal, Users, ClipboardList],
-    cardTitles: ["Rencontre des gamètes", "Indications", "Geste au laboratoire"]
-  },
-  "insemination-intra-uterine-iiu-comment-ca-se-passe": {
-    essentialIcons: [TestTubeDiagonal, Users, CalendarDays, ShieldCheck],
-    cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
-    cardTitles: ["Préparer le cycle", "Préparer le sperme", "Réaliser l’insémination"]
-  },
-  "pma-demarches-delais-prise-en-charge": {
-    essentialIcons: [CalendarDays, ClipboardList, Users, ShieldCheck],
-    cardIcons: [TestTubeDiagonal, Users, ClipboardList],
-    cardTitles: ["Bilan médical", "Entretiens", "Démarches administratives"]
-  },
   "pma-amp-definition-a-qui-adresse": {
     essentialIcons: [Heart, TestTubeDiagonal, Users, ClipboardList],
     cardIcons: [Users, TestTubeDiagonal, Heart],
