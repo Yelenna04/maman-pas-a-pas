@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "quand-faire-bilan-fertilite": {
+    essentialIcons: [CalendarDays, CalendarDays, ShieldCheck, Users],
+    cardIcons: [CalendarDays, ClipboardList, Users],
+    cardTitles: ["Cycles ou ovulation", "Antécédents", "Santé du partenaire"]
+  },
   "quel-professionnel-consulter-avant-projet-bebe": {
     essentialIcons: [Users, Heart, ShieldCheck, ClipboardList],
     cardIcons: [Users, Heart, ShieldCheck],
