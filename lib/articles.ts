@@ -23,6 +23,110 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    slug: "se-preparer-emotionnellement-projet-bebe",
+    title: "Comment se préparer émotionnellement à un projet bébé ?",
+    description:
+      "Des repères simples pour accueillir ses émotions, alléger la pression et avancer plus sereinement dans son projet bébé.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
+    readingTime: "4 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il est normal de ressentir plusieurs émotions à la fois.",
+          "Vous n’avez pas besoin de vous sentir totalement prête avant de commencer.",
+          "Mettre des mots sur vos attentes aide à réduire la pression.",
+          "Demander du soutien est une force, pas un échec."
+        ],
+        quote:
+          "Un projet bébé peut être heureux et rassurant, mais aussi réveiller des peurs, des doutes ou un sentiment d’urgence. Toutes ces émotions peuvent coexister."
+      },
+      {
+        title: "Accueillir ses émotions sans les juger",
+        paragraphs: [
+          "Un projet bébé peut faire naître de la joie, de l’impatience, de la peur, de l’excitation ou parfois un mélange de tout cela. Il n’existe pas une bonne manière de ressentir cette période.",
+          "Au lieu de chercher à supprimer les émotions inconfortables, essayez de les identifier : peur de ne pas y arriver, inquiétude pour la santé, pression liée à l’âge, au travail, au couple ou au regard des autres.",
+          "Mettre un nom sur ce que vous ressentez permet souvent de mieux comprendre ce dont vous avez besoin : davantage d’informations, du repos, une discussion, un rendez-vous médical ou simplement du temps."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Clarifiez vos attentes. Demandez-vous ce que ce projet représente pour vous, ce que vous espérez et ce qui vous inquiète le plus. Vous n’avez pas besoin d’avoir toutes les réponses.",
+          "Concentrez-vous sur ce que vous pouvez réellement contrôler : prendre un rendez-vous, vérifier un traitement, préserver votre sommeil ou choisir une méthode simple pour suivre vos cycles.",
+          "Identifiez vos personnes ressources : partenaire, proche de confiance, médecin, sage-femme ou psychologue. Savoir à qui parler peut déjà rendre l’attente moins lourde."
+        ],
+        quote:
+          "Le but n’est pas de tout anticiper, mais de savoir vers qui vous tourner lorsque vous avez besoin d’aide ou de réponses."
+      },
+      {
+        title: "Comment alléger la pression au quotidien ?",
+        paragraphs: [
+          "Essayez de ne pas transformer le projet bébé en liste de performances à accomplir. Vous pouvez avancer par petites étapes et garder des activités qui n’ont aucun lien avec la conception.",
+          "Limiter les recherches répétées, les comparaisons et le suivi excessif peut être utile si cela augmente votre anxiété. Choisissez quelques sources fiables et une méthode qui vous convient.",
+          "Conservez des moments de repos, de plaisir et de lien avec vos proches. Votre vie n’a pas besoin d’être mise entre parenthèses pendant les essais."
+        ],
+        bullets: [
+          "Choisissez une ou deux actions utiles à la fois.",
+          "Fixez des moments sans recherches ni applications.",
+          "Gardez des projets personnels ou de couple en parallèle.",
+          "Évitez de vous comparer au parcours des autres."
+        ]
+      },
+      {
+        title: "Et si une grossesse tarde à arriver ?",
+        paragraphs: [
+          "Chaque nouveau cycle peut réveiller de l’espoir puis de la déception. Ces variations émotionnelles sont compréhensibles et peuvent devenir fatigantes avec le temps.",
+          "Vous pouvez décider à l’avance de la façon dont vous souhaitez vivre les tests, les annonces de grossesse autour de vous ou les questions de l’entourage. Il est légitime de poser des limites.",
+          "Si l’attente prend toute la place, parlez-en à un professionnel de santé. Il peut répondre à vos questions, proposer un bilan au moment adapté ou vous orienter vers un soutien psychologique."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Parlez-en à un médecin, une sage-femme ou un psychologue si l’anxiété devient envahissante, si vous avez du mal à dormir, à travailler ou à profiter de votre quotidien, ou si les pensées liées au projet bébé occupent presque tout votre esprit.",
+          "Un avis préconceptionnel est particulièrement important si vous avez déjà vécu une dépression, un trouble anxieux, un traumatisme lié à une grossesse ou un accouchement, ou si vous prenez un traitement pour votre santé mentale.",
+          "N’arrêtez jamais seule un traitement prescrit. Un professionnel pourra discuter avec vous des bénéfices, des risques et des options adaptées à votre projet."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Se préparer émotionnellement ne signifie pas éliminer toutes les peurs. Il s’agit surtout de reconnaître ce que vous ressentez, de réduire les pressions inutiles et de savoir où trouver du soutien.",
+          "Vous pouvez avancer avec des doutes et des émotions changeantes. Être accompagnée lorsque vous en avez besoin fait partie d’un projet bébé bienveillant."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "ACOG — Anxiety and Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/anxiety-and-pregnancy"
+      },
+      {
+        label: "NHS — Planning another pregnancy",
+        url: "https://www.nhs.uk/pregnancy/trying-for-a-baby/planning-another-pregnancy/"
+      },
+      {
+        label: "NHS — Find care for your mental health before, during and after pregnancy",
+        url: "https://www.nhs.uk/nhs-services/mental-health-services/find-care-for-your-mental-health-before-during-and-after-pregnancy/"
+      },
+      {
+        label: "1000 premiers jours — Comment gérer le stress pendant la grossesse ?",
+        url: "https://www.1000-premiers-jours.fr/fr/comment-gerer-le-stress-pendant-la-grossesse"
+      }
+    ]
+  },
+  {
     slug: "comment-reperer-ovulation-periode-fertile",
     title: "Comment repérer son ovulation ?",
     description:
@@ -233,7 +337,7 @@ export const articles: Article[] = [
     slug: "que-faire-avant-essayer-avoir-bebe",
     title: "Que faire avant d’essayer d’avoir un bébé ?",
     description:
-      "Les premiers repères pour préparer votre projet de grossesse, simplement et sans pression.",
+      "Les premières étapes utiles pour préparer une grossesse sereinement, sans chercher à tout faire parfaitement.",
     category: "Avant la grossesse",
     categorySlug: "avant-grossesse",
     subcategory: "Projet bébé",
