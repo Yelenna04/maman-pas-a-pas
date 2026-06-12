@@ -232,91 +232,100 @@ export const articles: Article[] = [
   {
     slug: "que-faire-avant-essayer-avoir-bebe",
     title: "Que faire avant d’essayer d’avoir un bébé ?",
-    description: "Les étapes utiles pour préparer un projet de grossesse sereinement, sans chercher à tout faire parfaitement.",
+    description:
+      "Les premières étapes utiles pour préparer une grossesse sereinement, sans chercher à tout faire parfaitement.",
     category: "Avant la grossesse",
     categorySlug: "avant-grossesse",
     subcategory: "Projet bébé",
     subcategorySlug: "projet-bebe",
-    readingTime: "9 min",
+    readingTime: "4 min",
     publishedAt: "2026-06-11",
-    updatedAt: "2026-06-11",
+    updatedAt: "2026-06-12",
     tone: "rose",
     sections: [
       {
-        title: "Commencer par une consultation préconceptionnelle",
-        paragraphs: [
-          "Avant d’arrêter la contraception ou dès que le projet de bébé se précise, il peut être utile de prendre rendez-vous avec un médecin généraliste, un gynécologue ou une sage-femme. Cette consultation n’est pas un examen à réussir : c’est un moment pour faire le point, poser vos questions et préparer la grossesse dans les meilleures conditions possibles.",
-          "Le professionnel peut revenir avec vous sur vos antécédents médicaux et familiaux, vos grossesses précédentes, vos traitements, vos vaccinations, votre mode de vie et, si besoin, proposer certains examens. Le ou la partenaire peut aussi être associé au rendez-vous, notamment pour parler de santé, de traitements, de tabac, d’alcool ou d’antécédents familiaux."
-        ],
-        quote: "Vous n’avez pas besoin d’attendre d’avoir tout changé pour prendre rendez-vous. La consultation sert justement à savoir ce qui est réellement utile dans votre situation."
-      },
-      {
-        title: "Parler de la vitamine B9 dès le projet de grossesse",
-        paragraphs: [
-          "La vitamine B9, aussi appelée acide folique ou folates, participe au bon développement du système nerveux de l’embryon. Les autorités de santé recommandent d’en parler à un professionnel dès le projet de grossesse, car elle est idéalement commencée avant la conception.",
-          "Le médecin ou la sage-femme vous indiquera la dose adaptée et la durée de prise. Ne remplacez pas cette supplémentation par des compléments achetés au hasard : certains produits contiennent des doses inutiles ou d’autres substances qui ne conviennent pas à tout le monde."
-        ]
-      },
-      {
-        title: "Faire le point sur les vaccins et les médicaments",
-        paragraphs: [
-          "Certaines infections peuvent avoir davantage de conséquences pendant la grossesse. La consultation préconceptionnelle permet donc de vérifier votre carnet de vaccination et, si nécessaire, d’organiser un rattrapage avant la conception.",
-          "Signalez tous les médicaments que vous prenez, y compris ceux disponibles sans ordonnance, les plantes, les huiles essentielles et les compléments alimentaires. Certains traitements doivent être adaptés avant une grossesse, mais il ne faut jamais arrêter ou modifier seul un traitement, surtout en cas de maladie chronique."
-        ],
+        title: "L’essentiel en 30 secondes",
         bullets: [
-          "Préparez une liste ou des photos de vos boîtes de médicaments.",
-          "Mentionnez les traitements occasionnels, les compléments et les produits à base de plantes.",
-          "Demandez conseil avant toute automédication.",
-          "N’arrêtez jamais un traitement prescrit sans avis médical."
-        ]
-      },
-      {
-        title: "Adopter des habitudes protectrices, sans viser la perfection",
-        paragraphs: [
-          "Préparer une grossesse ne signifie pas suivre un programme strict. L’objectif est surtout de réduire progressivement les risques évitables et de prendre soin de votre santé générale.",
-          "Il est recommandé de ne pas boire d’alcool dès le projet de grossesse, car une grossesse peut commencer avant que l’on sache que l’on est enceinte. Le tabac et les autres substances peuvent également avoir un impact sur la fertilité et la grossesse. Un médecin, une sage-femme, un pharmacien ou un service d’aide au sevrage peut vous accompagner sans jugement."
+          "Prenez rendez-vous pour faire le point sur votre santé et vos antécédents.",
+          "Parlez de la vitamine B9 dès le début du projet de grossesse.",
+          "Vérifiez vos vaccins, traitements et compléments avec un professionnel.",
+          "Adoptez progressivement des habitudes favorables, sans viser la perfection."
         ],
+        quote:
+          "Vous n’avez pas besoin d’avoir tout changé avant de commencer. L’objectif est d’avancer étape par étape."
+      },
+      {
+        title: "Checklist : les premières étapes",
         bullets: [
-          "Manger de façon variée, sans régime restrictif non conseillé.",
-          "Bouger régulièrement selon vos capacités et votre état de santé.",
-          "Prendre soin de votre sommeil et de votre santé mentale.",
-          "Demander de l’aide pour réduire ou arrêter le tabac, l’alcool ou d’autres substances."
+          "Prendre un rendez-vous préconceptionnel.",
+          "Demander conseil pour la vitamine B9.",
+          "Vérifier son carnet de vaccination.",
+          "Faire le point sur ses médicaments, compléments et produits à base de plantes.",
+          "Éviter l’alcool dès le projet de grossesse.",
+          "Demander de l’aide pour réduire ou arrêter le tabac.",
+          "Manger de façon variée et bouger régulièrement selon ses capacités.",
+          "Noter ses questions et avancer à son rythme."
         ]
       },
       {
-        title: "Anticiper certaines situations particulières",
+        title: "Par où commencer cette semaine ?",
         paragraphs: [
-          "Un avis médical avant la conception est particulièrement important si vous vivez avec une maladie chronique, si vous avez déjà eu une grossesse compliquée, si vous avez subi une chirurgie bariatrique, si vous prenez un traitement au long cours ou si une maladie héréditaire est connue dans votre famille.",
-          "Cela ne signifie pas qu’une grossesse sera impossible ou forcément compliquée. L’objectif est d’adapter les soins, les traitements et le suivi suffisamment tôt."
-        ]
-      },
-      {
-        title: "Ne pas oublier la place du partenaire",
-        paragraphs: [
-          "Le projet de grossesse concerne souvent deux personnes. Le partenaire peut lui aussi faire le point sur sa santé, ses traitements, son tabagisme, sa consommation d’alcool, son exposition professionnelle à certains produits et ses antécédents familiaux.",
-          "Il peut également participer aux changements du quotidien. Arrêter de fumer à deux, limiter l’alcool dans le foyer ou partager les rendez-vous peut rendre cette période plus simple et moins isolante."
-        ]
-      },
-      {
-        title: "À retenir avant de commencer les essais",
-        bullets: [
-          "Prendre rendez-vous avec un médecin ou une sage-femme pour faire le point.",
-          "Demander une prescription de vitamine B9 adaptée.",
-          "Vérifier les vaccins et revoir tous les traitements en cours.",
-          "Éviter l’alcool et demander de l’aide en cas de tabagisme ou d’autre consommation.",
-          "Parler des maladies chroniques, des antécédents et des inquiétudes.",
-          "Avancer progressivement : il n’est pas nécessaire que tout soit parfait."
+          "La première étape la plus simple est de prendre rendez-vous avec un médecin généraliste, une sage-femme ou un gynécologue.",
+          "Cette consultation permet de parler de vos antécédents, de vos traitements, de vos vaccinations et de la vitamine B9. Vous pouvez préparer une liste de vos médicaments et noter les questions que vous souhaitez poser.",
+          "Vous n’avez pas besoin d’attendre d’avoir changé toutes vos habitudes pour consulter. Ce rendez-vous sert justement à identifier ce qui est utile dans votre situation."
         ],
-        quote: "Cet article donne des repères généraux. Votre situation personnelle peut nécessiter des conseils différents, notamment si vous avez une maladie chronique ou un traitement régulier."
+        quote:
+          "Commencez par une seule action concrète : prendre rendez-vous ou préparer la liste de vos traitements."
+      },
+      {
+        title: "Pourquoi parler de la vitamine B9 ?",
+        paragraphs: [
+          "La vitamine B9, aussi appelée acide folique ou folates, participe au bon développement du système nerveux de l’embryon.",
+          "Les recommandations françaises conseillent d’en parler dès le projet de grossesse afin qu’un professionnel prescrive la dose adaptée. La prise est idéalement commencée avant la conception.",
+          "Évitez de choisir seule un complément multivitaminé : sa composition et son dosage ne sont pas forcément adaptés à votre situation."
+        ]
+      },
+      {
+        title: "Quand demander un avis personnalisé ?",
+        paragraphs: [
+          "Un avis médical avant la conception est particulièrement utile si vous vivez avec une maladie chronique, prenez un traitement régulier, avez déjà vécu une grossesse compliquée ou connaissez une maladie héréditaire dans votre famille.",
+          "Parlez également de tous les médicaments pris occasionnellement, y compris ceux sans ordonnance, ainsi que des plantes, huiles essentielles et compléments alimentaires.",
+          "N’arrêtez jamais seule un traitement prescrit. Un professionnel pourra l’évaluer et l’adapter si nécessaire."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Préparer une grossesse ne consiste pas à suivre une liste parfaite. Les priorités sont de prendre un rendez-vous préconceptionnel, de parler de la vitamine B9 et de vérifier les traitements et les vaccinations.",
+          "Les changements d’habitudes peuvent se faire progressivement. Demander de l’aide fait pleinement partie de la préparation."
+        ]
       }
     ],
     sources: [
-      { label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle", url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle" },
-      { label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments", url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments" },
-      { label: "Assurance Maladie — Modifier ses habitudes de vie avant d’être enceinte", url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/modifier-ses-habitudes-de-vie-avant-d-etre-enceinte" },
-      { label: "Santé publique France — Je pense bébé, je pense vitamine B9", url: "https://www.santepubliquefrance.fr/nutrition-et-activite-physique/depliantflyer/je-pense-bebe-je-pense-b9-la-vitamine-b9-le-bon-reflexe-pour-bien-preparer-votre-grossesse" },
-      { label: "Haute Autorité de santé — Projet de grossesse : informations, prévention et examens", url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer" },
-      { label: "ANSM — Médicaments et grossesse : les bons réflexes", url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes" }
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      },
+      {
+        label: "Assurance Maladie — Modifier ses habitudes de vie avant d’être enceinte",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/modifier-ses-habitudes-de-vie-avant-d-etre-enceinte"
+      },
+      {
+        label: "Santé publique France — Je pense bébé, je pense vitamine B9",
+        url: "https://www.santepubliquefrance.fr/nutrition-et-activite-physique/depliantflyer/je-pense-bebe-je-pense-b9-la-vitamine-b9-le-bon-reflexe-pour-bien-preparer-votre-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Projet de grossesse : informations, prévention et examens",
+        url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse : les bons réflexes",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes"
+      }
     ]
   },
   {
