@@ -300,17 +300,12 @@ export const articles: Article[] = [
         title: "Quels examens peuvent être proposés ?",
         paragraphs: [
           "Chez la femme, le bilan peut rechercher une ovulation, évaluer l’utérus et les ovaires par échographie et vérifier, si nécessaire, la perméabilité des trompes.",
+          "Des prises de sang hormonales peuvent aussi être demandées. Parmi elles, le dosage de l’AMH est parfois proposé pour estimer la réserve ovarienne, c’est-à-dire le nombre approximatif de follicules encore disponibles.",
           "Chez l’homme, le spermogramme est un examen central. Il analyse notamment le nombre, la mobilité et la forme des spermatozoïdes.",
-          "Des examens hormonaux, infectieux, génétiques ou spécialisés peuvent être ajoutés selon les résultats. Tous ne sont pas nécessaires pour chaque couple."
-        ]
-      },
-      {
-        title: "Le dosage de l’AMH suffit-il à connaître sa fertilité ?",
-        paragraphs: [
-          "Non. L’hormone antimüllérienne, ou AMH, donne une information sur la réserve ovarienne, c’est-à-dire le nombre estimé de follicules disponibles.",
-          "Elle ne mesure pas directement la qualité des ovocytes et ne permet pas, à elle seule, de prédire une grossesse naturelle.",
-          "Son résultat doit être interprété avec l’âge, l’échographie, l’histoire médicale et le contexte d’un éventuel traitement de fertilité."
-        ]
+          "Des examens infectieux, génétiques ou plus spécialisés peuvent être ajoutés selon les résultats. Tous ne sont pas nécessaires pour chaque couple."
+        ],
+        quote:
+          "Bon à savoir sur l’AMH : cette hormone aide à estimer la réserve ovarienne, mais elle ne mesure pas la qualité des ovocytes et ne permet pas, à elle seule, de prévoir une grossesse naturelle."
       },
       {
         title: "À retenir",
