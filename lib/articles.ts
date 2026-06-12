@@ -258,6 +258,7 @@ export const articles: Article[] = [
       {
         title: "Qu’ont en commun la FIV classique et l’ICSI ?",
         paragraphs: [
+          "FIV signifie « fécondation in vitro » : les ovocytes et les spermatozoïdes sont mis en contact au laboratoire. ICSI signifie « injection intracytoplasmique de spermatozoïde » : un spermatozoïde est injecté directement dans un ovocyte mature.",
           "Dans les deux cas, le parcours commence généralement par une stimulation ovarienne afin de faire mûrir plusieurs follicules.",
           "Les ovocytes sont ensuite prélevés lors d’une ponction, tandis qu’un échantillon de sperme est recueilli ou décongelé.",
           "Après la fécondation au laboratoire, les embryons sont observés pendant quelques jours. Un embryon peut ensuite être transféré dans l’utérus et les autres embryons de qualité suffisante peuvent être congelés."
