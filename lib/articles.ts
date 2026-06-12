@@ -39,12 +39,12 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "L’ovulation ne se produit pas forcément au 14ᵉ jour.",
-          "La période fertile commence quelques jours avant l’ovulation.",
-          "La glaire cervicale est souvent le signe le plus simple à observer.",
+          "**L’ovulation ne se produit pas forcément au 14ᵉ jour.**",
+          "**La période fertile commence quelques jours avant l’ovulation.**",
+          "**La glaire cervicale est souvent le signe le plus simple à observer.**",
           "Les tests d’ovulation peuvent apporter un repère supplémentaire.",
           "La température aide surtout à confirmer une ovulation déjà passée.",
-          "Des rapports réguliers évitent de devoir viser une date exacte."
+          "**Des rapports réguliers évitent de devoir viser une date exacte.**"
         ],
         quote:
           "Il n’est pas nécessaire de surveiller tous les signes à la fois. Quelques repères simples suffisent souvent pour commencer."
@@ -53,16 +53,16 @@ export const articles: Article[] = [
         title: "Quand l’ovulation a-t-elle lieu ?",
         paragraphs: [
           "L’ovulation correspond au moment où un ovaire libère un ovocyte. Elle se produit généralement avant les prochaines règles, mais pas toujours au même jour.",
-          "Même avec des cycles assez réguliers, la date peut varier d’un mois à l’autre. Le fameux « jour 14 » est donc seulement un exemple basé sur un cycle de 28 jours, pas une règle universelle.",
-          "La période fertile ne se limite pas au jour de l’ovulation. Les spermatozoïdes peuvent rester fécondants plusieurs jours lorsque la glaire cervicale est favorable."
+          "Même avec des cycles assez réguliers, la date peut varier d’un mois à l’autre. Le fameux **« jour 14 » est seulement un exemple**, pas une règle universelle.",
+          "**La période fertile ne se limite pas au jour de l’ovulation.** Les spermatozoïdes peuvent rester fécondants plusieurs jours lorsque la glaire cervicale est favorable."
         ]
       },
       {
         title: "Les 3 signes les plus utiles",
         paragraphs: [
-          "Le premier signe est la glaire cervicale. À l’approche de l’ovulation, elle peut devenir plus abondante, transparente, glissante et extensible, un peu comme du blanc d’œuf cru.",
-          "Le deuxième repère est le test d’ovulation. Il détecte dans les urines l’augmentation de l’hormone LH qui précède généralement l’ovulation. Un résultat positif indique qu’elle est probablement proche, sans garantir qu’elle aura effectivement lieu.",
-          "Le troisième repère est la température basale, prise au réveil avant de se lever. Elle augmente légèrement après l’ovulation. Elle sert donc surtout à comprendre les cycles passés plutôt qu’à prévoir les jours fertiles du cycle en cours."
+          "Le premier signe est **la glaire cervicale**. À l’approche de l’ovulation, elle peut devenir plus abondante, transparente, glissante et extensible, un peu comme du blanc d’œuf cru.",
+          "Le deuxième repère est **le test d’ovulation**. Il détecte dans les urines l’augmentation de l’hormone LH qui précède généralement l’ovulation. Un résultat positif indique qu’elle est probablement proche, sans garantir qu’elle aura effectivement lieu.",
+          "Le troisième repère est **la température basale**, prise au réveil avant de se lever. Elle augmente légèrement après l’ovulation. Elle sert donc surtout à comprendre les cycles passés plutôt qu’à prévoir les jours fertiles du cycle en cours."
         ],
         quote:
           "Pour débuter, observer la glaire cervicale est souvent plus simple que suivre plusieurs indicateurs en même temps."
@@ -71,8 +71,8 @@ export const articles: Article[] = [
         title: "Et les applications de suivi du cycle ?",
         paragraphs: [
           "Une application peut être pratique pour noter le début des règles, l’aspect de la glaire, les résultats des tests ou la température.",
-          "Mais une application ne voit pas ce qui se passe dans votre corps. Lorsqu’elle calcule l’ovulation uniquement à partir de la durée moyenne des cycles, la date proposée reste une estimation.",
-          "Utilisez-la comme un carnet de suivi, pas comme une certitude."
+          "Mais une application ne voit pas ce qui se passe dans votre corps. Lorsqu’elle calcule l’ovulation uniquement à partir de la durée moyenne des cycles, **la date proposée reste une estimation.**",
+          "**Utilisez-la comme un carnet de suivi, pas comme une certitude.**"
         ]
       },
       {
@@ -95,14 +95,14 @@ export const articles: Article[] = [
         paragraphs: [
           "Parlez-en à un médecin, une sage-femme ou un gynécologue si vos règles sont absentes ou très irrégulières, si vos cycles sont très courts ou très longs, si vous ressentez des douleurs importantes ou si vous avez des antécédents gynécologiques.",
           "Une douleur intense ou persistante, accompagnée de fièvre, de malaise ou de saignements importants, nécessite également un avis médical.",
-          "Vous pouvez aussi consulter si les essais se prolongent ou si la situation vous inquiète. Il n’est pas nécessaire d’attendre pour poser vos questions."
+          "Vous pouvez aussi consulter si les essais se prolongent ou si la situation vous inquiète. **Il n’est pas nécessaire d’attendre pour poser vos questions.**"
         ]
       },
       {
         title: "À retenir",
         paragraphs: [
           "La glaire cervicale est souvent le signe le plus simple pour reconnaître l’approche de l’ovulation. Les tests urinaires peuvent apporter un repère supplémentaire, tandis que la température aide surtout à confirmer une ovulation après coup.",
-          "Ces outils doivent vous aider à mieux comprendre votre cycle, pas devenir une source de pression. Votre cycle n’a pas besoin d’être parfaitement prévisible pour qu’une grossesse soit possible."
+          "**Ces outils doivent vous aider à mieux comprendre votre cycle, pas devenir une source de pression.** Votre cycle n’a pas besoin d’être parfaitement prévisible pour qu’une grossesse soit possible."
         ]
       }
     ],
