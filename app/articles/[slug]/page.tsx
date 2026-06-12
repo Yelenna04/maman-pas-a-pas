@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "tests-ovulation-utiliser-interpreter": {
+    essentialIcons: [TestTubeDiagonal, CalendarDays, ClipboardList, ShieldCheck],
+    cardIcons: [CalendarDays, TestTubeDiagonal, ClipboardList],
+    cardTitles: ["Quand commencer", "Comment tester", "Quand lire"]
+  },
   "cycles-irreguliers-mieux-comprendre": {
     essentialIcons: [CalendarDays, CalendarDays, Sparkles, ClipboardList],
     cardIcons: [CalendarDays, ClipboardList, Sparkles],
