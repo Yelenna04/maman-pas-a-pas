@@ -231,6 +231,153 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "comment-vivre-emotionnellement-parcours-pma",
+    title: "Comment vivre émotionnellement un parcours de PMA ?",
+    description:
+      "Des repères concrets pour traverser l’attente, les traitements, les résultats et préserver son équilibre pendant un parcours de PMA.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un parcours de PMA peut faire alterner espoir, fatigue, peur et déception.",
+          "Vous n’avez pas à rester forte en permanence ni à tout gérer seule.",
+          "Préserver le couple, le quotidien et des moments sans PMA peut aider à garder un équilibre.",
+          "Un soutien psychologique peut être demandé à tout moment, même avant de se sentir dépassée."
+        ],
+        quote:
+          "Il n’existe pas une bonne manière de vivre la PMA : vos émotions peuvent changer d’un jour à l’autre."
+      },
+      {
+        title: "Pourquoi la PMA peut-elle être émotionnellement difficile ?",
+        paragraphs: [
+          "Le parcours peut imposer des rendez-vous fréquents, des traitements, des résultats incertains et des décisions importantes dans un calendrier parfois difficile à anticiper.",
+          "L’espoir peut être très fort au début d’une tentative, puis laisser place à l’inquiétude pendant l’attente ou à une grande déception en cas d’échec.",
+          "La fatigue physique, les contraintes professionnelles, les remarques de l’entourage et le sentiment de perdre le contrôle peuvent également peser sur le moral."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Nommer ce que vous ressentez : tristesse, colère, jalousie, peur ou fatigue sont des réactions possibles et ne font pas de vous une mauvaise personne.",
+          "Choisir ce que vous souhaitez partager : vous pouvez informer certaines personnes, garder une partie du parcours privée ou demander à un proche de transmettre les nouvelles.",
+          "Préserver des espaces sans PMA : activités, sorties, projets et moments de couple peuvent continuer à exister en parallèle du parcours."
+        ],
+        quote:
+          "Vous avez le droit de poser des limites aux questions, aux conseils et aux annonces de grossesse qui deviennent trop difficiles à recevoir."
+      },
+      {
+        title: "Comment vivre l’attente entre les étapes ?",
+        paragraphs: [
+          "Les périodes d’attente peuvent donner l’impression que le temps s’arrête. Prévoir quelques repères concrets aide parfois à traverser ces jours plus sereinement.",
+          "Essayez de limiter les recherches répétées de symptômes ou de témoignages si elles augmentent votre anxiété.",
+          "Vous pouvez préparer une activité pour les jours les plus difficiles, noter vos questions pour le prochain rendez-vous et décider à l’avance quand consulter les résultats."
+        ]
+      },
+      {
+        title: "Comment préserver le couple ?",
+        paragraphs: [
+          "Les deux partenaires peuvent vivre le parcours de manière différente. L’un peut avoir besoin d’en parler souvent, tandis que l’autre préfère prendre du recul.",
+          "Prévoyez des moments pour parler de la PMA, mais aussi des moments où elle n’est pas le sujet principal.",
+          "Répartissez autant que possible les tâches : rendez-vous, documents, traitements, appels et soutien émotionnel ne doivent pas reposer sur une seule personne."
+        ]
+      },
+      {
+        title: "Et si le désir ou la sexualité changent ?",
+        paragraphs: [
+          "Les traitements, la fatigue, les rapports programmés et la pression de résultat peuvent modifier le désir ou rendre la sexualité moins spontanée.",
+          "Il peut être utile de maintenir des gestes d’affection et des moments d’intimité qui ne sont pas centrés sur la conception.",
+          "En cas de douleur, de blocage ou de détresse persistante, un professionnel de santé, un psychologue ou un sexologue peut aider."
+        ]
+      },
+      {
+        title: "Comment gérer les annonces de grossesse et les remarques ?",
+        paragraphs: [
+          "Les grossesses de proches peuvent provoquer à la fois de la joie pour eux et de la tristesse pour soi. Ces deux émotions peuvent coexister.",
+          "Vous pouvez refuser une invitation, quitter une conversation, masquer temporairement certains contenus ou demander à être prévenue en privé.",
+          "Préparez une phrase simple pour répondre aux questions intrusives, par exemple : « C’est un sujet personnel, je préfère ne pas en parler pour le moment. »"
+        ]
+      },
+      {
+        title: "Que faire après un résultat négatif ?",
+        paragraphs: [
+          "Un résultat négatif peut être vécu comme une perte, même lorsqu’il n’y a pas eu de grossesse confirmée.",
+          "Accordez-vous du temps avant de décider immédiatement de la suite. Il est possible de demander un rendez-vous pour comprendre la tentative et poser vos questions.",
+          "Le choix de recommencer, de faire une pause ou d’arrêter appartient à chaque personne ou couple. Il peut évoluer avec le temps."
+        ]
+      },
+      {
+        title: "Faut-il parler de la PMA au travail ?",
+        paragraphs: [
+          "Vous n’êtes pas obligée de raconter tout votre parcours à vos collègues. Vous pouvez simplement expliquer que vous avez des rendez-vous médicaux.",
+          "Choisir une personne de confiance ou prévenir uniquement le service des ressources humaines peut faciliter l’organisation.",
+          "Les personnes engagées dans un parcours d’AMP bénéficient d’autorisations d’absence pour les actes médicaux nécessaires, dans les conditions prévues par le droit du travail."
+        ]
+      },
+      {
+        title: "Quand demander un soutien psychologique ?",
+        paragraphs: [
+          "Vous pouvez demander de l’aide dès que vous en ressentez le besoin, sans attendre une crise ou plusieurs échecs.",
+          "Un soutien est particulièrement utile si l’anxiété, la tristesse, les troubles du sommeil, l’isolement ou les conflits deviennent envahissants.",
+          "Le centre d’AMP peut parfois proposer un psychologue ou vous orienter. Vous pouvez aussi consulter un professionnel extérieur ou utiliser le dispositif Mon soutien psy."
+        ],
+        bullets: [
+          "Vous pleurez souvent ou vous sentez constamment tendue.",
+          "Le parcours prend toute la place dans vos pensées.",
+          "Vous vous isolez de vos proches.",
+          "Le couple est en conflit permanent.",
+          "Vous n’arrivez plus à travailler, dormir ou manger normalement.",
+          "Vous avez des pensées très négatives ou vous vous sentez en danger."
+        ]
+      },
+      {
+        title: "Comment prendre soin de soi sans en faire une obligation ?",
+        paragraphs: [
+          "Prendre soin de soi ne signifie pas suivre une liste parfaite de conseils. Choisissez une ou deux choses réellement apaisantes.",
+          "Une marche, un repas simple, une soirée sans téléphone, une activité créative ou un moment avec une personne de confiance peuvent suffire.",
+          "Évitez de culpabiliser si vous n’arrivez pas à méditer, faire du sport ou rester positive. Votre réaction émotionnelle ne détermine pas le résultat du traitement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La PMA peut être éprouvante sur les plans physique, émotionnel, relationnel et professionnel. Il est normal que votre capacité à y faire face varie au fil du parcours.",
+          "Préserver des espaces en dehors de la PMA, poser des limites et demander de l’aide tôt peut rendre le parcours plus supportable.",
+          "Vous n’avez pas à traverser cette période seule, ni à attendre d’aller très mal pour parler à un professionnel."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Agence de la biomédecine — Guide de l’assistance médicale à la procréation",
+        url: "https://www.agence-biomedecine.fr/IMG/pdf/bd_biom24-5_maj_broch_patients_amp_a5_40p_pap.pdf"
+      },
+      {
+        label: "Agence de la biomédecine — Les différentes étapes des parcours d’AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-etapes-des-parcours-d-assistance-medicale-a-la-procreation"
+      },
+      {
+        label: "Assurance Maladie — Assistance médicale à la procréation",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp"
+      },
+      {
+        label: "Assurance Maladie — Mon soutien psy",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/seances-psychologue-mon-soutien-psy"
+      },
+      {
+        label: "Service-Public.fr — Autorisations d’absence pour les actes médicaux d’AMP",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F2330"
+      }
+    ]
+  },
+  {
     slug: "comment-se-deroule-fiv-etape-par-etape",
     title: "Comment se déroule une FIV, étape par étape ?",
     description:
