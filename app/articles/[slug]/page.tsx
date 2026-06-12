@@ -1,4 +1,5 @@
 import Image from "next/image";
+import type { ReactNode } from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -8,6 +9,17 @@ import { articles, getArticle } from "@/lib/articles";
 import { getArticleImage } from "@/lib/articleImages";
 
 type Props = { params: Promise<{ slug: string }> };
+
+
+function renderRichText(text: string): ReactNode[] {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={`${part}-${index}`}>{part.slice(2, -2)}</strong>;
+    }
+
+    return part;
+  });
+}
 
 function sectionId(index: number) {
   return `section-${index + 1}`;
@@ -87,13 +99,13 @@ export default async function ArticlePage({ params }: Props) {
                 <h2>{section.title}</h2>
 
                 {section.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{paragraph}</p>
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
 
                 {section.bullets && (
                   <ul>
                     {section.bullets.map((bullet) => (
-                      <li key={bullet}>{bullet}</li>
+                      <li key={bullet}>{renderRichText(bullet)}</li>
                     ))}
                   </ul>
                 )}
@@ -101,7 +113,7 @@ export default async function ArticlePage({ params }: Props) {
                 {section.quote && (
                   <div className="key-takeaway">
                     <strong>À retenir</strong>
-                    {section.quote}
+                    {renderRichText(section.quote)}
                   </div>
                 )}
               </section>
