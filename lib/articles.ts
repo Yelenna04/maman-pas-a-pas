@@ -231,6 +231,154 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "pma-demarches-delais-prise-en-charge",
+    title: "PMA : quelles démarches, quels délais et quelle prise en charge ?",
+    description:
+      "Les principales étapes pour commencer un parcours d’AMP en France, comprendre les délais possibles et connaître les règles de remboursement.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le parcours commence par une consultation dans un centre d’AMP ou auprès d’un spécialiste de la fertilité.",
+          "Plusieurs rendez-vous et examens sont nécessaires avant de choisir la technique.",
+          "Les délais varient selon le centre, la technique et le recours éventuel à un don.",
+          "L’Assurance Maladie peut prendre en charge les actes d’AMP à 100 % dans les limites prévues."
+        ],
+        quote:
+          "Une orientation vers un centre d’AMP ne signifie pas qu’un traitement commencera immédiatement : le bilan et les entretiens permettent d’abord de choisir le parcours adapté."
+      },
+      {
+        title: "Par où commencer un parcours de PMA ?",
+        paragraphs: [
+          "Vous pouvez commencer par votre médecin généraliste, une sage-femme, un gynécologue ou prendre directement rendez-vous auprès d’un centre d’assistance médicale à la procréation.",
+          "Le premier rendez-vous permet de reprendre l’histoire du projet parental, les antécédents médicaux, les éventuels essais déjà réalisés et les examens disponibles.",
+          "L’équipe explique ensuite les étapes possibles et propose les examens nécessaires avant de décider d’une insémination, d’une FIV, d’une ICSI ou d’un autre parcours."
+        ]
+      },
+      {
+        title: "Les 3 grandes étapes avant le traitement",
+        paragraphs: [
+          "Le bilan médical : examens gynécologiques, prises de sang, échographie et, lorsqu’il y a un partenaire produisant des spermatozoïdes, spermogramme ou examens complémentaires.",
+          "Les entretiens avec l’équipe : explication des techniques, des chances de réussite, des risques, des contraintes et des alternatives possibles.",
+          "Les démarches administratives : consentements, documents d’identité, justificatifs demandés par le centre et demande de prise en charge auprès de l’Assurance Maladie."
+        ],
+        quote:
+          "Préparez les comptes rendus déjà disponibles : cela peut éviter de refaire certains examens et faciliter le premier rendez-vous."
+      },
+      {
+        title: "Combien de temps faut-il avant de commencer ?",
+        paragraphs: [
+          "Il n’existe pas de délai unique. Certains parcours débutent après quelques semaines, tandis que d’autres demandent plusieurs mois.",
+          "Le délai dépend du nombre de rendez-vous, des examens à réaliser, de la technique proposée, de l’organisation du centre et de la nécessité éventuelle d’un traitement préalable.",
+          "Lorsque le parcours nécessite un don de spermatozoïdes ou d’ovocytes, l’attente peut être plus longue en raison du nombre limité de donneurs et des modalités d’appariement."
+        ]
+      },
+      {
+        title: "Pourquoi les délais varient-ils autant ?",
+        paragraphs: [
+          "Les centres n’ont pas tous les mêmes capacités d’accueil, les mêmes équipements ni les mêmes listes d’attente.",
+          "Certains examens doivent être réalisés à un moment précis du cycle, ce qui peut décaler le calendrier de plusieurs semaines.",
+          "Une anomalie découverte pendant le bilan, une vaccination à mettre à jour, un traitement à adapter ou une intervention préalable peut également retarder le début du protocole."
+        ]
+      },
+      {
+        title: "Comment se déroule la demande de prise en charge ?",
+        paragraphs: [
+          "Le médecin ou le centre prépare généralement une demande de prise en charge à 100 % pour les soins liés à l’AMP.",
+          "Cette demande est transmise à la caisse d’Assurance Maladie. Après accord, les actes prévus sont remboursés sur la base des tarifs de l’Assurance Maladie.",
+          "Gardez une copie de l’accord et demandez au centre si des dépassements d’honoraires, frais annexes ou actes non remboursés peuvent rester à votre charge."
+        ]
+      },
+      {
+        title: "Que prend en charge l’Assurance Maladie ?",
+        paragraphs: [
+          "Les actes d’AMP peuvent être pris en charge à 100 % dans la limite des tarifs de l’Assurance Maladie.",
+          "La prise en charge prévoit au maximum 6 inséminations, à raison d’une insémination par cycle, et 4 tentatives de fécondation in vitro pour obtenir une grossesse.",
+          "Ces limites ne signifient pas qu’il faut réaliser les 6 inséminations avant d’avoir accès à une FIV. La technique est choisie selon la situation médicale."
+        ],
+        quote:
+          "Une nouvelle grossesse ouvre un nouveau décompte dans les conditions prévues par l’Assurance Maladie."
+      },
+      {
+        title: "Quelles sont les limites d’âge ?",
+        paragraphs: [
+          "En France, le prélèvement d’ovocytes dans le cadre d’un projet d’AMP est autorisé jusqu’au jour du 43e anniversaire.",
+          "L’utilisation de gamètes ou d’embryons pour la personne qui portera la grossesse est autorisée jusqu’au jour du 45e anniversaire.",
+          "Le recueil de spermatozoïdes et la participation de la personne du couple qui ne portera pas l’enfant sont possibles jusqu’au jour du 60e anniversaire.",
+          "Les conditions légales d’accès et les conditions de remboursement ne doivent pas être confondues : demandez au centre et à votre caisse de confirmer ce qui s’applique à votre situation."
+        ]
+      },
+      {
+        title: "Quels frais peuvent rester à charge ?",
+        paragraphs: [
+          "La prise en charge à 100 % s’effectue sur la base des tarifs de l’Assurance Maladie. Des dépassements d’honoraires peuvent donc rester à payer.",
+          "Certains transports, hébergements, consultations non conventionnées ou examens réalisés hors du parcours validé peuvent également ne pas être entièrement remboursés.",
+          "Votre complémentaire santé peut prendre en charge une partie de ces frais selon votre contrat."
+        ]
+      },
+      {
+        title: "Et pour une PMA à l’étranger ?",
+        paragraphs: [
+          "Une AMP réalisée dans un pays de l’Union européenne ou en Suisse peut parfois être remboursée, mais une autorisation préalable est nécessaire.",
+          "La demande doit être adressée au Centre national des soins à l’étranger avant le début des soins, avec les documents médicaux et administratifs demandés.",
+          "Ne commencez pas le traitement avant d’avoir reçu l’accord écrit si vous souhaitez demander une prise en charge."
+        ]
+      },
+      {
+        title: "Comment mieux vivre l’attente ?",
+        paragraphs: [
+          "Demandez au centre un calendrier approximatif, les examens encore nécessaires et la personne à contacter en cas de question.",
+          "Regroupez les documents, notez les dates et gardez une copie des ordonnances, consentements et accords de prise en charge.",
+          "Si l’attente ou les traitements deviennent difficiles à vivre, vous pouvez demander un soutien psychologique ou vous rapprocher d’une association de patients."
+        ],
+        bullets: [
+          "Noter les coordonnées du centre et du secrétariat.",
+          "Demander quels examens ont une durée de validité limitée.",
+          "Conserver les accords de prise en charge.",
+          "Vérifier les éventuels frais restant à charge.",
+          "Demander de l’aide si la charge émotionnelle devient trop importante."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un parcours d’AMP commence par un bilan, des entretiens et des démarches administratives. Les délais varient fortement selon la technique, le centre et le recours éventuel à un don.",
+          "La prise en charge peut atteindre 100 % dans les limites réglementaires, mais certains frais peuvent rester à charge. Il est utile de vérifier chaque étape avec le centre et l’Assurance Maladie."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Prise en charge de l’assistance médicale à la procréation",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/assistance-medicale-la-procreation-amp/prise-en-charge-de-l-assistance-medicale-la-procreation-amp"
+      },
+      {
+        label: "Agence de la biomédecine — Les différentes étapes des parcours d’AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-etapes-des-parcours-d-assistance-medicale-a-la-procreation"
+      },
+      {
+        label: "Agence de la biomédecine — Conditions d’âge pour bénéficier d’une AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-conditions-d-age-minimal-et-maximal-pour-pouvoir-beneficier-d-une-assistance-medicale-a-la-procreation-en-france"
+      },
+      {
+        label: "Agence de la biomédecine — Annuaire des centres d’AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/existe-t-il-une-carte-qui-recense-tous-les-centres-d-assistance-medicale-a-la-procreation"
+      },
+      {
+        label: "Assurance Maladie — AMP réalisée dans l’Union européenne ou en Suisse",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/assistance-medicale-la-procreation-amp/amp-etranger-remboursement"
+      }
+    ]
+  },
+  {
     slug: "pma-amp-definition-a-qui-adresse",
     title: "PMA ou AMP : qu’est-ce que c’est et à qui s’adresse-t-elle ?",
     description:
