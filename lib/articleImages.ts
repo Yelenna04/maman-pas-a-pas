@@ -14,6 +14,14 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "test-positif-premieres-demarches") {
+    return "/images/article-a-la-une.png";
+  }
+
+  if (slug === "plantes-huiles-essentielles-complements-sans-risque") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "automedication-avant-pendant-grossesse-reflexes") {
     return "/images/article-a-la-une.png";
   }
