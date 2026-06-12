@@ -63,6 +63,21 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "quels-vaccins-verifier-avant-grossesse": {
+    essentialIcons: [ShieldCheck, ClipboardList, CalendarDays, Heart],
+    cardIcons: [ShieldCheck, Heart, ClipboardList],
+    cardTitles: ["Vaccin ROR", "Varicelle", "Rappels habituels"]
+  },
+  "comment-vivre-emotionnellement-parcours-pma": {
+    essentialIcons: [Heart, Sparkles, Users, ShieldCheck],
+    cardIcons: [Heart, Users, Sparkles],
+    cardTitles: ["Nommer ses émotions", "Choisir ce que l’on partage", "Préserver des espaces sans PMA"]
+  },
+  "comment-se-deroule-fiv-etape-par-etape": {
+    essentialIcons: [CalendarDays, TestTubeDiagonal, Sparkles, ShieldCheck],
+    cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
+    cardTitles: ["Stimulation", "Ponction et fécondation", "Culture et transfert"]
+  },
   "fiv-classique-icsi-quelles-differences": {
     essentialIcons: [TestTubeDiagonal, Users, ShieldCheck, ClipboardList],
     cardIcons: [TestTubeDiagonal, Users, ClipboardList],
