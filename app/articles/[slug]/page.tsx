@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "quels-vaccins-verifier-avant-grossesse": {
+    essentialIcons: [ShieldCheck, ClipboardList, CalendarDays, Heart],
+    cardIcons: [ShieldCheck, Heart, ClipboardList],
+    cardTitles: ["Vaccin ROR", "Varicelle", "Rappels habituels"]
+  },
   "comment-vivre-emotionnellement-parcours-pma": {
     essentialIcons: [Heart, Sparkles, Users, ShieldCheck],
     cardIcons: [Heart, Users, Sparkles],
