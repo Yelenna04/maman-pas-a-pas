@@ -231,6 +231,126 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "apres-arret-contraception-quand-cycle-revient",
+    title: "Après l’arrêt de la contraception : quand le cycle revient-il ?",
+    description:
+      "Des repères simples pour comprendre le retour des règles et de l’ovulation après l’arrêt d’une contraception.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Fertilité et cycle",
+    subcategorySlug: "fertilite-cycle",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La fertilité peut revenir avant les premières règles naturelles.",
+          "Après la pilule, l’anneau, le patch, l’implant ou le retrait d’un stérilet, le retour de la fertilité est généralement rapide.",
+          "Les premiers cycles peuvent être irréguliers pendant quelque temps.",
+          "L’injection contraceptive est la méthode qui peut retarder le plus longtemps le retour de l’ovulation."
+        ],
+        quote:
+          "Il est possible d’ovuler et de tomber enceinte avant le retour des premières règles."
+      },
+      {
+        title: "Retour des règles et retour de la fertilité : quelle différence ?",
+        paragraphs: [
+          "Le retour des règles et le retour de la fertilité ne correspondent pas exactement à la même chose. L’ovulation se produit avant les règles : une grossesse peut donc commencer avant le premier saignement naturel après l’arrêt de la contraception.",
+          "Après l’arrêt d’une contraception hormonale, un saignement peut parfois correspondre à une privation hormonale et non encore au retour d’un cycle naturel complet.",
+          "Le délai dépend de la méthode utilisée, de votre cycle avant la contraception, de votre âge et de votre état de santé."
+        ]
+      },
+      {
+        title: "Le délai dépend de la méthode utilisée",
+        paragraphs: [
+          "Pilule, patch ou anneau vaginal : la fertilité revient généralement rapidement après l’arrêt, souvent en quelques semaines. Il est possible d’ovuler dès le premier cycle.",
+          "Implant ou stérilet : après le retrait, la fertilité peut revenir très vite. Une grossesse peut être possible avant même le retour des règles, quelle que soit la durée d’utilisation.",
+          "Injection contraceptive : le retour de l’ovulation peut demander plusieurs mois et parfois plus d’un an. Ce délai est plus long que pour les autres méthodes, mais la fertilité finit habituellement par revenir."
+        ],
+        quote:
+          "La contraception utilisée pendant plusieurs années ne rend pas infertile. L’âge au moment de l’arrêt peut toutefois influencer la fertilité naturelle."
+      },
+      {
+        title: "À quoi s’attendre pendant les premiers mois ?",
+        paragraphs: [
+          "Les règles peuvent revenir rapidement ou mettre plusieurs semaines à réapparaître. Les premiers cycles peuvent être plus courts, plus longs ou moins prévisibles.",
+          "Les symptômes que la contraception contrôlait peuvent aussi réapparaître : acné, règles douloureuses ou abondantes, syndrome prémenstruel ou cycles irréguliers.",
+          "Si vos règles étaient déjà irrégulières avant la contraception, elles peuvent le redevenir après l’arrêt. La contraception peut avoir masqué un trouble du cycle sans en être la cause."
+        ]
+      },
+      {
+        title: "Peut-on tomber enceinte avant le retour des règles ?",
+        paragraphs: [
+          "Oui. Comme l’ovulation précède les règles, une grossesse est possible avant le premier retour de règles.",
+          "Si vous ne souhaitez pas de grossesse immédiatement, utilisez une autre méthode contraceptive dès l’arrêt ou le retrait de votre contraception.",
+          "Si vous souhaitez concevoir, il n’est généralement pas nécessaire d’attendre plusieurs cycles après l’arrêt de la pilule, de l’anneau, du patch, de l’implant ou du stérilet. Un professionnel peut toutefois vous conseiller selon votre situation."
+        ]
+      },
+      {
+        title: "Comment suivre le retour du cycle ?",
+        paragraphs: [
+          "Notez la date des saignements, leur durée et leur abondance. Cela permet de voir progressivement si un rythme se réinstalle.",
+          "Vous pouvez aussi observer la glaire cervicale ou utiliser des tests d’ovulation, mais leurs résultats peuvent être difficiles à interpréter pendant les premiers cycles irréguliers.",
+          "Une application peut servir de carnet de suivi, mais ses prévisions restent approximatives tant que votre cycle n’est pas stabilisé."
+        ],
+        bullets: [
+          "Notez le premier jour de chaque saignement.",
+          "Observez les changements inhabituels.",
+          "Faites un test de grossesse en cas de retard et de rapport non protégé.",
+          "Gardez la liste de vos traitements pour une éventuelle consultation."
+        ]
+      },
+      {
+        title: "Quand demander un avis médical ?",
+        paragraphs: [
+          "Faites un test de grossesse si vos règles ne reviennent pas et qu’une grossesse est possible.",
+          "Prenez rendez-vous en cas d’absence de règles pendant plus de trois mois après l’arrêt, hors grossesse, allaitement ou situation déjà expliquée par un professionnel.",
+          "Consultez plus tôt en cas de douleur importante, de saignements très abondants, de symptômes inhabituels ou si vos cycles restent très irréguliers et que vous souhaitez concevoir."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pour la plupart des méthodes contraceptives, la fertilité revient rapidement après l’arrêt ou le retrait. L’injection contraceptive constitue l’exception principale, avec un délai parfois plus long.",
+          "Le retour des règles peut demander un peu de temps et les premiers cycles peuvent être irréguliers. Une grossesse reste possible avant les premières règles naturelles."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Aménorrhée secondaire, arrêt des règles de plus de trois mois",
+        url: "https://www.ameli.fr/assure/sante/themes/retard-absence-de-regles-ou-amenorrhee/amenorrhee-regles-retard-absence-0"
+      },
+      {
+        label: "NHS — What is the combined pill?",
+        url: "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/what-is-it/"
+      },
+      {
+        label: "NHS — What is the progestogen-only pill?",
+        url: "https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/what-is-it/"
+      },
+      {
+        label: "NHS — Contraceptive injections: common questions",
+        url: "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/common-questions-about-medroxyprogesterone-contraceptive-injections/"
+      },
+      {
+        label: "ACOG — What I Wish All Teens Knew About Long-Acting Birth Control",
+        url: "https://www.acog.org/womens-health/experts-and-stories/the-latest/what-i-wish-all-teens-knew-about-long-acting-birth-control"
+      },
+      {
+        label: "ACOG — What to Know About Skipping Periods With Birth Control",
+        url: "https://www.acog.org/womens-health/experts-and-stories/the-latest/what-to-know-about-skipping-periods-with-birth-control"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Oral contraceptives",
+        url: "https://www.who.int/news-room/fact-sheets/detail/oral-contraceptives"
+      }
+    ]
+  },
+  {
     slug: "combien-temps-moyenne-tomber-enceinte",
     title: "Combien de temps faut-il en moyenne pour tomber enceinte ?",
     description:
