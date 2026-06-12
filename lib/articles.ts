@@ -286,8 +286,11 @@ export const articles: Article[] = [
         paragraphs: [
           "Non. Il est préférable de simplifier progressivement plutôt que de jeter tous les produits déjà utilisés.",
           "Choisissez en priorité les produits nécessaires, avec peu d’ingrédients, et limitez ceux qui restent longtemps sur la peau ou qui sont fortement parfumés.",
-          "Les huiles essentielles sont déconseillées pendant la grossesse sans avis professionnel. Dès le projet bébé, demandez conseil avant de les utiliser par voie orale, cutanée ou en diffusion."
-        ]
+          "Les huiles essentielles sont déconseillées pendant la grossesse sans avis professionnel. Dès le projet bébé, demandez conseil avant de les utiliser par voie orale, cutanée ou en diffusion.",
+          "Pour le vernis semi-permanent, le gel ou la résine, une pose occasionnelle n’est pas forcément interdite, mais mieux vaut choisir un lieu bien ventilé, éviter tout contact du produit non durci avec la peau et espacer les poses. En cas de rougeur, démangeaison ou gonflement, retirez le produit et demandez conseil."
+        ],
+        quote:
+          "Les produits pour ongles artificiels peuvent provoquer des allergies, surtout lorsque le gel non durci touche la peau."
       },
       {
         title: "Que faire avec les contenants alimentaires ?",
