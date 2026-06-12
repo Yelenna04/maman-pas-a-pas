@@ -6,26 +6,26 @@ import { notFound } from "next/navigation";
 import {
   AlertTriangle,
   CalendarDays,
-  ClipboardList,
   Check,
   ChevronDown,
+  ClipboardList,
   Droplets,
   Heart,
   Leaf,
   Lightbulb,
   MessageCircle,
-  Pill,
   ShieldCheck,
-  Syringe,
   Sparkles,
   TestTubeDiagonal,
-  Thermometer
+  Thermometer,
+  Users
 } from "lucide-react";
 
 import { articles, getArticle } from "@/lib/articles";
 import { getArticleImage } from "@/lib/articleImages";
 
 type Props = { params: Promise<{ slug: string }> };
+type Article = NonNullable<ReturnType<typeof getArticle>>;
 
 function renderRichText(text: string): ReactNode[] {
   return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) => {
@@ -35,10 +35,6 @@ function renderRichText(text: string): ReactNode[] {
 
     return part;
   });
-}
-
-function sectionId(index: number) {
-  return `section-${index + 1}`;
 }
 
 export function generateStaticParams() {
@@ -58,20 +54,113 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function StandardArticle({
-  article
-}: {
-  article: NonNullable<ReturnType<typeof getArticle>>;
-}) {
+const articleDisplayConfig: Record<
+  string,
+  {
+    essentialIcons: typeof Heart[];
+    cardIcons: typeof Heart[];
+    cardTitles: string[];
+    adviceTitle?: string;
+  }
+> = {
+  "comment-reperer-ovulation-periode-fertile": {
+    essentialIcons: [CalendarDays, Droplets, TestTubeDiagonal, Thermometer],
+    cardIcons: [Droplets, TestTubeDiagonal, Thermometer],
+    cardTitles: ["Glaire cervicale", "Test d’ovulation", "Température basale"]
+  },
+  "periode-fertile-jours-plus-favorables": {
+    essentialIcons: [CalendarDays, Heart, Thermometer, CalendarDays],
+    cardIcons: [Heart, Droplets, TestTubeDiagonal],
+    cardTitles: ["Rapports réguliers", "Observer la glaire", "Test d’ovulation"]
+  },
+  "que-faire-avant-essayer-avoir-bebe": {
+    essentialIcons: [CalendarDays, Leaf, ShieldCheck, Heart],
+    cardIcons: [ClipboardList, CalendarDays, ShieldCheck],
+    cardTitles: ["Première étape", "À préparer", "À vérifier"]
+  },
+  "se-preparer-emotionnellement-projet-bebe": {
+    essentialIcons: [Heart, Sparkles, Lightbulb, ShieldCheck],
+    cardIcons: [Heart, CalendarDays, MessageCircle],
+    cardTitles: [
+      "Clarifier ses attentes",
+      "Choisir ses priorités",
+      "Identifier ses soutiens"
+    ]
+  },
+  "parler-projet-bebe-avec-partenaire": {
+    essentialIcons: [MessageCircle, Heart, CalendarDays, Users],
+    cardIcons: [Heart, MessageCircle, ClipboardList],
+    cardTitles: ["Envies et calendrier", "Inquiétudes", "Premières étapes"]
+  }
+};
+
+function getItems(
+  section: Article["sections"][number] | undefined
+): string[] {
+  if (!section) return [];
+  if (section.paragraphs?.length) return section.paragraphs;
+  if (section.bullets?.length) return section.bullets;
+  return [];
+}
+
+function UnifiedArticle({ article }: { article: Article }) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+
+  const contentSections = article.sections.filter(
+    (section) => section !== essentials && section !== takeaway
+  );
+
+  const primary = contentSections[0];
+
+  const cardSection =
+    contentSections.find(
+      (section, index) =>
+        index > 0 &&
+        ((section.paragraphs?.length ?? 0) >= 3 ||
+          (section.bullets?.length ?? 0) >= 3)
+    ) ?? contentSections[1];
+
+  const helpSection =
+    [...contentSections]
+      .reverse()
+      .find(
+        (section) =>
+          section !== primary &&
+          section !== cardSection &&
+          /quand|consulter|aide|soutien|avis/i.test(section.title)
+      ) ??
+    [...contentSections]
+      .reverse()
+      .find(
+        (section) => section !== primary && section !== cardSection
+      );
+
+  const extraSections = contentSections.filter(
+    (section) =>
+      section !== primary &&
+      section !== cardSection &&
+      section !== helpSection
+  );
+
+  const config = articleDisplayConfig[article.slug] ?? {
+    essentialIcons: [Heart, Sparkles, Lightbulb, ShieldCheck],
+    cardIcons: [Heart, CalendarDays, MessageCircle],
+    cardTitles: ["Premier repère", "Deuxième repère", "Troisième repère"]
+  };
+
+  const cardItems = getItems(cardSection).slice(0, 3);
+
   return (
-    <>
+    <main className="compact-article">
       <div className="article-shell">
-        <div className="article-hero-card photo-article-hero">
-          <div className="article-hero-copy">
-            <div
-              className="breadcrumbs"
-              style={{ justifyContent: "flex-start" }}
-            >
+        <section className="compact-article-hero">
+          <div className="compact-hero-copy">
+            <div className="breadcrumbs compact-breadcrumbs">
               <Link href="/">Accueil</Link>
               <span>›</span>
               <Link href={`/${article.categorySlug}`}>
@@ -79,775 +168,6 @@ function StandardArticle({
               </Link>
               <span>›</span>
               <span>{article.subcategory || "Article"}</span>
-            </div>
-
-            <span className="badge">
-              {article.subcategory || article.category}
-            </span>
-
-            <span className="badge">Cycle et ovulation</span>
-            <h1>{article.title}</h1>
-            <p className="lead">{article.description}</p>
-          </div>
-
-          <div className="article-hero-photo">
-            <Image
-              src={getArticleImage(article.categorySlug, article.slug)}
-              alt=""
-              fill
-              priority
-              sizes="(max-width: 980px) 100vw, 42vw"
-            />
-          </div>
-        </div>
-
-        <div className="article-main-grid">
-          <article className="article-content-card prose">
-            <div className="notice">
-              <strong>À retenir :</strong> cet article fournit des informations
-              générales. Il ne remplace pas un diagnostic, une consultation ou
-              un suivi personnalisé.
-            </div>
-
-            {article.sections.map((section, index) => (
-              <section key={section.title} id={sectionId(index)}>
-                <h2>{section.title}</h2>
-
-                {section.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-
-                {section.bullets && (
-                  <ul>
-                    {section.bullets.map((bullet) => (
-                      <li key={bullet}>{renderRichText(bullet)}</li>
-                    ))}
-                  </ul>
-                )}
-
-                {section.quote && (
-                  <div className="key-takeaway">
-                    <strong>À retenir</strong>
-                    {renderRichText(section.quote)}
-                  </div>
-                )}
-              </section>
-            ))}
-
-            <section className="article-source-box">
-              <h2>Sources consultées</h2>
-              <ul className="source-list">
-                {article.sources.map((source) => (
-                  <li key={source.label}>
-                    <a href={source.url} target="_blank" rel="noreferrer">
-                      {source.label}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </section>
-          </article>
-
-          <aside>
-            <nav className="article-toc" aria-label="Sommaire de l’article">
-              <h3>Dans cet article</h3>
-              <ol>
-                {article.sections.map((section, index) => (
-                  <li key={section.title}>
-                    <a href={`#${sectionId(index)}`}>{section.title}</a>
-                  </li>
-                ))}
-              </ol>
-            </nav>
-
-            <div className="card" style={{ marginTop: 18 }}>
-              <AlertTriangle size={26} color="#9d6868" />
-              <h3 style={{ marginTop: 14 }}>Besoin d’aide rapidement ?</h3>
-              <p className="muted">
-                En cas de symptôme inquiétant, de douleur intense, de malaise
-                ou de danger immédiat, contactez un professionnel de santé ou
-                les services d’urgence.
-              </p>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </>
-  );
-}
-
-function OvulationArticle({
-  article
-}: {
-  article: NonNullable<ReturnType<typeof getArticle>>;
-}) {
-  const essentials = article.sections.find(
-    (section) => section.title === "L’essentiel en 30 secondes"
-  );
-  const timing = article.sections.find(
-    (section) => section.title === "Quand l’ovulation a-t-elle lieu ?"
-  );
-  const signs = article.sections.find(
-    (section) => section.title === "Les 3 signes les plus utiles"
-  );
-  const apps = article.sections.find(
-    (section) => section.title === "Et les applications de suivi du cycle ?"
-  );
-  const monitor = article.sections.find(
-    (section) => section.title === "Faut-il surveiller tous les signes ?"
-  );
-  const medical = article.sections.find(
-    (section) => section.title === "Quand demander un avis médical ?"
-  );
-  const takeaway = article.sections.find(
-    (section) => section.title === "À retenir"
-  );
-
-  const essentialIcons = [
-    CalendarDays,
-    CalendarDays,
-    Droplets,
-    TestTubeDiagonal,
-    Thermometer
-  ];
-
-  const signIcons = [Droplets, TestTubeDiagonal, Thermometer];
-
-  return (
-    <main className="compact-article">
-      <div className="article-shell">
-        <section className="compact-article-hero">
-          <div className="compact-hero-copy">
-            <div className="breadcrumbs compact-breadcrumbs">
-              <Link href="/">Accueil</Link>
-              <span>›</span>
-              <Link href={`/${article.categorySlug}`}>
-                {article.category}
-              </Link>
-              <span>›</span>
-              <span>{article.subcategory}</span>
-            </div>
-
-            <h1>{article.title}</h1>
-            <p className="lead">{article.description}</p>
-
-            <div className="verified-pill">
-              <ShieldCheck size={18} />
-              Informations médicales vérifiées
-            </div>
-          </div>
-
-          <div className="compact-hero-photo">
-            <Image
-              src={getArticleImage(article.categorySlug, article.slug)}
-              alt=""
-              fill
-              priority
-              sizes="(max-width: 900px) 100vw, 43vw"
-            />
-          </div>
-        </section>
-
-        {essentials?.bullets && (
-          <section className="compact-essentials">
-            <h2>L’essentiel en 30 secondes</h2>
-            <div className="essential-grid">
-              {essentials.bullets.slice(0, 4).map((bullet, index) => {
-                const Icon = essentialIcons[index];
-                return (
-                  <div className="essential-card" key={bullet}>
-                    <span className="essential-icon">
-                      <Icon size={23} />
-                    </span>
-                    <p>{renderRichText(bullet)}</p>
-                  </div>
-                );
-              })}
-            </div>
-          </section>
-        )}
-
-        <div className="compact-article-grid">
-          <article className="compact-main-column">
-            {timing && (
-              <section className="compact-section">
-                <h2>
-                  <span>1</span>
-                  {timing.title}
-                </h2>
-                {timing.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-                {essentials?.quote && (
-                  <div className="compact-note rose-note">
-                    <strong>Bon à savoir</strong>
-                    <p>{renderRichText(essentials.quote)}</p>
-                  </div>
-                )}
-              </section>
-            )}
-
-            {signs && (
-              <section className="compact-section">
-                <h2>
-                  <span>2</span>
-                  {signs.title}
-                </h2>
-                <div className="sign-grid">
-                  {signs.paragraphs?.slice(0, 3).map((paragraph, index) => {
-                    const Icon = signIcons[index];
-                    const titles = [
-                      "Glaire cervicale",
-                      "Test d’ovulation",
-                      "Température basale"
-                    ];
-                    return (
-                      <div className="sign-card" key={paragraph}>
-                        <span className="sign-icon">
-                          <Icon size={25} />
-                        </span>
-                        <h3>{index + 1}. {titles[index]}</h3>
-                        <p>{renderRichText(paragraph)}</p>
-                      </div>
-                    );
-                  })}
-                </div>
-              </section>
-            )}
-
-            {medical && (
-              <section className="compact-section medical-section">
-                <h2>
-                  <span>3</span>
-                  {medical.title}
-                </h2>
-                <div className="medical-list">
-                  {medical.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>
-                      <Check size={18} />
-                      <span>{renderRichText(paragraph)}</span>
-                    </p>
-                  ))}
-                </div>
-                <div className="compact-warning">
-                  <AlertTriangle size={21} />
-                  <p>
-                    Une douleur intense ou persistante, de la fièvre, un
-                    malaise ou des saignements importants nécessitent un avis
-                    médical rapide.
-                  </p>
-                </div>
-              </section>
-            )}
-
-            {takeaway && (
-              <section className="compact-takeaway">
-                <h2>À retenir</h2>
-                {takeaway.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-              </section>
-            )}
-          </article>
-
-          <aside className="compact-side-column">
-            <section className="learn-more-box">
-              <h2>En savoir plus</h2>
-
-              {apps && (
-                <details>
-                  <summary>
-                    Les applications de suivi du cycle
-                    <ChevronDown size={18} />
-                  </summary>
-                  {apps.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
-
-              {monitor && (
-                <details>
-                  <summary>
-                    Faut-il surveiller tous les signes ?
-                    <ChevronDown size={18} />
-                  </summary>
-                  {monitor.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
-            </section>
-
-            {monitor?.quote && (
-              <section className="simple-advice-box">
-                <Lightbulb size={25} />
-                <h2>Le conseil le plus simple</h2>
-                <p>{renderRichText(monitor.quote)}</p>
-              </section>
-            )}
-          </aside>
-        </div>
-
-        <section className="compact-source-box">
-              <h2>Sources consultées</h2>
-              <ul>
-                {article.sources.map((source) => (
-                  <li key={source.label}>
-                    <a href={source.url} target="_blank" rel="noreferrer">
-                      {source.label}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </section>
-      </div>
-    </main>
-  );
-}
-
-
-function FertilityArticle({
-  article
-}: {
-  article: NonNullable<ReturnType<typeof getArticle>>;
-}) {
-  const essentials = article.sections.find(
-    (section) => section.title === "L’essentiel en 30 secondes"
-  );
-  const definition = article.sections.find(
-    (section) => section.title === "Qu’est-ce que la période fertile ?"
-  );
-  const markers = article.sections.find(
-    (section) => section.title === "Les 3 repères les plus simples"
-  );
-  const exactDay = article.sections.find(
-    (section) => section.title === "Faut-il viser le jour exact de l’ovulation ?"
-  );
-  const stress = article.sections.find(
-    (section) => section.title === "Et si les essais deviennent stressants ?"
-  );
-  const medical = article.sections.find(
-    (section) => section.title === "Quand demander un avis médical ?"
-  );
-  const takeaway = article.sections.find(
-    (section) => section.title === "À retenir"
-  );
-
-  const essentialIcons = [
-    CalendarDays,
-    Heart,
-    Thermometer,
-    CalendarDays
-  ];
-
-  const markerIcons = [Heart, Droplets, TestTubeDiagonal];
-
-  return (
-    <main className="compact-article">
-      <div className="article-shell">
-        <section className="compact-article-hero">
-          <div className="compact-hero-copy">
-            <div className="breadcrumbs compact-breadcrumbs">
-              <Link href="/">Accueil</Link>
-              <span>›</span>
-              <Link href={`/${article.categorySlug}`}>
-                {article.category}
-              </Link>
-              <span>›</span>
-              <span>{article.subcategory}</span>
-            </div>
-
-            <h1>{article.title}</h1>
-            <p className="lead">{article.description}</p>
-
-            <div className="verified-pill">
-              <ShieldCheck size={18} />
-              Informations médicales vérifiées
-            </div>
-          </div>
-
-          <div className="compact-hero-photo">
-            <Image
-              src={getArticleImage(article.categorySlug, article.slug)}
-              alt=""
-              fill
-              priority
-              sizes="(max-width: 900px) 100vw, 43vw"
-            />
-          </div>
-        </section>
-
-        {essentials?.bullets && (
-          <section className="compact-essentials">
-            <h2>L’essentiel en 30 secondes</h2>
-            <div className="essential-grid">
-              {essentials.bullets.slice(0, 4).map((bullet, index) => {
-                const Icon = essentialIcons[index];
-                return (
-                  <div className="essential-card" key={bullet}>
-                    <span className="essential-icon">
-                      <Icon size={23} />
-                    </span>
-                    <p>{renderRichText(bullet)}</p>
-                  </div>
-                );
-              })}
-            </div>
-          </section>
-        )}
-
-        <div className="compact-article-grid">
-          <article className="compact-main-column">
-            {definition && (
-              <section className="compact-section">
-                <h2>
-                  <span>1</span>
-                  {definition.title}
-                </h2>
-                {definition.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-                {essentials?.quote && (
-                  <div className="compact-note rose-note">
-                    <strong>Bon à savoir</strong>
-                    <p>{renderRichText(essentials.quote)}</p>
-                  </div>
-                )}
-              </section>
-            )}
-
-            {markers && (
-              <section className="compact-section">
-                <h2>
-                  <span>2</span>
-                  {markers.title}
-                </h2>
-                <div className="sign-grid">
-                  {markers.paragraphs?.slice(0, 3).map((paragraph, index) => {
-                    const Icon = markerIcons[index];
-                    const titles = [
-                      "Rapports réguliers",
-                      "Observer la glaire",
-                      "Test d’ovulation"
-                    ];
-
-                    return (
-                      <div className="sign-card" key={paragraph}>
-                        <span className="sign-icon">
-                          <Icon size={25} />
-                        </span>
-                        <h3>{index + 1}. {titles[index]}</h3>
-                        <p>{renderRichText(paragraph)}</p>
-                      </div>
-                    );
-                  })}
-                </div>
-              </section>
-            )}
-
-            {medical && (
-              <section className="compact-section medical-section">
-                <h2>
-                  <span>3</span>
-                  {medical.title}
-                </h2>
-                <div className="medical-list">
-                  {medical.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>
-                      <Check size={18} />
-                      <span>{renderRichText(paragraph)}</span>
-                    </p>
-                  ))}
-                </div>
-              </section>
-            )}
-
-            {takeaway && (
-              <section className="compact-takeaway">
-                <h2>À retenir</h2>
-                {takeaway.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-              </section>
-            )}
-          </article>
-
-          <aside className="compact-side-column">
-            <section className="learn-more-box">
-              <h2>En savoir plus</h2>
-
-              {exactDay && (
-                <details>
-                  <summary>
-                    Faut-il viser le jour exact ?
-                    <ChevronDown size={18} />
-                  </summary>
-                  {exactDay.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
-
-              {stress && (
-                <details>
-                  <summary>
-                    Et si les essais deviennent stressants ?
-                    <ChevronDown size={18} />
-                  </summary>
-                  {stress.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
-            </section>
-
-            {markers?.quote && (
-              <section className="simple-advice-box">
-                <Lightbulb size={25} />
-                <h2>Le conseil le plus simple</h2>
-                <p>{renderRichText(markers.quote)}</p>
-              </section>
-            )}
-          </aside>
-        </div>
-
-        <section className="compact-source-box">
-          <h2>Sources consultées</h2>
-          <ul>
-            {article.sources.map((source) => (
-              <li key={source.label}>
-                <a href={source.url} target="_blank" rel="noreferrer">
-                  {source.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      </div>
-    </main>
-  );
-}
-
-
-function ProjectBabyArticle({
-  article
-}: {
-  article: NonNullable<ReturnType<typeof getArticle>>;
-}) {
-  const essentials = article.sections.find(
-    (section) => section.title === "L’essentiel en 30 secondes"
-  );
-  const checklist = article.sections.find(
-    (section) => section.title === "Checklist : les premières étapes"
-  );
-  const startHere = article.sections.find(
-    (section) => section.title === "Par où commencer cette semaine ?"
-  );
-  const b9 = article.sections.find(
-    (section) => section.title === "Pourquoi parler de la vitamine B9 ?"
-  );
-  const personalised = article.sections.find(
-    (section) => section.title === "Quand demander un avis personnalisé ?"
-  );
-  const takeaway = article.sections.find(
-    (section) => section.title === "À retenir"
-  );
-
-  const essentialIcons = [CalendarDays, Leaf, Syringe, Heart];
-
-  return (
-    <main className="compact-article project-baby-article">
-      <div className="article-shell">
-        <section className="compact-article-hero">
-          <div className="compact-hero-copy">
-            <div className="breadcrumbs compact-breadcrumbs">
-              <Link href="/">Accueil</Link>
-              <span>›</span>
-              <Link href={`/${article.categorySlug}`}>
-                {article.category}
-              </Link>
-              <span>›</span>
-              <span>{article.subcategory}</span>
-            </div>
-
-            <h1>{article.title}</h1>
-            <p className="lead">{article.description}</p>
-
-            <div className="verified-pill">
-              <ShieldCheck size={18} />
-              Informations médicales vérifiées
-            </div>
-          </div>
-
-          <div className="compact-hero-photo">
-            <Image
-              src={getArticleImage(article.categorySlug, article.slug)}
-              alt=""
-              fill
-              priority
-              sizes="(max-width: 900px) 100vw, 43vw"
-            />
-          </div>
-        </section>
-
-        {essentials?.bullets && (
-          <section className="compact-essentials">
-            <h2>L’essentiel en 30 secondes</h2>
-            <div className="essential-grid">
-              {essentials.bullets.slice(0, 4).map((bullet, index) => {
-                const Icon = essentialIcons[index];
-                return (
-                  <div className="essential-card" key={bullet}>
-                    <span className="essential-icon">
-                      <Icon size={23} />
-                    </span>
-                    <p>{renderRichText(bullet)}</p>
-                  </div>
-                );
-              })}
-            </div>
-          </section>
-        )}
-
-        <div className="project-baby-layout">
-          <article className="project-checklist-card">
-            <div className="project-card-heading">
-              <ClipboardList size={24} />
-              <h2>Checklist : les premières étapes</h2>
-            </div>
-
-            <ul className="project-checklist">
-              {checklist?.bullets?.map((bullet) => (
-                <li key={bullet}>
-                  <span aria-hidden="true" />
-                  {renderRichText(bullet)}
-                </li>
-              ))}
-            </ul>
-          </article>
-
-          <aside className="project-baby-side">
-            {startHere && (
-              <section className="project-start-card">
-                <div className="project-card-heading">
-                  <Leaf size={24} />
-                  <h2>{startHere.title}</h2>
-                </div>
-                {startHere.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-                {startHere.quote && (
-                  <div className="project-mini-tip">
-                    {renderRichText(startHere.quote)}
-                  </div>
-                )}
-              </section>
-            )}
-
-            {personalised && (
-              <section className="project-personal-card">
-                <div className="project-card-heading">
-                  <ShieldCheck size={24} />
-                  <h2>{personalised.title}</h2>
-                </div>
-                {personalised.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-              </section>
-            )}
-          </aside>
-        </div>
-
-        <div className="project-details-grid">
-          {b9 && (
-            <section className="compact-section">
-              <h2>
-                <span>1</span>
-                {b9.title}
-              </h2>
-              {b9.paragraphs?.map((paragraph) => (
-                <p key={paragraph}>{renderRichText(paragraph)}</p>
-              ))}
-            </section>
-          )}
-
-          {takeaway && (
-            <section className="compact-takeaway">
-              <h2>À retenir</h2>
-              {takeaway.paragraphs?.map((paragraph) => (
-                <p key={paragraph}>{renderRichText(paragraph)}</p>
-              ))}
-              {essentials?.quote && (
-                <div className="project-takeaway-note">
-                  {renderRichText(essentials.quote)}
-                </div>
-              )}
-            </section>
-          )}
-        </div>
-
-        <section className="compact-source-box">
-          <h2>Sources consultées</h2>
-          <ul>
-            {article.sources.map((source) => (
-              <li key={source.label}>
-                <a href={source.url} target="_blank" rel="noreferrer">
-                  {source.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      </div>
-    </main>
-  );
-}
-
-
-function EmotionalProjectArticle({
-  article
-}: {
-  article: NonNullable<ReturnType<typeof getArticle>>;
-}) {
-  const essentials = article.sections.find(
-    (section) => section.title === "L’essentiel en 30 secondes"
-  );
-  const emotions = article.sections.find(
-    (section) => section.title === "Accueillir ses émotions sans les juger"
-  );
-  const markers = article.sections.find(
-    (section) => section.title === "Les 3 repères les plus utiles"
-  );
-  const pressure = article.sections.find(
-    (section) => section.title === "Comment alléger la pression au quotidien ?"
-  );
-  const waiting = article.sections.find(
-    (section) => section.title === "Et si une grossesse tarde à arriver ?"
-  );
-  const help = article.sections.find(
-    (section) => section.title === "Quand demander de l’aide ?"
-  );
-  const takeaway = article.sections.find(
-    (section) => section.title === "À retenir"
-  );
-
-  const essentialIcons = [Heart, Sparkles, Lightbulb, ShieldCheck];
-  const markerIcons = [Heart, CalendarDays, MessageCircle];
-
-  return (
-    <main className="compact-article">
-      <div className="article-shell">
-        <section className="compact-article-hero">
-          <div className="compact-hero-copy">
-            <div className="breadcrumbs compact-breadcrumbs">
-              <Link href="/">Accueil</Link>
-              <span>›</span>
-              <Link href={`/${article.categorySlug}`}>
-                {article.category}
-              </Link>
-              <span>›</span>
-              <span>{article.subcategory}</span>
             </div>
 
             <h1>{article.title}</h1>
@@ -870,12 +190,14 @@ function EmotionalProjectArticle({
           </div>
         </section>
 
-        {essentials?.bullets && (
+        {essentials?.bullets && essentials.bullets.length > 0 && (
           <section className="compact-essentials">
             <h2>L’essentiel en 30 secondes</h2>
             <div className="essential-grid">
               {essentials.bullets.slice(0, 4).map((bullet, index) => {
-                const Icon = essentialIcons[index];
+                const Icon =
+                  config.essentialIcons[index] ?? config.essentialIcons[0];
+
                 return (
                   <div className="essential-card" key={bullet}>
                     <span className="essential-icon">
@@ -891,15 +213,25 @@ function EmotionalProjectArticle({
 
         <div className="compact-article-grid">
           <article className="compact-main-column">
-            {emotions && (
+            {primary && (
               <section className="compact-section">
                 <h2>
                   <span>1</span>
-                  {emotions.title}
+                  {primary.title}
                 </h2>
-                {emotions.paragraphs?.map((paragraph) => (
+
+                {primary.paragraphs?.map((paragraph) => (
                   <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
+
+                {primary.bullets && (
+                  <ul>
+                    {primary.bullets.map((bullet) => (
+                      <li key={bullet}>{renderRichText(bullet)}</li>
+                    ))}
+                  </ul>
+                )}
+
                 {essentials?.quote && (
                   <div className="compact-note rose-note">
                     <strong>Bon à savoir</strong>
@@ -909,96 +241,142 @@ function EmotionalProjectArticle({
               </section>
             )}
 
-            {markers && (
+            {cardSection && cardItems.length > 0 && (
               <section className="compact-section">
                 <h2>
                   <span>2</span>
-                  {markers.title}
+                  {cardSection.title}
                 </h2>
+
                 <div className="sign-grid">
-                  {markers.paragraphs?.slice(0, 3).map((paragraph, index) => {
-                    const Icon = markerIcons[index];
-                    const titles = [
-                      "Clarifier ses attentes",
-                      "Choisir ses priorités",
-                      "Identifier ses soutiens"
-                    ];
+                  {cardItems.map((item, index) => {
+                    const Icon =
+                      config.cardIcons[index] ?? config.cardIcons[0];
 
                     return (
-                      <div className="sign-card" key={paragraph}>
+                      <div className="sign-card" key={item}>
                         <span className="sign-icon">
                           <Icon size={25} />
                         </span>
-                        <h3>{index + 1}. {titles[index]}</h3>
-                        <p>{renderRichText(paragraph)}</p>
+                        <h3>
+                          {index + 1}.{" "}
+                          {config.cardTitles[index] ?? `Repère ${index + 1}`}
+                        </h3>
+                        <p>{renderRichText(item)}</p>
                       </div>
                     );
                   })}
                 </div>
+
+                {cardSection.quote && (
+                  <div className="compact-note rose-note">
+                    <strong>À retenir</strong>
+                    <p>{renderRichText(cardSection.quote)}</p>
+                  </div>
+                )}
               </section>
             )}
 
-            {help && (
+            {helpSection && (
               <section className="compact-section medical-section">
                 <h2>
                   <span>3</span>
-                  {help.title}
+                  {helpSection.title}
                 </h2>
+
                 <div className="medical-list">
-                  {help.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>
+                  {getItems(helpSection).map((item) => (
+                    <p key={item}>
                       <Check size={18} />
-                      <span>{renderRichText(paragraph)}</span>
+                      <span>{renderRichText(item)}</span>
                     </p>
                   ))}
                 </div>
+
+                {/urgence|douleur|fièvre|saignement/i.test(
+                  getItems(helpSection).join(" ")
+                ) && (
+                  <div className="compact-warning">
+                    <AlertTriangle size={21} />
+                    <p>
+                      En cas de symptôme intense, inhabituel ou inquiétant,
+                      demandez rapidement un avis médical.
+                    </p>
+                  </div>
+                )}
               </section>
             )}
 
             {takeaway && (
               <section className="compact-takeaway">
                 <h2>À retenir</h2>
+
                 {takeaway.paragraphs?.map((paragraph) => (
                   <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
+
+                {takeaway.bullets && (
+                  <ul>
+                    {takeaway.bullets.map((bullet) => (
+                      <li key={bullet}>{renderRichText(bullet)}</li>
+                    ))}
+                  </ul>
+                )}
+
+                {takeaway.quote && (
+                  <div className="project-takeaway-note">
+                    {renderRichText(takeaway.quote)}
+                  </div>
+                )}
               </section>
             )}
           </article>
 
           <aside className="compact-side-column">
-            <section className="learn-more-box">
-              <h2>En savoir plus</h2>
+            {extraSections.length > 0 && (
+              <section className="learn-more-box">
+                <h2>En savoir plus</h2>
 
-              {pressure && (
-                <details>
-                  <summary>
-                    Alléger la pression au quotidien
-                    <ChevronDown size={18} />
-                  </summary>
-                  {pressure.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
+                {extraSections.map((section) => (
+                  <details key={section.title}>
+                    <summary>
+                      {section.title}
+                      <ChevronDown size={18} />
+                    </summary>
 
-              {waiting && (
-                <details>
-                  <summary>
-                    Si une grossesse tarde à arriver
-                    <ChevronDown size={18} />
-                  </summary>
-                  {waiting.paragraphs?.map((paragraph) => (
-                    <p key={paragraph}>{renderRichText(paragraph)}</p>
-                  ))}
-                </details>
-              )}
-            </section>
+                    {section.paragraphs?.map((paragraph) => (
+                      <p key={paragraph}>{renderRichText(paragraph)}</p>
+                    ))}
 
-            {markers?.quote && (
+                    {section.bullets && (
+                      <ul>
+                        {section.bullets.map((bullet) => (
+                          <li key={bullet}>{renderRichText(bullet)}</li>
+                        ))}
+                      </ul>
+                    )}
+
+                    {section.quote && (
+                      <div className="project-mini-tip">
+                        {renderRichText(section.quote)}
+                      </div>
+                    )}
+                  </details>
+                ))}
+              </section>
+            )}
+
+            {(cardSection?.quote || essentials?.quote) && (
               <section className="simple-advice-box">
                 <Lightbulb size={25} />
-                <h2>Le conseil le plus simple</h2>
-                <p>{renderRichText(markers.quote)}</p>
+                <h2>{config.adviceTitle ?? "Le conseil le plus simple"}</h2>
+                <p>
+                  {renderRichText(
+                    cardSection?.quote ||
+                      essentials?.quote ||
+                      "Avancez étape par étape."
+                  )}
+                </p>
               </section>
             )}
           </aside>
@@ -1027,21 +405,5 @@ export default async function ArticlePage({ params }: Props) {
 
   if (!article) notFound();
 
-  if (article.slug === "comment-reperer-ovulation-periode-fertile") {
-    return <OvulationArticle article={article} />;
-  }
-
-  if (article.slug === "periode-fertile-jours-plus-favorables") {
-    return <FertilityArticle article={article} />;
-  }
-
-  if (article.slug === "que-faire-avant-essayer-avoir-bebe") {
-    return <ProjectBabyArticle article={article} />;
-  }
-
-  if (article.slug === "se-preparer-emotionnellement-projet-bebe") {
-    return <EmotionalProjectArticle article={article} />;
-  }
-
-  return <StandardArticle article={article} />;
+  return <UnifiedArticle article={article} />;
 }
