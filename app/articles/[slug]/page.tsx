@@ -245,7 +245,7 @@ function OvulationArticle({
           <section className="compact-essentials">
             <h2>L’essentiel en 30 secondes</h2>
             <div className="essential-grid">
-              {essentials.bullets.slice(0, 5).map((bullet, index) => {
+              {essentials.bullets.slice(0, 4).map((bullet, index) => {
                 const Icon = essentialIcons[index];
                 return (
                   <div className="essential-card" key={bullet}>
@@ -348,7 +348,7 @@ function OvulationArticle({
               <h2>En savoir plus</h2>
 
               {apps && (
-                <details open>
+                <details>
                   <summary>
                     Les applications de suivi du cycle
                     <ChevronDown size={18} />
@@ -379,8 +379,10 @@ function OvulationArticle({
                 <p>{renderRichText(monitor.quote)}</p>
               </section>
             )}
+          </aside>
+        </div>
 
-            <section className="compact-source-box">
+        <section className="compact-source-box">
               <h2>Sources consultées</h2>
               <ul>
                 {article.sources.map((source) => (
@@ -392,8 +394,6 @@ function OvulationArticle({
                 ))}
               </ul>
             </section>
-          </aside>
-        </div>
       </div>
     </main>
   );
