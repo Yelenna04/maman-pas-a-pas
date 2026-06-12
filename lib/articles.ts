@@ -231,6 +231,139 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "tabac-projet-grossesse-pourquoi-comment-arreter",
+    title: "Tabac et projet de grossesse : pourquoi et comment arrêter ?",
+    description:
+      "Comprendre les effets du tabac sur la fertilité et trouver une méthode d’arrêt adaptée, sans culpabilité.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’idéal est d’arrêter de fumer dès le projet de grossesse.",
+          "Le tabac peut diminuer la fertilité chez les deux partenaires.",
+          "Réduire est une étape possible, mais l’objectif reste l’arrêt complet.",
+          "Un accompagnement et des substituts nicotiniques peuvent faciliter l’arrêt."
+        ],
+        quote:
+          "Il n’est jamais trop tard pour arrêter : chaque tentative compte et augmente les chances de réussir."
+      },
+      {
+        title: "Pourquoi arrêter avant une grossesse ?",
+        paragraphs: [
+          "Le tabac peut réduire la fertilité féminine et masculine et allonger le délai nécessaire pour obtenir une grossesse.",
+          "Pendant la grossesse, il augmente notamment les risques de grossesse extra-utérine, de fausse couche, de complications placentaires, de prématurité et de faible poids de naissance.",
+          "Arrêter avant la conception permet de diminuer l’exposition dès les toutes premières semaines, parfois avant même de savoir que l’on est enceinte."
+        ]
+      },
+      {
+        title: "Les 3 premières étapes pour arrêter",
+        paragraphs: [
+          "Choisir une date ou une période de départ réaliste. Certaines personnes préfèrent arrêter d’un coup, d’autres préparer progressivement le changement avec un professionnel.",
+          "Repérer les moments et les situations qui déclenchent l’envie de fumer : café, stress, trajet, pause au travail, alcool ou présence d’autres fumeurs.",
+          "Prévoir une aide adaptée : médecin, sage-femme, pharmacien, tabacologue, Tabac info service ou substituts nicotiniques selon le niveau de dépendance."
+        ],
+        quote:
+          "Être accompagnée augmente les chances de réussir. Il n’est pas nécessaire d’attendre d’être totalement prête pour demander de l’aide."
+      },
+      {
+        title: "Faut-il arrêter d’un coup ou réduire progressivement ?",
+        paragraphs: [
+          "L’arrêt complet est l’objectif, car même un petit nombre de cigarettes continue d’exposer à la fumée et à ses substances toxiques.",
+          "Une réduction progressive peut toutefois servir d’étape vers l’arrêt, surtout si elle est organisée avec une date d’arrêt et un accompagnement.",
+          "Le plus important est d’éviter de rester durablement dans une simple réduction sans stratégie pour arrêter complètement."
+        ]
+      },
+      {
+        title: "Les substituts nicotiniques sont-ils possibles ?",
+        paragraphs: [
+          "Les patchs, gommes, pastilles ou autres substituts nicotiniques peuvent aider à diminuer le manque et les envies de fumer.",
+          "Ils apportent de la nicotine sans les goudrons, le monoxyde de carbone et les nombreuses substances toxiques produites par la combustion du tabac.",
+          "En cas de grossesse ou de projet de grossesse, leur choix et leur dosage doivent être discutés avec un médecin, une sage-femme ou un pharmacien. Ils sont considérés comme moins nocifs que la poursuite du tabagisme."
+        ]
+      },
+      {
+        title: "Et la cigarette électronique ?",
+        paragraphs: [
+          "La cigarette électronique n’est pas un produit anodin et ses effets pendant la grossesse restent moins bien connus que ceux des substituts nicotiniques.",
+          "Elle ne doit pas être considérée comme sans risque. Si vous l’utilisez pour arrêter de fumer, parlez-en à un professionnel afin de choisir la stratégie la plus adaptée.",
+          "L’objectif est d’éviter de continuer à fumer des cigarettes en parallèle, car le double usage maintient l’exposition à la fumée de tabac."
+        ]
+      },
+      {
+        title: "Comment gérer les envies et les rechutes ?",
+        paragraphs: [
+          "Une envie forte dure souvent quelques minutes. Boire de l’eau, marcher, respirer lentement, mâcher une gomme ou changer d’activité peut aider à la traverser.",
+          "Une rechute ne signifie pas que l’arrêt est impossible. Elle permet d’identifier ce qui a été difficile et d’ajuster la méthode, le dosage des substituts ou le soutien.",
+          "Plusieurs tentatives sont parfois nécessaires. Reprendre rapidement la démarche est plus utile que de culpabiliser."
+        ],
+        bullets: [
+          "Éloigner cigarettes, briquets et cendriers.",
+          "Prévenir les proches et demander leur soutien.",
+          "Modifier temporairement certaines routines.",
+          "Préparer une réponse aux situations à risque.",
+          "Noter les bénéfices ressentis depuis l’arrêt."
+        ]
+      },
+      {
+        title: "Le ou la partenaire doit-il aussi arrêter ?",
+        paragraphs: [
+          "Oui, c’est fortement conseillé. Le tabac peut altérer la qualité du sperme et le tabagisme passif expose aussi la personne enceinte et le futur bébé.",
+          "Arrêter à deux peut faciliter le changement des habitudes et éviter la présence de cigarettes à la maison.",
+          "Si le partenaire ne souhaite pas encore arrêter, il est important qu’il ne fume ni à l’intérieur ni à proximité de la personne enceinte."
+        ]
+      },
+      {
+        title: "Où trouver de l’aide ?",
+        paragraphs: [
+          "Un médecin généraliste, une sage-femme, un pharmacien ou un tabacologue peut évaluer la dépendance et proposer un accompagnement.",
+          "Tabac info service propose un accompagnement par téléphone, via son site et son application.",
+          "La plupart des substituts nicotiniques sont remboursés sur prescription par l’Assurance Maladie."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Arrêter de fumer dès le projet de grossesse protège la fertilité, la grossesse et la santé du futur bébé.",
+          "L’arrêt peut demander plusieurs tentatives. Un accompagnement professionnel et des substituts nicotiniques adaptés peuvent réellement aider, sans culpabilité."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Les bonnes raisons d’arrêter de fumer",
+        url: "https://www.ameli.fr/assure/sante/themes/tabac/bonnes-raisons-arreter-fumer"
+      },
+      {
+        label: "Assurance Maladie — Tabac et grossesse",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/tabac-alcool-drogue-et-grossesse/conduites-risques-tabac-drogues"
+      },
+      {
+        label: "Assurance Maladie — Prise en charge des substituts nicotiniques",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
+      },
+      {
+        label: "1000 premiers jours — L’arrêt du tabac pendant la grossesse et l’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/larret-du-tabac-pendant-la-grossesse-et-lallaitement"
+      },
+      {
+        label: "Santé publique France — Grossesse sans tabac",
+        url: "https://www.santepubliquefrance.fr/tabac/depliantflyer/grossesse-sans-tabac"
+      },
+      {
+        label: "Haute Autorité de santé — Questions-réponses sur le sevrage tabagique",
+        url: "https://www.has-sante.fr/jcms/c_1719656/fr/questions-/-reponses-sevrage-tabagique"
+      }
+    ]
+  },
+  {
     slug: "sommeil-stress-projet-bebe-prendre-soin-de-soi",
     title: "Sommeil, stress et projet bébé : comment prendre soin de soi ?",
     description:
@@ -268,7 +401,7 @@ export const articles: Article[] = [
         paragraphs: [
           "Gardez un rythme de sommeil aussi régulier que possible, avec des horaires de coucher et de lever relativement stables.",
           "Créez une transition calme avant la nuit : lumière douce, activité tranquille, respiration ou lecture, plutôt que des écrans jusqu’au coucher.",
-          "Réduisez la pression liée aux essais en choisissant un niveau de suivi qui vous convient et en préservant des moments sans parler du projet bébé."
+          "Réduisez la pression en choisissant un suivi qui vous convient et en gardant des moments où vous ne parlez pas du projet bébé."
         ],
         quote:
           "Le meilleur rythme est celui que vous pouvez tenir sans ajouter une nouvelle contrainte à votre quotidien."
@@ -388,7 +521,7 @@ export const articles: Article[] = [
         title: "Les 3 repères les plus utiles",
         paragraphs: [
           "La fréquence : essayez de bouger plusieurs jours par semaine plutôt que de concentrer tous les efforts sur une seule séance.",
-          "L’intensité : une activité modérée accélère légèrement votre respiration, mais vous devez encore pouvoir parler sans être trop essoufflée.",
+          "L’intensité : une activité modérée vous fait respirer un peu plus vite tout en vous permettant encore de parler.",
           "La variété : associez endurance, renforcement musculaire et mobilité selon vos envies et vos capacités."
         ],
         quote:
