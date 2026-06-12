@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "tabac-projet-grossesse-pourquoi-comment-arreter") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "sommeil-stress-projet-bebe-prendre-soin-de-soi") {
     return "/images/article-a-la-une.png";
   }
