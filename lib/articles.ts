@@ -231,6 +231,127 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "antecedents-medicaux-que-signaler-avant-grossesse",
+    title: "Antécédents médicaux : que faut-il signaler avant une grossesse ?",
+    description:
+      "Les informations utiles à partager avec un professionnel pour préparer une grossesse et adapter le suivi à votre situation.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Signalez vos maladies chroniques, même si elles sont bien équilibrées.",
+          "Parlez de toutes vos opérations, hospitalisations et grossesses précédentes.",
+          "Mentionnez les maladies héréditaires ou malformations connues dans les deux familles.",
+          "Apportez la liste complète de vos traitements, y compris ceux sans ordonnance."
+        ],
+        quote:
+          "Un antécédent ne signifie pas qu’une grossesse sera compliquée : il permet surtout au professionnel d’anticiper et d’adapter le suivi."
+      },
+      {
+        title: "Pourquoi parler de ses antécédents avant la grossesse ?",
+        paragraphs: [
+          "La consultation préconceptionnelle sert à identifier les éléments qui pourraient influencer la grossesse, les traitements ou le suivi médical.",
+          "Certaines maladies nécessitent simplement une surveillance plus rapprochée, tandis que d’autres demandent une adaptation du traitement avant la conception.",
+          "Partager ces informations permet aussi de choisir le professionnel et le lieu de suivi les plus adaptés dès le début du projet."
+        ]
+      },
+      {
+        title: "Les 3 catégories d’informations à signaler",
+        paragraphs: [
+          "Vos antécédents médicaux et chirurgicaux : diabète, hypertension, épilepsie, maladie de la thyroïde, maladie auto-immune, trouble psychiatrique, cancer, opération ou hospitalisation importante.",
+          "Vos antécédents gynécologiques et obstétricaux : cycles très irréguliers, endométriose, fibrome, infection pelvienne, grossesse extra-utérine, fausse couche, prématurité, prééclampsie, césarienne ou complication d’une grossesse précédente.",
+          "Vos antécédents familiaux : maladie génétique, anomalie chromosomique, malformation, thrombose, diabète, hypertension ou autre maladie importante dans votre famille ou celle du partenaire."
+        ],
+        quote:
+          "Vous n’avez pas besoin de connaître tous les détails : indiquez ce que vous savez et le professionnel vous aidera à préciser ce qui est utile."
+      },
+      {
+        title: "Quels traitements faut-il mentionner ?",
+        paragraphs: [
+          "Signalez tous les médicaments pris régulièrement ou occasionnellement, même s’ils sont vendus sans ordonnance.",
+          "Mentionnez aussi les compléments alimentaires, les plantes, les huiles essentielles, les crèmes médicamenteuses et les traitements pris ponctuellement.",
+          "N’arrêtez jamais seule un traitement prescrit. Certains médicaments doivent être poursuivis, remplacés ou adaptés progressivement avant une grossesse."
+        ]
+      },
+      {
+        title: "Faut-il parler de sa santé mentale ?",
+        paragraphs: [
+          "Oui. Une dépression, un trouble anxieux, un trouble bipolaire, un trouble alimentaire, une hospitalisation ou un traitement psychotrope font partie des informations importantes.",
+          "L’objectif n’est pas de juger votre projet, mais d’éviter une interruption brutale de traitement et d’organiser un accompagnement adapté avant et pendant la grossesse.",
+          "Vous pouvez également parler de vos peurs, d’un traumatisme, d’une précédente grossesse difficile ou d’un manque de soutien."
+        ]
+      },
+      {
+        title: "Et les antécédents du ou de la partenaire ?",
+        paragraphs: [
+          "La santé du ou de la partenaire peut aussi être pertinente, notamment en cas de maladie héréditaire, de traitement pouvant affecter la fertilité, de cancer, d’opération ou de difficulté connue du côté du sperme.",
+          "Les antécédents familiaux des deux côtés sont utiles lorsqu’une maladie génétique, une anomalie chromosomique ou une malformation est connue.",
+          "Si nécessaire, le professionnel peut proposer un conseil génétique ou orienter vers un spécialiste."
+        ]
+      },
+      {
+        title: "Comment préparer le rendez-vous ?",
+        paragraphs: [
+          "Rassemblez les informations disponibles sans chercher à tout reconstituer parfaitement.",
+          "Une liste écrite permet de ne rien oublier et d’éviter les répétitions lors des consultations suivantes.",
+          "Apportez les comptes rendus importants si vous les possédez déjà."
+        ],
+        bullets: [
+          "Liste des maladies et opérations importantes.",
+          "Comptes rendus de grossesses ou d’hospitalisations précédentes.",
+          "Liste ou photos des médicaments et compléments.",
+          "Informations connues sur les maladies familiales.",
+          "Coordonnées des spécialistes qui vous suivent."
+        ]
+      },
+      {
+        title: "Quand demander un avis spécialisé avant les essais ?",
+        paragraphs: [
+          "Un avis spécialisé est particulièrement utile en cas de maladie chronique, de traitement à risque pendant la grossesse ou d’antécédent obstétrical sévère.",
+          "Il peut aussi être recommandé en cas de maladie génétique familiale, de cancer antérieur, de greffe, de thrombose ou de complication importante lors d’une grossesse précédente.",
+          "Le médecin ou la sage-femme peut coordonner cette orientation sans que vous ayez à déterminer seule quel spécialiste consulter."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les antécédents médicaux, chirurgicaux, gynécologiques, obstétricaux, psychologiques et familiaux peuvent tous aider à préparer une grossesse de façon personnalisée.",
+          "Le plus important est d’être transparente sur vos traitements et de ne rien arrêter sans avis médical. Le professionnel adaptera ensuite les conseils et le suivi à votre situation."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Haute Autorité de santé — Projet de grossesse : informations, prévention et examens à proposer",
+        url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes selon les situations à risque",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse : les bons réflexes",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes"
+      },
+      {
+        label: "1000 premiers jours — Consultation préconceptionnelle",
+        url: "https://www.1000-premiers-jours.fr/fr/consultation-preconceptionnelle"
+      }
+    ]
+  },
+  {
     slug: "quand-faire-bilan-fertilite",
     title: "Quand faire un bilan de fertilité ?",
     description:
