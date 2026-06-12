@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "quels-examens-faire-avant-grossesse") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "consultation-preconceptionnelle-pourquoi-quand-faire") {
     return "/images/article-a-la-une.png";
   }
