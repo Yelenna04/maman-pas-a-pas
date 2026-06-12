@@ -231,6 +231,164 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "plantes-huiles-essentielles-complements-sans-risque",
+    title: "Plantes, huiles essentielles et compléments : sont-ils sans risque ?",
+    description:
+      "Comprendre pourquoi les produits naturels ne sont pas toujours anodins pendant un projet bébé ou une grossesse.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Vaccins et médicaments",
+    subcategorySlug: "vaccins-medicaments",
+    readingTime: "6 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Naturel ne veut pas dire sans risque pour la grossesse.",
+          "Les huiles essentielles sont déconseillées pendant la grossesse sans avis professionnel.",
+          "Les plantes et compléments peuvent interagir avec des médicaments ou entraîner un surdosage.",
+          "Avant toute prise, montrez le produit à un médecin, une sage-femme ou un pharmacien."
+        ],
+        quote:
+          "Le bon réflexe est de considérer les plantes, huiles essentielles et compléments comme de vrais produits actifs."
+      },
+      {
+        title: "Pourquoi les produits naturels demandent-ils de la prudence ?",
+        paragraphs: [
+          "Les plantes et les huiles essentielles contiennent des substances actives capables d’agir sur l’organisme.",
+          "Certaines peuvent traverser le placenta, modifier l’action d’un médicament, provoquer une allergie ou être toxiques à certaines doses.",
+          "Le manque d’études chez la femme enceinte ne signifie pas qu’un produit est sûr : il conduit au contraire à privilégier la prudence."
+        ]
+      },
+      {
+        title: "Les 3 réflexes les plus utiles",
+        paragraphs: [
+          "Ne commencez pas un produit naturel uniquement parce qu’il est vendu librement ou présenté comme spécial grossesse.",
+          "Vérifiez la composition exacte, la dose et la durée prévue, surtout si plusieurs produits sont associés.",
+          "Signalez toujours votre projet de grossesse ou votre grossesse au professionnel qui vous conseille."
+        ],
+        quote:
+          "Une tisane, une huile essentielle ou une gélule peut contenir plusieurs substances actives : l’étiquette mérite d’être lue comme celle d’un médicament."
+      },
+      {
+        title: "Les huiles essentielles sont-elles autorisées ?",
+        paragraphs: [
+          "Les recommandations françaises déconseillent l’utilisation des huiles essentielles pendant la grossesse sans avis médical ou pharmaceutique.",
+          "Le risque dépend de l’huile, de la dose, de la voie d’utilisation et de la fréquence. La voie orale est particulièrement à risque, mais l’inhalation, la diffusion et l’application sur la peau ne sont pas automatiquement sans danger.",
+          "Certaines huiles essentielles peuvent contenir des substances neurotoxiques, irritantes, allergisantes ou toxiques pour l’embryon ou le fœtus."
+        ]
+      },
+      {
+        title: "La diffusion dans l’air est-elle plus sûre ?",
+        paragraphs: [
+          "Non, pas systématiquement. Les sprays et diffuseurs libèrent des substances dans l’air qui peuvent être inhalées par toutes les personnes présentes.",
+          "Ils peuvent irriter les voies respiratoires, déclencher des symptômes chez les personnes asthmatiques ou exposer inutilement pendant plusieurs heures.",
+          "Pendant la grossesse, privilégiez l’aération du logement et évitez les diffuseurs parfumés contenant des huiles essentielles."
+        ]
+      },
+      {
+        title: "Et les produits appliqués sur la peau ?",
+        paragraphs: [
+          "Une application cutanée peut entraîner un passage dans l’organisme, surtout si le produit est concentré, utilisé sur une grande surface ou appliqué souvent.",
+          "Les huiles essentielles peuvent aussi provoquer des brûlures, une irritation ou une allergie.",
+          "N’ajoutez pas d’huile essentielle à une crème, une huile de massage ou un produit cosmétique sans conseil professionnel."
+        ]
+      },
+      {
+        title: "Les tisanes et plantes sont-elles toutes sans danger ?",
+        paragraphs: [
+          "Non. Certaines plantes peuvent agir sur l’utérus, la tension artérielle, la coagulation, le foie, le transit ou le système nerveux.",
+          "Une consommation alimentaire ponctuelle n’est pas équivalente à une tisane très concentrée, un extrait, une teinture mère ou des gélules.",
+          "Évitez les mélanges dont la composition ou la quantité de chaque plante n’est pas clairement indiquée."
+        ]
+      },
+      {
+        title: "Quels compléments alimentaires faut-il éviter de choisir seule ?",
+        paragraphs: [
+          "Les compléments contenant plusieurs vitamines, minéraux, plantes ou stimulants doivent être vérifiés avant utilisation.",
+          "Certains peuvent apporter trop de vitamine A, d’iode, de vitamine D, de fer ou d’autres substances lorsqu’ils sont associés à l’alimentation ou à un second complément.",
+          "Les produits dits détox, minceur, énergie, sommeil ou fertilité sont particulièrement à vérifier, car leur composition peut être complexe ou mal adaptée à la grossesse."
+        ]
+      },
+      {
+        title: "Existe-t-il des compléments recommandés ?",
+        paragraphs: [
+          "La vitamine B9 constitue la principale supplémentation recommandée dès le projet de grossesse, à une dose adaptée par un professionnel.",
+          "Le fer, la vitamine D, l’iode, la vitamine B12 ou d’autres nutriments peuvent être prescrits dans certaines situations, mais pas automatiquement pour tout le monde.",
+          "Une alimentation équilibrée ne justifie pas de multiplier les compléments sans carence ou indication précise."
+        ]
+      },
+      {
+        title: "Quels risques en cas de cumul ?",
+        paragraphs: [
+          "Prendre plusieurs produits en même temps peut entraîner un doublon de vitamines ou de minéraux sans que cela soit évident.",
+          "Des interactions sont possibles avec les anticoagulants, les traitements de la thyroïde, de l’épilepsie, du diabète, de la tension ou de la santé mentale.",
+          "Apportez les boîtes ou des photos des étiquettes lors de la consultation afin que le professionnel puisse vérifier l’ensemble."
+        ]
+      },
+      {
+        title: "Que faire si vous avez déjà utilisé un produit ?",
+        paragraphs: [
+          "Ne paniquez pas : une utilisation ponctuelle ne signifie pas automatiquement qu’un problème surviendra.",
+          "Notez le nom exact, la composition, la dose, la voie d’utilisation et les dates, puis demandez conseil à un professionnel.",
+          "En cas de malaise, vomissements importants, gêne respiratoire, gonflement, réaction cutanée sévère ou ingestion accidentelle, contactez rapidement un service médical ou un centre antipoison."
+        ]
+      },
+      {
+        title: "Comment choisir avec plus de sécurité ?",
+        paragraphs: [
+          "Évitez les produits dont la composition est incomplète, les mélanges très nombreux et les achats sur des sites non fiables.",
+          "Ne vous fiez pas uniquement aux mentions « naturel », « bio », « traditionnel » ou « spécial grossesse ».",
+          "Demandez conseil à un professionnel qui connaît votre état de santé, vos traitements et le stade du projet ou de la grossesse."
+        ],
+        bullets: [
+          "Conserver les emballages et les notices.",
+          "Vérifier les doses de chaque ingrédient.",
+          "Éviter de cumuler plusieurs compléments.",
+          "Signaler tous les traitements en cours.",
+          "Arrêter et demander conseil en cas d’effet inhabituel."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les plantes, huiles essentielles et compléments peuvent avoir de vrais effets et ne doivent pas être considérés comme automatiquement sûrs.",
+          "Pendant un projet bébé ou une grossesse, demandez un avis avant toute utilisation, surtout pour les huiles essentielles, les extraits concentrés et les compléments combinés.",
+          "La vitamine B9 est recommandée autour de la conception, tandis que les autres supplémentations doivent répondre à un besoin identifié."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Anses — Huiles essentielles : risques et précautions",
+        url: "https://www.anses.fr/fr/content/huiles-essentielles-risques-et-precautions"
+      },
+      {
+        label: "ANSM — Médicaments à base de plantes et huiles essentielles",
+        url: "https://ansm.sante.fr/qui-sommes-nous/notre-perimetre/les-medicaments/p/medicaments-a-base-de-plantes-et-huiles-essentielles"
+      },
+      {
+        label: "Assurance Maladie — Médicaments et grossesse",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/medicament-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Les compléments alimentaires",
+        url: "https://www.ameli.fr/assure/sante/medicaments/effets-indesirables-et-interactions-lies-aux-medicaments/complements-alimentaires"
+      },
+      {
+        label: "1000 premiers jours — Les médicaments pendant la grossesse et l’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/les-medicaments-pendant-la-grossesse-et-lallaitement"
+      },
+      {
+        label: "1000 premiers jours — Les nutriments essentiels au futur bébé",
+        url: "https://www.1000-premiers-jours.fr/fr/les-nutriments-essentiels-au-futur-bebe"
+      }
+    ]
+  },
+  {
     slug: "automedication-avant-pendant-grossesse-reflexes",
     title: "Automédication avant et pendant la grossesse : quels réflexes adopter ?",
     description:
@@ -341,8 +499,11 @@ export const articles: Article[] = [
         paragraphs: [
           "Le pharmacien peut vérifier un produit sans ordonnance, repérer les doublons et vous orienter si une consultation est nécessaire.",
           "Le médecin ou la sage-femme peut évaluer vos symptômes et choisir un traitement compatible avec votre situation.",
-          "Pour les questions liées à une exposition médicamenteuse pendant la grossesse, le CRAT met à disposition des informations de référence."
-        ]
+          "Vous pouvez aussi consulter le site du CRAT, le Centre de référence sur les agents tératogènes. En recherchant le nom de la substance active d’un médicament, vous trouverez des informations de référence sur son utilisation pendant la grossesse et l’allaitement.",
+          "Le CRAT aide à s’informer, mais il ne remplace pas l’avis d’un professionnel qui connaît votre état de santé, vos autres traitements et le stade de la grossesse."
+        ],
+        quote:
+          "Pour vérifier un médicament, recherchez sa substance active sur le site du CRAT, puis confirmez la conduite à tenir avec un médecin, une sage-femme ou un pharmacien."
       },
       {
         title: "À retenir",
