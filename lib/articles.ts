@@ -4057,45 +4057,164 @@ export const articles: Article[] = [
     ]
   },
   {
-    slug: "premier-trimestre-reperes",
-    title: "Premier trimestre : les repères essentiels",
-    description: "Consultations, symptômes fréquents et signaux qui justifient de demander rapidement un avis médical.",
+    slug: "test-positif-premieres-demarches",
+    title: "Test positif : quelles sont les premières démarches à faire ?",
+    description:
+      "Les premières étapes après un test de grossesse positif : rendez-vous, suivi médical, déclaration et précautions utiles.",
     category: "Pendant la grossesse",
     categorySlug: "pendant-grossesse",
     subcategory: "Premier trimestre",
     subcategorySlug: "premier-trimestre",
-    readingTime: "7 min",
-    publishedAt: "2026-02-05",
-    updatedAt: "2026-05-28",
+    readingTime: "6 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
     tone: "sage",
     sections: [
       {
-        title: "Des changements parfois très rapides",
-        paragraphs: [
-          "Fatigue, nausées, sensibilité des seins et variations émotionnelles sont fréquentes au début de la grossesse. Leur intensité varie beaucoup d’une personne à l’autre.",
-          "L’absence de certains symptômes n’indique pas nécessairement un problème. Un professionnel de santé reste votre interlocuteur pour interpréter votre situation."
-        ]
-      },
-      {
-        title: "Organiser le suivi",
+        title: "L’essentiel en 30 secondes",
         bullets: [
-          "Prendre contact avec une sage-femme, un médecin généraliste ou un gynécologue.",
-          "Préparer la liste de vos traitements et antécédents.",
-          "Noter vos questions avant chaque consultation.",
-          "Demander les démarches administratives adaptées à votre situation."
+          "Prenez rendez-vous avec une sage-femme, un médecin généraliste ou un gynécologue.",
+          "Le premier examen prénatal doit avoir lieu avant la fin du troisième mois de grossesse.",
+          "Faites vérifier vos médicaments et n’arrêtez jamais seule un traitement prescrit.",
+          "Consultez rapidement en cas de douleur importante, de saignement abondant, de malaise ou de fièvre."
+        ],
+        quote:
+          "Vous n’avez pas besoin de tout organiser le jour du test positif : commencez par prendre un rendez-vous et noter vos questions."
+      },
+      {
+        title: "Faut-il confirmer le test par une prise de sang ?",
+        paragraphs: [
+          "Un test urinaire positif réalisé correctement est généralement fiable. Une prise de sang n’est pas systématiquement nécessaire pour confirmer une grossesse.",
+          "Le professionnel peut toutefois prescrire un dosage de l’hormone bêta-hCG dans certaines situations, par exemple si la date de début de grossesse est incertaine, en cas de symptômes inhabituels ou dans le cadre d’un suivi particulier.",
+          "Une échographie réalisée trop tôt peut ne rien montrer. Sa date doit être adaptée au terme estimé et à votre situation."
         ]
       },
       {
-        title: "Quand consulter sans attendre",
+        title: "Les 3 premières démarches",
         paragraphs: [
-          "Des saignements importants, une douleur intense, un malaise, une fièvre ou toute inquiétude inhabituelle nécessitent un avis médical rapide.",
-          "En cas d’urgence, contactez les services d’urgence de votre pays."
+          "Prendre rendez-vous : contactez une sage-femme, un médecin généraliste ou un gynécologue pour organiser le premier examen prénatal.",
+          "Rassembler les informations utiles : date du premier jour des dernières règles, traitements, antécédents, groupe sanguin et documents médicaux disponibles.",
+          "Adopter les précautions immédiates : éviter l’alcool, ne pas fumer, vérifier les médicaments et poursuivre la vitamine B9 si elle vous a été prescrite."
+        ],
+        quote:
+          "Une sage-femme peut assurer le suivi d’une grossesse sans complication et vous orienter vers un médecin si nécessaire."
+      },
+      {
+        title: "Quand prendre le premier rendez-vous ?",
+        paragraphs: [
+          "Prenez contact après le test positif afin d’obtenir un rendez-vous dans les semaines suivantes.",
+          "Le premier examen prénatal obligatoire doit être réalisé avant la fin du troisième mois de grossesse.",
+          "Il peut être assuré par une sage-femme, un médecin généraliste ou un gynécologue, selon votre choix et votre état de santé."
+        ]
+      },
+      {
+        title: "Que prépare-t-on pour cette première consultation ?",
+        paragraphs: [
+          "Notez la date du premier jour de vos dernières règles, même si vos cycles sont irréguliers.",
+          "Préparez la liste complète de vos médicaments, compléments, plantes et huiles essentielles, avec leur dosage si possible.",
+          "Apportez votre carte Vitale, votre carnet de santé, vos résultats récents et les comptes rendus importants si vous en avez."
+        ],
+        bullets: [
+          "Date des dernières règles.",
+          "Liste des traitements et compléments.",
+          "Antécédents médicaux et grossesses précédentes.",
+          "Groupe sanguin si vous le connaissez.",
+          "Questions et symptômes à signaler."
+        ]
+      },
+      {
+        title: "Que vérifie le professionnel ?",
+        paragraphs: [
+          "Le professionnel confirme la grossesse, estime son début et recherche les éléments pouvant nécessiter un suivi adapté.",
+          "Il fait le point sur vos antécédents, vos traitements, vos vaccinations, votre tension artérielle et les symptômes présents.",
+          "Il prescrit les examens du début de grossesse et organise le calendrier des consultations et des échographies."
+        ]
+      },
+      {
+        title: "Quand déclarer la grossesse ?",
+        paragraphs: [
+          "La déclaration de grossesse doit être effectuée dans les trois premiers mois.",
+          "Elle est le plus souvent transmise en ligne par le médecin ou la sage-femme à l’Assurance Maladie et à la Caf après le premier examen prénatal.",
+          "Après son enregistrement, pensez à mettre à jour votre carte Vitale afin que les modalités de prise en charge soient appliquées."
+        ]
+      },
+      {
+        title: "Faut-il déjà choisir une maternité ?",
+        paragraphs: [
+          "Il n’est pas nécessaire d’avoir tout choisi immédiatement, mais il peut être utile de se renseigner tôt, surtout dans les zones où les maternités sont très demandées.",
+          "Le choix dépend notamment de votre lieu de résidence, de vos souhaits, de votre état de santé et du niveau de soins dont vous pourriez avoir besoin.",
+          "Le professionnel qui suit la grossesse peut vous aider à identifier une maternité adaptée."
+        ]
+      },
+      {
+        title: "Quels changements adopter dès maintenant ?",
+        paragraphs: [
+          "Arrêtez l’alcool et évitez le tabac ainsi que le tabagisme passif.",
+          "Ne prenez aucun nouveau médicament, complément ou produit à base de plantes sans demander conseil.",
+          "Respectez les précautions alimentaires contre la listériose et la toxoplasmose et lavez soigneusement les fruits et légumes.",
+          "Une activité physique habituelle peut généralement être poursuivie si elle est bien tolérée et qu’aucune contre-indication ne vous a été donnée."
+        ]
+      },
+      {
+        title: "Que faire avec les médicaments habituels ?",
+        paragraphs: [
+          "N’arrêtez jamais seule un traitement prescrit, même si sa notice mentionne la grossesse.",
+          "Contactez rapidement le prescripteur, le médecin, la sage-femme ou le pharmacien afin de vérifier s’il doit être poursuivi, adapté ou remplacé.",
+          "Vous pouvez également consulter le **CRAT**, le **Centre de Référence sur les Agents Tératogènes**, pour obtenir des informations de référence sur l’utilisation d’une substance pendant la **grossesse** et l’**allaitement**."
+        ]
+      },
+      {
+        title: "Quelles émotions sont normales après le test ?",
+        paragraphs: [
+          "La joie peut se mêler à la peur, au doute, à la surprise ou à un sentiment d’irréalité.",
+          "Il est fréquent de ne pas se sentir immédiatement heureuse ou prête à annoncer la grossesse.",
+          "Parlez-en à une personne de confiance ou au professionnel qui vous suit si l’anxiété devient envahissante ou si vous vous sentez isolée."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        paragraphs: [
+          "Demandez rapidement un avis en cas de saignement, de douleur pelvienne persistante ou de vomissements empêchant de boire.",
+          "Une douleur intense d’un seul côté, un malaise, une douleur à l’épaule, un saignement abondant, une fièvre ou une difficulté à respirer nécessitent une évaluation urgente.",
+          "En cas de doute important ou d’aggravation rapide, contactez les urgences ou le service qui vous suit."
+        ],
+        quote:
+          "Une petite perte de sang n’annonce pas toujours une complication, mais elle mérite d’être signalée afin de recevoir un conseil adapté."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après un test positif, la priorité est de prendre rendez-vous et de faire vérifier vos traitements.",
+          "Le premier examen prénatal et la déclaration de grossesse doivent être réalisés avant la fin du troisième mois.",
+          "Vous pouvez avancer étape par étape : le professionnel vous aidera à organiser le suivi, les examens et les démarches administratives."
         ]
       }
     ],
     sources: [
-      { label: "Assurance Maladie — Suivi de grossesse", url: "https://www.ameli.fr/" },
-      { label: "Organisation mondiale de la Santé", url: "https://www.who.int/fr" }
+      {
+        label: "Assurance Maladie — Grossesse : démarches et accompagnement",
+        url: "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+      },
+      {
+        label: "Assurance Maladie — Grossesse : le programme de suivi et la première consultation",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/grossesse-soins-dentaires-dentiste-consultation"
+      },
+      {
+        label: "Service-Public.fr — Déclaration de grossesse",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F968"
+      },
+      {
+        label: "1000 premiers jours — La déclaration de grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/la-declaration-de-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Le suivi médical de grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/le-suivi-medical-de-grossesse"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse : les bons réflexes",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes"
+      }
     ]
   },
   {
