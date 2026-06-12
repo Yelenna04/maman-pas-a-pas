@@ -231,6 +231,127 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "sommeil-stress-projet-bebe-prendre-soin-de-soi",
+    title: "Sommeil, stress et projet bébé : comment prendre soin de soi ?",
+    description:
+      "Des repères simples pour mieux dormir, réduire la pression des essais et savoir quand demander de l’aide.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le stress et les émotions fortes sont fréquents pendant un projet bébé.",
+          "Un rythme de sommeil régulier peut soutenir l’énergie et le bien-être.",
+          "Quelques habitudes simples peuvent aider, sans chercher à tout contrôler.",
+          "Si l’anxiété ou les troubles du sommeil deviennent envahissants, il faut en parler à un professionnel."
+        ],
+        quote:
+          "Prendre soin de soi ne garantit pas une grossesse, mais peut rendre cette période plus supportable et plus équilibrée."
+      },
+      {
+        title: "Pourquoi le projet bébé peut-il devenir stressant ?",
+        paragraphs: [
+          "Un projet bébé peut mêler enthousiasme, impatience, peur, déception et pression. Ces émotions peuvent changer d’un cycle à l’autre.",
+          "Le suivi de l’ovulation, les tests, les attentes familiales ou les comparaisons avec l’entourage peuvent accentuer le sentiment de devoir « réussir » rapidement.",
+          "Il est normal d’avoir des moments de doute. Le problème apparaît surtout lorsque les inquiétudes prennent toute la place ou empêchent de dormir, de travailler ou de profiter du quotidien."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Gardez un rythme de sommeil aussi régulier que possible, avec des horaires de coucher et de lever relativement stables.",
+          "Créez une transition calme avant la nuit : lumière douce, activité tranquille, respiration ou lecture, plutôt que des écrans jusqu’au coucher.",
+          "Réduisez la pression liée aux essais en choisissant un niveau de suivi qui vous convient et en préservant des moments sans parler du projet bébé."
+        ],
+        quote:
+          "Le meilleur rythme est celui que vous pouvez tenir sans ajouter une nouvelle contrainte à votre quotidien."
+      },
+      {
+        title: "Combien d’heures faut-il dormir ?",
+        paragraphs: [
+          "Les besoins varient d’une personne à l’autre. Chez l’adulte, une durée d’environ 7 à 9 heures par nuit constitue un repère général.",
+          "La qualité du sommeil compte autant que sa durée : des réveils fréquents, des difficultés d’endormissement ou une fatigue persistante méritent d’être pris en compte.",
+          "Plutôt que de chercher un chiffre parfait, observez votre niveau d’énergie, votre humeur et votre capacité à fonctionner dans la journée."
+        ]
+      },
+      {
+        title: "Quelles habitudes peuvent aider à mieux dormir ?",
+        paragraphs: [
+          "Essayez de vous coucher et de vous lever à des horaires proches, y compris le week-end, tout en gardant une certaine souplesse.",
+          "Limitez la caféine en fin de journée, les repas très lourds juste avant le coucher et les écrans dans la dernière heure si vous remarquez qu’ils retardent l’endormissement.",
+          "Une activité physique régulière et une exposition à la lumière naturelle en journée peuvent aussi aider à stabiliser le rythme veille-sommeil."
+        ]
+      },
+      {
+        title: "Comment réduire la pression des essais ?",
+        paragraphs: [
+          "Vous pouvez simplifier le suivi du cycle, par exemple en utilisant un seul repère plutôt qu’une application, des tests, une température et plusieurs tableaux en même temps.",
+          "Fixez des moments où vous autorisez le sujet à être présent, puis accordez-vous aussi des espaces où le couple et le quotidien ne tournent pas autour de la conception.",
+          "Parler avec le ou la partenaire permet souvent de répartir la charge mentale et de dire clairement lorsque les essais deviennent pesants."
+        ]
+      },
+      {
+        title: "Quelles techniques de détente essayer ?",
+        paragraphs: [
+          "La respiration lente, la relaxation musculaire, la méditation, le yoga doux, la marche ou une activité créative peuvent aider à diminuer la tension.",
+          "Il n’est pas nécessaire de pratiquer longtemps : quelques minutes régulières peuvent être plus utiles qu’une séance occasionnelle très ambitieuse.",
+          "Choisissez surtout une méthode qui vous apaise réellement. Une technique qui devient une obligation supplémentaire perd une grande partie de son intérêt."
+        ],
+        bullets: [
+          "Respirer lentement pendant 3 à 5 minutes.",
+          "Faire une courte marche quotidienne.",
+          "Écrire ses inquiétudes avant le coucher.",
+          "Prévoir un moment sans téléphone.",
+          "Conserver une activité plaisante sans lien avec le projet bébé."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Parlez-en à un médecin, une sage-femme ou un psychologue si l’anxiété devient intense, dure plusieurs semaines ou perturbe fortement le sommeil, l’appétit, le travail ou les relations.",
+          "Demandez également de l’aide en cas de tristesse persistante, de perte d’intérêt, de crises d’angoisse, de pensées très négatives ou d’antécédent de trouble psychique.",
+          "Si vous prenez un traitement pour l’anxiété, la dépression ou un autre trouble de santé mentale, ne l’arrêtez pas seule à cause du projet de grossesse."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le sommeil, le stress et les émotions font partie du projet bébé. Il n’est pas nécessaire de rester parfaitement calme pour concevoir.",
+          "Des habitudes simples peuvent aider, mais il faut demander du soutien lorsque l’anxiété ou les troubles du sommeil deviennent envahissants."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "ACOG — Prepregnancy Counseling",
+        url: "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/01/prepregnancy-counseling"
+      },
+      {
+        label: "ACOG — Anxiety and Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/anxiety-and-pregnancy"
+      },
+      {
+        label: "NHS — Mental health and pregnancy",
+        url: "https://www.nhs.uk/best-start-in-life/pregnancy/mental-health-and-pregnancy/"
+      },
+      {
+        label: "1000 premiers jours — Comment gérer le stress pendant la grossesse ?",
+        url: "https://www.1000-premiers-jours.fr/fr/comment-gerer-le-stress-pendant-la-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
+      }
+    ]
+  },
+  {
     slug: "activite-physique-avant-grossesse",
     title: "Activité physique avant une grossesse : que peut-on faire ?",
     description:
