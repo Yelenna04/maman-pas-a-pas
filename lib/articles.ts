@@ -23,6 +23,110 @@ export type Article = {
 
 export const articles: Article[] = [
   {
+    slug: "parler-projet-bebe-avec-partenaire",
+    title: "Comment parler du projet bébé avec son ou sa partenaire ?",
+    description:
+      "Des repères simples pour parler de vos envies, de vos inquiétudes et de votre organisation sans transformer la discussion en pression.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
+    readingTime: "4 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Choisissez un moment calme, sans chercher à tout décider en une seule fois.",
+          "Parlez de vos envies, mais aussi de vos peurs et de vos incertitudes.",
+          "Vous pouvez avancer à des rythmes différents sans que le projet soit remis en cause.",
+          "Les décisions importantes gagnent à être partagées et réévaluées ensemble."
+        ],
+        quote:
+          "Une bonne discussion ne consiste pas à être d’accord sur tout immédiatement, mais à comprendre ce que chacun ressent et ce dont chacun a besoin."
+      },
+      {
+        title: "Commencer la discussion simplement",
+        paragraphs: [
+          "Il n’est pas nécessaire d’attendre le moment parfait ni de préparer un discours très construit. Vous pouvez commencer par expliquer ce que le projet bébé représente pour vous aujourd’hui.",
+          "Privilégiez un moment calme, sans fatigue excessive, sans téléphone et sans obligation de prendre une décision immédiate. L’objectif est d’ouvrir la conversation, pas de régler tous les sujets en une soirée.",
+          "Parlez à la première personne : « j’aimerais », « je ressens », « j’ai peur ». Cette façon de s’exprimer limite les reproches et aide l’autre à comprendre votre vécu."
+        ]
+      },
+      {
+        title: "Les 3 sujets à aborder ensemble",
+        paragraphs: [
+          "Vos envies et votre calendrier. Discutez de ce que chacun souhaite, du moment qui vous paraît envisageable et des éventuelles raisons d’attendre ou d’avancer.",
+          "Vos inquiétudes. Santé, fertilité, travail, logement, budget ou peur du changement : nommer les préoccupations permet de distinguer ce qui demande une décision, une information ou simplement du temps.",
+          "Votre manière d’avancer. Choisissez ensemble les premières étapes : rendez-vous préconceptionnel, arrêt de la contraception, habitudes de vie ou niveau de suivi du cycle."
+        ],
+        quote:
+          "Commencez par une seule décision commune, puis revenez sur les autres sujets plus tard."
+      },
+      {
+        title: "Et si vous n’avancez pas au même rythme ?",
+        paragraphs: [
+          "Il est fréquent que l’un des partenaires se sente prêt avant l’autre, ou que chacun exprime son envie de façon différente. Cela ne signifie pas forcément que vos projets sont incompatibles.",
+          "Essayez de comprendre ce qui se cache derrière l’hésitation : peur de ne pas être à la hauteur, inquiétude financière, besoin de stabilité, expérience familiale difficile ou manque d’informations.",
+          "Fixer un moment pour reparler du sujet peut être plus apaisant que de chercher une réponse immédiate. En revanche, une décision de grossesse doit rester libre et ne jamais résulter d’une pression ou d’un ultimatum."
+        ]
+      },
+      {
+        title: "Comment parler des aspects pratiques ?",
+        paragraphs: [
+          "Les questions concrètes peuvent être abordées progressivement : organisation du quotidien, répartition des tâches, travail, budget, logement, soutien familial et disponibilité après la naissance.",
+          "Vous n’avez pas besoin d’avoir un plan définitif. L’intérêt de la discussion est surtout de repérer les attentes implicites et les sujets sur lesquels vous devrez prendre des décisions ensemble.",
+          "La santé concerne également les deux partenaires. La consultation préconceptionnelle, les traitements, les vaccinations, le tabac ou l’alcool peuvent faire partie de la préparation commune."
+        ],
+        bullets: [
+          "Comment imaginons-nous la répartition des tâches ?",
+          "Quelles sont nos principales inquiétudes financières ou professionnelles ?",
+          "Qui pourrait nous soutenir en cas de besoin ?",
+          "Quelles démarches de santé souhaitons-nous faire ensemble ?"
+        ]
+      },
+      {
+        title: "Quand demander un soutien extérieur ?",
+        paragraphs: [
+          "Un médecin, une sage-femme ou un professionnel de la consultation préconceptionnelle peut répondre aux questions de santé et aider à distinguer les précautions utiles des inquiétudes moins fondées.",
+          "Un psychologue, un conseiller conjugal ou une thérapie de couple peut être utile si les discussions tournent systématiquement au conflit, si l’un de vous se sent contraint ou si une peur ancienne empêche toute conversation.",
+          "Demander un soutien ne signifie pas que votre couple va mal. Cela peut simplement offrir un espace neutre pour comprendre vos besoins et prendre une décision plus sereine."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Parler d’un projet bébé demande parfois plusieurs conversations. Vous pouvez être enthousiastes tout en ayant des doutes, des peurs ou des priorités différentes.",
+          "L’essentiel est de créer un espace où chacun peut parler librement, sans pression, puis de construire les prochaines étapes ensemble."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "1000 premiers jours — Consultation préconceptionnelle",
+        url: "https://www.1000-premiers-jours.fr/fr/consultation-preconceptionnelle"
+      },
+      {
+        label: "ACOG — A Partner’s Guide to Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/a-partners-guide-to-pregnancy"
+      },
+      {
+        label: "NHS — Trying to get pregnant",
+        url: "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
+      },
+      {
+        label: "NHS — Mental health and pregnancy",
+        url: "https://www.nhs.uk/best-start-in-life/pregnancy/mental-health-and-pregnancy/"
+      }
+    ]
+  },
+  {
     slug: "se-preparer-emotionnellement-projet-bebe",
     title: "Comment se préparer émotionnellement à un projet bébé ?",
     description:
