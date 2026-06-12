@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "consultation-preconceptionnelle-pourquoi-quand-faire": {
+    essentialIcons: [CalendarDays, Users, ShieldCheck, Heart],
+    cardIcons: [Heart, ShieldCheck, ClipboardList],
+    cardTitles: ["Santé et antécédents", "Médicaments et vaccins", "Préparation à la grossesse"]
+  },
   "apres-arret-contraception-quand-cycle-revient": {
     essentialIcons: [CalendarDays, ShieldCheck, CalendarDays, Thermometer],
     cardIcons: [CalendarDays, ShieldCheck, Thermometer],
