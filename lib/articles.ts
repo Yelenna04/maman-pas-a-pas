@@ -231,6 +231,154 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "insemination-intra-uterine-iiu-comment-ca-se-passe",
+    title: "Insémination intra-utérine (IIU) : comment ça se passe ?",
+    description:
+      "Comprendre les étapes d’une insémination, de la stimulation de l’ovulation au test de grossesse, ainsi que ses limites et ses risques.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’IIU consiste à déposer des spermatozoïdes préparés directement dans l’utérus au moment proche de l’ovulation.",
+          "Elle peut être réalisée avec les spermatozoïdes du partenaire ou d’un donneur.",
+          "Le cycle est souvent surveillé par échographies et prises de sang, avec ou sans stimulation hormonale.",
+          "La procédure est courte, généralement sans anesthésie, puis un test de grossesse est réalisé environ deux semaines plus tard."
+        ],
+        quote:
+          "L’insémination est l’une des techniques d’AMP les plus simples, mais elle ne convient pas à toutes les situations."
+      },
+      {
+        title: "Qu’est-ce qu’une insémination intra-utérine ?",
+        paragraphs: [
+          "L’insémination intra-utérine, ou IIU, est une technique d’assistance médicale à la procréation. Elle consiste à introduire dans l’utérus des spermatozoïdes sélectionnés et préparés au laboratoire.",
+          "L’objectif est de rapprocher les spermatozoïdes de l’ovocyte au moment de l’ovulation afin de faciliter la rencontre entre les deux.",
+          "La fécondation a ensuite lieu naturellement dans les trompes : contrairement à une FIV, l’ovocyte n’est pas prélevé et la fécondation ne se déroule pas au laboratoire."
+        ]
+      },
+      {
+        title: "Les 3 grandes étapes du parcours",
+        paragraphs: [
+          "La préparation du cycle : le centre suit la croissance des follicules par échographies et parfois par prises de sang. Une stimulation hormonale peut être prescrite.",
+          "Le déclenchement et la préparation du sperme : lorsque le follicule est prêt, l’ovulation peut être déclenchée. Le jour prévu, le sperme est recueilli ou décongelé puis préparé au laboratoire.",
+          "L’insémination : les spermatozoïdes les plus mobiles sont déposés dans l’utérus à l’aide d’un cathéter fin. Le geste ne dure que quelques minutes."
+        ],
+        quote:
+          "Le calendrier dépend de la réponse des ovaires : les dates peuvent donc être ajustées au dernier moment."
+      },
+      {
+        title: "Dans quelles situations l’IIU peut-elle être proposée ?",
+        paragraphs: [
+          "L’IIU peut être proposée lorsque l’infertilité reste inexpliquée, en cas de trouble modéré du sperme, de difficulté à avoir des rapports au moment fertile ou de certains troubles de l’ovulation.",
+          "Elle est également utilisée dans les projets nécessitant un don de spermatozoïdes, notamment pour les couples de femmes et les femmes non mariées.",
+          "Elle n’est généralement pas adaptée si les deux trompes sont bouchées, si le nombre de spermatozoïdes mobiles est très faible ou si la situation nécessite directement une FIV ou une ICSI."
+        ]
+      },
+      {
+        title: "Faut-il toujours stimuler l’ovulation ?",
+        paragraphs: [
+          "Non. Une IIU peut parfois être réalisée sur un cycle naturel, surtout si l’ovulation est régulière.",
+          "Dans de nombreux parcours, une stimulation légère est proposée pour favoriser le développement d’un ou de quelques follicules et mieux programmer l’ovulation.",
+          "Le traitement nécessite une surveillance étroite afin d’éviter une réponse trop importante et de limiter le risque de grossesse multiple."
+        ]
+      },
+      {
+        title: "Comment se passe la surveillance du cycle ?",
+        paragraphs: [
+          "Des échographies vaginales permettent de mesurer la taille des follicules et l’épaisseur de l’endomètre.",
+          "Des prises de sang peuvent compléter cette surveillance afin d’évaluer les hormones et de déterminer le meilleur moment pour l’insémination.",
+          "Lorsque les conditions sont réunies, une injection peut déclencher l’ovulation. L’insémination est alors programmée dans les heures qui suivent selon le protocole du centre."
+        ]
+      },
+      {
+        title: "Comment le sperme est-il préparé ?",
+        paragraphs: [
+          "Avec le sperme du partenaire, le recueil a généralement lieu le jour de l’insémination au centre ou selon les consignes données.",
+          "Le laboratoire prépare ensuite l’échantillon afin de sélectionner les spermatozoïdes les plus mobiles et d’éliminer le liquide séminal.",
+          "Avec un don de spermatozoïdes, une paillette conservée est décongelée puis préparée avant l’insémination."
+        ]
+      },
+      {
+        title: "Comment se déroule le geste ?",
+        paragraphs: [
+          "La patiente est installée comme pour un examen gynécologique. Le professionnel place un spéculum puis introduit un cathéter très fin à travers le col de l’utérus.",
+          "La préparation de spermatozoïdes est déposée doucement dans l’utérus. La procédure dure généralement quelques minutes et ne nécessite pas d’anesthésie.",
+          "Une gêne ou de légères crampes peuvent survenir, mais la plupart des personnes reprennent leurs activités habituelles juste après."
+        ]
+      },
+      {
+        title: "Que se passe-t-il après l’insémination ?",
+        paragraphs: [
+          "Il n’est généralement pas nécessaire de rester allongée longtemps ni de modifier fortement ses activités après l’IIU.",
+          "Un traitement par progestérone peut parfois être prescrit pour soutenir la phase qui suit l’ovulation.",
+          "Le test de grossesse est habituellement programmé environ 14 jours après l’insémination. Le faire trop tôt peut donner un résultat trompeur, surtout après une injection de déclenchement."
+        ]
+      },
+      {
+        title: "Quelles sont les chances de réussite ?",
+        paragraphs: [
+          "Les chances varient selon l’âge, la cause de l’infertilité, la qualité du sperme, la réponse à la stimulation et le recours ou non à un don.",
+          "Les résultats doivent être interprétés par tentative et non comme une garantie individuelle. Plusieurs cycles peuvent être nécessaires.",
+          "Selon les données nationales de l’Agence de la biomédecine, le taux d’accouchement après insémination est inférieur à celui observé après certaines FIV, mais la technique est aussi plus simple et moins invasive."
+        ]
+      },
+      {
+        title: "Quels sont les risques et les limites ?",
+        paragraphs: [
+          "L’IIU elle-même comporte peu de risques. Une légère douleur ou un petit saignement peuvent apparaître après le geste.",
+          "Lorsque le cycle est stimulé, le principal risque est la grossesse multiple. Le centre peut annuler le cycle si trop de follicules se développent.",
+          "Une hyperstimulation ovarienne est possible mais reste moins fréquente avec les protocoles légers d’insémination qu’avec certaines stimulations de FIV.",
+          "L’insémination ne contourne pas une obstruction des trompes et ne corrige pas toutes les causes d’infertilité."
+        ]
+      },
+      {
+        title: "Combien de tentatives peut-on réaliser ?",
+        paragraphs: [
+          "Le nombre de tentatives dépend de l’âge, de la situation médicale, de la réponse aux traitements et des résultats précédents.",
+          "En France, l’Assurance Maladie peut prendre en charge jusqu’à 6 inséminations pour obtenir une grossesse, à raison d’une seule insémination par cycle.",
+          "L’équipe peut proposer de passer à une FIV avant d’avoir réalisé les 6 tentatives si les chances de réussite de l’IIU deviennent trop faibles."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’IIU est une technique d’AMP dans laquelle des spermatozoïdes préparés sont déposés dans l’utérus au moment proche de l’ovulation.",
+          "Le parcours comprend une surveillance du cycle, parfois une stimulation, la préparation du sperme, l’insémination puis une attente d’environ deux semaines avant le test de grossesse.",
+          "La technique est simple et peu invasive, mais ses indications, ses chances de réussite et le nombre de tentatives doivent être discutés avec l’équipe médicale."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Techniques d’AMP : insémination artificielle, FIV, accueil d’embryon",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp/techniques-procreation-medicalement-assistee-pma"
+      },
+      {
+        label: "Agence de la biomédecine — Guide de l’assistance médicale à la procréation",
+        url: "https://www.agence-biomedecine.fr/IMG/pdf/bd_biom24-5_maj_broch_patients_amp_a5_40p_pap.pdf"
+      },
+      {
+        label: "Agence de la biomédecine — Quelles sont les différentes techniques d’AMP ?",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-techniques-d-amp-pour-les-personnes-qui-ont-un-projet-parental"
+      },
+      {
+        label: "Agence de la biomédecine — Taux de réussite et d’échec de l’AMP",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quel-est-le-taux-de-reussited-echec-de-l-amp"
+      },
+      {
+        label: "Assurance Maladie — Prise en charge de l’assistance médicale à la procréation",
+        url: "https://www.ameli.fr/assure/remboursements/rembourse/assistance-medicale-la-procreation-amp/prise-en-charge-de-l-assistance-medicale-la-procreation-amp"
+      }
+    ]
+  },
+  {
     slug: "pma-demarches-delais-prise-en-charge",
     title: "PMA : quelles démarches, quels délais et quelle prise en charge ?",
     description:
