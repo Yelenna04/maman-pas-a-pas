@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "activite-physique-avant-grossesse": {
+    essentialIcons: [Heart, CalendarDays, Sparkles, ShieldCheck],
+    cardIcons: [CalendarDays, Heart, Sparkles],
+    cardTitles: ["Fréquence", "Intensité", "Variété"]
+  },
   "preparer-alimentation-avant-grossesse": {
     essentialIcons: [Leaf, Heart, ShieldCheck, ClipboardList],
     cardIcons: [Leaf, Heart, ShieldCheck],
