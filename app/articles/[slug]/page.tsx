@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "insemination-intra-uterine-iiu-comment-ca-se-passe": {
+    essentialIcons: [TestTubeDiagonal, Users, CalendarDays, ShieldCheck],
+    cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
+    cardTitles: ["Préparer le cycle", "Préparer le sperme", "Réaliser l’insémination"]
+  },
   "pma-demarches-delais-prise-en-charge": {
     essentialIcons: [CalendarDays, ClipboardList, Users, ShieldCheck],
     cardIcons: [TestTubeDiagonal, Users, ClipboardList],
