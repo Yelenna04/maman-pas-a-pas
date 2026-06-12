@@ -708,7 +708,7 @@ function ProjectBabyArticle({
           </section>
         )}
 
-        <div className="project-baby-layout">
+        <div className="project-baby-flow">
           <article className="project-checklist-card">
             <div className="project-card-heading">
               <ClipboardList size={24} />
@@ -725,7 +725,7 @@ function ProjectBabyArticle({
             </ul>
           </article>
 
-          <aside className="project-baby-side">
+          <div className="project-info-grid">
             {startHere && (
               <section className="project-start-card">
                 <div className="project-card-heading">
@@ -754,35 +754,35 @@ function ProjectBabyArticle({
                 ))}
               </section>
             )}
-          </aside>
-        </div>
+          </div>
 
-        <div className="project-details-grid">
-          {b9 && (
-            <section className="compact-section">
-              <h2>
-                <span>1</span>
-                {b9.title}
-              </h2>
-              {b9.paragraphs?.map((paragraph) => (
-                <p key={paragraph}>{renderRichText(paragraph)}</p>
-              ))}
-            </section>
-          )}
+          <div className="project-details-grid project-details-grid-visible">
+            {b9 && (
+              <section className="compact-section">
+                <h2>
+                  <span>1</span>
+                  {b9.title}
+                </h2>
+                {b9.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+              </section>
+            )}
 
-          {takeaway && (
-            <section className="compact-takeaway">
-              <h2>À retenir</h2>
-              {takeaway.paragraphs?.map((paragraph) => (
-                <p key={paragraph}>{renderRichText(paragraph)}</p>
-              ))}
-              {essentials?.quote && (
-                <div className="project-takeaway-note">
-                  {renderRichText(essentials.quote)}
-                </div>
-              )}
-            </section>
-          )}
+            {takeaway && (
+              <section className="compact-takeaway">
+                <h2>À retenir</h2>
+                {takeaway.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+                {essentials?.quote && (
+                  <div className="project-takeaway-note">
+                    {renderRichText(essentials.quote)}
+                  </div>
+                )}
+              </section>
+            )}
+          </div>
         </div>
 
         <section className="compact-source-box">
