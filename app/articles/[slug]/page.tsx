@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "sommeil-stress-projet-bebe-prendre-soin-de-soi": {
+    essentialIcons: [Heart, Sparkles, CalendarDays, ShieldCheck],
+    cardIcons: [CalendarDays, Sparkles, Heart],
+    cardTitles: ["Rythme régulier", "Transition calme", "Moins de pression"]
+  },
   "activite-physique-avant-grossesse": {
     essentialIcons: [Heart, CalendarDays, Sparkles, ShieldCheck],
     cardIcons: [CalendarDays, Heart, Sparkles],
