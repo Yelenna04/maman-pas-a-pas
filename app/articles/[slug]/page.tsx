@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "automedication-avant-pendant-grossesse-reflexes": {
+    essentialIcons: [ShieldCheck, ClipboardList, AlertTriangle, Heart],
+    cardIcons: [Users, ClipboardList, ShieldCheck],
+    cardTitles: ["Signaler le projet", "Vérifier la substance", "Demander conseil"]
+  },
   "vitamine-b9-avant-grossesse-quand-comment-prendre": {
     essentialIcons: [Leaf, CalendarDays, ClipboardList, ShieldCheck],
     cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
