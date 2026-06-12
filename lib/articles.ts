@@ -41,13 +41,13 @@ export const articles: Article[] = [
         bullets: [
           "L’ovulation ne se produit pas forcément au 14ᵉ jour.",
           "La période fertile commence quelques jours avant l’ovulation.",
-          "**La glaire cervicale est souvent le signe le plus simple à observer.**",
+          "La glaire cervicale est souvent le signe le plus simple à observer.",
           "Les tests d’ovulation peuvent apporter un repère supplémentaire.",
           "La température aide surtout à confirmer une ovulation déjà passée.",
           "Des rapports réguliers évitent de devoir viser une date exacte."
         ],
         quote:
-          "Il n’est pas nécessaire de surveiller tous les signes à la fois. Quelques repères simples suffisent souvent pour commencer."
+          "Les spermatozoïdes peuvent survivre jusqu’à 5 jours dans les voies génitales. Avoir des rapports dans les jours qui précèdent l’ovulation augmente donc vos chances."
       },
       {
         title: "Quand l’ovulation a-t-elle lieu ?",
