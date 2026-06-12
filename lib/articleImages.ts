@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "medicaments-projet-bebe-lesquels-signaler") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "quels-vaccins-verifier-avant-grossesse") {
     return "/images/article-a-la-une.png";
   }
