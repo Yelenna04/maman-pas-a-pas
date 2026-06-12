@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "quels-examens-faire-avant-grossesse": {
+    essentialIcons: [ClipboardList, ShieldCheck, TestTubeDiagonal, CalendarDays],
+    cardIcons: [TestTubeDiagonal, ShieldCheck, ClipboardList],
+    cardTitles: ["Groupe sanguin", "Immunités et infections", "Suivi gynécologique"]
+  },
   "consultation-preconceptionnelle-pourquoi-quand-faire": {
     essentialIcons: [CalendarDays, Users, ShieldCheck, Heart],
     cardIcons: [Heart, ShieldCheck, ClipboardList],
