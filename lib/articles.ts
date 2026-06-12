@@ -231,6 +231,145 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "quels-vaccins-verifier-avant-grossesse",
+    title: "Quels vaccins vérifier avant une grossesse ?",
+    description:
+      "Les vaccins à contrôler avant un projet bébé, ceux à réaliser avant la grossesse et ceux qui pourront être proposés pendant la grossesse.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Vaccins et médicaments",
+    subcategorySlug: "vaccins-medicaments",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Faites vérifier votre carnet vaccinal dès le début du projet bébé.",
+          "Le vaccin ROR et le vaccin contre la varicelle doivent être réalisés avant la grossesse s’ils sont indiqués.",
+          "Une grossesse doit être évitée pendant le mois suivant un vaccin vivant comme le ROR ou celui contre la varicelle.",
+          "La grippe, le Covid-19 et la coqueluche peuvent être vaccinés pendant la grossesse selon les recommandations."
+        ],
+        quote:
+          "Le bon réflexe est de vérifier les vaccins avant les essais, car certains ne peuvent plus être administrés une fois la grossesse commencée."
+      },
+      {
+        title: "Pourquoi vérifier ses vaccins avant une grossesse ?",
+        paragraphs: [
+          "Certaines infections peuvent être plus graves pendant la grossesse ou entraîner des complications pour le fœtus.",
+          "Le rendez-vous préconceptionnel permet de vérifier le carnet vaccinal, de compléter les rappels nécessaires et d’identifier les vaccins à faire avant les essais.",
+          "Il est particulièrement utile de vérifier l’immunité contre la rubéole et les antécédents de varicelle, car les vaccins correspondants sont contre-indiqués pendant la grossesse."
+        ]
+      },
+      {
+        title: "Les 3 vérifications prioritaires",
+        paragraphs: [
+          "Le vaccin ROR : il protège contre la rougeole, les oreillons et la rubéole. Une mise à jour peut être proposée si le schéma vaccinal n’est pas complet.",
+          "La varicelle : si vous ne l’avez jamais eue et n’êtes pas vaccinée, une vaccination peut être proposée avant la grossesse.",
+          "Les rappels habituels : diphtérie, tétanos, poliomyélite et coqueluche doivent être vérifiés selon le calendrier vaccinal."
+        ],
+        quote:
+          "Apportez votre carnet de santé ou votre dossier médical. En cas de doute, un professionnel pourra vérifier les doses déjà reçues."
+      },
+      {
+        title: "Pourquoi la rubéole est-elle importante ?",
+        paragraphs: [
+          "La rubéole est souvent bénigne chez l’adulte, mais une infection en début de grossesse peut entraîner de graves atteintes chez le fœtus.",
+          "Le vaccin est administré sous la forme du vaccin ROR, qui contient des virus vivants atténués.",
+          "Il ne doit pas être administré pendant la grossesse. Après une vaccination ROR, il est recommandé d’éviter une grossesse pendant un mois."
+        ]
+      },
+      {
+        title: "Que faire pour la varicelle ?",
+        paragraphs: [
+          "La varicelle peut être plus sévère chez l’adulte et présenter des risques pendant la grossesse.",
+          "Si vous ne savez pas si vous avez eu la maladie, le professionnel peut rechercher vos antécédents et, si nécessaire, proposer une sérologie.",
+          "Le vaccin contre la varicelle est contre-indiqué pendant la grossesse. Lorsqu’il est réalisé avant les essais, une contraception est nécessaire pendant le mois qui suit chaque dose."
+        ]
+      },
+      {
+        title: "Quels vaccins peuvent être proposés pendant la grossesse ?",
+        paragraphs: [
+          "La vaccination contre la grippe saisonnière est recommandée pendant la grossesse, quel que soit le trimestre, en période de circulation du virus.",
+          "La vaccination contre le Covid-19 peut également être proposée pendant la grossesse selon les recommandations en vigueur.",
+          "La vaccination contre la coqueluche est recommandée à chaque grossesse, à partir du deuxième trimestre, afin de transmettre des anticorps protecteurs au bébé.",
+          "La vaccination contre le virus respiratoire syncytial, ou VRS, peut aussi être proposée pendant une période précise de la grossesse selon la saison et les recommandations."
+        ]
+      },
+      {
+        title: "Faut-il faire les vaccins contre la grippe ou le Covid-19 avant les essais ?",
+        paragraphs: [
+          "Ils peuvent être réalisés avant la grossesse si la vaccination est recommandée au moment du projet bébé.",
+          "Il n’est toutefois pas nécessaire de retarder les essais uniquement pour ces vaccins, car ils peuvent être administrés pendant la grossesse.",
+          "Le professionnel tiendra compte de la saison, de votre état de santé, de vos antécédents et des recommandations actualisées."
+        ]
+      },
+      {
+        title: "Et le vaccin contre la coqueluche ?",
+        paragraphs: [
+          "Les rappels contre la coqueluche sont vérifiés avant la grossesse dans le cadre du calendrier vaccinal habituel.",
+          "Mais même si vous avez déjà été vaccinée auparavant, une dose est recommandée pendant chaque grossesse, généralement entre 20 et 36 semaines d’aménorrhée.",
+          "Cette vaccination permet de transmettre des anticorps au bébé et de le protéger pendant ses premiers mois de vie."
+        ]
+      },
+      {
+        title: "Que faire si un vaccin vivant a été réalisé par erreur pendant la grossesse ?",
+        paragraphs: [
+          "Contactez le professionnel qui suit la grossesse afin de signaler la vaccination et de recevoir un avis adapté.",
+          "Une vaccination ROR réalisée par inadvertance pendant la grossesse ne constitue pas, à elle seule, une indication d’interruption de grossesse.",
+          "Ne prenez pas de décision seule et évitez de vous inquiéter à partir d’informations trouvées sans contexte médical."
+        ]
+      },
+      {
+        title: "Comment préparer le rendez-vous ?",
+        paragraphs: [
+          "Rassemblez votre carnet de santé, votre carnet de vaccination et les éventuels résultats de sérologie déjà réalisés.",
+          "Notez les vaccins reçus récemment et les voyages prévus, car certaines destinations nécessitent des recommandations particulières.",
+          "Signalez aussi vos allergies, vos traitements, une immunodépression ou une précédente réaction importante après une vaccination."
+        ],
+        bullets: [
+          "Carnet de santé ou dossier vaccinal numérique.",
+          "Résultats de sérologie rubéole ou varicelle.",
+          "Date approximative des dernières injections.",
+          "Liste des traitements et maladies chroniques.",
+          "Projet de voyage avant ou pendant la grossesse."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, vérifiez surtout le ROR, la varicelle et les rappels du calendrier vaccinal.",
+          "Les vaccins vivants comme le ROR et celui contre la varicelle doivent être réalisés avant la grossesse avec un délai d’un mois avant les essais.",
+          "D’autres vaccins, notamment contre la grippe, le Covid-19 et la coqueluche, pourront être proposés pendant la grossesse selon les recommandations."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      },
+      {
+        label: "Haute Autorité de santé — Grossesse : les vaccins recommandés",
+        url: "https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes"
+      },
+      {
+        label: "Ministère de la Santé — Calendrier des vaccinations 2026",
+        url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/calendrier-vaccinal"
+      },
+      {
+        label: "Assurance Maladie — Prévenir la rubéole par la vaccination",
+        url: "https://www.ameli.fr/assure/sante/themes/rubeole/mesures-hygiene-vaccination"
+      },
+      {
+        label: "Assurance Maladie — Prévenir la varicelle",
+        url: "https://www.ameli.fr/assure/sante/themes/varicelle/prevention"
+      }
+    ]
+  },
+  {
     slug: "comment-vivre-emotionnellement-parcours-pma",
     title: "Comment vivre émotionnellement un parcours de PMA ?",
     description:
