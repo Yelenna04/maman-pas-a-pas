@@ -1,266 +1,412 @@
 import Image from "next/image";
+import type { ReactNode } from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import {
-  ArrowRight,
-  Baby,
-  BookOpenCheck,
-  CalendarHeart,
-  Flower2,
-  HeartPulse,
-  Leaf,
+  AlertTriangle,
+  CalendarDays,
+  Check,
+  ChevronDown,
+  Droplets,
+  Lightbulb,
   ShieldCheck,
-  Sparkles,
-  Stethoscope
+  TestTubeDiagonal,
+  Thermometer
 } from "lucide-react";
-import { ArticleCard } from "@/components/ArticleCard";
-import { articles } from "@/lib/articles";
 
-const steps = [
-  {
-    title: "Avant la grossesse",
-    description: "Préparer son projet sereinement.",
-    href: "/avant-grossesse",
-    Icon: CalendarHeart
-  },
-  {
-    title: "Grossesse",
-    description: "Vivre chaque trimestre sereinement.",
-    href: "/pendant-grossesse",
-    Icon: HeartPulse
-  },
-  {
-    title: "Accouchement",
-    description: "Préparer le jour J sereinement.",
-    href: "/accouchement",
-    Icon: Baby
-  },
-  {
-    title: "Post-partum",
-    description: "Se retrouver après la naissance.",
-    href: "/post-partum",
-    Icon: Leaf
-  }
-];
+import { articles, getArticle } from "@/lib/articles";
+import { getArticleImage } from "@/lib/articleImages";
 
-export default function HomePage() {
-  const latest = [...articles].sort(
-    (a, b) =>
-      new Date(b.updatedAt).getTime() -
-      new Date(a.updatedAt).getTime()
-  );
+type Props = { params: Promise<{ slug: string }> };
 
-  const featured = latest[0];
+function renderRichText(text: string): ReactNode[] {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={`${part}-${index}`}>{part.slice(2, -2)}</strong>;
+    }
 
+    return part;
+  });
+}
+
+function sectionId(index: number) {
+  return `section-${index + 1}`;
+}
+
+export function generateStaticParams() {
+  return articles.map((article) => ({ slug: article.slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const article = getArticle(slug);
+
+  if (!article) return {};
+
+  return {
+    title: article.title,
+    description: article.description,
+    alternates: { canonical: `/articles/${article.slug}` }
+  };
+}
+
+function StandardArticle({
+  article
+}: {
+  article: NonNullable<ReturnType<typeof getArticle>>;
+}) {
   return (
     <>
-      <section className="editorial-hero">
-        <div className="container editorial-hero-grid">
-          <div className="editorial-hero-copy">
-            <p className="eyebrow">
-              <Flower2 size={16} />
-              À vos côtés, à chaque étape
-            </p>
-
-            <h1>
-              Des réponses simples pour vivre la maternité
-              <span className="accent-word"> en confiance.</span>
-            </h1>
-
-            <p className="lead">
-              Des informations fiables, des conseils pratiques et un soutien
-              bienveillant, avant, pendant et après la grossesse.
-            </p>
-
-            <div className="hero-actions">
-              <Link className="btn btn-sage" href="/articles">
-                Découvrir les articles
-                <ArrowRight size={18} />
+      <div className="article-shell">
+        <div className="article-hero-card photo-article-hero">
+          <div className="article-hero-copy">
+            <div
+              className="breadcrumbs"
+              style={{ justifyContent: "flex-start" }}
+            >
+              <Link href="/">Accueil</Link>
+              <span>›</span>
+              <Link href={`/${article.categorySlug}`}>
+                {article.category}
               </Link>
-
-              <Link
-                className="btn btn-secondary"
-                href="/methode-verification"
-              >
-                Notre méthode
-              </Link>
+              <span>›</span>
+              <span>{article.subcategory || "Article"}</span>
             </div>
 
-            <div className="hero-note">
-              <ShieldCheck size={20} />
-              <span>
-                Des sources officielles visibles à la fin de chaque article.
-              </span>
-            </div>
+            <span className="badge">
+              {article.subcategory || article.category}
+            </span>
+
+            <h1>{article.title}</h1>
+            <p className="lead">{article.description}</p>
           </div>
 
-          <div className="editorial-hero-photo">
+          <div className="article-hero-photo">
             <Image
-              src="/images/hero-maman-pas-a-pas.png"
-              alt="Future maman dans un intérieur lumineux et apaisant"
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
               fill
               priority
-              sizes="(max-width: 980px) 100vw, 52vw"
+              sizes="(max-width: 980px) 100vw, 42vw"
             />
           </div>
         </div>
-      </section>
 
-      <section className="section-sm">
-        <div className="container">
-          <div
-            className="step-strip"
-            aria-label="Parcourir le site par étape"
-          >
-            {steps.map(({ title, description, href, Icon }) => (
-              <Link
-                className="step-strip-card"
-                href={href}
-                key={href}
-              >
-                <div className="step-strip-icon">
-                  <Icon size={24} />
-                </div>
+        <div className="article-main-grid">
+          <article className="article-content-card prose">
+            <div className="notice">
+              <strong>À retenir :</strong> cet article fournit des informations
+              générales. Il ne remplace pas un diagnostic, une consultation ou
+              un suivi personnalisé.
+            </div>
 
-                <div>
-                  <h3>{title}</h3>
-                  <p>{description}</p>
-                </div>
-              </Link>
+            {article.sections.map((section, index) => (
+              <section key={section.title} id={sectionId(index)}>
+                <h2>{section.title}</h2>
+
+                {section.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+
+                {section.bullets && (
+                  <ul>
+                    {section.bullets.map((bullet) => (
+                      <li key={bullet}>{renderRichText(bullet)}</li>
+                    ))}
+                  </ul>
+                )}
+
+                {section.quote && (
+                  <div className="key-takeaway">
+                    <strong>À retenir</strong>
+                    {renderRichText(section.quote)}
+                  </div>
+                )}
+              </section>
             ))}
-          </div>
-        </div>
-      </section>
 
-      {featured && (
-        <section className="section editorial-featured-section">
-          <div className="container editorial-featured">
-            <div className="editorial-featured-photo">
-              <Image
-                src="/images/article-a-la-une.png"
-                alt="Carnet, tasse et eucalyptus dans une ambiance naturelle"
-                fill
-                sizes="(max-width: 980px) 100vw, 48vw"
-              />
-            </div>
+            <section className="article-source-box">
+              <h2>Sources consultées</h2>
+              <ul className="source-list">
+                {article.sources.map((source) => (
+                  <li key={source.label}>
+                    <a href={source.url} target="_blank" rel="noreferrer">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          </article>
 
-            <div className="editorial-featured-copy">
-              <p className="eyebrow">
-                <Sparkles size={16} />
-                Article à la une
+          <aside>
+            <nav className="article-toc" aria-label="Sommaire de l’article">
+              <h3>Dans cet article</h3>
+              <ol>
+                {article.sections.map((section, index) => (
+                  <li key={section.title}>
+                    <a href={`#${sectionId(index)}`}>{section.title}</a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+
+            <div className="card" style={{ marginTop: 18 }}>
+              <AlertTriangle size={26} color="#9d6868" />
+              <h3 style={{ marginTop: 14 }}>Besoin d’aide rapidement ?</h3>
+              <p className="muted">
+                En cas de symptôme inquiétant, de douleur intense, de malaise
+                ou de danger immédiat, contactez un professionnel de santé ou
+                les services d’urgence.
               </p>
-
-              <span className="badge">
-                {featured.subcategory || featured.category}
-              </span>
-
-              <h2>{featured.title}</h2>
-              <p className="lead">{featured.description}</p>
-
-              <Link
-                className="btn btn-primary"
-                href={`/articles/${featured.slug}`}
-              >
-                Lire l’article
-                <ArrowRight size={18} />
-              </Link>
             </div>
-          </div>
-        </section>
-      )}
-
-      <section className="section">
-        <div className="container">
-          <div className="section-title-row">
-            <div>
-              <p className="eyebrow">
-                <Leaf size={16} />
-                À lire maintenant
-              </p>
-
-              <h2>Les derniers articles</h2>
-            </div>
-
-            <Link className="btn btn-secondary" href="/articles">
-              Voir tous les articles
-            </Link>
-          </div>
-
-          <div className="grid-3">
-            {latest.slice(1, 7).map((article) => (
-              <ArticleCard key={article.slug} article={article} />
-            ))}
-          </div>
+          </aside>
         </div>
-      </section>
-
-      <section className="section soft-bg">
-        <div className="container trust-grid">
-          <div>
-            <p className="eyebrow">
-              <Stethoscope size={16} />
-              Informations claires et vérifiées
-            </p>
-
-            <h2>
-              Un blog doux dans la forme, rigoureux dans le fond.
-            </h2>
-
-            <p className="lead">
-              Nous transformons des recommandations médicales et
-              institutionnelles en réponses simples, accessibles et utiles au
-              quotidien.
-            </p>
-          </div>
-
-          <div className="card trust-card">
-            <ul className="check-list">
-              <li>
-                Des sources reconnues : HAS, Ameli, OMS, Santé publique France.
-              </li>
-              <li>Des dates de mise à jour visibles.</li>
-              <li>Un ton chaleureux et jamais culpabilisant.</li>
-              <li>
-                Des indications claires pour savoir quand consulter.
-              </li>
-            </ul>
-
-            <Link
-              className="link-arrow"
-              href="/methode-verification"
-            >
-              Découvrir notre méthode
-              <ArrowRight size={17} />
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="container banner editorial-banner">
-          <div>
-            <p className="eyebrow">
-              <Sparkles size={16} />
-              Une question ?
-            </p>
-
-            <h2
-              style={{
-                fontSize: "2.25rem",
-                marginBottom: 10
-              }}
-            >
-              Proposez un sujet pour un prochain article.
-            </h2>
-
-            <p>Chaque question peut aider d’autres futurs parents.</p>
-          </div>
-
-          <Link className="btn btn-primary" href="/contact">
-            Nous écrire
-            <BookOpenCheck size={18} />
-          </Link>
-        </div>
-      </section>
+      </div>
     </>
   );
+}
+
+function OvulationArticle({
+  article
+}: {
+  article: NonNullable<ReturnType<typeof getArticle>>;
+}) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const timing = article.sections.find(
+    (section) => section.title === "Quand l’ovulation a-t-elle lieu ?"
+  );
+  const signs = article.sections.find(
+    (section) => section.title === "Les 3 signes les plus utiles"
+  );
+  const apps = article.sections.find(
+    (section) => section.title === "Et les applications de suivi du cycle ?"
+  );
+  const monitor = article.sections.find(
+    (section) => section.title === "Faut-il surveiller tous les signes ?"
+  );
+  const medical = article.sections.find(
+    (section) => section.title === "Quand demander un avis médical ?"
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+
+  const essentialIcons = [
+    CalendarDays,
+    CalendarDays,
+    Droplets,
+    TestTubeDiagonal,
+    Thermometer
+  ];
+
+  const signIcons = [Droplets, TestTubeDiagonal, Thermometer];
+
+  return (
+    <main className="compact-article">
+      <div className="article-shell">
+        <section className="compact-article-hero">
+          <div className="compact-hero-copy">
+            <div className="breadcrumbs compact-breadcrumbs">
+              <Link href="/">Accueil</Link>
+              <span>›</span>
+              <Link href={`/${article.categorySlug}`}>
+                {article.category}
+              </Link>
+              <span>›</span>
+              <span>{article.subcategory}</span>
+            </div>
+
+            <h1>{article.title}</h1>
+            <p className="lead">{article.description}</p>
+
+            <div className="verified-pill">
+              <ShieldCheck size={18} />
+              Informations médicales vérifiées
+            </div>
+          </div>
+
+          <div className="compact-hero-photo">
+            <Image
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 900px) 100vw, 43vw"
+            />
+          </div>
+        </section>
+
+        {essentials?.bullets && (
+          <section className="compact-essentials">
+            <h2>L’essentiel en 30 secondes</h2>
+            <div className="essential-grid">
+              {essentials.bullets.slice(0, 4).map((bullet, index) => {
+                const Icon = essentialIcons[index];
+                return (
+                  <div className="essential-card" key={bullet}>
+                    <span className="essential-icon">
+                      <Icon size={23} />
+                    </span>
+                    <p>{renderRichText(bullet)}</p>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <div className="compact-article-grid">
+          <article className="compact-main-column">
+            {timing && (
+              <section className="compact-section">
+                <h2>
+                  <span>1</span>
+                  {timing.title}
+                </h2>
+                {timing.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+                {essentials?.quote && (
+                  <div className="compact-note rose-note">
+                    <strong>Bon à savoir</strong>
+                    <p>{renderRichText(essentials.quote)}</p>
+                  </div>
+                )}
+              </section>
+            )}
+
+            {signs && (
+              <section className="compact-section">
+                <h2>
+                  <span>2</span>
+                  {signs.title}
+                </h2>
+                <div className="sign-grid">
+                  {signs.paragraphs?.slice(0, 3).map((paragraph, index) => {
+                    const Icon = signIcons[index];
+                    const titles = [
+                      "Glaire cervicale",
+                      "Test d’ovulation",
+                      "Température basale"
+                    ];
+                    return (
+                      <div className="sign-card" key={paragraph}>
+                        <span className="sign-icon">
+                          <Icon size={25} />
+                        </span>
+                        <h3>{index + 1}. {titles[index]}</h3>
+                        <p>{renderRichText(paragraph)}</p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            )}
+
+            {medical && (
+              <section className="compact-section medical-section">
+                <h2>
+                  <span>3</span>
+                  {medical.title}
+                </h2>
+                <div className="medical-list">
+                  {medical.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>
+                      <Check size={18} />
+                      <span>{renderRichText(paragraph)}</span>
+                    </p>
+                  ))}
+                </div>
+                <div className="compact-warning">
+                  <AlertTriangle size={21} />
+                  <p>
+                    Une douleur intense ou persistante, de la fièvre, un
+                    malaise ou des saignements importants nécessitent un avis
+                    médical rapide.
+                  </p>
+                </div>
+              </section>
+            )}
+
+            {takeaway && (
+              <section className="compact-takeaway">
+                <h2>À retenir</h2>
+                {takeaway.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+              </section>
+            )}
+          </article>
+
+          <aside className="compact-side-column">
+            <section className="learn-more-box">
+              <h2>En savoir plus</h2>
+
+              {apps && (
+                <details>
+                  <summary>
+                    Les applications de suivi du cycle
+                    <ChevronDown size={18} />
+                  </summary>
+                  {apps.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+
+              {monitor && (
+                <details>
+                  <summary>
+                    Faut-il surveiller tous les signes ?
+                    <ChevronDown size={18} />
+                  </summary>
+                  {monitor.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+            </section>
+
+            {monitor?.quote && (
+              <section className="simple-advice-box">
+                <Lightbulb size={25} />
+                <h2>Le conseil le plus simple</h2>
+                <p>{renderRichText(monitor.quote)}</p>
+              </section>
+            )}
+          </aside>
+        </div>
+
+        <section className="compact-source-box">
+              <h2>Sources consultées</h2>
+              <ul>
+                {article.sources.map((source) => (
+                  <li key={source.label}>
+                    <a href={source.url} target="_blank" rel="noreferrer">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+      </div>
+    </main>
+  );
+}
+
+export default async function ArticlePage({ params }: Props) {
+  const { slug } = await params;
+  const article = getArticle(slug);
+
+  if (!article) notFound();
+
+  if (article.slug === "comment-reperer-ovulation-periode-fertile") {
+    return <OvulationArticle article={article} />;
+  }
+
+  return <StandardArticle article={article} />;
 }
