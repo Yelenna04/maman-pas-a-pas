@@ -63,6 +63,16 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "test-positif-premieres-demarches": {
+    essentialIcons: [Heart, CalendarDays, ClipboardList, AlertTriangle],
+    cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
+    cardTitles: ["Prendre rendez-vous", "Préparer les informations", "Adopter les précautions"]
+  },
+  "plantes-huiles-essentielles-complements-sans-risque": {
+    essentialIcons: [Leaf, ShieldCheck, ClipboardList, AlertTriangle],
+    cardIcons: [Leaf, ClipboardList, ShieldCheck],
+    cardTitles: ["Vérifier la composition", "Éviter les mélanges", "Demander conseil"]
+  },
   "automedication-avant-pendant-grossesse-reflexes": {
     essentialIcons: [ShieldCheck, ClipboardList, AlertTriangle, Heart],
     cardIcons: [Users, ClipboardList, ShieldCheck],
