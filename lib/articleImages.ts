@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "apres-arret-contraception-quand-cycle-revient") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
   if (slug === "combien-temps-moyenne-tomber-enceinte") {
     return "/images/article-ovulation-periode-fertile.png";
   }
