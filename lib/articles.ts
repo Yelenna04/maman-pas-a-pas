@@ -233,7 +233,7 @@ export const articles: Article[] = [
     slug: "que-faire-avant-essayer-avoir-bebe",
     title: "Que faire avant d’essayer d’avoir un bébé ?",
     description:
-      "Les premières étapes utiles pour préparer une grossesse sereinement, sans chercher à tout faire parfaitement.",
+      "Les premiers repères pour préparer votre projet de grossesse, simplement et sans pression.",
     category: "Avant la grossesse",
     categorySlug: "avant-grossesse",
     subcategory: "Projet bébé",
