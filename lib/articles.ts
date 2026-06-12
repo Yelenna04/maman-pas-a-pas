@@ -231,6 +231,114 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "consultation-preconceptionnelle-pourquoi-quand-faire",
+    title: "Consultation préconceptionnelle : pourquoi et quand la faire ?",
+    description:
+      "Un rendez-vous simple pour faire le point sur votre santé, vos traitements et vos questions avant une grossesse.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La consultation peut être réalisée dès qu’un projet de grossesse se précise.",
+          "Elle peut être menée par un médecin généraliste, un gynécologue ou une sage-femme.",
+          "Elle permet de faire le point sur les antécédents, les traitements, les vaccins et la vitamine B9.",
+          "Le ou la partenaire peut aussi participer au rendez-vous."
+        ],
+        quote:
+          "Il n’est pas nécessaire d’attendre d’avoir arrêté la contraception ou d’être enceinte pour prendre rendez-vous."
+      },
+      {
+        title: "À quoi sert la consultation préconceptionnelle ?",
+        paragraphs: [
+          "La consultation préconceptionnelle est un rendez-vous proposé avant une grossesse. Elle permet de préparer le projet dans de bonnes conditions, sans transformer cette période en parcours médical compliqué.",
+          "Le professionnel s’intéresse à votre santé, à vos antécédents personnels et familiaux, à vos traitements, à vos vaccinations et à vos habitudes de vie.",
+          "C’est aussi un moment pour poser vos questions, parler de vos inquiétudes et recevoir des conseils adaptés à votre situation."
+        ]
+      },
+      {
+        title: "Les 3 points vérifiés pendant le rendez-vous",
+        paragraphs: [
+          "Votre santé et vos antécédents. Le professionnel peut revenir sur les maladies chroniques, les opérations, les grossesses précédentes et les antécédents familiaux.",
+          "Vos médicaments et vos vaccins. Tous les traitements, y compris ceux sans ordonnance, les plantes, les huiles essentielles et les compléments, doivent être signalés.",
+          "Votre préparation à la grossesse. La vitamine B9, les habitudes de vie, le tabac, l’alcool et certains examens peuvent être abordés selon vos besoins."
+        ],
+        quote:
+          "Apportez votre carnet de santé, votre carnet de vaccination et la liste de vos traitements si vous les avez."
+      },
+      {
+        title: "Quand prendre rendez-vous ?",
+        paragraphs: [
+          "Vous pouvez prendre rendez-vous dès que le projet de grossesse devient concret, idéalement avant l’arrêt de la contraception ou au début des essais.",
+          "Ce rendez-vous est particulièrement utile si vous prenez un traitement régulier, vivez avec une maladie chronique, avez déjà connu une grossesse compliquée ou si une maladie héréditaire existe dans la famille.",
+          "Il reste également utile lorsque tout va bien : son objectif est aussi de prévenir, informer et rassurer."
+        ]
+      },
+      {
+        title: "Quel professionnel consulter ?",
+        paragraphs: [
+          "La consultation peut être menée par un médecin généraliste, un gynécologue médical, un gynécologue-obstétricien ou une sage-femme.",
+          "Vous pouvez choisir le professionnel avec lequel vous vous sentez le plus à l’aise. Il n’est pas obligatoire que cette personne assure ensuite le suivi de la grossesse.",
+          "Si une situation particulière est repérée, le professionnel pourra vous orienter vers un spécialiste."
+        ]
+      },
+      {
+        title: "Comment préparer le rendez-vous ?",
+        paragraphs: [
+          "Notez vos questions à l’avance et préparez la liste de vos traitements, compléments et produits utilisés occasionnellement.",
+          "Rassemblez, si possible, votre carnet de vaccination, vos comptes rendus médicaux, vos résultats récents et les informations sur vos antécédents familiaux.",
+          "Le ou la partenaire peut aussi venir pour parler de sa santé, de ses traitements, de ses habitudes de vie et de ses antécédents familiaux."
+        ],
+        bullets: [
+          "Carnet de santé et de vaccination.",
+          "Liste ou photos des médicaments et compléments.",
+          "Résultats d’examens ou comptes rendus utiles.",
+          "Questions sur la grossesse, la fertilité ou les traitements."
+        ]
+      },
+      {
+        title: "Quand ce rendez-vous est-il particulièrement important ?",
+        paragraphs: [
+          "Il est particulièrement recommandé en cas de diabète, hypertension, épilepsie, maladie de la thyroïde, maladie auto-immune, trouble psychiatrique ou autre maladie chronique.",
+          "Un avis personnalisé est aussi important après une grossesse compliquée, des fausses couches répétées, une chirurgie importante ou en cas de traitement pouvant être incompatible avec une grossesse.",
+          "N’arrêtez jamais seule un traitement prescrit. Le professionnel évaluera les bénéfices et les risques et proposera, si nécessaire, une adaptation."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La consultation préconceptionnelle est un rendez-vous d’information et de prévention. Elle peut être réalisée dès le début du projet bébé, même en l’absence de problème de santé.",
+          "Elle permet de vérifier les traitements, les vaccins, les antécédents et la vitamine B9, puis de préparer la grossesse de manière adaptée à votre situation."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Haute Autorité de santé — Projet de grossesse : informations, prévention et examens",
+        url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer"
+      },
+      {
+        label: "1000 premiers jours — Consultation préconceptionnelle",
+        url: "https://www.1000-premiers-jours.fr/fr/consultation-preconceptionnelle"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      }
+    ]
+  },
+  {
     slug: "apres-arret-contraception-quand-cycle-revient",
     title: "Après l’arrêt de la contraception : quand le cycle revient-il ?",
     description:
