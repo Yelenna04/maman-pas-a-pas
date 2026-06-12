@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "preparer-alimentation-avant-grossesse": {
+    essentialIcons: [Leaf, Heart, ShieldCheck, ClipboardList],
+    cardIcons: [Leaf, Heart, ShieldCheck],
+    cardTitles: ["Varier les aliments", "Vitamine B9", "Hydratation"]
+  },
   "sante-partenaire-points-verifier-avant-grossesse": {
     essentialIcons: [Users, ShieldCheck, Heart, ClipboardList],
     cardIcons: [ShieldCheck, ClipboardList, Heart],
