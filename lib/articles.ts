@@ -231,6 +231,155 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "medicaments-projet-bebe-lesquels-signaler",
+    title: "Médicaments et projet bébé : lesquels faut-il signaler ?",
+    description:
+      "Les traitements, produits sans ordonnance et compléments à mentionner avant une grossesse, sans jamais arrêter seule un médicament prescrit.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Vaccins et médicaments",
+    subcategorySlug: "vaccins-medicaments",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Signalez tous les médicaments, même ceux pris rarement ou sans ordonnance.",
+          "Mentionnez aussi les crèmes, collyres, inhalateurs, plantes et compléments alimentaires.",
+          "N’arrêtez jamais seule un traitement prescrit à cause d’un projet de grossesse.",
+          "Un médecin, une sage-femme ou un pharmacien peut vérifier chaque produit et proposer une alternative si nécessaire."
+        ],
+        quote:
+          "Préparer une grossesse ne signifie pas supprimer tous les traitements, mais vérifier lesquels doivent être poursuivis, adaptés ou remplacés."
+      },
+      {
+        title: "Pourquoi faire le point avant la grossesse ?",
+        paragraphs: [
+          "Certains médicaments peuvent être utilisés pendant une grossesse, tandis que d’autres nécessitent une adaptation, un remplacement ou une surveillance particulière.",
+          "À l’inverse, arrêter brutalement un traitement indispensable peut déstabiliser une maladie et présenter davantage de risques que sa poursuite.",
+          "La consultation préconceptionnelle permet d’évaluer les bénéfices et les risques avant les essais, sans attendre un test de grossesse positif."
+        ]
+      },
+      {
+        title: "Les 3 catégories à signaler",
+        paragraphs: [
+          "Les traitements prescrits : médicaments pris tous les jours, traitements ponctuels, injections, inhalateurs, crèmes, pommades, collyres ou dispositifs médicamenteux.",
+          "Les produits sans ordonnance : antidouleurs, médicaments contre le rhume, allergies, reflux, constipation, troubles du sommeil ou douleurs menstruelles.",
+          "Les produits dits naturels : plantes, huiles essentielles, tisanes concentrées, compléments alimentaires, vitamines, minéraux et produits achetés sur internet."
+        ],
+        quote:
+          "Prenez en photo les boîtes ou apportez une liste avec le nom, le dosage et la fréquence de chaque produit."
+      },
+      {
+        title: "Quels traitements méritent une attention particulière ?",
+        paragraphs: [
+          "Les traitements de l’épilepsie, de l’hypertension, du diabète, des maladies auto-immunes, de l’acné sévère, des troubles psychiatriques ou de certains cancers nécessitent souvent une consultation avant les essais.",
+          "Certains anticoagulants, médicaments hormonaux, traitements immunosuppresseurs ou médicaments agissant sur le système rénine-angiotensine peuvent aussi demander une adaptation.",
+          "Cette liste n’est pas exhaustive : un médicament courant peut parfois nécessiter un avis, tandis qu’un traitement spécialisé peut être poursuivi sous surveillance."
+        ]
+      },
+      {
+        title: "Pourquoi ne faut-il pas arrêter seule un traitement ?",
+        paragraphs: [
+          "Une interruption brutale peut provoquer une rechute, une crise, une aggravation de la maladie ou un syndrome de sevrage.",
+          "Pour certaines pathologies, une maladie mal contrôlée représente elle-même un risque pour la grossesse et la santé de la future mère.",
+          "Le professionnel peut décider de poursuivre le traitement, d’en modifier la dose, de le remplacer progressivement ou de programmer une surveillance adaptée."
+        ]
+      },
+      {
+        title: "Les médicaments sans ordonnance comptent-ils aussi ?",
+        paragraphs: [
+          "Oui. L’absence d’ordonnance ne signifie pas qu’un produit est sans risque pendant un projet de grossesse ou une grossesse.",
+          "Les anti-inflammatoires, certains médicaments contre le rhume, les décongestionnants ou les traitements combinés peuvent nécessiter des précautions.",
+          "Avant toute prise, vérifiez avec un pharmacien ou un médecin, surtout si vos règles sont en retard ou si une grossesse est possible."
+        ]
+      },
+      {
+        title: "Et les crèmes, sprays, collyres ou inhalateurs ?",
+        paragraphs: [
+          "Ils doivent aussi être signalés. Même si leur passage dans le sang est souvent plus faible qu’avec un comprimé, leur innocuité dépend de la substance, de la dose, de la surface traitée et de la durée d’utilisation.",
+          "Les crèmes contre l’acné, les douleurs, les infections ou les problèmes de peau peuvent contenir des substances nécessitant une évaluation.",
+          "Les inhalateurs pour l’asthme ou les traitements oculaires ne doivent pas être arrêtés sans avis : une maladie mal contrôlée peut être plus dangereuse que le traitement."
+        ]
+      },
+      {
+        title: "Plantes et compléments : faut-il les mentionner ?",
+        paragraphs: [
+          "Oui. Les plantes, huiles essentielles et compléments peuvent avoir des effets pharmacologiques, interagir avec des médicaments ou contenir des doses élevées de certaines substances.",
+          "Les produits « détox », « fertilité », amaigrissants, énergisants ou vendus en ligne doivent être particulièrement vérifiés.",
+          "Ne cumulez pas plusieurs compléments contenant les mêmes vitamines ou minéraux sans conseil professionnel."
+        ]
+      },
+      {
+        title: "Comment préparer la consultation ?",
+        paragraphs: [
+          "Faites une liste de tout ce que vous utilisez actuellement, même de façon occasionnelle.",
+          "Indiquez le nom exact, le dosage, la fréquence, la raison du traitement et le professionnel qui l’a prescrit.",
+          "N’oubliez pas les produits utilisés seulement certains jours : migraine, règles douloureuses, allergies, insomnie, rhume ou douleurs musculaires."
+        ],
+        bullets: [
+          "Médicaments prescrits et traitements occasionnels.",
+          "Produits sans ordonnance.",
+          "Crèmes, pommades, collyres et inhalateurs.",
+          "Plantes, huiles essentielles et compléments.",
+          "Produits achetés sur internet ou à l’étranger."
+        ]
+      },
+      {
+        title: "Qui peut vérifier les médicaments ?",
+        paragraphs: [
+          "Le médecin traitant, le spécialiste qui suit votre maladie, la sage-femme et le pharmacien peuvent participer à cette vérification.",
+          "Pour une maladie chronique ou un traitement complexe, l’avis du spécialiste est souvent nécessaire avant toute modification.",
+          "Le Centre de référence sur les agents tératogènes, ou CRAT, met également à disposition des professionnels et du public des informations sur les expositions pendant la grossesse."
+        ]
+      },
+      {
+        title: "Que faire si vous découvrez une grossesse sous traitement ?",
+        paragraphs: [
+          "N’arrêtez pas le médicament seule et ne modifiez pas la dose.",
+          "Contactez rapidement le prescripteur, le médecin traitant, la sage-femme ou le pharmacien en indiquant le nom du produit et la période d’exposition.",
+          "Une exposition ne signifie pas automatiquement qu’un problème surviendra. Le professionnel évaluera le risque réel et la conduite à tenir."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, signalez tous les médicaments et produits de santé, qu’ils soient prescrits, achetés sans ordonnance, appliqués sur la peau ou présentés comme naturels.",
+          "Ne supprimez jamais seule un traitement important. L’objectif est d’adapter la prise en charge pour protéger à la fois votre santé et la future grossesse."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "ANSM — Enceinte, les médicaments, c’est pas n’importe comment !",
+        url: "https://ansm.sante.fr/page/enceinte-les-medicaments-cest-pas-nimporte-comment"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse : les bons réflexes",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      },
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "CRAT — Médicaments et grossesse",
+        url: "https://www.lecrat.fr/"
+      },
+      {
+        label: "Base de données publique des médicaments",
+        url: "https://base-donnees-publique.medicaments.gouv.fr/"
+      }
+    ]
+  },
+  {
     slug: "quels-vaccins-verifier-avant-grossesse",
     title: "Quels vaccins vérifier avant une grossesse ?",
     description:
