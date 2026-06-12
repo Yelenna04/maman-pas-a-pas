@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "alcool-projet-bebe-faut-il-arreter-avant-grossesse") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "tabac-projet-grossesse-pourquoi-comment-arreter") {
     return "/images/article-a-la-une.png";
   }
