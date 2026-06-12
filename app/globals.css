@@ -1423,3 +1423,136 @@ input:focus, textarea:focus, select:focus { outline: 3px solid rgba(203,146,142,
     font-size: .86rem;
   }
 }
+
+/* === Article Projet bébé : format checklist === */
+/* === Article Projet bébé : format checklist === */
+
+.project-baby-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, .85fr);
+  gap: 28px;
+  margin-top: 34px;
+  align-items: start;
+}
+
+.project-checklist-card,
+.project-start-card,
+.project-personal-card {
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, .9);
+}
+
+.project-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.project-card-heading svg {
+  flex: 0 0 auto;
+  color: var(--rose-dark);
+}
+
+.project-card-heading h2 {
+  margin: 0;
+  font-size: 1.48rem;
+}
+
+.project-checklist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.project-checklist li {
+  display: grid;
+  grid-template-columns: 22px 1fr;
+  gap: 12px;
+  align-items: start;
+  padding: 13px 0;
+  border-bottom: 1px solid rgba(126, 102, 91, .13);
+  line-height: 1.55;
+}
+
+.project-checklist li:last-child {
+  border-bottom: 0;
+}
+
+.project-checklist li > span {
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+  border: 1.5px solid rgba(203, 146, 142, .55);
+  border-radius: 6px;
+  background: #fffaf8;
+}
+
+.project-baby-side {
+  display: grid;
+  gap: 20px;
+}
+
+.project-start-card {
+  background: var(--sage-soft);
+  border-color: rgba(146, 163, 131, .28);
+}
+
+.project-personal-card {
+  background: var(--rose-soft);
+  border-color: rgba(203, 146, 142, .24);
+}
+
+.project-start-card p,
+.project-personal-card p {
+  margin: 0 0 12px;
+  line-height: 1.65;
+}
+
+.project-start-card p:last-of-type,
+.project-personal-card p:last-of-type {
+  margin-bottom: 0;
+}
+
+.project-mini-tip,
+.project-takeaway-note {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, .72);
+  font-weight: 700;
+  line-height: 1.55;
+}
+
+.project-details-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  margin-top: 28px;
+  align-items: stretch;
+}
+
+.project-details-grid > section {
+  height: 100%;
+}
+
+@media (max-width: 900px) {
+  .project-baby-layout,
+  .project-details-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .project-checklist-card,
+  .project-start-card,
+  .project-personal-card {
+    padding: 20px;
+  }
+
+  .project-card-heading h2 {
+    font-size: 1.3rem;
+  }
+}
