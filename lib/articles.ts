@@ -499,7 +499,7 @@ export const articles: Article[] = [
         paragraphs: [
           "Le pharmacien peut vérifier un produit sans ordonnance, repérer les doublons et vous orienter si une consultation est nécessaire.",
           "Le médecin ou la sage-femme peut évaluer vos symptômes et choisir un traitement compatible avec votre situation.",
-          "Vous pouvez aussi consulter le site du CRAT, le Centre de référence sur les agents tératogènes. En recherchant le nom de la substance active d’un médicament, vous trouverez des informations de référence sur son utilisation pendant la grossesse et l’allaitement."
+          "Vous pouvez aussi consulter le site du **CRAT**, le **Centre de Référence sur les Agents Tératogènes**. En recherchant le nom de la substance active d’un médicament, vous trouverez des informations de référence sur son utilisation pendant la **grossesse** et l’**allaitement**."
         ]
       },
       {
