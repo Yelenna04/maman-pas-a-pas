@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "insemination-intra-uterine-iiu-comment-ca-se-passe") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "pma-demarches-delais-prise-en-charge") {
     return "/images/article-a-la-une.png";
   }
