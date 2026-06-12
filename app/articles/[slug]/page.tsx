@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "comment-vivre-emotionnellement-parcours-pma": {
+    essentialIcons: [Heart, Sparkles, Users, ShieldCheck],
+    cardIcons: [Heart, Users, Sparkles],
+    cardTitles: ["Nommer ses émotions", "Choisir ce que l’on partage", "Préserver des espaces sans PMA"]
+  },
   "comment-se-deroule-fiv-etape-par-etape": {
     essentialIcons: [CalendarDays, TestTubeDiagonal, Sparkles, ShieldCheck],
     cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
