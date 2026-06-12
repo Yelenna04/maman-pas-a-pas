@@ -1,9 +1,16 @@
-export function getArticleImage(categorySlug: string, slug?: string) {
+export function getArticleImage(
+  categorySlug: string,
+  slug?: string
+) {
   if (slug === "que-faire-avant-essayer-avoir-bebe") {
     return "/images/article-a-la-une.png";
   }
 
   if (slug === "comment-reperer-ovulation-periode-fertile") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
+  if (slug === "periode-fertile-jours-plus-favorables") {
     return "/images/article-ovulation-periode-fertile.png";
   }
 
