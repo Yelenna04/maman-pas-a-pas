@@ -124,6 +124,112 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "periode-fertile-jours-plus-favorables",
+    title: "Période fertile : quels sont les jours les plus favorables ?",
+    description:
+      "Comprendre quand les chances de grossesse sont les plus élevées, sans devoir viser un jour précis.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Fertilité et cycle",
+    subcategorySlug: "fertilite-cycle",
+    readingTime: "4 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La période fertile commence plusieurs jours avant l’ovulation.",
+          "Les spermatozoïdes peuvent survivre jusqu’à 5 jours dans le corps.",
+          "L’ovocyte reste fécondable environ 12 à 24 heures après l’ovulation.",
+          "Des rapports réguliers évitent de devoir connaître le jour exact."
+        ],
+        quote:
+          "Un rapport ayant lieu avant l’ovulation peut conduire à une grossesse lorsque l’ovocyte est libéré."
+      },
+      {
+        title: "Qu’est-ce que la période fertile ?",
+        paragraphs: [
+          "La période fertile correspond aux jours pendant lesquels un rapport sexuel peut conduire à une grossesse. Elle ne se limite pas au jour de l’ovulation.",
+          "Les spermatozoïdes peuvent rester vivants jusqu’à 5 jours dans les voies génitales lorsque les conditions sont favorables. L’ovocyte, lui, reste généralement fécondable pendant environ 12 à 24 heures après l’ovulation.",
+          "La fenêtre fertile s’étend donc approximativement des 5 jours précédant l’ovulation jusqu’au jour qui suit. Ces durées restent des repères : elles peuvent varier d’une personne et d’un cycle à l’autre."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus simples",
+        paragraphs: [
+          "Avoir des rapports réguliers tous les 2 à 3 jours au cours du cycle permet généralement de couvrir la période fertile sans effectuer de calcul précis.",
+          "Une glaire cervicale plus transparente, glissante et extensible indique souvent que l’ovulation approche et que la période fertile est en cours.",
+          "Les tests d’ovulation peuvent apporter un repère supplémentaire en détectant l’augmentation de l’hormone LH, mais ils ne sont pas indispensables pour commencer."
+        ],
+        quote:
+          "Le repère le plus simple reste d’avoir des rapports réguliers, sans attendre un résultat parfait ou une date certaine."
+      },
+      {
+        title: "Faut-il viser le jour exact de l’ovulation ?",
+        paragraphs: [
+          "Non. Les chances de conception ne reposent pas sur une seule journée. La période fertile commence avant l’ovulation, car les spermatozoïdes peuvent déjà être présents lorsque l’ovocyte est libéré.",
+          "Chercher à identifier une heure ou un jour parfaitement précis peut devenir stressant. Une application ou un calendrier peut aider à observer des tendances, mais ne peut pas prédire l’ovulation avec certitude.",
+          "Si le suivi du cycle vous rassure, vous pouvez l’utiliser comme un repère. S’il devient pesant, des rapports réguliers suffisent souvent à couvrir les jours favorables."
+        ]
+      },
+      {
+        title: "Et si les essais deviennent stressants ?",
+        paragraphs: [
+          "Les essais bébé peuvent rapidement transformer les rapports en rendez-vous programmés. Il est normal de ressentir de l’impatience, de la déception ou de la pression.",
+          "Vous pouvez choisir une méthode simple, limiter les outils de suivi et parler avec votre partenaire de ce qui vous convient à tous les deux.",
+          "Demander conseil à un médecin ou à une sage-femme est aussi possible, même avant le délai habituellement conseillé pour un bilan, si vous avez des inquiétudes."
+        ],
+        bullets: [
+          "Gardez une méthode de suivi simple.",
+          "Évitez de multiplier les tests si cela augmente votre stress.",
+          "Préservez des moments d’intimité qui ne sont pas centrés sur la conception.",
+          "Parlez-en à un professionnel si l’attente devient difficile."
+        ],
+        quote:
+          "L’objectif est de vous donner des repères utiles, pas de transformer chaque cycle en examen à réussir."
+      },
+      {
+        title: "Quand demander un avis médical ?",
+        paragraphs: [
+          "En général, un bilan peut être envisagé après un an de rapports réguliers sans contraception et sans grossesse avant 35 ans, ou après 6 mois à partir de 35 ans.",
+          "Il est préférable de consulter plus tôt si les règles sont absentes ou très irrégulières, si les rapports sont douloureux, s’il existe une maladie ou un traitement pouvant influencer la fertilité, ou si l’un des partenaires a des antécédents particuliers.",
+          "Après 40 ans, il est conseillé d’en parler rapidement avec un professionnel de santé dès le début du projet."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La période fertile commence avant l’ovulation et dure plusieurs jours. Il n’est donc pas nécessaire d’attendre le jour supposé de l’ovulation pour avoir des rapports.",
+          "Des rapports réguliers tous les 2 à 3 jours constituent un repère simple. Les applications, l’observation de la glaire et les tests d’ovulation peuvent compléter ce repère, mais ils ne sont pas obligatoires."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "ACOG — Trying to Get Pregnant? Here’s When to Have Sex",
+        url: "https://www.acog.org/womens-health/experts-and-stories/the-latest/trying-to-get-pregnant-heres-when-to-have-sex"
+      },
+      {
+        label: "ACOG — Evaluating Infertility",
+        url: "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+      },
+      {
+        label: "NHS — How long does it usually take to get pregnant?",
+        url: "https://www.nhs.uk/pregnancy/trying-for-a-baby/how-long-it-takes-to-get-pregnant/"
+      },
+      {
+        label: "NHS — Periods and fertility in the menstrual cycle",
+        url: "https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/"
+      },
+      {
+        label: "Assurance Maladie — Bilan médical de l’infertilité",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/bilan-medical-infertilite-sterilite"
+      }
+    ]
+  },
+  {
     slug: "que-faire-avant-essayer-avoir-bebe",
     title: "Que faire avant d’essayer d’avoir un bébé ?",
     description: "Les étapes utiles pour préparer un projet de grossesse sereinement, sans chercher à tout faire parfaitement.",
