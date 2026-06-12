@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "cycles-irreguliers-mieux-comprendre") {
+    return "/images/article-ovulation-periode-fertile.png";
+  }
+
   if (slug === "comment-reperer-ovulation-periode-fertile") {
     return "/images/article-ovulation-periode-fertile.png";
   }
