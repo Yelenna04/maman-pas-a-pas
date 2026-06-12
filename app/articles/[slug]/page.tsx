@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "pma-amp-definition-a-qui-adresse": {
+    essentialIcons: [Heart, TestTubeDiagonal, Users, ClipboardList],
+    cardIcons: [Users, TestTubeDiagonal, Heart],
+    cardTitles: ["Insémination", "FIV", "Accueil d’embryon"]
+  },
   "produits-quotidien-environnement-que-limiter-avant-grossesse": {
     essentialIcons: [Leaf, ShieldCheck, Sparkles, ClipboardList],
     cardIcons: [CalendarDays, Leaf, ShieldCheck],
