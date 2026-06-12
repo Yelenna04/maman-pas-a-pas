@@ -26,114 +26,83 @@ export const articles: Article[] = [
     slug: "comment-reperer-ovulation-periode-fertile",
     title: "Comment repérer son ovulation et sa période fertile ?",
     description:
-      "Comprendre le cycle, observer les signes de fertilité et utiliser les bons outils pour mieux situer l’ovulation, sans chercher une précision impossible.",
+      "Les signes les plus simples pour mieux comprendre son cycle et reconnaître sa période fertile sans se mettre la pression.",
     category: "Avant la grossesse",
     categorySlug: "avant-grossesse",
     subcategory: "Fertilité et cycle",
     subcategorySlug: "fertilite-cycle",
-    readingTime: "9 min",
-    publishedAt: "2026-06-11",
-    updatedAt: "2026-06-11",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
     tone: "sage",
     sections: [
       {
-        title: "Que se passe-t-il au moment de l’ovulation ?",
-        paragraphs: [
-          "Le premier jour des règles correspond au premier jour du cycle. Pendant la première partie du cycle, plusieurs follicules se développent dans les ovaires sous l’influence des hormones. Le plus souvent, un follicule devient dominant et libère un ovocyte : c’est l’ovulation.",
-          "Cette libération est déclenchée par une augmentation de l’hormone lutéinisante, appelée pic de LH. Après l’ovulation, le follicule se transforme en corps jaune et produit notamment de la progestérone. Cette hormone prépare la muqueuse de l’utérus à une éventuelle implantation.",
-          "L’ovulation ne survient pas obligatoirement au quatorzième jour. Dans un cycle de 28 jours, ce jour est seulement une moyenne. La première partie du cycle peut varier d’un mois à l’autre, tandis que l’ovulation survient souvent environ 10 à 16 jours avant les règles suivantes."
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’ovulation ne se produit pas forcément au 14ᵉ jour.",
+          "La période fertile commence quelques jours avant l’ovulation.",
+          "La glaire cervicale est souvent le signe le plus simple à observer.",
+          "Les tests d’ovulation peuvent apporter un repère supplémentaire.",
+          "La température aide surtout à confirmer une ovulation déjà passée.",
+          "Des rapports réguliers évitent de devoir viser une date exacte."
         ],
         quote:
-          "La période fertile commence avant l’ovulation. Attendre d’être certaine que l’ovulation a eu lieu peut faire manquer une partie des jours les plus favorables."
+          "Il n’est pas nécessaire de surveiller tous les signes à la fois. Quelques repères simples suffisent souvent pour commencer."
       },
       {
-        title: "Qu’appelle-t-on la période fertile ?",
+        title: "Quand l’ovulation a-t-elle lieu ?",
         paragraphs: [
-          "La période fertile correspond aux jours pendant lesquels un rapport sexuel peut conduire à une fécondation. Elle ne se limite pas au jour de l’ovulation, car les spermatozoïdes peuvent rester fécondants plusieurs jours dans les voies génitales lorsque la glaire cervicale est favorable. L’ovocyte, lui, reste fécondable pendant une période beaucoup plus courte après sa libération.",
-          "En pratique, on parle généralement d’une fenêtre fertile d’environ six jours : les cinq jours précédant l’ovulation et le jour de l’ovulation. Cette estimation reste une moyenne et ne permet pas de prévoir exactement ce qui se passe au cours d’un cycle particulier.",
-          "Pour un projet de grossesse, avoir des rapports réguliers tous les deux ou trois jours pendant le cycle évite souvent de devoir identifier un jour précis."
+          "L’ovulation correspond au moment où un ovaire libère un ovocyte. Elle se produit généralement avant les prochaines règles, mais pas toujours au même jour.",
+          "Même avec des cycles assez réguliers, la date peut varier d’un mois à l’autre. Le fameux « jour 14 » est donc seulement un exemple basé sur un cycle de 28 jours, pas une règle universelle.",
+          "La période fertile ne se limite pas au jour de l’ovulation. Les spermatozoïdes peuvent rester fécondants plusieurs jours lorsque la glaire cervicale est favorable."
         ]
       },
       {
-        title: "Observer la glaire cervicale",
+        title: "Les 3 signes les plus utiles",
         paragraphs: [
-          "La glaire cervicale est produite par le col de l’utérus. Son apparence et sa texture évoluent sous l’influence des hormones.",
-          "À l’approche de l’ovulation, elle devient généralement plus abondante, plus claire, plus humide, plus glissante et plus extensible. Elle est parfois comparée à du blanc d’œuf cru.",
-          "Il n’est pas nécessaire d’effectuer un examen interne. Il est possible d’observer simplement les sensations au niveau de la vulve et l’aspect des sécrétions sur le papier toilette ou les sous-vêtements.",
-          "Des pertes accompagnées d’une odeur inhabituelle, de démangeaisons, de brûlures ou de douleurs doivent conduire à demander un avis médical."
-        ]
-      },
-      {
-        title: "Utiliser des tests d’ovulation",
-        paragraphs: [
-          "Les tests urinaires d’ovulation recherchent l’augmentation de la LH qui précède généralement l’ovulation. Un test positif indique qu’une ovulation est probablement proche, souvent dans les 24 à 36 heures suivantes, mais il ne prouve pas à lui seul qu’elle a réellement eu lieu.",
-          "Ces tests peuvent être moins simples à interpréter en cas de cycles irréguliers, de syndrome des ovaires polykystiques, de période post-partum ou de certains traitements de fertilité."
-        ],
-        bullets: [
-          "Suivre précisément la notice du fabricant.",
-          "Commencer les tests quelques jours avant la date supposée de l’ovulation.",
-          "Les réaliser à une heure comparable d’un jour à l’autre.",
-          "Éviter de boire de très grandes quantités juste avant le test.",
-          "Ne pas interpréter un résultat isolé sans tenir compte du reste du cycle."
-        ]
-      },
-      {
-        title: "Suivre la température basale",
-        paragraphs: [
-          "La température basale est la température prise au réveil, avant de se lever, idéalement à la même heure et dans des conditions similaires. Après l’ovulation, la progestérone provoque habituellement une petite hausse durable de la température.",
-          "Cette méthode peut aider à confirmer après coup qu’une ovulation a probablement eu lieu. Elle est moins adaptée pour prévoir les jours fertiles du cycle en cours, puisque l’augmentation apparaît après l’ovulation.",
-          "La température peut être influencée par une maladie, un sommeil perturbé, l’alcool, un voyage, le travail de nuit ou certains médicaments."
-        ]
-      },
-      {
-        title: "Les autres signes possibles",
-        paragraphs: [
-          "Certaines personnes remarquent d’autres changements autour de l’ovulation. Leur absence ne signifie pas qu’il n’y a pas eu d’ovulation, et leur présence ne permet pas de la confirmer.",
-          "Une douleur très intense, persistante, accompagnée de fièvre, de malaise ou de saignements importants ne doit pas être attribuée automatiquement à l’ovulation : un avis médical est nécessaire."
-        ],
-        bullets: [
-          "Une douleur légère d’un seul côté du bas-ventre.",
-          "Une sensation de tension pelvienne.",
-          "Une libido différente.",
-          "Des seins sensibles.",
-          "De légers saignements."
-        ]
-      },
-      {
-        title: "Peut-on se fier à une application ou à un calendrier ?",
-        paragraphs: [
-          "Une application peut être utile pour noter les règles, les symptômes, la glaire cervicale ou les résultats des tests d’ovulation.",
-          "En revanche, une application qui calcule l’ovulation uniquement à partir de la durée moyenne des cycles fournit une estimation. Elle ne mesure pas ce qui se passe réellement dans l’organisme et peut se tromper, notamment lorsque les cycles varient.",
-          "Le calendrier seul ne doit pas être utilisé comme méthode fiable pour éviter une grossesse."
-        ]
-      },
-      {
-        title: "Quelle méthode choisir ?",
-        paragraphs: [
-          "Il n’existe pas une méthode parfaite pour tout le monde. Croiser plusieurs indices est généralement plus informatif que de se fier à un seul signal."
-        ],
-        bullets: [
-          "Noter le premier jour des règles.",
-          "Observer les changements de glaire cervicale.",
-          "Avoir des rapports réguliers sans se concentrer sur une seule date.",
-          "Ajouter des tests d’ovulation si cela aide sans augmenter le stress.",
-          "Utiliser la température surtout pour mieux comprendre les cycles passés."
+          "Le premier signe est la glaire cervicale. À l’approche de l’ovulation, elle peut devenir plus abondante, transparente, glissante et extensible, un peu comme du blanc d’œuf cru.",
+          "Le deuxième repère est le test d’ovulation. Il détecte dans les urines l’augmentation de l’hormone LH qui précède généralement l’ovulation. Un résultat positif indique qu’elle est probablement proche, sans garantir qu’elle aura effectivement lieu.",
+          "Le troisième repère est la température basale, prise au réveil avant de se lever. Elle augmente légèrement après l’ovulation. Elle sert donc surtout à comprendre les cycles passés plutôt qu’à prévoir les jours fertiles du cycle en cours."
         ],
         quote:
-          "Chercher à tout contrôler peut devenir pesant. Des rapports réguliers et une observation souple du cycle sont souvent suffisants au début des essais."
+          "Pour débuter, observer la glaire cervicale est souvent plus simple que suivre plusieurs indicateurs en même temps."
+      },
+      {
+        title: "Et les applications de suivi du cycle ?",
+        paragraphs: [
+          "Une application peut être pratique pour noter le début des règles, l’aspect de la glaire, les résultats des tests ou la température.",
+          "Mais une application ne voit pas ce qui se passe dans votre corps. Lorsqu’elle calcule l’ovulation uniquement à partir de la durée moyenne des cycles, la date proposée reste une estimation.",
+          "Utilisez-la comme un carnet de suivi, pas comme une certitude."
+        ]
+      },
+      {
+        title: "Faut-il surveiller tous les signes ?",
+        paragraphs: [
+          "Non. Vous pouvez commencer simplement : noter le premier jour des règles, observer les changements de glaire cervicale et garder des rapports réguliers.",
+          "Les tests d’ovulation peuvent être ajoutés s’ils vous rassurent, mais ils ne sont pas indispensables. Chercher à tout contrôler peut vite devenir stressant."
+        ],
+        bullets: [
+          "Notez le début de vos règles.",
+          "Observez votre glaire cervicale.",
+          "Ayez des rapports réguliers sans viser une seule date.",
+          "Ajoutez un test d’ovulation seulement si cela vous aide."
+        ],
+        quote:
+          "Des rapports tous les deux ou trois jours permettent généralement de couvrir la période fertile sans connaître le jour exact de l’ovulation."
       },
       {
         title: "Quand demander un avis médical ?",
         paragraphs: [
-          "Il est utile d’en parler à un médecin, une sage-femme ou un gynécologue lorsque les cycles sont très irréguliers ou absents, lorsque les douleurs sont importantes, lorsqu’un trouble hormonal est suspecté, lorsqu’il existe des antécédents gynécologiques ou lorsqu’un traitement peut affecter la fertilité.",
-          "Une consultation plus précoce peut être proposée selon l’âge, les antécédents et la situation du couple. Il n’est pas nécessaire d’attendre lorsqu’une inquiétude existe déjà."
+          "Parlez-en à un médecin, une sage-femme ou un gynécologue si vos règles sont absentes ou très irrégulières, si vos cycles sont très courts ou très longs, si vous ressentez des douleurs importantes ou si vous avez des antécédents gynécologiques.",
+          "Une douleur intense ou persistante, accompagnée de fièvre, de malaise ou de saignements importants, nécessite également un avis médical.",
+          "Vous pouvez aussi consulter si les essais se prolongent ou si la situation vous inquiète. Il n’est pas nécessaire d’attendre pour poser vos questions."
         ]
       },
       {
-        title: "L’essentiel à retenir",
+        title: "À retenir",
         paragraphs: [
-          "Repérer son ovulation repose moins sur une date théorique que sur l’observation de plusieurs indices. La glaire cervicale permet souvent de reconnaître que la période fertile approche, les tests urinaires repèrent le pic de LH et la température aide surtout à confirmer l’ovulation après coup.",
-          "Ces outils doivent rester des repères et non devenir une source de pression. En cas de doute, de cycles très irréguliers, de douleurs importantes ou de difficultés à concevoir, un professionnel de santé pourra proposer un accompagnement adapté."
+          "La glaire cervicale est souvent le signe le plus simple pour reconnaître l’approche de l’ovulation. Les tests urinaires peuvent apporter un repère supplémentaire, tandis que la température aide surtout à confirmer une ovulation après coup.",
+          "Ces outils doivent vous aider à mieux comprendre votre cycle, pas devenir une source de pression. Votre cycle n’a pas besoin d’être parfaitement prévisible pour qu’une grossesse soit possible."
         ]
       }
     ],
@@ -145,10 +114,6 @@ export const articles: Article[] = [
       {
         label: "Assurance Maladie — Informations et conseils sur les règles",
         url: "https://www.ameli.fr/assure/sante/themes/puberte/informations-conseils-regles"
-      },
-      {
-        label: "Assurance Maladie — Comprendre l’infertilité : définition et causes",
-        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/comprendre-sterilite"
       },
       {
         label: "ACOG — Fertility Awareness-Based Methods of Family Planning",
