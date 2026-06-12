@@ -39,12 +39,12 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "**L’ovulation ne se produit pas forcément au 14ᵉ jour.**",
-          "**La période fertile commence quelques jours avant l’ovulation.**",
+          "L’ovulation ne se produit pas forcément au 14ᵉ jour.",
+          "La période fertile commence quelques jours avant l’ovulation.",
           "**La glaire cervicale est souvent le signe le plus simple à observer.**",
           "Les tests d’ovulation peuvent apporter un repère supplémentaire.",
           "La température aide surtout à confirmer une ovulation déjà passée.",
-          "**Des rapports réguliers évitent de devoir viser une date exacte.**"
+          "Des rapports réguliers évitent de devoir viser une date exacte."
         ],
         quote:
           "Il n’est pas nécessaire de surveiller tous les signes à la fois. Quelques repères simples suffisent souvent pour commencer."
