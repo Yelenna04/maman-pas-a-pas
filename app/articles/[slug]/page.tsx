@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "quel-professionnel-consulter-avant-projet-bebe": {
+    essentialIcons: [Users, Heart, ShieldCheck, ClipboardList],
+    cardIcons: [Users, Heart, ShieldCheck],
+    cardTitles: ["Médecin généraliste", "Sage-femme", "Gynécologue"]
+  },
   "quels-examens-faire-avant-grossesse": {
     essentialIcons: [ClipboardList, ShieldCheck, TestTubeDiagonal, CalendarDays],
     cardIcons: [TestTubeDiagonal, ShieldCheck, ClipboardList],
