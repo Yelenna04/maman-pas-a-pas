@@ -1626,12 +1626,13 @@ export const categories = [
   {
     slug: "avant-grossesse",
     title: "Avant la grossesse",
-    description: "Projet bébé, fertilité, santé, hygiène de vie, vaccins et médicaments.",
+    description: "Projet bébé, fertilité, santé, PMA, hygiène de vie, vaccins et médicaments.",
     tone: "rose",
     subcategories: [
       { slug: "projet-bebe", title: "Projet bébé", description: "Préparer son projet, savoir par où commencer et avancer sereinement." },
       { slug: "fertilite-cycle", title: "Fertilité et cycle", description: "Comprendre le cycle, l’ovulation et les délais pour concevoir." },
       { slug: "sante-rendez-vous", title: "Santé et rendez-vous", description: "Consultation préconceptionnelle, examens et professionnels à consulter." },
+      { slug: "pma-parcours-fertilite", title: "PMA et parcours de fertilité", description: "Comprendre l’AMP, l’insémination, la FIV, l’ICSI, les démarches et le vécu émotionnel." },
       { slug: "hygiene-vie", title: "Hygiène de vie", description: "Alimentation, activité physique, sommeil, tabac et alcool." },
       { slug: "vaccins-medicaments", title: "Vaccins et médicaments", description: "Faire le point sur ses vaccins, traitements et compléments." }
     ]
