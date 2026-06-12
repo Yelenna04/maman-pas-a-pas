@@ -10,6 +10,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "parler-projet-bebe-avec-partenaire") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "comment-reperer-ovulation-periode-fertile") {
     return "/images/article-ovulation-periode-fertile.png";
   }
