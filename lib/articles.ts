@@ -231,6 +231,115 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "quels-examens-faire-avant-grossesse",
+    title: "Quels examens faire avant une grossesse ?",
+    description:
+      "Les examens utiles avant une grossesse, ceux qui dépendent de votre situation et ceux qui ne sont pas systématiques.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe pas une liste identique d’examens pour tout le monde.",
+          "Le professionnel commence par un entretien et un examen clinique simple.",
+          "Une prise de sang peut vérifier le groupe sanguin, certaines immunités ou infections.",
+          "Le frottis, l’échographie ou les examens génétiques sont proposés seulement si votre situation le justifie."
+        ],
+        quote:
+          "Les examens sont choisis selon vos antécédents, vos traitements, votre âge et votre suivi gynécologique."
+      },
+      {
+        title: "Quels examens sont généralement envisagés ?",
+        paragraphs: [
+          "La consultation commence souvent par des questions sur vos antécédents, vos traitements, vos cycles, vos grossesses précédentes et les maladies présentes dans votre famille.",
+          "Le professionnel peut mesurer le poids, la taille et la tension artérielle, puis réaliser un examen général. Un examen gynécologique ou des seins n’est proposé que s’il est utile.",
+          "Les examens biologiques et d’imagerie ne sont pas tous automatiques : ils dépendent de ce que l’entretien et l’examen clinique mettent en évidence."
+        ]
+      },
+      {
+        title: "Les 3 vérifications les plus fréquentes",
+        paragraphs: [
+          "Le groupe sanguin. S’il n’est pas connu ou documenté, une prise de sang peut déterminer les groupes ABO, Rhésus et Kell.",
+          "Les immunités et les infections. Des sérologies peuvent vérifier l’immunité contre la rubéole, l’hépatite B ou la toxoplasmose, et dépister certaines infections comme le VIH, l’hépatite C ou la syphilis.",
+          "Le suivi gynécologique. Le professionnel vérifie si le dépistage du col de l’utérus est à jour et propose un frottis ou un test HPV seulement s’il est indiqué."
+        ],
+        quote:
+          "Une prise de sang « complète » n’est pas systématique : son contenu doit répondre à une question précise."
+      },
+      {
+        title: "Faut-il faire une échographie avant la grossesse ?",
+        paragraphs: [
+          "Non, une échographie pelvienne n’est pas nécessaire pour toutes les personnes qui souhaitent une grossesse.",
+          "Elle peut être proposée en cas de douleurs, de saignements inhabituels, de suspicion de fibrome, d’endométriose, de kyste ovarien ou d’autre anomalie gynécologique.",
+          "Une échographie normale ne permet pas, à elle seule, de confirmer que la fertilité est normale."
+        ]
+      },
+      {
+        title: "Quels examens dépendent de votre situation ?",
+        paragraphs: [
+          "Un bilan de glycémie, de thyroïde, de tension artérielle ou d’autres organes peut être demandé en cas de maladie chronique, de symptômes, d’antécédents ou de facteur de risque.",
+          "Un dépistage génétique peut être proposé si une maladie héréditaire, une anomalie chromosomique ou une malformation est connue dans votre famille ou celle du partenaire.",
+          "Un bilan de fertilité n’est pas réalisé systématiquement avant les essais. Il est proposé selon l’âge, la durée des essais et les antécédents du couple."
+        ]
+      },
+      {
+        title: "Comment préparer le rendez-vous ?",
+        paragraphs: [
+          "Apportez les documents que vous possédez déjà afin d’éviter de refaire inutilement certains examens.",
+          "Préparez aussi la liste de vos traitements, compléments, plantes ou produits pris occasionnellement.",
+          "Le professionnel pourra alors identifier ce qui est à jour, ce qui doit être complété et ce qui n’est pas nécessaire."
+        ],
+        bullets: [
+          "Carte de groupe sanguin ou anciens résultats de prise de sang.",
+          "Carnet de santé et de vaccination.",
+          "Dernier résultat de frottis ou de test HPV.",
+          "Comptes rendus d’échographie, d’opération ou de grossesse précédente.",
+          "Liste des médicaments et compléments."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter plus tôt ?",
+        paragraphs: [
+          "Prenez rendez-vous avant les essais si vous vivez avec une maladie chronique, prenez un traitement régulier ou avez déjà connu une grossesse compliquée.",
+          "Un avis est également utile en cas de règles absentes ou très irrégulières, de douleurs gynécologiques importantes, de fausses couches répétées ou d’antécédent de grossesse extra-utérine.",
+          "N’interrompez jamais seule un traitement pour préparer une grossesse : il doit être évalué et, si nécessaire, adapté par un professionnel."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, l’objectif n’est pas de multiplier les examens, mais de vérifier les points utiles à votre situation.",
+          "L’entretien, l’examen clinique et vos anciens résultats permettent au médecin ou à la sage-femme de choisir les analyses ou examens réellement nécessaires."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Haute Autorité de santé — Projet de grossesse : informations, prévention et examens à proposer",
+        url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer"
+      },
+      {
+        label: "Assurance Maladie — Toxoplasmose : êtes-vous immunisée ?",
+        url: "https://www.ameli.fr/assure/sante/themes/toxoplasmose/bons-reflexes-cas-faut-consulter"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      }
+    ]
+  },
+  {
     slug: "consultation-preconceptionnelle-pourquoi-quand-faire",
     title: "Consultation préconceptionnelle : pourquoi et quand la faire ?",
     description:
