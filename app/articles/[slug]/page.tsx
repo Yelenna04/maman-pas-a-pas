@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "combien-temps-moyenne-tomber-enceinte": {
+    essentialIcons: [CalendarDays, Heart, Users, ShieldCheck],
+    cardIcons: [CalendarDays, Heart, ShieldCheck],
+    cardTitles: ["Âge", "Rapports réguliers", "Santé du couple"]
+  },
   "tests-ovulation-utiliser-interpreter": {
     essentialIcons: [TestTubeDiagonal, CalendarDays, ClipboardList, ShieldCheck],
     cardIcons: [CalendarDays, TestTubeDiagonal, ClipboardList],
