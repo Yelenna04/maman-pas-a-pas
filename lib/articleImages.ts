@@ -14,6 +14,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "activite-physique-avant-grossesse") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "preparer-alimentation-avant-grossesse") {
     return "/images/article-a-la-une.png";
   }
