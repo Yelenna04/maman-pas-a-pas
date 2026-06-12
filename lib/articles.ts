@@ -231,6 +231,156 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "automedication-avant-pendant-grossesse-reflexes",
+    title: "Automédication avant et pendant la grossesse : quels réflexes adopter ?",
+    description:
+      "Les bons réflexes avant de prendre un médicament sans ordonnance pendant un projet bébé ou une grossesse.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Vaccins et médicaments",
+    subcategorySlug: "vaccins-medicaments",
+    readingTime: "6 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un médicament sans ordonnance n’est pas forcément sans risque pendant une grossesse.",
+          "Avant toute prise, demandez conseil à un médecin, une sage-femme ou un pharmacien.",
+          "Les anti-inflammatoires comme l’ibuprofène ne doivent pas être pris en automédication pendant la grossesse.",
+          "N’arrêtez jamais seule un traitement prescrit, même après un test de grossesse positif."
+        ],
+        quote:
+          "En cas de projet bébé ou de grossesse possible, le bon réflexe est de vérifier avant de prendre, pas après."
+      },
+      {
+        title: "Pourquoi l’automédication demande-t-elle plus de prudence ?",
+        paragraphs: [
+          "Un médicament peut traverser le placenta et atteindre l’embryon ou le fœtus. Le niveau de risque dépend de la substance, de la dose, de la durée et du moment de la grossesse.",
+          "Les premières semaines sont parfois méconnues : une personne peut prendre un traitement avant même de savoir qu’elle est enceinte.",
+          "Certains produits disponibles sans ordonnance peuvent être inadaptés pendant toute la grossesse ou à partir d’un trimestre précis."
+        ]
+      },
+      {
+        title: "Les 3 réflexes les plus importants",
+        paragraphs: [
+          "Dire que vous avez un projet de grossesse ou que vous pourriez être enceinte avant d’acheter un médicament.",
+          "Vérifier la substance active plutôt que de se fier uniquement au nom commercial ou à une ancienne habitude.",
+          "Utiliser la dose minimale efficace pendant la durée la plus courte, uniquement après validation d’un professionnel."
+        ],
+        quote:
+          "Ne reprenez pas automatiquement un médicament déjà utilisé lors d’une précédente grossesse : la situation et les recommandations peuvent être différentes."
+      },
+      {
+        title: "Quels médicaments ne faut-il pas prendre seule ?",
+        paragraphs: [
+          "Les anti-inflammatoires non stéroïdiens, ou AINS, comme l’ibuprofène, le kétoprofène ou l’aspirine à dose antalgique ne doivent pas être pris en automédication pendant la grossesse.",
+          "Les médicaments contre le rhume, la toux, les allergies, les nausées, le mal des transports ou l’insomnie peuvent contenir plusieurs substances et nécessitent une vérification.",
+          "Les traitements restants d’une ancienne ordonnance ou ceux d’un proche ne doivent jamais être utilisés sans avis."
+        ]
+      },
+      {
+        title: "Et le paracétamol ?",
+        paragraphs: [
+          "Le paracétamol est généralement l’antalgique de référence lorsqu’un traitement de la douleur ou de la fièvre est nécessaire pendant la grossesse.",
+          "Il ne doit toutefois pas être pris de façon automatique ou prolongée. Respectez la dose indiquée, espacez les prises et vérifiez qu’aucun autre médicament n’en contient déjà.",
+          "En cas de douleur importante, répétée, inhabituelle ou associée à d’autres symptômes, consultez plutôt que de prolonger l’automédication."
+        ]
+      },
+      {
+        title: "Pourquoi faut-il se méfier des médicaments combinés ?",
+        paragraphs: [
+          "Certains produits contre le rhume, la migraine ou les douleurs associent plusieurs substances dans un même comprimé ou sachet.",
+          "Vous pouvez ainsi prendre sans le savoir un anti-inflammatoire, un décongestionnant, un antihistaminique ou une deuxième dose de paracétamol.",
+          "Lisez toujours la composition et montrez la boîte au pharmacien, surtout si vous prenez déjà un autre traitement."
+        ]
+      },
+      {
+        title: "Plantes, huiles essentielles et compléments sont-ils concernés ?",
+        paragraphs: [
+          "Oui. Le terme « naturel » ne garantit pas l’absence de risque pour la grossesse.",
+          "Les huiles essentielles sont déconseillées pendant la grossesse sans avis professionnel, quelle que soit la voie d’utilisation.",
+          "Les plantes, tisanes concentrées et compléments peuvent interagir avec des médicaments ou apporter des doses élevées de vitamines et minéraux."
+        ]
+      },
+      {
+        title: "Que faire pour un rhume, une douleur ou des nausées ?",
+        paragraphs: [
+          "Commencez par des mesures simples adaptées au symptôme : repos, hydratation, lavage du nez au sérum physiologique ou repas fractionnés.",
+          "Si un médicament semble nécessaire, décrivez précisément vos symptômes au pharmacien ou au professionnel qui suit la grossesse.",
+          "Consultez si les symptômes sont intenses, persistent, s’aggravent ou s’accompagnent de fièvre, douleur importante, saignement, essoufflement ou malaise."
+        ]
+      },
+      {
+        title: "Que faire après une prise réalisée sans avis ?",
+        paragraphs: [
+          "Ne paniquez pas et n’arrêtez pas brutalement un traitement régulier.",
+          "Notez le nom du produit, la dose, le nombre de prises et les dates, puis contactez un médecin, une sage-femme ou un pharmacien.",
+          "Une prise ponctuelle ne signifie pas automatiquement qu’un problème surviendra. L’évaluation dépend du médicament et du moment de l’exposition."
+        ]
+      },
+      {
+        title: "Comment sécuriser son armoire à pharmacie ?",
+        paragraphs: [
+          "Conservez les médicaments dans leur emballage d’origine avec la notice et vérifiez régulièrement les dates de péremption.",
+          "Séparez les traitements en cours des anciennes ordonnances et rapportez les médicaments inutilisés à la pharmacie.",
+          "Évitez les achats sur des sites non autorisés et ne partagez jamais vos médicaments avec une autre personne."
+        ],
+        bullets: [
+          "Garder les boîtes et les notices.",
+          "Vérifier la substance active et le dosage.",
+          "Éliminer les anciennes ordonnances inutiles.",
+          "Noter les traitements réellement pris.",
+          "Demander conseil avant tout nouvel achat."
+        ]
+      },
+      {
+        title: "Qui peut vous conseiller rapidement ?",
+        paragraphs: [
+          "Le pharmacien peut vérifier un produit sans ordonnance, repérer les doublons et vous orienter si une consultation est nécessaire.",
+          "Le médecin ou la sage-femme peut évaluer vos symptômes et choisir un traitement compatible avec votre situation.",
+          "Pour les questions liées à une exposition médicamenteuse pendant la grossesse, le CRAT met à disposition des informations de référence."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pendant un projet bébé ou une grossesse, évitez de prendre seule un médicament, y compris un produit sans ordonnance ou présenté comme naturel.",
+          "Demandez conseil avant la prise, vérifiez la composition et ne modifiez jamais seule un traitement prescrit.",
+          "En cas de prise accidentelle, notez précisément le produit et contactez un professionnel sans culpabiliser."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "ANSM — Médicaments et grossesse : les bons réflexes",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/medicaments-et-grossesse-les-bons-reflexes"
+      },
+      {
+        label: "Assurance Maladie — Médicaments et grossesse",
+        url: "https://www.ameli.fr/assure/sante/medicaments/medicaments-et-situation-de-vie/medicament-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      },
+      {
+        label: "Assurance Maladie — Bien utiliser les anti-inflammatoires non stéroïdiens",
+        url: "https://www.ameli.fr/assure/sante/medicaments/utiliser-recycler-medicaments/utiliser-anti-inflammatoires"
+      },
+      {
+        label: "Anses — Huiles essentielles : risques et précautions",
+        url: "https://www.anses.fr/fr/content/huiles-essentielles-risques-et-precautions"
+      },
+      {
+        label: "CRAT — Médicaments et grossesse",
+        url: "https://www.lecrat.fr/medicament-grossesse/"
+      }
+    ]
+  },
+  {
     slug: "vitamine-b9-avant-grossesse-quand-comment-prendre",
     title: "Vitamine B9 avant la grossesse : quand et comment la prendre ?",
     description:
