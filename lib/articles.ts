@@ -324,9 +324,12 @@ export const articles: Article[] = [
         title: "Où trouver de l’aide ?",
         paragraphs: [
           "Un médecin généraliste, une sage-femme, un pharmacien ou un tabacologue peut évaluer la dépendance et proposer un accompagnement.",
-          "Tabac info service propose un accompagnement par téléphone, via son site et son application.",
+          "Vous pouvez appeler gratuitement Tabac info service au 39 89, du lundi au samedi de 8 h à 20 h. Un conseiller répond à vos premières questions et peut vous orienter vers un tabacologue pour un suivi personnalisé.",
+          "Tabac info service propose aussi un accompagnement via son site et son application.",
           "La plupart des substituts nicotiniques sont remboursés sur prescription par l’Assurance Maladie."
-        ]
+        ],
+        quote:
+          "Tabac info service : 39 89 — service gratuit, du lundi au samedi de 8 h à 20 h."
       },
       {
         title: "À retenir",
