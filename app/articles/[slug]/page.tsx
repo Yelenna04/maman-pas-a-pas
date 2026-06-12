@@ -63,6 +63,16 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "comment-se-deroule-fiv-etape-par-etape": {
+    essentialIcons: [CalendarDays, TestTubeDiagonal, Sparkles, ShieldCheck],
+    cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
+    cardTitles: ["Stimulation", "Ponction et fécondation", "Culture et transfert"]
+  },
+  "fiv-classique-icsi-quelles-differences": {
+    essentialIcons: [TestTubeDiagonal, Users, ShieldCheck, ClipboardList],
+    cardIcons: [TestTubeDiagonal, Users, ClipboardList],
+    cardTitles: ["Rencontre des gamètes", "Indications", "Geste au laboratoire"]
+  },
   "insemination-intra-uterine-iiu-comment-ca-se-passe": {
     essentialIcons: [TestTubeDiagonal, Users, CalendarDays, ShieldCheck],
     cardIcons: [CalendarDays, TestTubeDiagonal, Heart],
