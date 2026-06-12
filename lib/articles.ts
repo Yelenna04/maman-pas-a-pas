@@ -231,6 +231,135 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "activite-physique-avant-grossesse",
+    title: "Activité physique avant une grossesse : que peut-on faire ?",
+    description:
+      "Des repères simples pour bouger régulièrement, choisir une activité adaptée et reprendre progressivement avant un projet de grossesse.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une activité physique régulière est bénéfique avant une grossesse.",
+          "L’objectif général est d’aller progressivement vers environ 150 minutes d’activité modérée par semaine.",
+          "La marche, le vélo, la natation et le renforcement musculaire doux sont de bonnes options.",
+          "En cas de maladie, de douleur ou de reprise après une longue pause, demandez un avis personnalisé."
+        ],
+        quote:
+          "La régularité compte davantage que l’intensité : mieux vaut bouger souvent et progressivement que forcer ponctuellement."
+      },
+      {
+        title: "Pourquoi bouger avant une grossesse ?",
+        paragraphs: [
+          "L’activité physique régulière soutient la santé cardiovasculaire, le sommeil, le moral et le maintien d’un poids adapté.",
+          "Elle peut aussi faciliter la poursuite d’une activité pendant la grossesse, car le corps est déjà habitué à bouger.",
+          "Il n’est pas nécessaire de devenir sportive : les activités du quotidien comptent aussi lorsqu’elles augmentent légèrement le rythme cardiaque."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La fréquence : essayez de bouger plusieurs jours par semaine plutôt que de concentrer tous les efforts sur une seule séance.",
+          "L’intensité : une activité modérée vous fait respirer un peu plus vite tout en vous permettant encore de parler.",
+          "La variété : associez endurance, renforcement musculaire et mobilité selon vos envies et vos capacités."
+        ],
+        quote:
+          "Le repère de 150 minutes par semaine peut être réparti en petites séances : 30 minutes cinq jours par semaine ou plusieurs périodes plus courtes."
+      },
+      {
+        title: "Quelles activités choisir ?",
+        paragraphs: [
+          "La marche rapide, le vélo, la natation, l’aquagym, la danse, le yoga, le Pilates et le renforcement musculaire sont de bonnes options.",
+          "Choisissez une activité que vous appréciez réellement, car elle sera plus facile à maintenir dans le temps.",
+          "Les tâches actives du quotidien, les trajets à pied ou à vélo et le jardinage peuvent aussi contribuer à votre niveau d’activité."
+        ]
+      },
+      {
+        title: "Comment reprendre après une longue pause ?",
+        paragraphs: [
+          "Commencez doucement, par exemple avec 10 à 15 minutes de marche, puis augmentez progressivement la durée et la fréquence.",
+          "Ajoutez une seule difficulté à la fois : durée, vitesse ou résistance, mais pas tout en même temps.",
+          "Prévoyez un échauffement, buvez suffisamment et laissez au corps le temps de récupérer."
+        ]
+      },
+      {
+        title: "Et si vous pratiquez déjà un sport intensif ?",
+        paragraphs: [
+          "Vous pouvez généralement poursuivre votre activité avant la grossesse si elle est bien tolérée et adaptée à votre état de santé.",
+          "Une pratique très intensive associée à une fatigue importante, une perte de poids ou des règles absentes ou irrégulières mérite toutefois un avis médical.",
+          "L’objectif n’est pas d’arrêter systématiquement, mais de vérifier que l’entraînement, l’alimentation et la récupération restent compatibles avec votre santé et votre cycle."
+        ]
+      },
+      {
+        title: "Faut-il faire du renforcement musculaire ?",
+        paragraphs: [
+          "Oui, le renforcement musculaire peut compléter les activités d’endurance et aider à préserver la force, la posture et la mobilité.",
+          "Des exercices simples au poids du corps, avec des élastiques ou des charges légères peuvent suffire.",
+          "Privilégiez une technique correcte, une respiration fluide et une progression raisonnable plutôt que des charges maximales."
+        ]
+      },
+      {
+        title: "Quand demander un avis médical ?",
+        paragraphs: [
+          "Demandez conseil avant de reprendre ou d’intensifier une activité si vous vivez avec une maladie cardiaque, respiratoire, métabolique, neurologique ou articulaire.",
+          "Un avis est également utile en cas d’obésité importante, de grande maigreur, de trouble alimentaire, de douleurs persistantes ou de règles absentes.",
+          "Arrêtez l’activité et consultez en cas de douleur thoracique, malaise, essoufflement inhabituel, palpitations persistantes ou douleur importante."
+        ]
+      },
+      {
+        title: "Comment commencer simplement ?",
+        paragraphs: [
+          "Choisissez un objectif réaliste pour les deux prochaines semaines plutôt qu’un programme très ambitieux.",
+          "Vous pouvez commencer par ajouter une marche quotidienne, remplacer un trajet court en voiture ou prévoir deux séances de renforcement léger.",
+          "Le ou la partenaire peut aussi participer : bouger à deux aide souvent à garder une routine régulière."
+        ],
+        bullets: [
+          "Marcher 20 à 30 minutes plusieurs fois par semaine.",
+          "Ajouter deux courtes séances de renforcement.",
+          "Limiter les longues périodes assises.",
+          "Augmenter progressivement sans chercher l’épuisement.",
+          "Choisir une activité agréable et facile à répéter."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, l’activité physique régulière est recommandée pour la santé générale et le bien-être.",
+          "Visez progressivement une activité modérée et variée, sans pression de performance. En cas de problème de santé ou de symptôme inhabituel, demandez un avis personnalisé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Modifier ses habitudes de vie avant d’être enceinte",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/modifier-ses-habitudes-de-vie-avant-d-etre-enceinte"
+      },
+      {
+        label: "Haute Autorité de santé — L’activité physique : votre meilleure alliée santé",
+        url: "https://www.has-sante.fr/jcms/p_3385126/fr/l-activite-physique-votre-meilleure-alliee-sante"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Guidelines on physical activity and sedentary behaviour",
+        url: "https://www.who.int/publications/i/item/9789240015128"
+      },
+      {
+        label: "ACOG — Good Health Before Pregnancy: Prepregnancy Care",
+        url: "https://www.acog.org/womens-health/faqs/good-health-before-pregnancy-prepregnancy-care"
+      },
+      {
+        label: "ACOG — Prepregnancy Counseling",
+        url: "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/01/prepregnancy-counseling"
+      }
+    ]
+  },
+  {
     slug: "preparer-alimentation-avant-grossesse",
     title: "Comment préparer son alimentation avant une grossesse ?",
     description:
