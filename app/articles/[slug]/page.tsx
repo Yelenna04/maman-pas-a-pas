@@ -452,7 +452,6 @@ function FertilityArticle({
               <span>{article.subcategory}</span>
             </div>
 
-            <span className="badge">Fertilité</span>
             <h1>{article.title}</h1>
             <p className="lead">{article.description}</p>
 
