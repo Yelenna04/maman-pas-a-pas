@@ -378,30 +378,32 @@ function UnifiedArticle({ article }: { article: Article }) {
                 <h2>En savoir plus</h2>
 
                 {extraSections.map((section) => (
-                  <details key={section.title}>
-                    <summary>
-                      {section.title}
-                      <ChevronDown size={18} />
-                    </summary>
+                  <div key={section.title}>
+                    <details>
+                      <summary>
+                        {section.title}
+                        <ChevronDown size={18} />
+                      </summary>
 
-                    {section.paragraphs?.map((paragraph) => (
-                      <p key={paragraph}>{renderRichText(paragraph)}</p>
-                    ))}
+                      {section.paragraphs?.map((paragraph) => (
+                        <p key={paragraph}>{renderRichText(paragraph)}</p>
+                      ))}
 
-                    {section.bullets && (
-                      <ul>
-                        {section.bullets.map((bullet) => (
-                          <li key={bullet}>{renderRichText(bullet)}</li>
-                        ))}
-                      </ul>
-                    )}
+                      {section.bullets && (
+                        <ul>
+                          {section.bullets.map((bullet) => (
+                            <li key={bullet}>{renderRichText(bullet)}</li>
+                          ))}
+                        </ul>
+                      )}
+                    </details>
 
                     {section.quote && (
-                      <div className="project-mini-tip">
+                      <div className="project-mini-tip" style={{ marginTop: 12 }}>
                         {renderRichText(section.quote)}
                       </div>
                     )}
-                  </details>
+                  </div>
                 ))}
               </section>
             )}
