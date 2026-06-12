@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "pma-demarches-delais-prise-en-charge": {
+    essentialIcons: [CalendarDays, ClipboardList, Users, ShieldCheck],
+    cardIcons: [TestTubeDiagonal, Users, ClipboardList],
+    cardTitles: ["Bilan médical", "Entretiens", "Démarches administratives"]
+  },
   "pma-amp-definition-a-qui-adresse": {
     essentialIcons: [Heart, TestTubeDiagonal, Users, ClipboardList],
     cardIcons: [Users, TestTubeDiagonal, Heart],
@@ -441,13 +446,25 @@ function UnifiedArticle({ article }: { article: Article }) {
                           ))}
                         </ul>
                       )}
+
+                      {section.quote &&
+                        !(
+                          article.slug === "quand-faire-bilan-fertilite" &&
+                          section.title === "Quels examens peuvent être proposés ?"
+                        ) && (
+                          <div className="project-mini-tip" style={{ marginTop: 12 }}>
+                            {renderRichText(section.quote)}
+                          </div>
+                        )}
                     </details>
 
-                    {section.quote && (
-                      <div className="project-mini-tip" style={{ marginTop: 12 }}>
-                        {renderRichText(section.quote)}
-                      </div>
-                    )}
+                    {section.quote &&
+                      article.slug === "quand-faire-bilan-fertilite" &&
+                      section.title === "Quels examens peuvent être proposés ?" && (
+                        <div className="project-mini-tip" style={{ marginTop: 12 }}>
+                          {renderRichText(section.quote)}
+                        </div>
+                      )}
                   </div>
                 ))}
               </section>
