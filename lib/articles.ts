@@ -231,6 +231,114 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "combien-temps-moyenne-tomber-enceinte",
+    title: "Combien de temps faut-il en moyenne pour tomber enceinte ?",
+    description:
+      "Des repères simples pour comprendre les délais habituels, les facteurs qui peuvent les influencer et le moment où demander conseil.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Fertilité et cycle",
+    subcategorySlug: "fertilite-cycle",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Certaines grossesses commencent rapidement, tandis que d’autres demandent plusieurs mois.",
+          "La majorité des couples conçoivent dans l’année avec des rapports réguliers sans contraception.",
+          "L’âge, la santé, la fréquence des rapports et d’éventuels problèmes de fertilité influencent les délais.",
+          "Un avis médical est généralement conseillé après 12 mois d’essais, ou plus tôt selon l’âge et les antécédents."
+        ],
+        quote:
+          "Ne pas être enceinte après quelques mois d’essais ne signifie pas forcément qu’il existe un problème de fertilité."
+      },
+      {
+        title: "Quel délai est considéré comme habituel ?",
+        paragraphs: [
+          "Le temps nécessaire pour obtenir une grossesse varie beaucoup d’une personne à l’autre. Certaines grossesses commencent dès les premiers cycles, tandis que d’autres surviennent après plusieurs mois.",
+          "Avec des rapports réguliers sans contraception, la plupart des couples obtiennent une grossesse dans l’année. Ce repère ne permet toutefois pas de prévoir ce qui se passera pour un couple en particulier.",
+          "Un délai plus long que prévu peut être décevant, mais il reste fréquent. Chaque cycle n’offre qu’une possibilité limitée de conception, même lorsque l’ovulation et les rapports sont bien situés."
+        ]
+      },
+      {
+        title: "Les 3 facteurs qui influencent le délai",
+        paragraphs: [
+          "L’âge. La fertilité diminue progressivement avec l’âge, en particulier du côté ovarien. Cette évolution explique pourquoi un bilan est proposé plus tôt à partir de 35 ans.",
+          "La fréquence et le moment des rapports. Des rapports tous les deux ou trois jours permettent généralement de couvrir la période fertile sans devoir identifier exactement le jour de l’ovulation.",
+          "La santé des deux partenaires. Les cycles irréguliers, l’endométriose, certains troubles hormonaux, une faible qualité du sperme, certaines maladies ou certains traitements peuvent influencer les chances de conception."
+        ],
+        quote:
+          "La fertilité concerne les deux partenaires. Lorsqu’un bilan est nécessaire, il est généralement proposé au couple."
+      },
+      {
+        title: "Faut-il s’inquiéter après quelques mois ?",
+        paragraphs: [
+          "Non, pas automatiquement. L’absence de grossesse après trois, quatre ou six mois peut rester compatible avec un délai habituel, surtout avant 35 ans et en l’absence de signe particulier.",
+          "Il est normal que l’attente devienne émotionnellement difficile. Essayez de ne pas interpréter chaque cycle sans grossesse comme la preuve qu’un problème existe.",
+          "Vous pouvez néanmoins demander conseil à tout moment si l’attente vous inquiète. Une consultation ne conduit pas forcément à un bilan complet : elle peut simplement permettre de faire le point et de répondre à vos questions."
+        ]
+      },
+      {
+        title: "Quand consulter ?",
+        paragraphs: [
+          "Avant 35 ans, une consultation pour infertilité est le plus souvent envisagée après un an de rapports réguliers sans contraception et sans grossesse.",
+          "À partir de 35 ans, il est généralement conseillé de consulter après six mois d’essais. Après 40 ans, il est préférable d’en parler rapidement avec un professionnel dès le début du projet.",
+          "Il ne faut pas attendre ces délais en cas de règles absentes ou très irrégulières, de douleurs importantes, d’endométriose connue, d’antécédent de problème de fertilité, de traitement pouvant l’influencer ou de difficulté connue du côté du sperme."
+        ]
+      },
+      {
+        title: "Que peut-on faire pendant les essais ?",
+        paragraphs: [
+          "Avoir des rapports réguliers tous les deux ou trois jours permet généralement de couvrir la période fertile sans rendre le suivi trop contraignant.",
+          "Il peut être utile de noter les règles et d’observer certains signes du cycle, mais il n’est pas nécessaire de multiplier les tests si cela augmente le stress.",
+          "Un rendez-vous préconceptionnel permet aussi de faire le point sur les traitements, les vaccins, la vitamine B9 et les habitudes de vie."
+        ],
+        bullets: [
+          "Gardez des rapports réguliers sans viser une seule journée.",
+          "Évitez de transformer chaque cycle en examen à réussir.",
+          "Parlez de vos inquiétudes avec votre partenaire.",
+          "Demandez conseil plus tôt si votre situation médicale le justifie."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le délai pour obtenir une grossesse varie beaucoup. La majorité des couples conçoivent dans l’année, mais plusieurs mois d’attente peuvent être tout à fait habituels.",
+          "Le bon moment pour consulter dépend de l’âge, des antécédents et des symptômes. Vous pouvez néanmoins demander un avis avant les délais habituels si vous êtes inquiète ou si une difficulté est déjà connue."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — How long does it usually take to get pregnant?",
+        url: "https://www.nhs.uk/pregnancy/trying-for-a-baby/how-long-it-takes-to-get-pregnant/"
+      },
+      {
+        label: "NHS — Trying to get pregnant",
+        url: "https://www.nhs.uk/pregnancy/trying-for-a-baby/trying-to-get-pregnant/"
+      },
+      {
+        label: "Assurance Maladie — Bilan médical de l’infertilité",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/bilan-medical-infertilite-sterilite"
+      },
+      {
+        label: "Assurance Maladie — Baisse de la fertilité et de la fécondité : pourquoi ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/baisse-de-la-fertilite-et-de-la-fecondite-pourquoi"
+      },
+      {
+        label: "ACOG — Evaluating Infertility",
+        url: "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Infertility",
+        url: "https://www.who.int/news-room/fact-sheets/detail/infertility"
+      }
+    ]
+  },
+  {
     slug: "tests-ovulation-utiliser-interpreter",
     title: "Tests d’ovulation : comment les utiliser et les interpréter ?",
     description:
