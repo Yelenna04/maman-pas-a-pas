@@ -231,6 +231,133 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "alcool-projet-bebe-faut-il-arreter-avant-grossesse",
+    title: "Alcool et projet bébé : faut-il arrêter avant la grossesse ?",
+    description:
+      "Comprendre pourquoi l’arrêt est recommandé dès le projet bébé, que faire après une consommation ponctuelle et où trouver de l’aide.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il est recommandé d’éviter l’alcool dès qu’un projet de grossesse existe.",
+          "Aucune quantité d’alcool n’a été démontrée comme sans risque pendant la grossesse.",
+          "Tous les alcools sont concernés : vin, bière, cidre, champagne et alcools forts.",
+          "Si l’arrêt est difficile, un professionnel ou Alcool info service peut vous accompagner."
+        ],
+        quote:
+          "Le message est simple : zéro alcool dès le projet bébé et pendant toute la grossesse."
+      },
+      {
+        title: "Pourquoi arrêter dès le projet bébé ?",
+        paragraphs: [
+          "Une grossesse peut commencer avant le retard de règles et donc avant que l’on sache que l’on est enceinte.",
+          "L’alcool traverse le placenta et atteint le fœtus. Comme aucune quantité sans risque n’a été identifiée, les recommandations françaises conseillent de s’abstenir dès qu’un projet de grossesse existe.",
+          "Arrêter en amont évite d’avoir à modifier ses habitudes dans l’urgence après un test positif."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus importants",
+        paragraphs: [
+          "Zéro alcool signifie zéro verre, même occasionnel. Un petit verre ou une consommation rare ne peut pas être considéré comme garanti sans risque.",
+          "Tous les alcools sont concernés. Une bière, un verre de vin ou une dose d’alcool fort contiennent tous de l’éthanol.",
+          "Le ou la partenaire peut aussi soutenir la démarche en réduisant ou en arrêtant sa propre consommation, notamment à la maison et lors des moments festifs."
+        ],
+        quote:
+          "Choisir une boisson sans alcool à l’avance peut faciliter les repas, les fêtes et les sorties."
+      },
+      {
+        title: "Et si j’ai bu avant de savoir que j’étais enceinte ?",
+        paragraphs: [
+          "Ne culpabilisez pas. Une consommation passée ne signifie pas automatiquement qu’une complication surviendra.",
+          "Le bon réflexe est d’arrêter dès que la grossesse est connue et d’en parler simplement au médecin ou à la sage-femme qui vous suit.",
+          "Le professionnel pourra replacer la consommation dans son contexte, répondre à vos questions et proposer un accompagnement si nécessaire."
+        ]
+      },
+      {
+        title: "Faut-il éviter les boissons « sans alcool » ?",
+        paragraphs: [
+          "Certaines boissons présentées comme sans alcool peuvent contenir une faible quantité d’alcool. Vérifiez l’étiquette, surtout pendant la grossesse.",
+          "Les boissons portant la mention 0,0 % sont les plus simples à identifier, mais elles peuvent être très sucrées.",
+          "L’eau, les eaux aromatisées maison, les infusions froides et les jus dilués peuvent aussi remplacer les boissons alcoolisées."
+        ]
+      },
+      {
+        title: "Comment arrêter plus facilement ?",
+        paragraphs: [
+          "Repérez les moments où l’alcool est le plus présent : apéritifs, repas, stress, week-ends ou sorties.",
+          "Préparez une alternative qui vous plaît et dites clairement à vos proches que vous ne souhaitez pas boire.",
+          "Si la consommation est régulière ou difficile à contrôler, demandez conseil avant d’arrêter brutalement, car un sevrage non accompagné peut parfois être dangereux."
+        ],
+        bullets: [
+          "Ne pas garder d’alcool à portée de main.",
+          "Prévoir une boisson de remplacement.",
+          "Demander au partenaire de soutenir la démarche.",
+          "Éviter temporairement certaines situations déclenchantes.",
+          "Parler sans honte de ses difficultés à un professionnel."
+        ]
+      },
+      {
+        title: "Et l’alcool du ou de la partenaire ?",
+        paragraphs: [
+          "La consommation du partenaire ne transmet pas directement de l’alcool au fœtus, mais elle peut rendre l’arrêt plus difficile au quotidien.",
+          "Une consommation importante peut aussi nuire à la santé générale, à la sexualité et à la qualité des spermatozoïdes.",
+          "Réduire ou arrêter à deux peut faciliter le changement et créer un environnement plus soutenant."
+        ]
+      },
+      {
+        title: "Où trouver de l’aide ?",
+        paragraphs: [
+          "Un médecin généraliste, une sage-femme, un pharmacien ou un professionnel en addictologie peut vous accompagner sans jugement.",
+          "Vous pouvez appeler Alcool info service au 0 980 980 930, 7 jours sur 7 de 8 h à 2 h. L’appel est anonyme et non surtaxé.",
+          "Un chat individuel est également proposé sur le site d’Alcool info service."
+        ],
+        quote:
+          "Alcool info service : 0 980 980 930 — 7 jours sur 7, de 8 h à 2 h."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La recommandation est de ne pas boire d’alcool dès le projet bébé et pendant toute la grossesse, car aucune quantité sans risque n’est connue.",
+          "En cas de consommation avant de savoir que vous étiez enceinte ou de difficulté à arrêter, parlez-en sans culpabilité à un professionnel."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Tabac, alcool, drogue et grossesse",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/tabac-alcool-drogue-et-grossesse"
+      },
+      {
+        label: "Santé publique France — Zéro alcool pendant la grossesse, un message pour tous",
+        url: "https://www.santepubliquefrance.fr/les-actualites/2020/zero-alcool-pendant-la-grossesse-un-message-pour-tous"
+      },
+      {
+        label: "Santé publique France — Grossesse et alcool : évolution des connaissances et des pratiques",
+        url: "https://beh.santepubliquefrance.fr/beh/2023/17/2023_17_1.html"
+      },
+      {
+        label: "1000 premiers jours — L’alcool pendant la grossesse et l’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/lalcool-pendant-la-grossesse-et-lallaitement"
+      },
+      {
+        label: "Alcool info service — Nous appeler",
+        url: "https://www.alcool-info-service.fr/nous-appeler"
+      },
+      {
+        label: "Assurance Maladie — Addictions : à qui s’adresser ?",
+        url: "https://www.ameli.fr/assure/sante/themes/addictions/suivi"
+      }
+    ]
+  },
+  {
     slug: "tabac-projet-grossesse-pourquoi-comment-arreter",
     title: "Tabac et projet de grossesse : pourquoi et comment arrêter ?",
     description:
