@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "medicaments-projet-bebe-lesquels-signaler": {
+    essentialIcons: [ClipboardList, ShieldCheck, Heart, Users],
+    cardIcons: [ClipboardList, ShieldCheck, Leaf],
+    cardTitles: ["Traitements prescrits", "Sans ordonnance", "Produits naturels"]
+  },
   "quels-vaccins-verifier-avant-grossesse": {
     essentialIcons: [ShieldCheck, ClipboardList, CalendarDays, Heart],
     cardIcons: [ShieldCheck, Heart, ClipboardList],
