@@ -231,6 +231,137 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "fiv-classique-icsi-quelles-differences",
+    title: "FIV classique et ICSI : quelles différences ?",
+    description:
+      "Comprendre simplement ce qui change entre une FIV classique et une ICSI, dans quelles situations elles sont proposées et comment se déroule le laboratoire.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "PMA et parcours de fertilité",
+    subcategorySlug: "pma-parcours-fertilite",
+    readingTime: "6 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La FIV classique et l’ICSI suivent les mêmes grandes étapes jusqu’à la ponction des ovocytes.",
+          "En FIV classique, les ovocytes sont mis en présence de nombreux spermatozoïdes au laboratoire.",
+          "En ICSI, un seul spermatozoïde est injecté directement dans chaque ovocyte mature.",
+          "L’ICSI est surtout proposée lorsque les spermatozoïdes sont peu nombreux, peu mobiles ou après un échec de fécondation."
+        ],
+        quote:
+          "L’ICSI n’est pas une FIV « plus forte » : c’est une autre manière de réaliser l’étape de fécondation au laboratoire."
+      },
+      {
+        title: "Qu’ont en commun la FIV classique et l’ICSI ?",
+        paragraphs: [
+          "Dans les deux cas, le parcours commence généralement par une stimulation ovarienne afin de faire mûrir plusieurs follicules.",
+          "Les ovocytes sont ensuite prélevés lors d’une ponction, tandis qu’un échantillon de sperme est recueilli ou décongelé.",
+          "Après la fécondation au laboratoire, les embryons sont observés pendant quelques jours. Un embryon peut ensuite être transféré dans l’utérus et les autres embryons de qualité suffisante peuvent être congelés."
+        ]
+      },
+      {
+        title: "Les 3 différences principales",
+        paragraphs: [
+          "La rencontre entre les gamètes : en FIV classique, chaque ovocyte est placé avec de nombreux spermatozoïdes. En ICSI, le biologiste injecte un spermatozoïde dans l’ovocyte.",
+          "Les situations concernées : la FIV classique est possible lorsque les paramètres spermatiques permettent une fécondation spontanée au laboratoire. L’ICSI est souvent choisie lorsqu’un facteur masculin important est présent.",
+          "Le geste au laboratoire : l’ICSI nécessite une manipulation supplémentaire de chaque ovocyte mature, mais la suite du développement embryonnaire et le transfert sont comparables."
+        ],
+        quote:
+          "La différence se situe principalement le jour de la fécondation ; la stimulation, la ponction et le transfert restent similaires."
+      },
+      {
+        title: "Comment se déroule une FIV classique ?",
+        paragraphs: [
+          "Après la ponction, les ovocytes sont placés dans un milieu de culture avec une quantité préparée de spermatozoïdes.",
+          "Les spermatozoïdes doivent ensuite atteindre et pénétrer l’ovocyte par eux-mêmes, comme lors d’une fécondation naturelle, mais au laboratoire.",
+          "Le lendemain, l’équipe vérifie quels ovocytes ont été fécondés. Les embryons obtenus poursuivent ensuite leur développement en incubateur."
+        ]
+      },
+      {
+        title: "Comment se déroule une ICSI ?",
+        paragraphs: [
+          "Le biologiste sélectionne un spermatozoïde parmi ceux disponibles, puis l’immobilise.",
+          "À l’aide d’une micropipette, il injecte ce spermatozoïde directement dans le cytoplasme d’un ovocyte mature.",
+          "Le lendemain, l’équipe vérifie la fécondation. Comme en FIV classique, les embryons obtenus sont ensuite cultivés pendant plusieurs jours avant un éventuel transfert ou une congélation."
+        ]
+      },
+      {
+        title: "Dans quelles situations l’ICSI est-elle proposée ?",
+        paragraphs: [
+          "L’ICSI peut être proposée lorsque le spermogramme montre un nombre très faible de spermatozoïdes, une mobilité réduite ou des anomalies importantes de leur forme.",
+          "Elle peut également être utilisée lorsque les spermatozoïdes ont été prélevés directement dans le testicule ou l’épididyme, ou après un échec ou un très faible taux de fécondation lors d’une précédente FIV classique.",
+          "Le choix dépend aussi de l’histoire du couple, du nombre d’ovocytes disponibles, de leur maturité et des pratiques du centre."
+        ]
+      },
+      {
+        title: "L’ICSI augmente-t-elle toujours les chances de grossesse ?",
+        paragraphs: [
+          "Non. L’ICSI peut augmenter les chances d’obtenir une fécondation lorsque le problème vient surtout des spermatozoïdes, mais elle ne garantit ni la formation d’un embryon ni une grossesse.",
+          "Lorsque le sperme ne présente pas d’anomalie importante, l’ICSI n’a pas démontré un avantage systématique sur la FIV classique pour toutes les personnes.",
+          "La réussite dépend surtout de l’âge, de la qualité des ovocytes et des spermatozoïdes, de la cause de l’infertilité et du développement des embryons."
+        ]
+      },
+      {
+        title: "Comment le spermatozoïde est-il choisi en ICSI ?",
+        paragraphs: [
+          "Le biologiste observe les spermatozoïdes au microscope et en sélectionne un qui présente une mobilité et une apparence compatibles avec l’injection.",
+          "Cette sélection reste principalement visuelle et ne permet pas de vérifier l’ensemble du patrimoine génétique du spermatozoïde.",
+          "L’ICSI facilite l’entrée du spermatozoïde dans l’ovocyte, mais elle ne corrige pas toutes les anomalies possibles des gamètes."
+        ]
+      },
+      {
+        title: "Quels sont les risques et les limites ?",
+        paragraphs: [
+          "La stimulation ovarienne, la ponction, le transfert et les risques liés à une grossesse multiple sont comparables entre la FIV classique et l’ICSI.",
+          "Avec l’ICSI, certains ovocytes peuvent être endommagés lors de la micro-injection ou ne pas être fécondés malgré le geste.",
+          "Les équipes évaluent les antécédents et peuvent proposer un conseil génétique lorsqu’une anomalie sévère du sperme ou une cause génétique est suspectée."
+        ]
+      },
+      {
+        title: "Peut-on choisir soi-même entre FIV et ICSI ?",
+        paragraphs: [
+          "La décision est prise avec l’équipe médicale et biologique à partir du bilan de fertilité et des précédentes tentatives.",
+          "Le centre doit expliquer pourquoi une technique est recommandée, ses bénéfices attendus, ses limites et les alternatives possibles.",
+          "Dans certains cas, une partie des ovocytes peut être proposée en FIV classique et une autre en ICSI, mais cette stratégie dépend du centre et de la situation."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La FIV classique laisse les spermatozoïdes féconder les ovocytes dans une boîte de culture, tandis que l’ICSI injecte un spermatozoïde directement dans chaque ovocyte mature.",
+          "L’ICSI est surtout utile en présence d’un facteur masculin important ou après un échec de fécondation. Elle ne garantit pas davantage une grossesse dans toutes les situations.",
+          "Le choix doit être expliqué et personnalisé par l’équipe d’AMP en fonction du bilan et de l’histoire du parcours."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Techniques d’AMP : insémination artificielle, FIV, accueil d’embryon",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/procreation-medicalement-assistee-pma-amp/techniques-procreation-medicalement-assistee-pma"
+      },
+      {
+        label: "Agence de la biomédecine — Quelles sont les différentes techniques d’AMP ?",
+        url: "https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/quelles-sont-les-differentes-techniques-d-amp-pour-les-personnes-qui-ont-un-projet-parental"
+      },
+      {
+        label: "Agence de la biomédecine — Guide de l’assistance médicale à la procréation",
+        url: "https://www.agence-biomedecine.fr/IMG/pdf/bd_biom24-5_maj_broch_patients_amp_a5_40p_pap.pdf"
+      },
+      {
+        label: "Agence de la biomédecine — Information sur la santé des personnes nées après une AMP",
+        url: "https://www.agence-biomedecine.fr/IMG/pdf/bd_biom24-2_maj_brochure_info_amp_patients.pdf"
+      },
+      {
+        label: "Agence de la biomédecine — Évaluation des résultats des centres et laboratoires",
+        url: "https://www.agence-biomedecine.fr/fr/evaluation-des-resultats-des-centres-et-laboratoires"
+      }
+    ]
+  },
+  {
     slug: "insemination-intra-uterine-iiu-comment-ca-se-passe",
     title: "Insémination intra-utérine (IIU) : comment ça se passe ?",
     description:
