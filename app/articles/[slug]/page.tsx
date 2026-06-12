@@ -9,6 +9,7 @@ import {
   Check,
   ChevronDown,
   Droplets,
+  Heart,
   Lightbulb,
   ShieldCheck,
   TestTubeDiagonal,
@@ -78,6 +79,7 @@ function StandardArticle({
               {article.subcategory || article.category}
             </span>
 
+            <span className="badge">Cycle et ovulation</span>
             <h1>{article.title}</h1>
             <p className="lead">{article.description}</p>
           </div>
@@ -398,6 +400,230 @@ function OvulationArticle({
   );
 }
 
+
+function FertilityArticle({
+  article
+}: {
+  article: NonNullable<ReturnType<typeof getArticle>>;
+}) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const definition = article.sections.find(
+    (section) => section.title === "Qu’est-ce que la période fertile ?"
+  );
+  const markers = article.sections.find(
+    (section) => section.title === "Les 3 repères les plus simples"
+  );
+  const exactDay = article.sections.find(
+    (section) => section.title === "Faut-il viser le jour exact de l’ovulation ?"
+  );
+  const stress = article.sections.find(
+    (section) => section.title === "Et si les essais deviennent stressants ?"
+  );
+  const medical = article.sections.find(
+    (section) => section.title === "Quand demander un avis médical ?"
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+
+  const essentialIcons = [
+    CalendarDays,
+    Heart,
+    Thermometer,
+    CalendarDays
+  ];
+
+  const markerIcons = [Heart, Droplets, TestTubeDiagonal];
+
+  return (
+    <main className="compact-article">
+      <div className="article-shell">
+        <section className="compact-article-hero">
+          <div className="compact-hero-copy">
+            <div className="breadcrumbs compact-breadcrumbs">
+              <Link href="/">Accueil</Link>
+              <span>›</span>
+              <Link href={`/${article.categorySlug}`}>
+                {article.category}
+              </Link>
+              <span>›</span>
+              <span>{article.subcategory}</span>
+            </div>
+
+            <span className="badge">Fertilité</span>
+            <h1>{article.title}</h1>
+            <p className="lead">{article.description}</p>
+
+            <div className="verified-pill">
+              <ShieldCheck size={18} />
+              Informations médicales vérifiées
+            </div>
+          </div>
+
+          <div className="compact-hero-photo">
+            <Image
+              src={getArticleImage(article.categorySlug, article.slug)}
+              alt=""
+              fill
+              priority
+              sizes="(max-width: 900px) 100vw, 43vw"
+            />
+          </div>
+        </section>
+
+        {essentials?.bullets && (
+          <section className="compact-essentials">
+            <h2>L’essentiel en 30 secondes</h2>
+            <div className="essential-grid">
+              {essentials.bullets.slice(0, 4).map((bullet, index) => {
+                const Icon = essentialIcons[index];
+                return (
+                  <div className="essential-card" key={bullet}>
+                    <span className="essential-icon">
+                      <Icon size={23} />
+                    </span>
+                    <p>{renderRichText(bullet)}</p>
+                  </div>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <div className="compact-article-grid">
+          <article className="compact-main-column">
+            {definition && (
+              <section className="compact-section">
+                <h2>
+                  <span>1</span>
+                  {definition.title}
+                </h2>
+                {definition.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+                {essentials?.quote && (
+                  <div className="compact-note rose-note">
+                    <strong>Bon à savoir</strong>
+                    <p>{renderRichText(essentials.quote)}</p>
+                  </div>
+                )}
+              </section>
+            )}
+
+            {markers && (
+              <section className="compact-section">
+                <h2>
+                  <span>2</span>
+                  {markers.title}
+                </h2>
+                <div className="sign-grid">
+                  {markers.paragraphs?.slice(0, 3).map((paragraph, index) => {
+                    const Icon = markerIcons[index];
+                    const titles = [
+                      "Rapports réguliers",
+                      "Observer la glaire",
+                      "Test d’ovulation"
+                    ];
+
+                    return (
+                      <div className="sign-card" key={paragraph}>
+                        <span className="sign-icon">
+                          <Icon size={25} />
+                        </span>
+                        <h3>{index + 1}. {titles[index]}</h3>
+                        <p>{renderRichText(paragraph)}</p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            )}
+
+            {medical && (
+              <section className="compact-section medical-section">
+                <h2>
+                  <span>3</span>
+                  {medical.title}
+                </h2>
+                <div className="medical-list">
+                  {medical.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>
+                      <Check size={18} />
+                      <span>{renderRichText(paragraph)}</span>
+                    </p>
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {takeaway && (
+              <section className="compact-takeaway">
+                <h2>À retenir</h2>
+                {takeaway.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+              </section>
+            )}
+          </article>
+
+          <aside className="compact-side-column">
+            <section className="learn-more-box">
+              <h2>En savoir plus</h2>
+
+              {exactDay && (
+                <details>
+                  <summary>
+                    Faut-il viser le jour exact ?
+                    <ChevronDown size={18} />
+                  </summary>
+                  {exactDay.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+
+              {stress && (
+                <details>
+                  <summary>
+                    Et si les essais deviennent stressants ?
+                    <ChevronDown size={18} />
+                  </summary>
+                  {stress.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+                </details>
+              )}
+            </section>
+
+            {markers?.quote && (
+              <section className="simple-advice-box">
+                <Lightbulb size={25} />
+                <h2>Le conseil le plus simple</h2>
+                <p>{renderRichText(markers.quote)}</p>
+              </section>
+            )}
+          </aside>
+        </div>
+
+        <section className="compact-source-box">
+          <h2>Sources consultées</h2>
+          <ul>
+            {article.sources.map((source) => (
+              <li key={source.label}>
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  {source.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+    </main>
+  );
+}
+
 export default async function ArticlePage({ params }: Props) {
   const { slug } = await params;
   const article = getArticle(slug);
@@ -406,6 +632,10 @@ export default async function ArticlePage({ params }: Props) {
 
   if (article.slug === "comment-reperer-ovulation-periode-fertile") {
     return <OvulationArticle article={article} />;
+  }
+
+  if (article.slug === "periode-fertile-jours-plus-favorables") {
+    return <FertilityArticle article={article} />;
   }
 
   return <StandardArticle article={article} />;
