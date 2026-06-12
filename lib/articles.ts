@@ -231,6 +231,123 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "quand-faire-bilan-fertilite",
+    title: "Quand faire un bilan de fertilité ?",
+    description:
+      "Les délais à connaître, les situations où consulter plus tôt et le déroulement des premiers examens pour le couple.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Santé et rendez-vous",
+    subcategorySlug: "sante-rendez-vous",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Avant 35 ans, un bilan est généralement envisagé après 12 mois d’essais sans grossesse.",
+          "À partir de 35 ans, il est conseillé de consulter après 6 mois d’essais.",
+          "Après 40 ans ou en présence d’un facteur de risque, il est préférable de demander un avis sans attendre.",
+          "Le bilan concerne les deux partenaires et commence par un entretien, un examen clinique et des examens ciblés."
+        ],
+        quote:
+          "Vous pouvez consulter avant ces délais si la situation vous inquiète : demander un premier avis ne signifie pas commencer immédiatement un parcours de PMA."
+      },
+      {
+        title: "Quels délais sont généralement recommandés ?",
+        paragraphs: [
+          "Avant 35 ans, une consultation pour infertilité est le plus souvent envisagée après un an de rapports réguliers sans contraception et sans grossesse.",
+          "À partir de 35 ans, ce délai est généralement raccourci à 6 mois, car la fertilité diminue progressivement avec l’âge.",
+          "Après 40 ans, il est recommandé d’en parler rapidement avec un professionnel dès le début du projet afin de ne pas retarder une éventuelle évaluation."
+        ]
+      },
+      {
+        title: "Les 3 situations où consulter plus tôt",
+        paragraphs: [
+          "Des cycles absents, très irréguliers ou des signes suggérant une absence d’ovulation. Il n’est pas utile d’attendre un an si les règles disparaissent ou sont très difficiles à prévoir.",
+          "Des antécédents pouvant influencer la fertilité : endométriose, infection pelvienne, grossesse extra-utérine, chirurgie gynécologique, cancer, traitement gonadotoxique ou fausses couches répétées.",
+          "Une difficulté connue ou suspectée chez le partenaire : problème testiculaire, chirurgie, troubles de l’érection ou de l’éjaculation, traitement pouvant affecter le sperme ou antécédent d’infertilité."
+        ],
+        quote:
+          "Un facteur de risque connu justifie une consultation sans attendre les délais habituels."
+      },
+      {
+        title: "À qui s’adresser en premier ?",
+        paragraphs: [
+          "Vous pouvez commencer par un médecin généraliste, une sage-femme ou un gynécologue. Le professionnel recueille l’histoire du couple et vérifie s’il existe une raison de débuter rapidement le bilan.",
+          "Selon la situation, il peut prescrire les premiers examens ou orienter vers un gynécologue spécialisé, un urologue, un andrologue ou un centre de médecine de la reproduction.",
+          "Il est préférable que les deux partenaires soient associés dès le début, car les causes de difficulté à concevoir peuvent concerner l’un, l’autre ou les deux."
+        ]
+      },
+      {
+        title: "Comment se déroule le premier rendez-vous ?",
+        paragraphs: [
+          "Le professionnel demande depuis combien de temps les essais ont commencé, à quelle fréquence ont lieu les rapports et si les cycles sont réguliers.",
+          "Il revient également sur les antécédents médicaux, gynécologiques, chirurgicaux et familiaux, les traitements, les grossesses précédentes et les habitudes de vie.",
+          "Un examen clinique peut être proposé. Les examens complémentaires sont ensuite choisis en fonction de l’âge, des symptômes et de l’histoire du couple."
+        ],
+        bullets: [
+          "Date de début des essais et fréquence des rapports.",
+          "Durée et régularité des cycles.",
+          "Antécédents de grossesse, d’infection ou d’opération.",
+          "Traitements, tabac, alcool et expositions professionnelles.",
+          "Résultats d’examens déjà réalisés."
+        ]
+      },
+      {
+        title: "Quels examens peuvent être proposés ?",
+        paragraphs: [
+          "Chez la femme, le bilan peut rechercher une ovulation, évaluer l’utérus et les ovaires par échographie et vérifier, si nécessaire, la perméabilité des trompes.",
+          "Chez l’homme, le spermogramme est un examen central. Il analyse notamment le nombre, la mobilité et la forme des spermatozoïdes.",
+          "Des examens hormonaux, infectieux, génétiques ou spécialisés peuvent être ajoutés selon les résultats. Tous ne sont pas nécessaires pour chaque couple."
+        ]
+      },
+      {
+        title: "Le dosage de l’AMH suffit-il à connaître sa fertilité ?",
+        paragraphs: [
+          "Non. L’hormone antimüllérienne, ou AMH, donne une information sur la réserve ovarienne, c’est-à-dire le nombre estimé de follicules disponibles.",
+          "Elle ne mesure pas directement la qualité des ovocytes et ne permet pas, à elle seule, de prédire une grossesse naturelle.",
+          "Son résultat doit être interprété avec l’âge, l’échographie, l’histoire médicale et le contexte d’un éventuel traitement de fertilité."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le délai habituel est de 12 mois avant 35 ans et de 6 mois à partir de 35 ans. Après 40 ans ou en présence d’un facteur de risque, un avis plus rapide est recommandé.",
+          "Le bilan concerne le couple et avance par étapes. Il ne signifie pas automatiquement qu’un traitement ou une assistance médicale à la procréation sera nécessaire."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Bilan médical de l’infertilité",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/bilan-medical-infertilite-sterilite"
+      },
+      {
+        label: "Assurance Maladie — Comprendre l’infertilité : définition et causes",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/comprendre-sterilite"
+      },
+      {
+        label: "ACOG — Evaluating Infertility",
+        url: "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+      },
+      {
+        label: "ASRM — Fertility evaluation of infertile women",
+        url: "https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-evaluation-of-infertile-women-a-committee-opinion-2021/"
+      },
+      {
+        label: "ACOG — The Use of Antimüllerian Hormone in Women Not Seeking Fertility Care",
+        url: "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/04/the-use-of-antimullerian-hormone-in-women-not-seeking-fertility-care"
+      },
+      {
+        label: "NHS — Diagnosis of infertility",
+        url: "https://www.nhs.uk/conditions/infertility/diagnosis/"
+      }
+    ]
+  },
+  {
     slug: "quel-professionnel-consulter-avant-projet-bebe",
     title: "Quel professionnel consulter avant un projet bébé ?",
     description:
