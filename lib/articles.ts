@@ -231,6 +231,135 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "preparer-alimentation-avant-grossesse",
+    title: "Comment préparer son alimentation avant une grossesse ?",
+    description:
+      "Des repères simples pour adopter une alimentation équilibrée, parler de la vitamine B9 et éviter les compléments inutiles.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Hygiène de vie",
+    subcategorySlug: "hygiene-vie",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe pas de régime miracle pour tomber enceinte.",
+          "Une alimentation variée et régulière suffit dans la plupart des situations.",
+          "La vitamine B9 doit être abordée dès le projet de grossesse avec un professionnel.",
+          "Évitez de multiplier les compléments alimentaires sans conseil médical."
+        ],
+        quote:
+          "L’objectif n’est pas de manger parfaitement, mais d’installer progressivement des habitudes simples et durables."
+      },
+      {
+        title: "Faut-il changer complètement son alimentation ?",
+        paragraphs: [
+          "Non. La préparation d’une grossesse ne nécessite pas de régime spécial si votre alimentation est déjà variée et équilibrée.",
+          "L’idée est surtout de manger régulièrement, de varier les familles d’aliments et de limiter les produits très salés, très sucrés ou très transformés.",
+          "Les changements progressifs sont plus faciles à maintenir qu’un programme strict commencé du jour au lendemain."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Misez sur la variété : fruits et légumes, légumes secs, féculents complets ou semi-complets, produits laitiers ou équivalents, œufs, poisson, viande ou alternatives végétales.",
+          "Pensez à la vitamine B9 : les légumes verts, les légumes secs, certains fruits et les céréales complètes en apportent, mais l’alimentation seule ne remplace pas la supplémentation prescrite.",
+          "Buvez principalement de l’eau et gardez une consommation régulière plutôt que de chercher des aliments supposés « booster » la fertilité."
+        ],
+        quote:
+          "Aucun aliment isolé ne garantit une grossesse : c’est l’équilibre global de l’alimentation qui compte."
+      },
+      {
+        title: "Pourquoi parler de la vitamine B9 ?",
+        paragraphs: [
+          "La vitamine B9, aussi appelée folates ou acide folique, joue un rôle essentiel dans le développement précoce du système nerveux de l’embryon.",
+          "Comme les premières étapes du développement ont lieu très tôt, la supplémentation est recommandée dès le projet de grossesse et pendant le début de la grossesse.",
+          "La dose doit être prescrite ou validée par un médecin ou une sage-femme, car certaines situations nécessitent une adaptation."
+        ]
+      },
+      {
+        title: "Faut-il prendre d’autres compléments ?",
+        paragraphs: [
+          "Pas systématiquement. Le fer, la vitamine D, l’iode ou d’autres nutriments ne doivent pas être pris automatiquement sans évaluation.",
+          "Cumuler plusieurs compléments peut exposer à des apports trop élevés, notamment en vitamine D ou en iode.",
+          "Parlez de tous les compléments, poudres, plantes et produits « spécial fertilité » avec un professionnel avant de les commencer."
+        ]
+      },
+      {
+        title: "Et si vous avez une alimentation végétarienne ou végétalienne ?",
+        paragraphs: [
+          "Une alimentation végétarienne peut être compatible avec un projet de grossesse si elle est bien organisée.",
+          "En cas d’alimentation végétalienne, une attention particulière est nécessaire pour la vitamine B12, le fer, l’iode, le calcium, la vitamine D et les protéines.",
+          "Un médecin, une sage-femme ou un diététicien peut vérifier les apports et proposer une supplémentation adaptée si besoin."
+        ]
+      },
+      {
+        title: "Faut-il perdre ou prendre du poids avant les essais ?",
+        paragraphs: [
+          "Le poids peut influencer la fertilité et le déroulement d’une grossesse, mais il ne doit pas devenir une source de culpabilité.",
+          "Évitez les régimes très restrictifs ou les pertes de poids rapides. Si un changement de poids est souhaitable, il vaut mieux le faire progressivement et avec un accompagnement.",
+          "Une alimentation régulière, une activité physique adaptée et un suivi médical sont généralement plus utiles qu’un objectif de poids rapide."
+        ]
+      },
+      {
+        title: "Comment commencer simplement ?",
+        paragraphs: [
+          "Choisissez une ou deux habitudes faciles à mettre en place, puis ajoutez les autres progressivement.",
+          "Vous pouvez par exemple prévoir davantage de légumes secs, varier les sources de protéines ou remplacer certaines boissons sucrées par de l’eau.",
+          "Le projet bébé peut aussi être l’occasion de faire ces changements à deux."
+        ],
+        bullets: [
+          "Ajouter un fruit ou un légume à un repas.",
+          "Prévoir des légumes secs une à deux fois par semaine.",
+          "Varier poisson, œufs, viande et protéines végétales.",
+          "Parler de la vitamine B9 avec un professionnel.",
+          "Éviter l’achat de compléments sans conseil."
+        ]
+      },
+      {
+        title: "Quand demander un avis personnalisé ?",
+        paragraphs: [
+          "Demandez conseil si vous suivez un régime végétalien, avez subi une chirurgie digestive, vivez avec une maladie chronique ou présentez des carences connues.",
+          "Un avis est également utile en cas de trouble alimentaire, de perte ou prise de poids importante, de diabète ou de traitement pouvant influencer l’alimentation.",
+          "Un professionnel pourra adapter les recommandations sans vous imposer un régime inutilement strict."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avant une grossesse, une alimentation variée, régulière et suffisamment diversifiée est généralement la meilleure base.",
+          "La vitamine B9 mérite une attention particulière dès le projet bébé, tandis que les autres compléments ne doivent pas être pris automatiquement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Modifier ses habitudes de vie avant d’être enceinte",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/modifier-ses-habitudes-de-vie-avant-d-etre-enceinte"
+      },
+      {
+        label: "Santé publique France — Je pense bébé, je pense vitamine B9",
+        url: "https://www.santepubliquefrance.fr/nutrition-et-activite-physique/depliantflyer/je-pense-bebe-je-pense-b9-la-vitamine-b9-le-bon-reflexe-pour-bien-preparer-votre-grossesse"
+      },
+      {
+        label: "Anses — Repères alimentaires pour les femmes enceintes et allaitantes",
+        url: "https://www.anses.fr/fr/content/reperes-alimentaires-pour-les-populations-specifiques-enfants-femmes-enceintes-allaitantes"
+      },
+      {
+        label: "Anses — Compléments alimentaires et grossesse : éviter la multiplication des sources",
+        url: "https://www.anses.fr/fr/content/complements-alimentaires-et-grossesse-lanses-recommande-deviter-la-multiplication-des"
+      },
+      {
+        label: "Anses — Enrichir la farine en acide folique",
+        url: "https://www.anses.fr/fr/content/enrichir-la-farine-en-acide-folique-une-solution-contre-les-malformations-du-tube-neural"
+      }
+    ]
+  },
+  {
     slug: "sante-partenaire-points-verifier-avant-grossesse",
     title: "Santé du partenaire : quels points vérifier avant une grossesse ?",
     description:
