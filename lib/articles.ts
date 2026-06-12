@@ -231,6 +231,104 @@ export const articles: Article[] = [
     ]
   },
   {
+    slug: "cycles-irreguliers-mieux-comprendre",
+    title: "Cycles irréguliers : comment mieux les comprendre ?",
+    description:
+      "Des repères simples pour observer votre cycle, comprendre les variations possibles et savoir quand demander un avis médical.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Fertilité et cycle",
+    subcategorySlug: "fertilite-cycle",
+    readingTime: "5 min",
+    publishedAt: "2026-06-12",
+    updatedAt: "2026-06-12",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un cycle peut varier légèrement d’un mois à l’autre sans que cela soit forcément inquiétant.",
+          "On parle de cycles irréguliers lorsque leur durée change beaucoup ou que les règles deviennent difficiles à prévoir.",
+          "Le stress, un changement de poids, une activité physique intense, certains traitements ou un trouble hormonal peuvent influencer le cycle.",
+          "Un suivi simple sur quelques mois aide à repérer les variations et à préparer une consultation si nécessaire."
+        ],
+        quote:
+          "Un cycle irrégulier ne signifie pas automatiquement qu’une grossesse sera impossible, mais il peut rendre l’ovulation plus difficile à prévoir."
+      },
+      {
+        title: "À quoi ressemble un cycle irrégulier ?",
+        paragraphs: [
+          "Un cycle commence le premier jour des règles et se termine la veille des règles suivantes. Sa durée n’est pas obligée d’être exactement la même chaque mois.",
+          "Les cycles sont considérés comme irréguliers lorsque l’intervalle entre les règles varie beaucoup, lorsque les règles arrivent très souvent ou très rarement, ou lorsqu’elles disparaissent pendant plusieurs mois.",
+          "Des variations ponctuelles peuvent survenir. Ce qui compte surtout, c’est le changement par rapport à votre rythme habituel et l’existence d’autres symptômes."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Noter le premier jour de chaque période de règles permet de calculer la durée de vos cycles et de voir si les écarts se répètent.",
+          "Observer les signes associés — douleurs, saignements abondants, fatigue, acné, pilosité inhabituelle ou changement de poids — peut aider le professionnel de santé à orienter le bilan.",
+          "Noter les changements récents, comme un stress important, un régime, une pratique sportive intensive, un nouveau traitement ou l’arrêt d’une contraception, apporte aussi des informations utiles."
+        ],
+        quote:
+          "Un carnet ou une application peut servir de mémoire, mais ne permet pas à lui seul d’expliquer la cause d’un cycle irrégulier."
+      },
+      {
+        title: "Quelles peuvent être les causes ?",
+        paragraphs: [
+          "Les cycles peuvent être irréguliers à certaines périodes de la vie, notamment après les premières règles, après une grossesse, pendant l’allaitement ou à l’approche de la ménopause.",
+          "Le stress, une variation importante de poids, une activité physique très intense ou certains médicaments peuvent également modifier les règles.",
+          "Parfois, une cause médicale est en jeu, comme un syndrome des ovaires polykystiques, un trouble de la thyroïde ou un autre déséquilibre hormonal. Seul un professionnel peut poser un diagnostic."
+        ]
+      },
+      {
+        title: "Peut-on repérer l’ovulation avec des cycles irréguliers ?",
+        paragraphs: [
+          "C’est possible, mais les prévisions basées uniquement sur un calendrier sont moins fiables lorsque la durée des cycles varie beaucoup.",
+          "La glaire cervicale et les tests d’ovulation peuvent fournir des repères, mais leurs résultats doivent être interprétés avec prudence. Dans certains cycles, l’ovulation peut être tardive ou ne pas avoir lieu.",
+          "Si vous essayez de concevoir, des rapports réguliers tous les deux ou trois jours peuvent éviter de dépendre d’une date précise."
+        ]
+      },
+      {
+        title: "Quand demander un avis médical ?",
+        paragraphs: [
+          "Prenez rendez-vous si vos règles deviennent soudainement irrégulières alors qu’elles étaient habituellement prévisibles, si elles durent plus de 7 jours, sont très abondantes ou surviennent avec des douleurs importantes.",
+          "Consultez également en cas d’absence de règles pendant 3 mois hors grossesse, allaitement ou ménopause, ou si les irrégularités s’accompagnent de fatigue, variations de poids, acné importante ou pilosité inhabituelle.",
+          "Un avis est aussi recommandé si vos cycles irréguliers rendent les essais de grossesse difficiles ou vous inquiètent."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les cycles irréguliers peuvent avoir de nombreuses causes, parfois temporaires et parfois médicales. Les observer sur quelques mois permet de mieux décrire la situation.",
+          "Il n’est pas nécessaire de trouver seule l’explication. Un médecin, une sage-femme ou un gynécologue peut rechercher la cause et proposer un accompagnement adapté."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Informations et conseils sur les règles",
+        url: "https://www.ameli.fr/assure/sante/themes/puberte/informations-conseils-regles"
+      },
+      {
+        label: "Assurance Maladie — Absence de règles de plus de trois mois",
+        url: "https://www.ameli.fr/assure/sante/themes/retard-absence-de-regles-ou-amenorrhee/amenorrhee-regles-retard-absence-0"
+      },
+      {
+        label: "Assurance Maladie — Syndrome des ovaires polykystiques : symptômes et diagnostic",
+        url: "https://www.ameli.fr/assure/sante/themes/syndrome-ovaires-polykystiques/symptomes-diagnostic-evolution"
+      },
+      {
+        label: "ACOG — Abnormal Uterine Bleeding",
+        url: "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+      },
+      {
+        label: "NHS — Irregular periods",
+        url: "https://www.nhs.uk/symptoms/irregular-periods/"
+      }
+    ]
+  },
+  {
     slug: "comment-reperer-ovulation-periode-fertile",
     title: "Comment repérer son ovulation ?",
     description:
