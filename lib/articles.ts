@@ -247,10 +247,10 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "Un cycle peut varier légèrement d’un mois à l’autre sans que cela soit forcément inquiétant.",
-          "On parle de cycles irréguliers lorsque leur durée change beaucoup ou que les règles deviennent difficiles à prévoir.",
-          "Le stress, un changement de poids, une activité physique intense, certains traitements ou un trouble hormonal peuvent influencer le cycle.",
-          "Un suivi simple sur quelques mois aide à repérer les variations et à préparer une consultation si nécessaire."
+          "Un cycle peut varier sans être forcément anormal.",
+          "28 jours est une moyenne, pas une obligation.",
+          "Le stress, le poids, le sport ou les hormones peuvent influencer le cycle.",
+          "Un suivi sur quelques mois aide à repérer les changements."
         ],
         quote:
           "Un cycle irrégulier ne signifie pas automatiquement qu’une grossesse sera impossible, mais il peut rendre l’ovulation plus difficile à prévoir."
@@ -258,10 +258,13 @@ export const articles: Article[] = [
       {
         title: "À quoi ressemble un cycle irrégulier ?",
         paragraphs: [
-          "Un cycle commence le premier jour des règles et se termine la veille des règles suivantes. Sa durée n’est pas obligée d’être exactement la même chaque mois.",
-          "Les cycles sont considérés comme irréguliers lorsque l’intervalle entre les règles varie beaucoup, lorsque les règles arrivent très souvent ou très rarement, ou lorsqu’elles disparaissent pendant plusieurs mois.",
-          "Des variations ponctuelles peuvent survenir. Ce qui compte surtout, c’est le changement par rapport à votre rythme habituel et l’existence d’autres symptômes."
-        ]
+          "Un cycle commence le premier jour des règles et se termine la veille des règles suivantes.",
+          "Il dure en moyenne autour de 28 jours, mais il n’a pas besoin de faire exactement 28 jours pour être considéré comme habituel. Chez l’adulte, un cycle compris entre 21 et 35 jours peut être normal. Les règles durent généralement entre 2 et 7 jours.",
+          "On parle surtout de cycles irréguliers lorsque leur durée varie beaucoup d’un mois à l’autre, lorsque les règles surviennent à moins de 21 jours d’intervalle, sont espacées de plus de 35 jours, deviennent très difficiles à prévoir ou disparaissent pendant plusieurs mois.",
+          "Une variation ponctuelle n’est pas forcément inquiétante. Ce qui compte surtout, c’est le changement par rapport à votre rythme habituel et la présence éventuelle d’autres symptômes."
+        ],
+        quote:
+          "Le repère de 28 jours est une moyenne, pas une obligation. Un cycle régulier peut être plus court ou plus long."
       },
       {
         title: "Les 3 repères les plus utiles",
