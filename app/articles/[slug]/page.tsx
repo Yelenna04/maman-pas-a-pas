@@ -330,6 +330,15 @@ const articleDisplayConfig: Record<
     cardIcons: [Heart, MessageCircle, ClipboardList],
     cardTitles: ["Envies et calendrier", "Inquiétudes", "Premières étapes"],
   },
+  "emotions-inquietudes-premier-trimestre-est-ce-normal": {
+    essentialIcons: [Heart, Sparkles, Lightbulb, ShieldCheck],
+    cardIcons: [Sparkles, Heart, Moon],
+    cardTitles: [
+      "Des émotions changeantes",
+      "Des sentiments contradictoires",
+      "La fatigue peut amplifier les émotions",
+    ],
+  },
 };
 
 function getItems(section: Article["sections"][number] | undefined): string[] {
