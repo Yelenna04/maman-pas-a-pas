@@ -833,13 +833,6 @@ function WeekByWeekArticle({ article }: { article: Article }) {
               </div>
             </section>
 
-            <p className="timeline-disclaimer">
-              <Sparkles size={18} />
-              <span>
-                Les tailles et les comparaisons avec des fruits sont
-                approximatives et peuvent varier légèrement selon les sources.
-              </span>
-            </p>
           </>
         )}
 
