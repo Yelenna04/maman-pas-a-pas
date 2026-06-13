@@ -14,6 +14,7 @@ import {
   Leaf,
   Lightbulb,
   MessageCircle,
+  Moon,
   ShieldCheck,
   Sparkles,
   TestTubeDiagonal,
