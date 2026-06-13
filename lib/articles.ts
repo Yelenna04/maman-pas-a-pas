@@ -5558,6 +5558,151 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
+  },
+
+
+  {
+    slug: "quand-annoncer-grossesse-proches-employeur",
+    title: "Quand annoncer sa grossesse à ses proches et à son employeur ?",
+    description:
+      "Il n’existe pas de date idéale pour annoncer une grossesse. Découvrez comment choisir le bon moment avec vos proches et quelles règles s’appliquent pour l’employeur.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe aucune règle imposant d’attendre la fin du premier trimestre pour annoncer une grossesse à ses proches.",
+          "Vous pouvez prévenir quelques personnes de confiance très tôt et attendre davantage pour une annonce plus large.",
+          "Une salariée n’est pas obligée d’informer immédiatement son employeur de sa grossesse.",
+          "Informer l’employeur permet toutefois de bénéficier concrètement des droits liés à la grossesse, notamment pour les examens médicaux et certains aménagements.",
+          "La déclaration à l’Assurance Maladie et à la Caf est une démarche distincte : elle doit être réalisée avant la fin du troisième mois de grossesse."
+        ],
+        quote:
+          "Le bon moment est celui qui correspond à votre besoin de soutien, à votre situation personnelle et à vos conditions de travail."
+      },
+      {
+        title: "Comment choisir le bon moment pour l’annoncer ?",
+        paragraphs: [
+          "Demandez-vous quelles personnes vous aimeriez avoir près de vous, quelle que soit la suite de la grossesse.",
+          "Tenez compte de votre besoin de préserver votre intimité ou, au contraire, d’être soutenue dès les premières semaines.",
+          "Au travail, réfléchissez aux contraintes de votre poste et aux droits dont vous pourriez avoir besoin rapidement."
+        ]
+      },
+      {
+        title: "Faut-il attendre la fin du premier trimestre pour l’annoncer à ses proches ?",
+        paragraphs: [
+          "Non. Attendre la première échographie ou la fin du premier trimestre est une habitude fréquente, mais ce n’est ni une obligation ni une recommandation médicale générale.",
+          "Certaines personnes préfèrent patienter avant une annonce large parce que le risque de fausse couche est plus important au début de la grossesse. D’autres choisissent d’en parler tôt à quelques proches afin de ne pas traverser seules cette période.",
+          "Une solution intermédiaire consiste à distinguer le cercle de confiance, informé rapidement, du reste de l’entourage, prévenu plus tard."
+        ],
+        quote:
+          "Vous pouvez annoncer la grossesse à des moments différents selon les personnes. Il n’est pas nécessaire d’organiser une seule annonce pour tout le monde."
+      },
+      {
+        title: "À qui peut-on en parler en premier ?",
+        paragraphs: [
+          "Vous pouvez commencer par les personnes auprès desquelles vous vous sentez en sécurité : partenaire, parents, frère ou sœur, amie proche ou autre personne de confiance.",
+          "Posez-vous une question simple : si vous aviez besoin de soutien, aimeriez-vous que cette personne soit au courant ?",
+          "Vous avez aussi le droit de ne prévenir personne immédiatement. Garder la nouvelle pour vous pendant quelque temps peut vous permettre de réaliser ce qui se passe et de choisir vos mots sans pression."
+        ]
+      },
+      {
+        title: "Comment annoncer la grossesse si l’on craint des réactions difficiles ?",
+        paragraphs: [
+          "Une grossesse peut susciter des réactions inattendues. Vous pouvez choisir un moment calme, annoncer la nouvelle de manière simple et préciser ce dont vous avez besoin.",
+          "Si vous ne souhaitez pas recevoir de conseils ou de questions, vous pouvez le dire clairement : « Nous sommes heureux de vous l’annoncer, mais nous préférons garder certains détails pour nous pour le moment. »",
+          "En cas de relation conflictuelle ou de crainte pour votre sécurité, privilégiez un lieu sûr, la présence d’une personne de confiance ou une annonce à distance."
+        ]
+      },
+      {
+        title: "Quand faut-il prévenir son employeur ?",
+        paragraphs: [
+          "Dans le secteur privé, une salariée n’a pas l’obligation d’informer son employeur dès le début de sa grossesse. Elle peut le faire au moment qu’elle choisit.",
+          "Elle doit néanmoins l’informer avant son départ en congé maternité. Pour bénéficier des droits liés à la grossesse dans l’entreprise, il est nécessaire que l’employeur en ait connaissance.",
+          "Dans la fonction publique, une agente titulaire ou contractuelle n’est pas non plus obligée d’annoncer immédiatement sa grossesse à son administration, mais celle-ci doit être informée avant le congé maternité."
+        ],
+        quote:
+          "Il n’existe donc pas de date légale unique pour prévenir son employeur pendant le premier trimestre."
+      },
+      {
+        title: "Pourquoi peut-il être utile de l’annoncer assez tôt au travail ?",
+        paragraphs: [
+          "Informer l’employeur permet de justifier les absences autorisées pour les examens médicaux obligatoires liés à la grossesse.",
+          "Cela peut également être nécessaire pour demander un aménagement du poste, un changement temporaire d’affectation, une adaptation en cas de travail de nuit ou l’application de dispositions prévues par la convention collective.",
+          "Si votre poste comporte des charges lourdes, des produits dangereux, des horaires difficiles ou un autre risque particulier, parlez-en rapidement au médecin ou à la sage-femme et au service de prévention et de santé au travail."
+        ]
+      },
+      {
+        title: "Comment informer son employeur ?",
+        paragraphs: [
+          "L’annonce peut être faite oralement ou par écrit. Dans la pratique, un écrit permet de conserver une preuve de la date à laquelle l’employeur a été informé.",
+          "Vous pouvez demander un rendez-vous avec votre responsable ou les ressources humaines, puis confirmer l’échange par un courrier ou un courriel accompagné d’un certificat médical indiquant la grossesse et la date présumée de l’accouchement.",
+          "Vous n’avez pas à partager les détails médicaux de votre grossesse. Seules les informations nécessaires à l’organisation du travail et à l’exercice de vos droits doivent être communiquées."
+        ]
+      },
+      {
+        title: "Peut-on attendre après la période d’essai ou un recrutement ?",
+        paragraphs: [
+          "Une candidate à un emploi n’est pas obligée de révéler sa grossesse pendant un entretien de recrutement. L’employeur ne peut pas écarter une candidature en raison d’une grossesse.",
+          "Une salariée peut donc choisir le moment de l’annonce en fonction de sa situation. Toutefois, si elle a besoin d’un aménagement, d’absences autorisées ou d’une protection liée à son état, elle doit pouvoir justifier sa grossesse auprès de l’employeur.",
+          "En cas de doute sur une discrimination, il est possible de demander conseil à l’inspection du travail, à un représentant du personnel, à un syndicat ou au Défenseur des droits."
+        ]
+      },
+      {
+        title: "La déclaration de grossesse à la Caf et à l’Assurance Maladie est-elle la même chose ?",
+        paragraphs: [
+          "Non. L’annonce aux proches et à l’employeur est distincte de la déclaration administrative de grossesse.",
+          "Après la première consultation prénatale, le médecin ou la sage-femme déclare généralement la grossesse en ligne à la caisse d’Assurance Maladie et à la Caf.",
+          "Cette déclaration doit être réalisée avant la fin du troisième mois de grossesse afin de permettre la mise en place du suivi et des droits associés."
+        ]
+      },
+      {
+        title: "Exemples de formulations simples",
+        bullets: [
+          "À un proche : « J’ai une nouvelle importante à te partager : je suis enceinte. C’est encore le début et j’aimerais que cela reste entre nous pour le moment. »",
+          "À son responsable : « Je souhaite vous informer de ma grossesse. Je vous transmettrai le certificat médical et les dates prévisionnelles dès que possible. »",
+          "Aux ressources humaines : « Je vous informe de mon état de grossesse afin de connaître les démarches internes et les éventuels aménagements prévus. »",
+          "Pour poser une limite : « Nous sommes heureux de vous l’annoncer, mais nous ne souhaitons pas encore répondre à beaucoup de questions. »"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Il n’existe pas de moment universellement idéal pour annoncer une grossesse. Vous pouvez adapter l’annonce à chaque personne et à votre besoin de soutien.",
+          "Au travail, l’annonce n’est pas obligatoire dès le premier trimestre, mais elle devient utile dès que vous souhaitez bénéficier des droits et aménagements liés à la grossesse.",
+          "La déclaration à l’Assurance Maladie et à la Caf doit, quant à elle, être réalisée avant la fin du troisième mois de grossesse."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public.fr — Une salariée enceinte est-elle obligée de révéler sa grossesse à son employeur ?",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F1144"
+      },
+      {
+        label: "Service-Public.fr — Déclaration de grossesse",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F968"
+      },
+      {
+        label: "Assurance Maladie — Grossesse : démarches et accompagnement",
+        url: "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+      },
+      {
+        label: "Service-Public.fr — Une salariée enceinte peut-elle bénéficier d’un aménagement de son poste de travail ?",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F2775"
+      },
+      {
+        label: "Service-Public.fr — Une fonctionnaire ou une contractuelle enceinte doit-elle informer son administration ?",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F39477"
+      }
+    ]
   }
 ];
 
