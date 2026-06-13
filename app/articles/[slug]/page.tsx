@@ -14,7 +14,6 @@ import {
   Leaf,
   Lightbulb,
   MessageCircle,
-  Moon,
   ShieldCheck,
   Sparkles,
   TestTubeDiagonal,
@@ -338,6 +337,15 @@ const articleDisplayConfig: Record<
       "Des émotions changeantes",
       "Des sentiments contradictoires",
       "La fatigue peut amplifier les émotions",
+    ],
+  },
+  "quand-annoncer-grossesse-proches-employeur": {
+    essentialIcons: [Heart, Users, CalendarDays, ShieldCheck],
+    cardIcons: [Users, Heart, ClipboardList],
+    cardTitles: [
+      "Identifier son cercle de confiance",
+      "Respecter son propre rythme",
+      "Anticiper les besoins au travail",
     ],
   },
 };
