@@ -4499,6 +4499,7 @@ export const articles: Article[] = [
           "En France, la grossesse est généralement datée en semaines d’aménorrhée, comptées depuis le premier jour des dernières règles.",
           "La fécondation survient habituellement autour de 2 SA, soit environ deux semaines avant le début réel du développement embryonnaire.",
           "Le cerveau, la moelle épinière, le cœur, les membres et les principaux organes commencent à se former pendant le premier trimestre.",
+          "Les tailles et les comparaisons sont approximatives : quelques jours de différence sont fréquents et ne signifient pas que la grossesse évolue mal."
         ],
         quote:
           "Au premier trimestre, le futur bébé passe d’un minuscule groupe de cellules à un fœtus dont la tête, le tronc, les bras et les jambes sont déjà reconnaissables."
