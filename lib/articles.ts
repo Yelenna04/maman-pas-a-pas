@@ -4478,6 +4478,158 @@ export const articles: Article[] = [
       }
     ]
   },
+
+  {
+    slug: "comment-evolue-bebe-premier-trimestre",
+    title: "Comment évolue le bébé pendant le premier trimestre ?",
+    description:
+      "De la fécondation à la fin du troisième mois, découvrez les grandes étapes du développement de l’embryon puis du fœtus pendant le premier trimestre.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le premier trimestre correspond à une période de développement particulièrement rapide.",
+          "Après la fécondation, l’œuf s’implante dans l’utérus et devient progressivement un embryon.",
+          "Les principales structures du cerveau, du cœur, des membres et des organes se mettent en place pendant les premières semaines.",
+          "À partir de la fin de la 8e semaine de grossesse environ, on parle de fœtus plutôt que d’embryon."
+        ],
+        quote:
+          "En seulement trois mois, une cellule fécondée devient un petit fœtus dont la tête, le tronc, les bras et les jambes sont déjà reconnaissables."
+      },
+      {
+        title: "Comment compte-t-on les semaines de grossesse ?",
+        paragraphs: [
+          "En France, les professionnels de santé utilisent généralement les semaines d’aménorrhée, abrégées « SA ». Elles sont comptées à partir du premier jour des dernières règles.",
+          "Les semaines de grossesse, abrégées « SG », sont comptées à partir de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines entre les deux modes de calcul.",
+          "Par exemple, 8 semaines de grossesse correspondent approximativement à 10 semaines d’aménorrhée. La première échographie permet de dater plus précisément la grossesse."
+        ]
+      },
+      {
+        title: "Les 3 grandes étapes du premier trimestre",
+        paragraphs: [
+          "L’implantation : après la fécondation, l’œuf se divise, se déplace vers l’utérus et s’implante dans sa paroi. Le sac gestationnel et les structures qui participeront au placenta commencent à se former.",
+          "La formation des organes : le cerveau, la moelle épinière, le cœur, les membres et les principaux organes commencent à se mettre en place pendant la période embryonnaire.",
+          "Le passage au stade fœtal : à la fin de la huitième semaine de grossesse environ, l’essentiel des grandes structures est présent. Elles vont ensuite grandir, mûrir et se préciser."
+        ],
+        quote:
+          "Les dates et les mesures restent approximatives : chaque grossesse évolue à son propre rythme, dans une certaine marge normale."
+      },
+      {
+        title: "Des premières cellules à l’implantation",
+        paragraphs: [
+          "La fécondation correspond à la rencontre entre un ovule et un spermatozoïde. La cellule obtenue contient déjà les informations génétiques nécessaires au développement du futur bébé.",
+          "Pendant les jours suivants, cette cellule se divise à plusieurs reprises tout en progressant vers l’utérus. Elle forme progressivement une petite structure appelée blastocyste.",
+          "Le blastocyste s’implante ensuite dans la muqueuse de l’utérus. C’est à cette période que commence la production de l’hormone hCG détectée par les tests de grossesse."
+        ],
+        bullets: [
+          "La fécondation a généralement lieu dans une trompe.",
+          "Les divisions cellulaires commencent très rapidement.",
+          "L’implantation se produit quelques jours après la fécondation.",
+          "Le futur placenta commence progressivement à se mettre en place.",
+          "L’embryon reste encore trop petit pour être visible à l’œil nu."
+        ]
+      },
+      {
+        title: "Que se passe-t-il pendant le premier mois ?",
+        paragraphs: [
+          "Au cours du premier mois, les cellules se spécialisent et commencent à former les premières structures de l’embryon.",
+          "Le tube neural, à l’origine du cerveau et de la moelle épinière, commence à se former. Le tissu cardiaque se développe également et une activité cardiaque peut apparaître très tôt.",
+          "À la fin de ce premier mois, l’embryon ne mesure encore que quelques millimètres. Les premiers bourgeons des bras et des jambes commencent à apparaître."
+        ]
+      },
+      {
+        title: "Que se passe-t-il pendant le deuxième mois ?",
+        paragraphs: [
+          "Le deuxième mois est une période majeure de formation des organes. Le cerveau se développe rapidement et les contours du visage commencent à se dessiner.",
+          "Les bras et les jambes s’allongent. Les mains et les pieds apparaissent, d’abord avec des doigts et des orteils encore reliés.",
+          "Le foie, les reins, le système digestif, les poumons et l’oreille interne poursuivent leur développement. À la fin de cette période, l’embryon mesure environ quelques centimètres."
+        ]
+      },
+      {
+        title: "Que se passe-t-il pendant le troisième mois ?",
+        paragraphs: [
+          "Au troisième mois, le futur bébé est désormais appelé fœtus. Les grandes structures de son corps sont présentes, mais elles sont encore très immatures.",
+          "La tête reste proportionnellement très grande. Le visage devient plus reconnaissable, les doigts et les orteils se séparent et les articulations permettent de petits mouvements.",
+          "Les organes continuent à se développer et à commencer leur fonctionnement. Les organes génitaux externes se différencient progressivement, mais leur observation à l’échographie n’est pas toujours possible à ce stade."
+        ]
+      },
+      {
+        title: "Le bébé bouge-t-il déjà ?",
+        paragraphs: [
+          "De petits mouvements commencent très tôt, à mesure que les muscles et le système nerveux se développent.",
+          "Ces mouvements peuvent parfois être observés pendant une échographie, mais ils ne sont pas encore ressentis par la femme enceinte.",
+          "Les premiers mouvements perçus apparaissent généralement beaucoup plus tard, souvent au cours du deuxième trimestre."
+        ]
+      },
+      {
+        title: "Quel est le rôle du placenta et du cordon ombilical ?",
+        paragraphs: [
+          "Le placenta est un organe temporaire qui se développe pendant la grossesse. Il permet les échanges d’oxygène, de nutriments et de déchets entre la mère et le futur bébé.",
+          "Le sang maternel et celui du bébé ne se mélangent pas directement. Les échanges ont lieu à travers le placenta.",
+          "Le cordon ombilical relie le futur bébé au placenta. Il contient des vaisseaux sanguins qui transportent l’oxygène et les nutriments et évacuent certains déchets."
+        ]
+      },
+      {
+        title: "Que vérifie l’échographie du premier trimestre ?",
+        paragraphs: [
+          "En France, l’échographie du premier trimestre est habituellement réalisée entre 11 et 13 semaines d’aménorrhée et 6 jours.",
+          "Elle vérifie notamment que la grossesse évolue dans l’utérus, précise si elle est unique ou multiple et confirme la vitalité du ou des fœtus.",
+          "La mesure de la longueur cranio-caudale aide à dater la grossesse. Le professionnel observe également la morphologie précoce et mesure la clarté nucale dans le cadre du dépistage de certaines anomalies chromosomiques."
+        ],
+        quote:
+          "Une différence de quelques jours entre la date calculée avec les dernières règles et celle estimée à l’échographie est fréquente."
+      },
+      {
+        title: "Comment favoriser son bon développement ?",
+        paragraphs: [
+          "Aucun comportement ne garantit à lui seul le bon déroulement d’une grossesse, mais certaines mesures réduisent les risques évitables.",
+          "Ne consommez pas d’alcool, ne fumez pas et ne prenez aucun médicament ou complément sans vérifier sa compatibilité avec la grossesse.",
+          "Suivez les recommandations alimentaires, prenez la vitamine B9 lorsqu’elle vous a été prescrite et assistez aux consultations de suivi."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le premier trimestre est marqué par une transformation très rapide : implantation, formation du cerveau et du cœur, apparition des membres et mise en place des principaux organes.",
+          "À la fin du trimestre, le futur bébé est appelé fœtus. Il bouge déjà, même si ses mouvements ne sont pas encore ressentis, et son développement sera évalué lors de l’échographie du premier trimestre."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Grossesse : premiers signes et déroulement",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/premiers-symptomes-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Le programme de suivi et la première consultation",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/grossesse-soins-dentaires-dentiste-consultation"
+      },
+      {
+        label: "1000 premiers jours — Les nutriments essentiels au futur bébé",
+        url: "https://www.1000-premiers-jours.fr/fr/les-nutriments-essentiels-au-futur-bebe"
+      },
+      {
+        label: "NHS — Week-by-week guide to pregnancy",
+        url: "https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-guide-to-pregnancy/"
+      },
+      {
+        label: "ACOG — How Your Fetus Grows During Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/how-your-fetus-grows-during-pregnancy"
+      },
+      {
+        label: "ACOG — Changes During Pregnancy",
+        url: "https://www.acog.org/womens-health/infographics/changes-during-pregnancy"
+      }
+    ]
+  },
   {
     slug: "test-positif-premieres-demarches",
     title: "Test positif : quelles sont les premières démarches à faire ?",
