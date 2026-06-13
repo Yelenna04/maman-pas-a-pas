@@ -68,6 +68,11 @@ const articleDisplayConfig: Record<
     cardIcons: [ClipboardList, Droplets, ShieldCheck],
     cardTitles: ["Fractionner les repas", "Boire par petites gorgées", "Limiter les déclencheurs"]
   },
+  "fatigue-premier-trimestre-pourquoi-si-importante": {
+    essentialIcons: [Heart, Sparkles, CalendarDays, AlertTriangle],
+    cardIcons: [Heart, ClipboardList, Sparkles],
+    cardTitles: ["Écouter son corps", "Alléger son quotidien", "Garder un rythme doux"]
+  },
   "test-positif-premieres-demarches": {
     essentialIcons: [Heart, CalendarDays, ClipboardList, AlertTriangle],
     cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
