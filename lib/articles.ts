@@ -4499,7 +4499,6 @@ export const articles: Article[] = [
           "En France, la grossesse est généralement datée en semaines d’aménorrhée, comptées depuis le premier jour des dernières règles.",
           "La fécondation survient habituellement autour de 2 SA, soit environ deux semaines avant le début réel du développement embryonnaire.",
           "Le cerveau, la moelle épinière, le cœur, les membres et les principaux organes commencent à se former pendant le premier trimestre.",
-          "Les tailles et les comparaisons sont approximatives : quelques jours de différence sont fréquents et ne signifient pas que la grossesse évolue mal."
         ],
         quote:
           "Au premier trimestre, le futur bébé passe d’un minuscule groupe de cellules à un fœtus dont la tête, le tronc, les bras et les jambes sont déjà reconnaissables."
@@ -4509,8 +4508,7 @@ export const articles: Article[] = [
         paragraphs: [
           "Les semaines d’aménorrhée, ou **SA**, sont comptées à partir du premier jour des dernières règles. C’est le repère le plus utilisé par les professionnels de santé en France.",
           "Les semaines de grossesse, ou **SG**, sont comptées à partir de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines : 6 SA correspondent approximativement à 4 SG.",
-          "Dans cet article, les étapes sont présentées en **semaines d’aménorrhée**. La datation donnée par l’échographie du premier trimestre reste plus précise que le calcul effectué à partir des dernières règles.",
-          "Les tailles et les comparaisons avec des fruits sont approximatives et peuvent varier légèrement selon les sources."
+          "Dans cet article, les étapes sont présentées en **semaines d’aménorrhée**. La datation donnée par l’échographie du premier trimestre reste plus précise que le calcul effectué à partir des dernières règles."
         ]
       },
       {
