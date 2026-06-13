@@ -4509,7 +4509,8 @@ export const articles: Article[] = [
         paragraphs: [
           "Les semaines d’aménorrhée, ou **SA**, sont comptées à partir du premier jour des dernières règles. C’est le repère le plus utilisé par les professionnels de santé en France.",
           "Les semaines de grossesse, ou **SG**, sont comptées à partir de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines : 6 SA correspondent approximativement à 4 SG.",
-          "Dans cet article, les étapes sont présentées en **semaines d’aménorrhée**. La datation donnée par l’échographie du premier trimestre reste plus précise que le calcul effectué à partir des dernières règles."
+          "Dans cet article, les étapes sont présentées en **semaines d’aménorrhée**. La datation donnée par l’échographie du premier trimestre reste plus précise que le calcul effectué à partir des dernières règles.",
+          "Les tailles et les comparaisons avec des fruits sont approximatives et peuvent varier légèrement selon les sources."
         ]
       },
       {
@@ -4641,14 +4642,6 @@ export const articles: Article[] = [
         ],
         quote:
           "L’image vue à l’échographie dépend du terme, de la position du fœtus et des conditions de l’examen."
-      },
-      {
-        title: "Pourquoi les tailles peuvent-elles différer selon les sources ?",
-        paragraphs: [
-          "Les comparaisons avec des fruits sont pédagogiques, mais elles ne constituent pas des mesures médicales.",
-          "Certaines sources utilisent les semaines de grossesse, d’autres les semaines d’aménorrhée. Elles peuvent aussi mesurer la longueur totale ou uniquement la longueur de la tête aux fesses.",
-          "Une différence de quelques millimètres ou de quelques jours est courante. Seul le professionnel qui réalise l’échographie peut interpréter les mesures dans leur contexte."
-        ]
       },
       {
         title: "À retenir",
