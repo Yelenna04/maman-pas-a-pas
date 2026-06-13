@@ -78,6 +78,11 @@ const articleDisplayConfig: Record<
     cardIcons: [Droplets, Thermometer, AlertTriangle],
     cardTitles: ["Observer le saignement", "Évaluer la douleur", "Repérer les signes associés"]
   },
+  "comment-evolue-bebe-premier-trimestre": {
+    essentialIcons: [CalendarDays, Sparkles, Heart, ClipboardList],
+    cardIcons: [CalendarDays, Sparkles, Heart],
+    cardTitles: ["L’implantation", "La formation des organes", "Le stade fœtal"]
+  },
   "test-positif-premieres-demarches": {
     essentialIcons: [Heart, CalendarDays, ClipboardList, AlertTriangle],
     cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
