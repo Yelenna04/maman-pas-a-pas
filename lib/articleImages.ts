@@ -2,6 +2,10 @@ export function getArticleImage(
   categorySlug: string,
   slug?: string
 ) {
+  if (slug === "emotions-inquietudes-premier-trimestre-est-ce-normal") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "que-faire-avant-essayer-avoir-bebe") {
     return "/images/article-a-la-une.png";
   }

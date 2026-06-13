@@ -5397,6 +5397,174 @@ export const articles: Article[] = [
       { label: "HAS — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées", url: "https://www.has-sante.fr/" },
       { label: "CNGOF — Recommandations pour le suivi de grossesse", url: "https://www.cngof.fr/" }
     ]
+  },
+
+  {
+    slug: "emotions-inquietudes-premier-trimestre-est-ce-normal",
+    title: "Émotions et inquiétudes du premier trimestre : est-ce normal ?",
+    description:
+      "Joie, peur, doutes, irritabilité ou impression d’irréalité : comprendre les émotions fréquentes du premier trimestre et savoir quand demander de l’aide.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Ressentir de la joie, de la peur, de l’irritabilité ou des doutes au début de la grossesse est fréquent.",
+          "Une grossesse désirée peut malgré tout provoquer de l’ambivalence et des inquiétudes.",
+          "La fatigue, les symptômes physiques, les changements hormonaux et le contexte personnel peuvent influencer l’humeur.",
+          "Parlez-en à une sage-femme ou à un médecin si l’anxiété devient envahissante, durable ou perturbe votre quotidien."
+        ],
+        quote:
+          "Il n’existe pas une seule bonne manière de vivre le début d’une grossesse. Des émotions contradictoires peuvent coexister."
+      },
+      {
+        title: "Pourquoi le premier trimestre peut-il être émotionnellement intense ?",
+        paragraphs: [
+          "Le début de la grossesse entraîne de nombreux changements, parfois avant même que le ventre ne soit visible.",
+          "La fatigue, les nausées, les douleurs, les troubles du sommeil ou l’incertitude liée aux premiers examens peuvent rendre cette période plus difficile à vivre.",
+          "Les variations hormonales peuvent influencer l’humeur, mais elles n’expliquent pas tout. L’histoire personnelle, les conditions de vie, le parcours pour obtenir la grossesse et le soutien de l’entourage jouent également un rôle."
+        ]
+      },
+      {
+        title: "Quelles émotions sont fréquentes au début de la grossesse ?",
+        paragraphs: [
+          "Les émotions peuvent varier d’un jour à l’autre, parfois même au cours d’une seule journée."
+        ],
+        bullets: [
+          "Une grande joie ou de l’excitation.",
+          "Une impression d’irréalité.",
+          "La peur de perdre la grossesse.",
+          "Des doutes sur sa capacité à devenir mère.",
+          "De l’irritabilité ou une sensibilité plus forte.",
+          "Une baisse de moral liée à la fatigue ou aux symptômes.",
+          "De la culpabilité de ne pas se sentir heureuse en permanence."
+        ],
+        quote:
+          "L’ambivalence signifie que des émotions opposées peuvent être présentes en même temps. Elle est fréquente pendant la grossesse."
+      },
+      {
+        title: "Peut-on être inquiète même lorsque la grossesse était désirée ?",
+        paragraphs: [
+          "Oui. Désirer un enfant ne protège pas des peurs ni des questionnements.",
+          "La grossesse rend concret un changement de vie important. Des inquiétudes peuvent apparaître concernant la santé du bébé, le couple, le travail, les finances, l’accouchement ou l’organisation familiale.",
+          "Certaines femmes ne ressentent pas immédiatement de lien particulier avec le futur bébé. Cela ne permet pas de prévoir la relation qui se construira par la suite."
+        ]
+      },
+      {
+        title: "La peur de la fausse couche est-elle normale ?",
+        paragraphs: [
+          "La peur de perdre la grossesse est fréquente au cours du premier trimestre, notamment avant la première échographie.",
+          "Elle peut être plus intense après une précédente fausse couche, un parcours de procréation médicalement assistée ou lorsque des symptômes apparaissent ou diminuent.",
+          "Analyser chaque sensation ou rechercher sans cesse des témoignages peut rassurer brièvement, mais aussi entretenir l’anxiété. En cas de symptôme inhabituel ou de doute médical, contactez le professionnel qui suit la grossesse."
+        ]
+      },
+      {
+        title: "Est-il normal de ne pas être heureuse tout le temps ?",
+        paragraphs: [
+          "Oui. La grossesse est souvent présentée comme une période uniquement heureuse, ce qui peut créer une pression supplémentaire.",
+          "Il est possible d’être heureuse d’attendre un enfant tout en trouvant le premier trimestre difficile. La fatigue, les nausées, les contraintes du quotidien ou les inquiétudes peuvent prendre beaucoup de place.",
+          "Ressentir de la tristesse, de l’agacement ou de l’ambivalence ne signifie pas que vous rejetez votre bébé."
+        ],
+        quote:
+          "Vous n’avez pas besoin de vous sentir heureuse à chaque instant pour être une future mère attentive."
+      },
+      {
+        title: "Comment apaiser les inquiétudes du quotidien ?",
+        paragraphs: [
+          "L’objectif n’est pas de supprimer toutes les inquiétudes, mais d’éviter qu’elles occupent toute la place."
+        ],
+        bullets: [
+          "Parler de ses peurs à une personne de confiance.",
+          "Noter ses questions avant les consultations.",
+          "Demander des informations au médecin ou à la sage-femme.",
+          "Limiter les témoignages anxiogènes et les recherches répétées.",
+          "Se reposer autant que possible.",
+          "Pratiquer une activité douce compatible avec la grossesse.",
+          "Essayer la respiration, la relaxation ou la méditation.",
+          "Accepter de demander de l’aide dans le quotidien."
+        ]
+      },
+      {
+        title: "Faut-il parler de ses émotions pendant le suivi de grossesse ?",
+        paragraphs: [
+          "Oui. La santé psychique fait pleinement partie du suivi de grossesse.",
+          "Le médecin ou la sage-femme peut écouter vos difficultés, repérer des signes d’anxiété ou de dépression et vous orienter vers un accompagnement adapté.",
+          "L’entretien prénatal précoce est également un moment prévu pour parler de vos besoins, de vos inquiétudes et des conditions dans lesquelles vous vivez la grossesse.",
+          "Il n’est pas nécessaire d’attendre d’aller très mal pour demander de l’aide."
+        ]
+      },
+      {
+        title: "Quand les inquiétudes doivent-elles conduire à consulter ?",
+        paragraphs: [
+          "Parlez-en rapidement à un professionnel si votre état émotionnel devient difficile à supporter ou perturbe votre quotidien."
+        ],
+        bullets: [
+          "L’angoisse est présente presque toute la journée.",
+          "Les pensées inquiétantes sont difficiles à contrôler.",
+          "Le sommeil est fortement perturbé par les ruminations.",
+          "Les crises d’angoisse se répètent.",
+          "Les activités habituelles deviennent difficiles.",
+          "La tristesse ou la perte d’intérêt persiste.",
+          "Vous vous isolez de plus en plus.",
+          "Des pensées très sombres ou des idées de vous faire du mal apparaissent."
+        ],
+        quote:
+          "En cas d’idées suicidaires, de peur de passer à l’acte ou de danger immédiat, contactez sans attendre les urgences ou un professionnel de santé."
+      },
+      {
+        title: "Quel accompagnement peut être proposé ?",
+        paragraphs: [
+          "Selon vos besoins, le professionnel peut proposer des consultations plus rapprochées, un suivi avec une sage-femme, un psychologue ou une équipe spécialisée en psychiatrie périnatale.",
+          "Des techniques de gestion du stress, de relaxation ou un traitement médical peuvent également être envisagés lorsque les symptômes sont importants.",
+          "Si vous prenez déjà un traitement contre l’anxiété ou la dépression, ne l’arrêtez pas et ne le modifiez pas seule. Parlez-en rapidement au professionnel qui vous suit."
+        ]
+      },
+      {
+        title: "Comment l’entourage peut-il aider ?",
+        paragraphs: [
+          "L’entourage n’a pas besoin de trouver une solution à chaque inquiétude. Écouter sans minimiser est souvent déjà très utile.",
+          "Des phrases comme « tu devrais être heureuse » ou « ne stresse pas » peuvent augmenter la culpabilité.",
+          "Il est généralement plus aidant de demander ce dont la personne a besoin, de proposer une aide concrète et de l’encourager à parler à un professionnel si elle se sent dépassée."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les émotions changeantes et les inquiétudes sont fréquentes pendant le premier trimestre.",
+          "Elles peuvent être liées aux transformations physiques, à la fatigue, à l’incertitude et aux nombreux changements associés à l’arrivée d’un enfant.",
+          "Lorsqu’elles deviennent envahissantes, durables ou provoquent une véritable souffrance, en parler à une sage-femme ou à un médecin est une démarche normale et utile."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Grossesse : bouleversement émotionnel, anxiété et dépression",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/troubles-psychiques-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée pendant et après sa grossesse ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Les émotions pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/les-emotions-pendant-la-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Comment gérer le stress pendant la grossesse ?",
+        url: "https://www.1000-premiers-jours.fr/fr/comment-gerer-le-stress-pendant-la-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
+      }
+    ]
   }
 ];
 
