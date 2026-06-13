@@ -6,7 +6,7 @@ import { Menu, X } from "lucide-react";
 import { useState } from "react";
 
 const links = [
-  ["Avant grossesse", "/avant-grossesse"],
+  ["Avant la grossesse", "/avant-grossesse"],
   ["Grossesse", "/pendant-grossesse"],
   ["Accouchement", "/accouchement"],
   ["Post-partum", "/post-partum"],
