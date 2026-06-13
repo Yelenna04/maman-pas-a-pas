@@ -63,6 +63,11 @@ const articleDisplayConfig: Record<
     adviceTitle?: string;
   }
 > = {
+  "nausees-vomissements-comment-les-soulager": {
+    essentialIcons: [Heart, CalendarDays, Droplets, AlertTriangle],
+    cardIcons: [ClipboardList, Droplets, ShieldCheck],
+    cardTitles: ["Fractionner les repas", "Boire par petites gorgées", "Limiter les déclencheurs"]
+  },
   "test-positif-premieres-demarches": {
     essentialIcons: [Heart, CalendarDays, ClipboardList, AlertTriangle],
     cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
