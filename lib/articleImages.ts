@@ -22,6 +22,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "douleurs-saignements-debut-grossesse-quand-consulter") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "test-positif-premieres-demarches") {
     return "/images/article-a-la-une.png";
   }
