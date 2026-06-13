@@ -18,6 +18,10 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
+  if (slug === "fatigue-premier-trimestre-pourquoi-si-importante") {
+    return "/images/article-a-la-une.png";
+  }
+
   if (slug === "test-positif-premieres-demarches") {
     return "/images/article-a-la-une.png";
   }
