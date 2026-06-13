@@ -5002,6 +5002,218 @@ export const articles: Article[] = [
       { label: "Haute Autorité de Santé", url: "https://www.has-sante.fr/" }
     ]
   }
+
+  {
+    slug: "evolution-bebe-semaine-par-semaine-deuxieme-trimestre",
+    title: "L’évolution du bébé semaine par semaine pendant le deuxième trimestre",
+    description:
+      "Découvrez comment le bébé évolue semaine après semaine pendant le deuxième trimestre, avec des comparaisons visuelles simples et des repères clairs pour suivre sa croissance.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le deuxième trimestre s’étend globalement de **14 SA à 27 SA**.",
+          "Pendant cette période, le bébé grandit beaucoup, bouge davantage et ses organes poursuivent leur maturation.",
+          "L’échographie du deuxième trimestre, dite **échographie morphologique**, est un repère important du suivi.",
+          "Les tailles et les comparaisons avec des fruits ou des légumes restent approximatives et peuvent varier selon les sources."
+        ],
+        quote:
+          "Pendant le deuxième trimestre, le bébé change vite : ses mouvements deviennent plus coordonnés, ses traits se précisent et il prend progressivement plus de place dans l’utérus."
+      },
+      {
+        title: "SA ou SG : comment comprendre les semaines du deuxième trimestre ?",
+        paragraphs: [
+          "En France, la grossesse est le plus souvent comptée en **semaines d’aménorrhée (SA)**, c’est-à-dire à partir du premier jour des dernières règles.",
+          "Les **semaines de grossesse (SG)** commencent environ deux semaines plus tard, au moment de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines entre SA et SG.",
+          "Dans cet article, les étapes sont présentées en **SA**, car c’est le repère utilisé dans la majorité des consultations et du suivi médical.",
+          "Les mesures et les comparaisons visuelles servent surtout de repères simples. Elles peuvent varier selon qu’on mesure le bébé de la tête aux fesses ou de la tête aux pieds."
+        ]
+      },
+      {
+        title: "Les 3 grandes évolutions du deuxième trimestre",
+        paragraphs: [
+          "De 14 à 18 SA — Le corps grandit vite : le cou s’allonge, les membres se développent, le squelette se consolide et les mouvements deviennent plus coordonnés.",
+          "De 19 à 23 SA — Les sens et les organes poursuivent leur maturation : le bébé bouge davantage, avale du liquide amniotique et l’ouïe progresse.",
+          "De 24 à 27 SA — Le bébé continue de prendre du poids. Les poumons, le cerveau et les rythmes veille-sommeil évoluent encore avant l’entrée dans le troisième trimestre."
+        ],
+        quote:
+          "Les fruits et les légumes donnent simplement une image de la taille. Ils ne représentent pas la forme réelle du bébé."
+      },
+      {
+        title: "14 SA : le visage s’affine",
+        paragraphs: [
+          "Le visage devient plus reconnaissable. Les yeux et les oreilles se rapprochent progressivement de leur position définitive.",
+          "Le cou s’allonge, ce qui permet à la tête d’être un peu mieux dégagée du thorax.",
+          "Le bébé bouge déjà, même si ces mouvements ne sont généralement pas encore ressentis."
+        ],
+        quote: "Comparaison visuelle : un citron."
+      },
+      {
+        title: "15 SA : le corps se redresse",
+        paragraphs: [
+          "Le tronc s’allonge et le corps paraît un peu plus proportionné qu’au premier trimestre.",
+          "Les bras et les jambes continuent de grandir, et les articulations gagnent en mobilité.",
+          "La peau reste encore fine et translucide, car les réserves de graisse sont très limitées à ce stade."
+        ],
+        quote: "Comparaison visuelle : une pomme."
+      },
+      {
+        title: "16 SA : les mouvements se coordonnent",
+        paragraphs: [
+          "Les muscles et les os poursuivent leur développement, ce qui rend les mouvements plus fluides.",
+          "Le bébé peut plier les bras et les jambes, ouvrir la bouche et bouger la tête plus librement.",
+          "Chez certaines personnes ayant déjà été enceintes, les premiers mouvements pourront bientôt être perçus."
+        ],
+        quote: "Comparaison visuelle : un avocat."
+      },
+      {
+        title: "17 SA : le squelette se consolide",
+        paragraphs: [
+          "Les os continuent à s’ossifier progressivement, tandis que les muscles gagnent en tonicité.",
+          "Le bébé remue davantage et ses gestes deviennent plus fréquents, même s’ils restent discrets.",
+          "Une fine couche protectrice commence à se mettre en place sur la peau, qui reste toutefois très fragile."
+        ],
+        quote: "Comparaison visuelle : une poire."
+      },
+      {
+        title: "18 SA : l’ouïe progresse",
+        paragraphs: [
+          "L’appareil auditif poursuit sa maturation. Le bébé commence peu à peu à percevoir certains sons étouffés venant de l’extérieur.",
+          "Les traits du visage se précisent encore et les expressions deviennent plus variées.",
+          "Les mouvements sont souvent plus nombreux, et certaines femmes enceintes commencent à les sentir plus clairement."
+        ],
+        quote: "Comparaison visuelle : un poivron."
+      },
+      {
+        title: "19 SA : le bébé grandit rapidement",
+        paragraphs: [
+          "La croissance est soutenue pendant cette période, et le bébé prend de plus en plus de place dans l’utérus.",
+          "Les membres sont bien individualisés et les mouvements des bras, des jambes et des mains se multiplient.",
+          "La peau est encore fine, mais elle commence à être recouverte par du **vernix caseosa**, une substance protectrice."
+        ],
+        quote: "Comparaison visuelle : une mangue."
+      },
+      {
+        title: "20 SA : la moitié de la grossesse approche",
+        paragraphs: [
+          "Autour de 20 SA, le bébé poursuit sa croissance et bouge activement plusieurs fois dans la journée.",
+          "Les sourcils, les cils et de petits cheveux peuvent être visibles. Le visage est de mieux en mieux dessiné.",
+          "Le bébé avale du liquide amniotique, ce qui participe au développement de son appareil digestif."
+        ],
+        quote: "Comparaison visuelle : une banane."
+      },
+      {
+        title: "21 SA : les mouvements deviennent plus francs",
+        paragraphs: [
+          "Les gestes sont plus vigoureux et peuvent être ressentis plus régulièrement, surtout lors des moments calmes.",
+          "Le bébé bouge ses bras, ses jambes, ses doigts et peut changer de position dans l’utérus.",
+          "Le développement du système digestif et de la déglutition se poursuit."
+        ],
+        quote: "Comparaison visuelle : une carotte."
+      },
+      {
+        title: "22 SA : le cerveau et les sens évoluent",
+        paragraphs: [
+          "Le cerveau poursuit sa croissance rapide, et les connexions nerveuses deviennent plus nombreuses.",
+          "L’ouïe continue de progresser : le bébé peut réagir à certains sons, à la voix ou aux vibrations.",
+          "Les mouvements respiratoires existent déjà sous forme d’entraînement, même si les poumons ne sont pas encore prêts à fonctionner seuls."
+        ],
+        quote: "Comparaison visuelle : une papaye."
+      },
+      {
+        title: "23 SA : la peau se protège davantage",
+        paragraphs: [
+          "Le vernix caseosa recouvre davantage la peau et l’aide à se protéger du liquide amniotique.",
+          "Le bébé continue à bouger, à avaler et à explorer son environnement avec des gestes de plus en plus variés.",
+          "Le développement des poumons se poursuit, même si leur maturation reste encore incomplète."
+        ],
+        quote: "Comparaison visuelle : un pamplemousse."
+      },
+      {
+        title: "24 SA : les poumons poursuivent leur maturation",
+        paragraphs: [
+          "Les voies respiratoires et les poumons continuent à se développer, étape importante pour la suite de la grossesse.",
+          "Le bébé réagit parfois aux stimulations sonores ou tactiles par des mouvements plus nets.",
+          "Il prend progressivement du poids, même si sa peau paraît encore fine et peu remplie."
+        ],
+        quote: "Comparaison visuelle : un épi de maïs."
+      },
+      {
+        title: "25 SA : les rythmes veille-sommeil se dessinent",
+        paragraphs: [
+          "Le bébé alterne déjà des phases d’activité et de repos, même si elles ne correspondent pas forcément au rythme de la femme enceinte.",
+          "Ses mouvements peuvent être perçus de manière plus régulière.",
+          "Le cerveau, les poumons et le système nerveux poursuivent leur maturation de façon soutenue."
+        ],
+        quote: "Comparaison visuelle : un chou-fleur."
+      },
+      {
+        title: "26 SA : les réactions aux sons se précisent",
+        paragraphs: [
+          "Le bébé entend mieux et peut réagir à certains sons familiers, notamment les voix et les bruits répétés.",
+          "Les mouvements deviennent parfois plus puissants, car le tonus musculaire progresse.",
+          "Le corps continue à se développer harmonieusement, tandis que les réserves de graisse restent encore modestes."
+        ],
+        quote: "Comparaison visuelle : une laitue."
+      },
+      {
+        title: "27 SA : la fin du deuxième trimestre approche",
+        paragraphs: [
+          "Le bébé a beaucoup grandi depuis le début du trimestre et poursuit maintenant une phase importante de maturation.",
+          "Le cerveau, les poumons, les sens et les rythmes d’activité continuent à évoluer avant le troisième trimestre.",
+          "La croissance se poursuit, avec des mouvements bien présents et une prise de place de plus en plus importante dans l’utérus."
+        ],
+        quote: "Comparaison visuelle : un petit chou."
+      },
+      {
+        title: "Que voit-on à l’échographie du deuxième trimestre ?",
+        paragraphs: [
+          "En France, l’échographie du deuxième trimestre, souvent appelée **échographie morphologique**, est généralement réalisée entre **22 SA et 24 SA**.",
+          "Elle permet d’examiner la croissance du bébé, d’observer sa morphologie et de vérifier le développement de nombreux organes : cerveau, visage, colonne vertébrale, cœur, abdomen, reins, membres…",
+          "Le professionnel évalue aussi la quantité de liquide amniotique, la position du placenta et différents repères utiles au suivi de la grossesse."
+        ],
+        quote:
+          "Comme toujours, l’interprétation des images dépend du terme, de la position du bébé et des conditions de l’examen."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pendant le deuxième trimestre, le bébé grandit vite, bouge davantage et ses organes poursuivent leur maturation. Les sensations de mouvements deviennent souvent plus nettes au fil des semaines.",
+          "Les comparaisons avec des fruits ou des légumes sont des repères visuels simples, mais seul le suivi médical permet d’apprécier précisément la croissance et le développement du bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Votre suivi de grossesse",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/suivi-grossesse"
+      },
+      {
+        label: "HAS — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
+      },
+      {
+        label: "NHS — Week-by-week guide to pregnancy",
+        url: "https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-guide-to-pregnancy/"
+      },
+      {
+        label: "ACOG — How Your Fetus Grows During Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/how-your-fetus-grows-during-pregnancy"
+      },
+      {
+        label: "CNGOF — Suivi d’une grossesse normale",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
 ];
 
 export const categories = [
