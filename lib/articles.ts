@@ -4056,6 +4056,144 @@ export const articles: Article[] = [
       }
     ]
   },
+
+  {
+    slug: "nausees-vomissements-comment-les-soulager",
+    title: "Nausées et vomissements : comment les soulager ?",
+    description:
+      "Des gestes simples pour mieux supporter les nausées du premier trimestre, reconnaître les signes de déshydratation et savoir quand consulter.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "6 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les nausées peuvent survenir à toute heure, même sans vomissements.",
+          "Mangez en petites quantités et évitez de rester longtemps à jeun.",
+          "Buvez régulièrement par petites gorgées pour limiter le risque de déshydratation.",
+          "Consultez rapidement si vous ne gardez plus les boissons, perdez du poids ou vous sentez très faible."
+        ],
+        quote:
+          "Vous n’avez pas besoin d’attendre que les symptômes deviennent insupportables : une sage-femme ou un médecin peut vous proposer une prise en charge adaptée."
+      },
+      {
+        title: "Pourquoi les nausées sont-elles si fréquentes ?",
+        paragraphs: [
+          "Les nausées et les vomissements sont fréquents au début de la grossesse. Ils sont notamment associés aux changements hormonaux importants des premières semaines, même si leur cause exacte n’est pas toujours clairement définie.",
+          "Malgré l’expression « nausées matinales », ils peuvent apparaître à n’importe quel moment de la journée. Certaines femmes ressentent seulement un écœurement, tandis que d’autres vomissent plusieurs fois par jour.",
+          "Ils diminuent le plus souvent au cours du deuxième trimestre, généralement entre 16 et 20 semaines d’aménorrhée. Leur durée et leur intensité restent cependant différentes pour chaque grossesse."
+        ]
+      },
+      {
+        title: "Les 3 réflexes qui peuvent aider",
+        paragraphs: [
+          "Fractionner les repas : prenez plusieurs petits repas ou collations dans la journée et mangez avant d’avoir très faim. Un estomac vide peut accentuer les nausées.",
+          "Boire par petites gorgées : répartissez les boissons tout au long de la journée. Boire entre les repas peut être plus facile si les liquides pris en mangeant augmentent les nausées.",
+          "Limiter les déclencheurs : repérez les odeurs, les aliments, la chaleur ou la fatigue qui aggravent vos symptômes. Les aliments froids ou tièdes dégagent souvent moins d’odeur."
+        ],
+        quote:
+          "Pendant les jours difficiles, l’objectif prioritaire est de réussir à boire et de manger les aliments autorisés pendant la grossesse que vous tolérez le mieux."
+      },
+      {
+        title: "Que manger lorsque tout vous écœure ?",
+        paragraphs: [
+          "Il n’existe pas d’aliment obligatoire contre les nausées. Privilégiez les aliments simples que vous réussissez à manger, sans vous forcer à terminer une assiette.",
+          "Les plats très gras, frits, épicés ou fortement odorants peuvent aggraver les symptômes chez certaines femmes. Vous pouvez les éviter temporairement s’ils vous incommodent.",
+          "Une alimentation moins variée pendant quelques jours n’est généralement pas inquiétante si vous continuez à boire et à conserver une partie de vos repas."
+        ],
+        bullets: [
+          "Préparez de petites portions.",
+          "Gardez une collation simple à portée de main.",
+          "Mangez lentement et arrêtez-vous avant de vous sentir trop pleine.",
+          "Aérez la cuisine et les pièces où vous mangez.",
+          "Demandez de l’aide pour cuisiner lorsque les odeurs sont difficiles à supporter."
+        ]
+      },
+      {
+        title: "Comment mieux s’hydrater ?",
+        paragraphs: [
+          "Buvez souvent, en petites quantités, plutôt que de prendre un grand verre en une seule fois.",
+          "Testez différentes températures : certaines femmes tolèrent mieux les boissons fraîches, les glaçons ou les boissons tièdes.",
+          "Si l’eau seule passe mal, demandez conseil à un professionnel sur les boissons adaptées. Évitez les boissons très caféinées et ne consommez pas d’alcool."
+        ]
+      },
+      {
+        title: "Le gingembre et l’acupression sont-ils utiles ?",
+        paragraphs: [
+          "Le gingembre peut diminuer les nausées chez certaines femmes enceintes, mais son efficacité n’est pas identique pour tout le monde.",
+          "Avant de prendre des gélules, des extraits concentrés ou un complément, demandez conseil à un médecin, une sage-femme ou un pharmacien.",
+          "Les bracelets d’acupression sont parfois essayés. Ils présentent peu de risques lorsqu’ils sont correctement utilisés, mais leur efficacité peut varier."
+        ]
+      },
+      {
+        title: "Peut-on prendre un médicament contre les nausées ?",
+        paragraphs: [
+          "Lorsque les changements alimentaires ne suffisent pas, un professionnel de santé peut prescrire un médicament contre les nausées ou les vomissements compatible avec la grossesse.",
+          "Le choix du traitement dépend de l’intensité des symptômes, de vos antécédents, du terme de la grossesse et des autres médicaments que vous prenez.",
+          "Ne prenez pas un médicament restant d’une ancienne ordonnance et n’utilisez pas le traitement conseillé à une autre personne. Même sans ordonnance, un produit doit être vérifié pendant la grossesse."
+        ],
+        quote:
+          "Un traitement pris suffisamment tôt peut éviter l’aggravation des vomissements, la déshydratation et la perte de poids."
+      },
+      {
+        title: "Qu’est-ce que l’hyperémèse gravidique ?",
+        paragraphs: [
+          "L’hyperémèse gravidique est une forme sévère des nausées et vomissements de la grossesse. Elle empêche parfois de boire et de s’alimenter correctement.",
+          "Elle peut entraîner une déshydratation, une perte de poids, des carences et un retentissement important sur la vie quotidienne et le moral.",
+          "Une prise en charge médicale est nécessaire. Elle peut comprendre des médicaments, une réhydratation, un apport en vitamines et parfois une hospitalisation."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        paragraphs: [
+          "Vous ne parvenez plus à garder les boissons ou les aliments et les vomissements se répètent.",
+          "Vos urines deviennent très foncées ou rares, vous perdez du poids, votre bouche est sèche ou vous ressentez des vertiges et une grande faiblesse.",
+          "Vous avez une douleur abdominale importante, de la fièvre, du sang dans les vomissements, un malaise ou une aggravation rapide des symptômes."
+        ],
+        quote:
+          "Des vomissements importants ne sont pas un symptôme que vous devez simplement supporter : demandez rapidement un avis médical."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pour soulager des nausées modérées, mangez peu mais souvent, buvez par petites gorgées, limitez les odeurs déclenchantes et reposez-vous.",
+          "Des traitements compatibles avec la grossesse existent lorsque ces mesures ne suffisent pas. Consultez rapidement si vous ne réussissez plus à boire, si vous perdez du poids ou si des signes de déshydratation apparaissent."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Nausées et vomissements au cours de la grossesse : que faire ?",
+        url: "https://www.ameli.fr/assure/sante/themes/nausees-et-vomissements-pendant-la-grossesse/nausees-vomissements-que-faire"
+      },
+      {
+        label: "Assurance Maladie — Nausées et vomissements pendant la grossesse : symptômes et causes",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-nausees-et-vomissements/nausees-vomissements-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Nausées et vomissements chez la femme enceinte : consultation et traitement",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-nausees-et-vomissements/nauses-vomissements-grossesse-consultation-traitement"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_268522/fr/comment-mieux-informer-les-femmes-enceintes-recommandations"
+      },
+      {
+        label: "NHS — Vomiting and morning sickness",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+      },
+      {
+        label: "RCOG — Pregnancy sickness and hyperemesis gravidarum",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pregnancy-sickness-nausea-and-vomiting-of-pregnancy-and-hyperemesis-gravidarum/"
+      }
+    ]
+  },
   {
     slug: "test-positif-premieres-demarches",
     title: "Test positif : quelles sont les premières démarches à faire ?",
