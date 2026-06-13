@@ -4194,6 +4194,144 @@ export const articles: Article[] = [
       }
     ]
   },
+
+  {
+    slug: "fatigue-premier-trimestre-pourquoi-si-importante",
+    title: "Fatigue au premier trimestre : pourquoi est-elle si importante ?",
+    description:
+      "Pourquoi le début de la grossesse peut provoquer un épuisement intense, comment adapter son quotidien et quels signes doivent conduire à consulter.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "6 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une grande fatigue est très fréquente pendant les 12 premières semaines de grossesse.",
+          "Les changements hormonaux et l’adaptation de tout l’organisme expliquent en grande partie cet épuisement.",
+          "Se reposer davantage, alléger son rythme et conserver une activité douce peuvent aider.",
+          "Une fatigue brutale, extrême ou accompagnée d’essoufflement, de palpitations, de fièvre ou de malaise doit être signalée."
+        ],
+        quote:
+          "La fatigue du premier trimestre est réelle : votre corps accomplit un important travail d’adaptation, même si la grossesse ne se voit pas encore."
+      },
+      {
+        title: "Pourquoi peut-on se sentir aussi épuisée ?",
+        paragraphs: [
+          "Au début de la grossesse, le corps se transforme rapidement. Les variations hormonales, en particulier l’augmentation de la progestérone, peuvent entraîner une somnolence inhabituelle et un besoin de sommeil plus important.",
+          "L’organisme commence aussi à adapter la circulation sanguine, le fonctionnement du cœur et le métabolisme pour répondre aux besoins de la grossesse. Ces changements demandent de l’énergie.",
+          "Les nausées, les vomissements, les réveils nocturnes, les émotions et les inquiétudes peuvent encore accentuer la fatigue. Elle résulte donc souvent de plusieurs facteurs qui se cumulent."
+        ]
+      },
+      {
+        title: "Les 3 réflexes pour mieux récupérer",
+        paragraphs: [
+          "Écouter les signaux du corps : couchez-vous plus tôt lorsque c’est possible, faites une courte sieste ou accordez-vous de vraies pauses avant d’être complètement épuisée.",
+          "Alléger temporairement le quotidien : reportez ce qui peut attendre, acceptez l’aide proposée et simplifiez les repas, les tâches ménagères ou les déplacements.",
+          "Conserver un rythme doux : une marche ou une activité physique adaptée peut aider à préserver le sommeil et l’énergie, à condition de ne pas forcer et de respecter vos sensations."
+        ],
+        quote:
+          "Le repos n’est pas un manque de volonté : pendant cette période, il répond à un besoin physiologique réel."
+      },
+      {
+        title: "Comment organiser ses journées ?",
+        paragraphs: [
+          "Repérez les moments où vous avez le plus d’énergie et placez-y les tâches importantes. Gardez les activités moins exigeantes pour les périodes où la fatigue augmente.",
+          "Lorsque votre emploi du temps le permet, alternez les périodes d’activité et de récupération. Une pause prise suffisamment tôt est souvent plus utile qu’un repos commencé une fois l’épuisement installé.",
+          "Parlez de votre fatigue à votre entourage. Les premières semaines sont parfois difficiles à expliquer lorsque la grossesse n’a pas encore été annoncée, mais vous pouvez demander de l’aide sans donner de détails que vous ne souhaitez pas partager."
+        ],
+        bullets: [
+          "Préparez une liste courte de priorités réalistes.",
+          "Évitez d’enchaîner plusieurs journées très chargées.",
+          "Prévoyez des collations et de l’eau lors des déplacements.",
+          "Limitez les activités non indispensables pendant les périodes les plus difficiles.",
+          "Acceptez que votre niveau d’énergie varie d’un jour à l’autre."
+        ]
+      },
+      {
+        title: "Le sommeil suffit-il toujours ?",
+        paragraphs: [
+          "Dormir davantage peut soulager la fatigue, mais ne la fait pas toujours disparaître complètement. Vous pouvez avoir l’impression d’être épuisée dès le réveil malgré une nuit plus longue.",
+          "Essayez de conserver des horaires de sommeil réguliers, de réduire les écrans avant le coucher et de créer une transition calme en fin de journée.",
+          "Une courte sieste peut être utile. Une sieste longue ou trop tardive peut toutefois retarder l’endormissement chez certaines personnes : adaptez sa durée selon votre propre sommeil."
+        ]
+      },
+      {
+        title: "L’alimentation peut-elle aider ?",
+        paragraphs: [
+          "Des repas réguliers et variés contribuent à maintenir l’énergie. Il n’est pas nécessaire de manger davantage au premier trimestre, mais il peut être plus confortable de répartir les prises alimentaires si les nausées sont présentes.",
+          "Buvez régulièrement, car une hydratation insuffisante peut augmenter la sensation de faiblesse ou les maux de tête.",
+          "Ne prenez pas de fer, de vitamines ou de compléments alimentaires de votre propre initiative. Une supplémentation doit être adaptée à vos besoins et discutée avec le professionnel qui suit la grossesse."
+        ]
+      },
+      {
+        title: "Faut-il continuer une activité physique ?",
+        paragraphs: [
+          "En l’absence de contre-indication médicale, une activité physique régulière et modérée peut être poursuivie pendant la grossesse. Elle peut favoriser le bien-être, le sommeil et le maintien de la condition physique.",
+          "Choisissez une intensité qui vous permet de parler pendant l’effort et augmentez progressivement si vous étiez peu active auparavant.",
+          "Arrêtez l’activité et demandez un avis médical en cas de saignement, de douleur importante, de vertiges, de malaise, d’essoufflement inhabituel ou de douleur thoracique."
+        ]
+      },
+      {
+        title: "Quand la fatigue peut-elle avoir une autre cause ?",
+        paragraphs: [
+          "La fatigue est fréquente au premier trimestre, mais elle peut parfois être aggravée par une anémie, un trouble de la thyroïde, une infection, des vomissements importants, un manque de sommeil ou un problème de santé antérieur.",
+          "Le suivi de grossesse comprend des examens destinés à repérer certaines causes, notamment une prise de sang au début de la grossesse. Des analyses complémentaires peuvent être proposées selon les symptômes.",
+          "Parlez-en à une sage-femme ou à un médecin si la fatigue vous empêche d’assurer les activités essentielles, s’aggrave rapidement ou ne ressemble pas à votre fatigue habituelle."
+        ],
+        quote:
+          "Une fatigue fréquente pendant la grossesse peut être normale, mais elle mérite tout de même d’être évoquée lorsqu’elle devient difficile à vivre."
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        paragraphs: [
+          "La fatigue est brutale, très intense, s’aggrave rapidement ou vous empêche de vous lever et d’accomplir les gestes essentiels du quotidien.",
+          "Elle s’accompagne d’essoufflement au repos, de palpitations importantes, d’une douleur dans la poitrine, d’un malaise, de vertiges persistants ou d’une perte de connaissance.",
+          "Vous avez également de la fièvre, des vomissements qui vous empêchent de boire, des saignements, une douleur importante, une pâleur marquée ou un état moral très dégradé."
+        ],
+        quote:
+          "En cas de malaise, de douleur thoracique, de difficulté à respirer ou d’aggravation brutale, contactez rapidement les services d’urgence."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une fatigue importante est courante pendant le premier trimestre. Les hormones, l’adaptation de la circulation, les nausées et les changements du sommeil peuvent se cumuler.",
+          "Accordez-vous davantage de repos, allégez temporairement votre rythme et parlez-en au professionnel qui suit votre grossesse si la fatigue est extrême, inhabituelle ou accompagnée d’autres symptômes."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Grossesse : premiers signes et déroulement",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/premiers-symptomes-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
+      },
+      {
+        label: "1000 premiers jours — L’activité physique pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/lactivite-physique-pendant-la-grossesse"
+      },
+      {
+        label: "NHS — Tiredness and sleep problems in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/tiredness/"
+      },
+      {
+        label: "ACOG — Routine Tests During Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/routine-tests-during-pregnancy"
+      },
+      {
+        label: "ACOG — Exercise During Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+      }
+    ]
+  },
   {
     slug: "test-positif-premieres-demarches",
     title: "Test positif : quelles sont les premières démarches à faire ?",
