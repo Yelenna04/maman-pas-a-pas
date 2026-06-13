@@ -4480,15 +4480,15 @@ export const articles: Article[] = [
   },
 
   {
-    slug: "comment-evolue-bebe-premier-trimestre",
-    title: "Comment évolue le bébé pendant le premier trimestre ?",
+    slug: "evolution-bebe-semaine-par-semaine-premier-trimestre",
+    title: "L’évolution du bébé semaine par semaine pendant le premier trimestre",
     description:
-      "De la fécondation à la fin du troisième mois, découvrez les grandes étapes du développement de l’embryon puis du fœtus pendant le premier trimestre.",
+      "Découvrez comment l’embryon puis le fœtus évoluent semaine après semaine pendant le premier trimestre, avec des comparaisons de taille simples et visuelles.",
     category: "Pendant la grossesse",
     categorySlug: "pendant-grossesse",
     subcategory: "Premier trimestre",
     subcategorySlug: "premier-trimestre",
-    readingTime: "7 min",
+    readingTime: "9 min",
     publishedAt: "2026-06-13",
     updatedAt: "2026-06-13",
     tone: "sage",
@@ -4496,110 +4496,165 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "Le premier trimestre correspond à une période de développement particulièrement rapide.",
-          "Après la fécondation, l’œuf s’implante dans l’utérus et devient progressivement un embryon.",
-          "Les principales structures du cerveau, du cœur, des membres et des organes se mettent en place pendant les premières semaines.",
-          "À partir de la fin de la 8e semaine de grossesse environ, on parle de fœtus plutôt que d’embryon."
+          "En France, la grossesse est généralement datée en semaines d’aménorrhée, comptées depuis le premier jour des dernières règles.",
+          "La fécondation survient habituellement autour de 2 SA, soit environ deux semaines avant le début réel du développement embryonnaire.",
+          "Le cerveau, la moelle épinière, le cœur, les membres et les principaux organes commencent à se former pendant le premier trimestre.",
+          "Les tailles et les comparaisons sont approximatives : quelques jours de différence sont fréquents et ne signifient pas que la grossesse évolue mal."
         ],
         quote:
-          "En seulement trois mois, une cellule fécondée devient un petit fœtus dont la tête, le tronc, les bras et les jambes sont déjà reconnaissables."
+          "Au premier trimestre, le futur bébé passe d’un minuscule groupe de cellules à un fœtus dont la tête, le tronc, les bras et les jambes sont déjà reconnaissables."
       },
       {
-        title: "Comment compte-t-on les semaines de grossesse ?",
+        title: "SA ou SG : comment comprendre les semaines ?",
         paragraphs: [
-          "En France, les professionnels de santé utilisent généralement les semaines d’aménorrhée, abrégées « SA ». Elles sont comptées à partir du premier jour des dernières règles.",
-          "Les semaines de grossesse, abrégées « SG », sont comptées à partir de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines entre les deux modes de calcul.",
-          "Par exemple, 8 semaines de grossesse correspondent approximativement à 10 semaines d’aménorrhée. La première échographie permet de dater plus précisément la grossesse."
+          "Les semaines d’aménorrhée, ou **SA**, sont comptées à partir du premier jour des dernières règles. C’est le repère le plus utilisé par les professionnels de santé en France.",
+          "Les semaines de grossesse, ou **SG**, sont comptées à partir de la fécondation. Il existe donc habituellement un décalage d’environ deux semaines : 6 SA correspondent approximativement à 4 SG.",
+          "Dans cet article, les étapes sont présentées en **semaines d’aménorrhée**. La datation donnée par l’échographie du premier trimestre reste plus précise que le calcul effectué à partir des dernières règles."
         ]
       },
       {
-        title: "Les 3 grandes étapes du premier trimestre",
+        title: "Les 3 grandes phases du premier trimestre",
         paragraphs: [
-          "L’implantation : après la fécondation, l’œuf se divise, se déplace vers l’utérus et s’implante dans sa paroi. Le sac gestationnel et les structures qui participeront au placenta commencent à se former.",
-          "La formation des organes : le cerveau, la moelle épinière, le cœur, les membres et les principaux organes commencent à se mettre en place pendant la période embryonnaire.",
-          "Le passage au stade fœtal : à la fin de la huitième semaine de grossesse environ, l’essentiel des grandes structures est présent. Elles vont ensuite grandir, mûrir et se préciser."
+          "De 3 à 4 SA — Le tout début : la fécondation a lieu, les cellules se divisent et le blastocyste s’implante progressivement dans la paroi de l’utérus.",
+          "De 5 à 10 SA — La période embryonnaire : le cerveau, la colonne vertébrale, le tissu cardiaque, le visage et les membres commencent à se former.",
+          "De 11 à 13 SA — Le stade fœtal : les grandes structures sont présentes. Elles poursuivent leur croissance, leur différenciation et leur maturation."
         ],
         quote:
-          "Les dates et les mesures restent approximatives : chaque grossesse évolue à son propre rythme, dans une certaine marge normale."
+          "Les fruits et les graines servent uniquement de repères visuels : leur forme ne représente pas celle du futur bébé."
       },
       {
-        title: "Des premières cellules à l’implantation",
+        title: "3 SA : la fécondation",
         paragraphs: [
-          "La fécondation correspond à la rencontre entre un ovule et un spermatozoïde. La cellule obtenue contient déjà les informations génétiques nécessaires au développement du futur bébé.",
-          "Pendant les jours suivants, cette cellule se divise à plusieurs reprises tout en progressant vers l’utérus. Elle forme progressivement une petite structure appelée blastocyste.",
-          "Le blastocyste s’implante ensuite dans la muqueuse de l’utérus. C’est à cette période que commence la production de l’hormone hCG détectée par les tests de grossesse."
-        ],
-        bullets: [
-          "La fécondation a généralement lieu dans une trompe.",
-          "Les divisions cellulaires commencent très rapidement.",
-          "L’implantation se produit quelques jours après la fécondation.",
-          "Le futur placenta commence progressivement à se mettre en place.",
-          "L’embryon reste encore trop petit pour être visible à l’œil nu."
-        ]
-      },
-      {
-        title: "Que se passe-t-il pendant le premier mois ?",
-        paragraphs: [
-          "Au cours du premier mois, les cellules se spécialisent et commencent à former les premières structures de l’embryon.",
-          "Le tube neural, à l’origine du cerveau et de la moelle épinière, commence à se former. Le tissu cardiaque se développe également et une activité cardiaque peut apparaître très tôt.",
-          "À la fin de ce premier mois, l’embryon ne mesure encore que quelques millimètres. Les premiers bourgeons des bras et des jambes commencent à apparaître."
-        ]
-      },
-      {
-        title: "Que se passe-t-il pendant le deuxième mois ?",
-        paragraphs: [
-          "Le deuxième mois est une période majeure de formation des organes. Le cerveau se développe rapidement et les contours du visage commencent à se dessiner.",
-          "Les bras et les jambes s’allongent. Les mains et les pieds apparaissent, d’abord avec des doigts et des orteils encore reliés.",
-          "Le foie, les reins, le système digestif, les poumons et l’oreille interne poursuivent leur développement. À la fin de cette période, l’embryon mesure environ quelques centimètres."
-        ]
-      },
-      {
-        title: "Que se passe-t-il pendant le troisième mois ?",
-        paragraphs: [
-          "Au troisième mois, le futur bébé est désormais appelé fœtus. Les grandes structures de son corps sont présentes, mais elles sont encore très immatures.",
-          "La tête reste proportionnellement très grande. Le visage devient plus reconnaissable, les doigts et les orteils se séparent et les articulations permettent de petits mouvements.",
-          "Les organes continuent à se développer et à commencer leur fonctionnement. Les organes génitaux externes se différencient progressivement, mais leur observation à l’échographie n’est pas toujours possible à ce stade."
-        ]
-      },
-      {
-        title: "Le bébé bouge-t-il déjà ?",
-        paragraphs: [
-          "De petits mouvements commencent très tôt, à mesure que les muscles et le système nerveux se développent.",
-          "Ces mouvements peuvent parfois être observés pendant une échographie, mais ils ne sont pas encore ressentis par la femme enceinte.",
-          "Les premiers mouvements perçus apparaissent généralement beaucoup plus tard, souvent au cours du deuxième trimestre."
-        ]
-      },
-      {
-        title: "Quel est le rôle du placenta et du cordon ombilical ?",
-        paragraphs: [
-          "Le placenta est un organe temporaire qui se développe pendant la grossesse. Il permet les échanges d’oxygène, de nutriments et de déchets entre la mère et le futur bébé.",
-          "Le sang maternel et celui du bébé ne se mélangent pas directement. Les échanges ont lieu à travers le placenta.",
-          "Le cordon ombilical relie le futur bébé au placenta. Il contient des vaisseaux sanguins qui transportent l’oxygène et les nutriments et évacuent certains déchets."
-        ]
-      },
-      {
-        title: "Que vérifie l’échographie du premier trimestre ?",
-        paragraphs: [
-          "En France, l’échographie du premier trimestre est habituellement réalisée entre 11 et 13 semaines d’aménorrhée et 6 jours.",
-          "Elle vérifie notamment que la grossesse évolue dans l’utérus, précise si elle est unique ou multiple et confirme la vitalité du ou des fœtus.",
-          "La mesure de la longueur cranio-caudale aide à dater la grossesse. Le professionnel observe également la morphologie précoce et mesure la clarté nucale dans le cadre du dépistage de certaines anomalies chromosomiques."
+          "À ce stade, l’ovule peut être fécondé par un spermatozoïde dans une trompe. La cellule obtenue commence rapidement à se diviser.",
+          "Elle contient déjà les informations génétiques qui guideront le développement du futur bébé.",
+          "Il est encore trop tôt pour parler d’embryon visible et aucun test de grossesse ne peut généralement confirmer la grossesse immédiatement."
         ],
         quote:
-          "Une différence de quelques jours entre la date calculée avec les dernières règles et celle estimée à l’échographie est fréquente."
+          "Comparaison visuelle : plus petit qu’un grain de poussière."
       },
       {
-        title: "Comment favoriser son bon développement ?",
+        title: "4 SA : l’implantation",
         paragraphs: [
-          "Aucun comportement ne garantit à lui seul le bon déroulement d’une grossesse, mais certaines mesures réduisent les risques évitables.",
-          "Ne consommez pas d’alcool, ne fumez pas et ne prenez aucun médicament ou complément sans vérifier sa compatibilité avec la grossesse.",
-          "Suivez les recommandations alimentaires, prenez la vitamine B9 lorsqu’elle vous a été prescrite et assistez aux consultations de suivi."
+          "Le petit groupe de cellules, appelé blastocyste, atteint l’utérus et commence à s’implanter dans sa muqueuse.",
+          "Une partie de ses cellules formera l’embryon, tandis qu’une autre participera à la formation du placenta.",
+          "L’hormone hCG commence à être produite. Elle pourra bientôt être détectée par un test de grossesse."
+        ],
+        quote:
+          "Comparaison visuelle : une graine de pavot."
+      },
+      {
+        title: "5 SA : les premières structures apparaissent",
+        paragraphs: [
+          "L’embryon est minuscule, mais son développement s’accélère. Les premières structures à l’origine du cerveau et de la moelle épinière se mettent en place.",
+          "Le tissu qui formera le cœur commence également à se développer.",
+          "Le sac gestationnel peut parfois commencer à être visible à l’échographie, selon le terme réel et le matériel utilisé."
+        ],
+        quote:
+          "Comparaison visuelle : une graine de sésame."
+      },
+      {
+        title: "6 SA : le cœur se développe",
+        paragraphs: [
+          "L’embryon présente une forme incurvée. Le tube neural poursuit sa fermeture et le cerveau se développe rapidement.",
+          "Le tissu cardiaque commence à battre. Une activité cardiaque peut parfois être observée à l’échographie, mais son absence à ce terme très précoce ne permet pas toujours de conclure.",
+          "Les premières ébauches des yeux, des oreilles et de certains organes commencent à apparaître."
+        ],
+        quote:
+          "Comparaison visuelle : une lentille."
+      },
+      {
+        title: "7 SA : les bourgeons des membres se forment",
+        paragraphs: [
+          "Le cerveau grandit plus vite que le reste du corps, ce qui explique la taille importante de la tête.",
+          "Les bourgeons qui deviendront les bras et les jambes deviennent visibles.",
+          "Le visage commence doucement à se dessiner, tandis que le cœur et les principaux organes poursuivent leur développement."
+        ],
+        quote:
+          "Comparaison visuelle : un petit pois."
+      },
+      {
+        title: "8 SA : le visage commence à se préciser",
+        paragraphs: [
+          "Les bras et les jambes s’allongent. Les mains et les pieds ressemblent encore à de petites palettes.",
+          "Les paupières, le nez, la lèvre supérieure et les oreilles commencent à prendre forme.",
+          "Le système nerveux, le cœur, les poumons, le foie et les reins poursuivent leur mise en place."
+        ],
+        quote:
+          "Comparaison visuelle : une myrtille."
+      },
+      {
+        title: "9 SA : les doigts et les orteils se dessinent",
+        paragraphs: [
+          "Les doigts et les orteils commencent à apparaître, même s’ils sont encore partiellement reliés.",
+          "Les articulations des bras et des jambes se développent et de petits mouvements peuvent commencer.",
+          "L’embryon mesure environ quelques centimètres de la tête aux fesses, mais les mesures varient selon les sources et la datation."
+        ],
+        quote:
+          "Comparaison visuelle : une framboise."
+      },
+      {
+        title: "10 SA : la fin de la période embryonnaire approche",
+        paragraphs: [
+          "Les principales structures du corps sont désormais en place, même si elles restent très immatures.",
+          "Les doigts se séparent davantage, les bras peuvent se plier et le visage devient plus reconnaissable.",
+          "Le cerveau poursuit un développement particulièrement rapide."
+        ],
+        quote:
+          "Comparaison visuelle : une petite fraise."
+      },
+      {
+        title: "11 SA : on parle désormais de fœtus",
+        paragraphs: [
+          "À partir de cette période, le terme **fœtus** remplace progressivement celui d’embryon.",
+          "La tête reste très grande par rapport au corps. Les membres sont mieux formés et les petits mouvements deviennent plus nombreux.",
+          "Les organes génitaux externes commencent à se différencier, mais ils ne sont généralement pas encore faciles à identifier à l’échographie."
+        ],
+        quote:
+          "Comparaison visuelle : une figue."
+      },
+      {
+        title: "12 SA : le corps s’allonge",
+        paragraphs: [
+          "Le fœtus bouge déjà, même si la femme enceinte ne peut pas encore ressentir ses mouvements.",
+          "Les reins commencent à produire de l’urine et les intestins poursuivent leur développement.",
+          "Les doigts et les orteils sont séparés. Les ongles commencent progressivement à se former."
+        ],
+        quote:
+          "Comparaison visuelle : une prune."
+      },
+      {
+        title: "13 SA : la fin du premier trimestre",
+        paragraphs: [
+          "Le visage devient plus harmonieux et les yeux se rapprochent progressivement de leur position définitive.",
+          "Les os commencent à se renforcer, les muscles se développent et les mouvements gagnent en précision.",
+          "À la fin du premier trimestre, le fœtus mesure environ plusieurs centimètres de la tête aux fesses. La mesure exacte dépend du terme et de chaque grossesse."
+        ],
+        quote:
+          "Comparaison visuelle : un petit citron."
+      },
+      {
+        title: "Que voit-on à l’échographie du premier trimestre ?",
+        paragraphs: [
+          "En France, l’échographie du premier trimestre est réalisée habituellement entre **11 SA et 13 SA + 6 jours**.",
+          "Elle permet de vérifier la vitalité du fœtus, de préciser le nombre de fœtus et de dater la grossesse grâce à la mesure de la longueur cranio-caudale.",
+          "Le professionnel examine également la morphologie précoce et mesure la clarté nucale dans le cadre du dépistage de certaines anomalies chromosomiques."
+        ],
+        quote:
+          "L’image vue à l’échographie dépend du terme, de la position du fœtus et des conditions de l’examen."
+      },
+      {
+        title: "Pourquoi les tailles peuvent-elles différer selon les sources ?",
+        paragraphs: [
+          "Les comparaisons avec des fruits sont pédagogiques, mais elles ne constituent pas des mesures médicales.",
+          "Certaines sources utilisent les semaines de grossesse, d’autres les semaines d’aménorrhée. Elles peuvent aussi mesurer la longueur totale ou uniquement la longueur de la tête aux fesses.",
+          "Une différence de quelques millimètres ou de quelques jours est courante. Seul le professionnel qui réalise l’échographie peut interpréter les mesures dans leur contexte."
         ]
       },
       {
         title: "À retenir",
         paragraphs: [
-          "Le premier trimestre est marqué par une transformation très rapide : implantation, formation du cerveau et du cœur, apparition des membres et mise en place des principaux organes.",
-          "À la fin du trimestre, le futur bébé est appelé fœtus. Il bouge déjà, même si ses mouvements ne sont pas encore ressentis, et son développement sera évalué lors de l’échographie du premier trimestre."
+          "Pendant le premier trimestre, le futur bébé évolue à une vitesse remarquable : implantation, formation du cerveau et du cœur, apparition des membres, puis passage du stade embryonnaire au stade fœtal.",
+          "Les graines et les fruits donnent un repère visuel amusant, mais les tailles restent approximatives. La datation et l’évaluation du développement reposent sur le suivi médical et l’échographie."
         ]
       }
     ],
@@ -4609,12 +4664,8 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/premiers-symptomes-grossesse"
       },
       {
-        label: "Assurance Maladie — Le programme de suivi et la première consultation",
+        label: "Assurance Maladie — Le programme de suivi et la première échographie",
         url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/grossesse-soins-dentaires-dentiste-consultation"
-      },
-      {
-        label: "1000 premiers jours — Les nutriments essentiels au futur bébé",
-        url: "https://www.1000-premiers-jours.fr/fr/les-nutriments-essentiels-au-futur-bebe"
       },
       {
         label: "NHS — Week-by-week guide to pregnancy",
