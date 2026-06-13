@@ -5001,7 +5001,7 @@ export const articles: Article[] = [
     sources: [
       { label: "Haute Autorité de Santé", url: "https://www.has-sante.fr/" }
     ]
-  }
+  },
 
   {
     slug: "evolution-bebe-semaine-par-semaine-deuxieme-trimestre",
