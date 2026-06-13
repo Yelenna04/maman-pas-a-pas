@@ -4332,6 +4332,152 @@ export const articles: Article[] = [
       }
     ]
   },
+
+  {
+    slug: "douleurs-saignements-debut-grossesse-quand-consulter",
+    title: "Douleurs et saignements en début de grossesse : quand consulter ?",
+    description:
+      "Comment réagir face à des douleurs ou des saignements au premier trimestre, reconnaître les signes d’urgence et comprendre les examens proposés.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Premier trimestre",
+    subcategorySlug: "premier-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-13",
+    updatedAt: "2026-06-13",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Des douleurs légères ou de petits saignements peuvent survenir au début de la grossesse sans annoncer forcément une complication.",
+          "Tout saignement ou toute douleur inhabituelle mérite néanmoins un avis médical, surtout si les symptômes persistent ou s’associent.",
+          "Une douleur forte d’un seul côté, un saignement abondant, une douleur à l’épaule, des vertiges ou un malaise nécessitent une prise en charge urgente.",
+          "Seuls un examen médical, une échographie et parfois des prises de sang peuvent déterminer la cause."
+        ],
+        quote:
+          "Même lorsque les symptômes restent modérés, ne restez pas seule avec votre inquiétude : contactez une sage-femme, un médecin ou la maternité."
+      },
+      {
+        title: "Les douleurs et les saignements sont-ils toujours inquiétants ?",
+        paragraphs: [
+          "Les douleurs du bas-ventre et les petits saignements sont relativement fréquents pendant les premières semaines. Ils ne signifient pas automatiquement que la grossesse s’interrompt.",
+          "Une gêne légère, comparable à des tiraillements ou à des douleurs de règles, peut accompagner les changements de l’utérus. Un saignement léger peut également avoir plusieurs causes, notamment une irritation du col de l’utérus.",
+          "Il est toutefois impossible de connaître la cause uniquement d’après la couleur du sang ou l’intensité ressentie. Une fausse couche ou une grossesse extra-utérine peuvent commencer par des signes discrets."
+        ]
+      },
+      {
+        title: "Les 3 éléments à observer",
+        paragraphs: [
+          "L’importance du saignement : repérez s’il s’agit de quelques traces, d’un flux comparable aux règles ou d’un saignement qui remplit rapidement une protection.",
+          "La douleur : notez son intensité, sa durée, sa localisation et son évolution. Une douleur située surtout d’un côté ou qui s’aggrave doit être signalée rapidement.",
+          "Les symptômes associés : surveillez l’apparition de vertiges, d’un malaise, d’une douleur à l’épaule, de fièvre, de pertes inhabituelles ou d’une grande faiblesse."
+        ],
+        quote:
+          "Ces observations peuvent aider le professionnel de santé, mais elles ne remplacent pas un examen médical."
+      },
+      {
+        title: "Que faire en attendant un avis médical ?",
+        paragraphs: [
+          "Contactez le professionnel qui suit votre grossesse, votre médecin, une sage-femme, un service de gynécologie ou votre maternité. Décrivez le terme estimé de la grossesse, la quantité de sang, la douleur et les autres symptômes.",
+          "Utilisez une protection externe afin de pouvoir observer l’évolution du saignement. Évitez les tampons et les coupes menstruelles tant que la cause n’a pas été évaluée.",
+          "Reposez-vous si vous en ressentez le besoin, mais ne retardez pas une consultation urgente pour tenter de voir si les symptômes disparaissent."
+        ],
+        bullets: [
+          "Notez l’heure de début des symptômes.",
+          "Observez la quantité et l’évolution du saignement.",
+          "Repérez précisément l’emplacement de la douleur.",
+          "Préparez la liste de vos traitements et de vos antécédents.",
+          "Ne conduisez pas vous-même en cas de malaise ou de douleur intense."
+        ]
+      },
+      {
+        title: "Quels saignements doivent conduire à consulter ?",
+        paragraphs: [
+          "Tout saignement vaginal pendant une grossesse confirmée doit être signalé afin de recevoir un conseil adapté à votre situation.",
+          "Un saignement léger sans douleur n’est pas nécessairement une urgence vitale, mais il justifie tout de même de contacter rapidement un professionnel.",
+          "Un saignement abondant, rouge vif, accompagné de caillots, d’une douleur importante, d’une faiblesse ou d’un malaise nécessite une évaluation urgente."
+        ]
+      },
+      {
+        title: "Quelles douleurs doivent alerter ?",
+        paragraphs: [
+          "Une douleur légère et passagère peut avoir une cause bénigne. Une douleur persistante, qui augmente ou vous empêche de poursuivre vos activités doit en revanche être évaluée.",
+          "Une douleur forte située surtout d’un côté du bas-ventre, associée ou non à des saignements peu abondants et foncés, peut évoquer une grossesse extra-utérine.",
+          "Une douleur à l’extrémité de l’épaule, des vertiges, une sensation de faiblesse ou une perte de connaissance peuvent accompagner une hémorragie interne et constituent une urgence."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une grossesse extra-utérine ?",
+        paragraphs: [
+          "Une grossesse extra-utérine se développe en dehors de la cavité de l’utérus, le plus souvent dans une trompe. Elle ne peut pas évoluer normalement.",
+          "En grossissant, elle peut provoquer la rupture de la trompe et une hémorragie interne. Un diagnostic et un traitement précoces sont donc indispensables.",
+          "Les symptômes peuvent être incomplets : douleur d’un seul côté, petits saignements foncés, malaise, douleur à l’épaule ou parfois peu de signes au début."
+        ],
+        quote:
+          "Une douleur intense, un malaise ou une perte de connaissance impose d’appeler immédiatement les services d’urgence."
+      },
+      {
+        title: "Ces symptômes annoncent-ils forcément une fausse couche ?",
+        paragraphs: [
+          "Non. De nombreuses grossesses continuent normalement après un épisode de douleur ou de saignement léger.",
+          "Cependant, des saignements et des crampes peuvent aussi être les premiers signes d’une fausse couche. L’évolution des symptômes et les examens permettent d’établir le diagnostic.",
+          "Une fausse couche n’est généralement pas provoquée par un effort ordinaire, une relation sexuelle ou une émotion. Elle résulte le plus souvent d’une anomalie qui empêche la grossesse de se développer normalement."
+        ]
+      },
+      {
+        title: "Quels examens peuvent être proposés ?",
+        paragraphs: [
+          "Le professionnel vous interroge sur le début des symptômes, vos antécédents, la date des dernières règles et l’évolution de la grossesse. Un examen clinique peut être réalisé.",
+          "Une échographie, parfois par voie endovaginale, peut vérifier la localisation de la grossesse et rechercher une activité cardiaque lorsque le terme le permet.",
+          "Une ou plusieurs prises de sang peuvent mesurer l’hormone bêta-hCG. Lorsque la grossesse est très précoce, il est parfois nécessaire de répéter les examens quelques jours plus tard avant de pouvoir conclure."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter en urgence ?",
+        paragraphs: [
+          "Le saignement est abondant, augmente rapidement, imbibe plusieurs protections ou s’accompagne de gros caillots.",
+          "La douleur est intense, brutale, persistante ou surtout située d’un seul côté ; vous ressentez aussi une douleur à l’épaule.",
+          "Vous avez des vertiges, une faiblesse importante, un teint très pâle, des palpitations, un malaise, une perte de connaissance ou de la fièvre."
+        ],
+        quote:
+          "En France, appelez le 15 ou le 112 en cas de saignement abondant, de douleur intense, de malaise ou de perte de connaissance."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Des douleurs légères et de petits saignements peuvent survenir au premier trimestre sans que la grossesse soit interrompue. Ils doivent néanmoins être signalés pour obtenir un avis adapté.",
+          "Un saignement abondant, une douleur forte ou unilatérale, une douleur à l’épaule, des vertiges ou un malaise nécessitent une consultation urgente afin d’écarter notamment une grossesse extra-utérine."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Saignements gynécologiques du premier trimestre de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/saignements-gynecologiques-grossesse/saignements-gynecologiques-du-premier-trimestre-de-la-grossesse"
+      },
+      {
+        label: "Assurance Maladie — Grossesse extra-utérine",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-extra-uterine"
+      },
+      {
+        label: "Assurance Maladie — Fausse couche",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/fausse-couche"
+      },
+      {
+        label: "RCOG — Bleeding and/or pain in early pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+      },
+      {
+        label: "RCOG — Ectopic pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/ectopic-pregnancy/"
+      },
+      {
+        label: "NHS — Vaginal bleeding in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+      }
+    ]
+  },
   {
     slug: "test-positif-premieres-demarches",
     title: "Test positif : quelles sont les premières démarches à faire ?",
