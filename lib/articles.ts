@@ -5435,16 +5435,9 @@ export const articles: Article[] = [
       {
         title: "Quelles émotions sont fréquentes au début de la grossesse ?",
         paragraphs: [
-          "Les émotions peuvent varier d’un jour à l’autre, parfois même au cours d’une seule journée."
-        ],
-        bullets: [
-          "Une grande joie ou de l’excitation.",
-          "Une impression d’irréalité.",
-          "La peur de perdre la grossesse.",
-          "Des doutes sur sa capacité à devenir mère.",
-          "De l’irritabilité ou une sensibilité plus forte.",
-          "Une baisse de moral liée à la fatigue ou aux symptômes.",
-          "De la culpabilité de ne pas se sentir heureuse en permanence."
+          "Les émotions peuvent changer rapidement : joie, inquiétude, irritabilité ou tristesse peuvent se succéder d’un jour à l’autre, parfois même au cours d’une seule journée.",
+          "Des sentiments contradictoires peuvent coexister. Il est possible d’être heureuse d’être enceinte tout en ressentant de la peur, des doutes ou une impression d’irréalité.",
+          "La fatigue, les nausées, les troubles du sommeil et les autres symptômes du premier trimestre peuvent rendre plus sensible et amplifier certaines émotions."
         ],
         quote:
           "L’ambivalence signifie que des émotions opposées peuvent être présentes en même temps. Elle est fréquente pendant la grossesse."
