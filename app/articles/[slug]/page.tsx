@@ -73,6 +73,11 @@ const articleDisplayConfig: Record<
     cardIcons: [Heart, ClipboardList, Sparkles],
     cardTitles: ["Écouter son corps", "Alléger son quotidien", "Garder un rythme doux"]
   },
+  "douleurs-saignements-debut-grossesse-quand-consulter": {
+    essentialIcons: [Heart, MessageCircle, AlertTriangle, TestTubeDiagonal],
+    cardIcons: [Droplets, Thermometer, AlertTriangle],
+    cardTitles: ["Observer le saignement", "Évaluer la douleur", "Repérer les signes associés"]
+  },
   "test-positif-premieres-demarches": {
     essentialIcons: [Heart, CalendarDays, ClipboardList, AlertTriangle],
     cardIcons: [CalendarDays, ClipboardList, ShieldCheck],
