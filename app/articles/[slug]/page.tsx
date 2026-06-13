@@ -263,6 +263,582 @@ function getItems(
   return [];
 }
 
+
+const weekVisuals: Record<
+  string,
+  {
+    week: string;
+    comparison: string;
+    size: string;
+    emoji: string;
+    headline: string;
+  }
+> = {
+  "3 SA": {
+    week: "3 SA",
+    comparison: "Plus petit qu’un grain de poussière",
+    size: "Taille microscopique",
+    emoji: "•",
+    headline: "La fécondation vient d’avoir lieu."
+  },
+  "4 SA": {
+    week: "4 SA",
+    comparison: "La taille d’une graine de pavot",
+    size: "Moins de 1 mm",
+    emoji: "⚫",
+    headline: "L’implantation commence dans l’utérus."
+  },
+  "5 SA": {
+    week: "5 SA",
+    comparison: "La taille d’une graine de sésame",
+    size: "Environ 1 à 2 mm",
+    emoji: "🌾",
+    headline: "Les premières structures se forment."
+  },
+  "6 SA": {
+    week: "6 SA",
+    comparison: "La taille d’une lentille",
+    size: "Environ 4 à 6 mm",
+    emoji: "🫘",
+    headline: "Le cœur commence son activité."
+  },
+  "7 SA": {
+    week: "7 SA",
+    comparison: "La taille d’un petit pois",
+    size: "Environ 7 à 10 mm",
+    emoji: "🟢",
+    headline: "Les bras et les jambes apparaissent."
+  },
+  "8 SA": {
+    week: "8 SA",
+    comparison: "La taille d’une myrtille",
+    size: "Environ 1 à 1,5 cm",
+    emoji: "🫐",
+    headline: "Le visage commence à se préciser."
+  },
+  "9 SA": {
+    week: "9 SA",
+    comparison: "La taille d’une framboise",
+    size: "Environ 2 cm",
+    emoji: "🫐",
+    headline: "Les doigts et les orteils se dessinent."
+  },
+  "10 SA": {
+    week: "10 SA",
+    comparison: "La taille d’une petite fraise",
+    size: "Environ 3 cm",
+    emoji: "🍓",
+    headline: "Les grandes structures sont en place."
+  },
+  "11 SA": {
+    week: "11 SA",
+    comparison: "La taille d’une figue",
+    size: "Environ 4 cm",
+    emoji: "🟣",
+    headline: "On parle désormais de fœtus."
+  },
+  "12 SA": {
+    week: "12 SA",
+    comparison: "La taille d’une prune",
+    size: "Environ 5 à 6 cm",
+    emoji: "🟣",
+    headline: "Le corps s’allonge et bouge davantage."
+  },
+  "13 SA": {
+    week: "13 SA",
+    comparison: "La taille d’un petit citron",
+    size: "Environ 7 cm",
+    emoji: "🍋",
+    headline: "Le premier trimestre touche à sa fin."
+  }
+};
+
+function WeekByWeekArticle({ article }: { article: Article }) {
+  const essentials = article.sections.find(
+    (section) => section.title === "L’essentiel en 30 secondes"
+  );
+  const datingSection = article.sections.find((section) =>
+    section.title.startsWith("SA ou SG")
+  );
+  const ultrasound = article.sections.find((section) =>
+    section.title.includes("échographie du premier trimestre")
+  );
+  const takeaway = article.sections.find(
+    (section) => section.title === "À retenir"
+  );
+  const weekSections = article.sections.filter((section) =>
+    /^\d+ SA/.test(section.title)
+  );
+
+  return (
+    <main className="pregnancy-timeline-page">
+      <style>{`
+        .pregnancy-timeline-page {
+          --timeline-rose: #dc7f88;
+          --timeline-dark: #4d403d;
+          --timeline-cream: #fffaf7;
+          --timeline-blush: #fdf0ef;
+          --timeline-border: #f1dfda;
+          background:
+            radial-gradient(circle at top left, rgba(246, 220, 216, .45), transparent 31rem),
+            #fffdfb;
+          color: var(--timeline-dark);
+          padding: 34px 20px 80px;
+        }
+        .timeline-shell {
+          width: min(1050px, 100%);
+          margin: 0 auto;
+        }
+        .timeline-breadcrumbs {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 9px;
+          align-items: center;
+          margin-bottom: 34px;
+          color: #8d817d;
+          font-size: .92rem;
+        }
+        .timeline-breadcrumbs a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .timeline-header {
+          max-width: 880px;
+          margin: 0 auto 26px;
+          text-align: center;
+        }
+        .timeline-header h1 {
+          margin: 0;
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: clamp(2.25rem, 5vw, 4.4rem);
+          font-weight: 500;
+          line-height: 1.04;
+          letter-spacing: -.035em;
+        }
+        .timeline-header h1 em {
+          display: block;
+          color: var(--timeline-rose);
+          font-style: normal;
+        }
+        .timeline-header .timeline-lead {
+          max-width: 760px;
+          margin: 22px auto 0;
+          color: #756a66;
+          font-size: clamp(1.05rem, 2vw, 1.28rem);
+          line-height: 1.65;
+        }
+        .timeline-info {
+          display: grid;
+          grid-template-columns: 52px 1fr;
+          gap: 18px;
+          align-items: center;
+          max-width: 850px;
+          margin: 30px auto 16px;
+          padding: 18px 22px;
+          border: 1px solid #f4dddb;
+          border-radius: 22px;
+          background: linear-gradient(100deg, #fcebea, #fff7f5);
+          box-shadow: 0 12px 36px rgba(119, 81, 72, .06);
+        }
+        .timeline-info-icon {
+          display: grid;
+          width: 52px;
+          height: 52px;
+          place-items: center;
+          border-radius: 50%;
+          background: white;
+          color: var(--timeline-rose);
+          box-shadow: 0 5px 14px rgba(130, 84, 75, .12);
+        }
+        .timeline-info p {
+          margin: 0 0 5px;
+          color: #675b57;
+          line-height: 1.55;
+        }
+        .timeline-disclaimer {
+          display: flex;
+          align-items: flex-start;
+          gap: 10px;
+          max-width: 850px;
+          margin: 18px auto 30px;
+          color: #7a706c;
+          font-size: .95rem;
+          line-height: 1.55;
+        }
+        .timeline-disclaimer svg {
+          flex: 0 0 auto;
+          margin-top: 2px;
+          color: var(--timeline-rose);
+        }
+        .timeline-essentials {
+          max-width: 850px;
+          margin: 0 auto 34px;
+          padding: 24px 26px;
+          border: 1px solid var(--timeline-border);
+          border-radius: 24px;
+          background: rgba(255, 255, 255, .88);
+        }
+        .timeline-essentials h2 {
+          margin: 0 0 16px;
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: 1.55rem;
+        }
+        .timeline-essentials-grid {
+          display: grid;
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 12px 22px;
+        }
+        .timeline-essential {
+          display: flex;
+          gap: 10px;
+          align-items: flex-start;
+          margin: 0;
+          color: #665b57;
+          line-height: 1.55;
+        }
+        .timeline-essential svg {
+          flex: 0 0 auto;
+          margin-top: 3px;
+          color: var(--timeline-rose);
+        }
+        .week-list {
+          display: grid;
+          gap: 16px;
+        }
+        .week-card {
+          display: grid;
+          grid-template-columns: 220px minmax(0, 1fr) 150px;
+          min-height: 210px;
+          overflow: hidden;
+          border: 1px solid var(--timeline-border);
+          border-radius: 22px;
+          background: rgba(255, 255, 255, .94);
+          box-shadow: 0 12px 35px rgba(107, 73, 65, .08);
+        }
+        .week-card-left {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          padding: 24px 20px;
+          text-align: center;
+          border-right: 1px solid #f3e8e4;
+          background: linear-gradient(145deg, #fff, #fffaf7);
+        }
+        .week-number {
+          margin-bottom: 8px;
+          color: var(--timeline-rose);
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: 2.55rem;
+          line-height: 1;
+        }
+        .week-comparison {
+          max-width: 155px;
+          margin: 0;
+          color: #554946;
+          font-size: 1rem;
+          line-height: 1.35;
+        }
+        .week-fruit {
+          display: grid;
+          width: 58px;
+          height: 58px;
+          margin: 13px 0 8px;
+          place-items: center;
+          border-radius: 50%;
+          background: var(--timeline-blush);
+          font-size: 1.8rem;
+        }
+        .week-size {
+          margin: 0;
+          color: #8a7e79;
+          font-size: .9rem;
+        }
+        .week-card-content {
+          padding: 30px 34px;
+        }
+        .week-card-content h2 {
+          display: flex;
+          gap: 10px;
+          align-items: center;
+          margin: 0 0 16px;
+          color: var(--timeline-rose);
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: clamp(1.25rem, 2vw, 1.6rem);
+          font-weight: 500;
+        }
+        .week-card-content h2 svg {
+          flex: 0 0 auto;
+        }
+        .week-card-content ul {
+          margin: 0;
+          padding-left: 21px;
+          color: #675c58;
+        }
+        .week-card-content li {
+          margin: 0 0 9px;
+          padding-left: 4px;
+          line-height: 1.5;
+        }
+        .week-visual {
+          display: grid;
+          place-items: center;
+          padding: 20px;
+          background: linear-gradient(160deg, #fffaf8, #fae9e5);
+        }
+        .week-orb {
+          display: grid;
+          width: 110px;
+          height: 110px;
+          place-items: center;
+          border: 8px solid rgba(255, 255, 255, .72);
+          border-radius: 50%;
+          background:
+            radial-gradient(circle at 40% 35%, #ffdcd3 0 14%, transparent 15%),
+            radial-gradient(circle at center, #eaa996, #d98778 62%, #c87367);
+          box-shadow:
+            inset 0 0 25px rgba(255, 255, 255, .55),
+            0 8px 24px rgba(145, 83, 69, .18);
+          color: white;
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: 1.25rem;
+          text-align: center;
+        }
+        .timeline-ultrasound {
+          display: grid;
+          grid-template-columns: 58px 1fr;
+          gap: 20px;
+          align-items: start;
+          margin: 34px 0 20px;
+          padding: 25px 28px;
+          border: 1px solid var(--timeline-border);
+          border-radius: 24px;
+          background: linear-gradient(100deg, #fff2f0, #fffaf7);
+        }
+        .timeline-ultrasound-icon {
+          display: grid;
+          width: 58px;
+          height: 58px;
+          place-items: center;
+          border-radius: 18px;
+          background: white;
+          color: var(--timeline-rose);
+        }
+        .timeline-ultrasound h2,
+        .timeline-takeaway h2 {
+          margin: 0 0 10px;
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: 1.65rem;
+          font-weight: 500;
+        }
+        .timeline-ultrasound p,
+        .timeline-takeaway p {
+          margin: 0 0 9px;
+          color: #675c58;
+          line-height: 1.6;
+        }
+        .timeline-takeaway {
+          margin-top: 22px;
+          padding: 27px 30px;
+          border-radius: 24px;
+          background: #5e514d;
+          color: white;
+        }
+        .timeline-takeaway p {
+          color: rgba(255, 255, 255, .9);
+        }
+        .timeline-sources {
+          margin-top: 28px;
+          padding-top: 24px;
+          border-top: 1px solid var(--timeline-border);
+        }
+        .timeline-sources h2 {
+          font-family: Georgia, "Times New Roman", serif;
+          font-size: 1.45rem;
+        }
+        .timeline-sources li {
+          margin-bottom: 8px;
+        }
+        .timeline-sources a {
+          color: #7b5f59;
+        }
+        @media (max-width: 780px) {
+          .pregnancy-timeline-page {
+            padding: 24px 14px 60px;
+          }
+          .timeline-header h1 em {
+            display: inline;
+          }
+          .timeline-info {
+            grid-template-columns: 42px 1fr;
+            padding: 15px;
+          }
+          .timeline-info-icon {
+            width: 42px;
+            height: 42px;
+          }
+          .timeline-essentials-grid {
+            grid-template-columns: 1fr;
+          }
+          .week-card {
+            grid-template-columns: 1fr;
+          }
+          .week-card-left {
+            border-right: 0;
+            border-bottom: 1px solid #f3e8e4;
+            padding: 20px;
+          }
+          .week-number {
+            font-size: 2.2rem;
+          }
+          .week-card-content {
+            padding: 24px 22px;
+          }
+          .week-visual {
+            padding: 18px;
+          }
+          .week-orb {
+            width: 92px;
+            height: 92px;
+          }
+          .timeline-ultrasound {
+            grid-template-columns: 1fr;
+          }
+        }
+      `}</style>
+
+      <div className="timeline-shell">
+        <div className="timeline-breadcrumbs">
+          <Link href="/">Accueil</Link>
+          <span>›</span>
+          <Link href={`/${article.categorySlug}`}>{article.category}</Link>
+          <span>›</span>
+          <span>{article.subcategory || "Article"}</span>
+        </div>
+
+        <header className="timeline-header">
+          <h1>
+            L’évolution du bébé semaine par semaine
+            <em> pendant le premier trimestre</em>
+          </h1>
+          <p className="timeline-lead">{article.description}</p>
+        </header>
+
+        {datingSection && (
+          <>
+            <section className="timeline-info">
+              <span className="timeline-info-icon">
+                <Heart size={24} />
+              </span>
+              <div>
+                {datingSection.paragraphs?.slice(0, 2).map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+              </div>
+            </section>
+
+            <p className="timeline-disclaimer">
+              <Sparkles size={18} />
+              <span>
+                Les tailles et les comparaisons avec des fruits sont
+                approximatives et peuvent varier légèrement selon les sources.
+              </span>
+            </p>
+          </>
+        )}
+
+        {essentials?.bullets && (
+          <section className="timeline-essentials">
+            <h2>L’essentiel en 30 secondes</h2>
+            <div className="timeline-essentials-grid">
+              {essentials.bullets.map((bullet) => (
+                <p className="timeline-essential" key={bullet}>
+                  <Check size={17} />
+                  <span>{renderRichText(bullet)}</span>
+                </p>
+              ))}
+            </div>
+          </section>
+        )}
+
+        <div className="week-list">
+          {weekSections.map((section) => {
+            const key = section.title.match(/^\d+ SA/)?.[0] ?? "";
+            const visual = weekVisuals[key];
+
+            if (!visual) return null;
+
+            return (
+              <section className="week-card" key={section.title}>
+                <div className="week-card-left">
+                  <div className="week-number">{visual.week}</div>
+                  <p className="week-comparison">{visual.comparison}</p>
+                  <span className="week-fruit" aria-hidden="true">
+                    {visual.emoji}
+                  </span>
+                  <p className="week-size">{visual.size}</p>
+                </div>
+
+                <div className="week-card-content">
+                  <h2>
+                    <Heart size={20} />
+                    {visual.headline}
+                  </h2>
+                  <ul>
+                    {section.paragraphs?.map((paragraph) => (
+                      <li key={paragraph}>{renderRichText(paragraph)}</li>
+                    ))}
+                  </ul>
+                </div>
+
+                <div className="week-visual" aria-hidden="true">
+                  <div className="week-orb">{visual.week}</div>
+                </div>
+              </section>
+            );
+          })}
+        </div>
+
+        {ultrasound && (
+          <section className="timeline-ultrasound">
+            <span className="timeline-ultrasound-icon">
+              <CalendarDays size={27} />
+            </span>
+            <div>
+              <h2>Le grand rendez-vous du premier trimestre</h2>
+              {ultrasound.paragraphs?.map((paragraph) => (
+                <p key={paragraph}>{renderRichText(paragraph)}</p>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {takeaway && (
+          <section className="timeline-takeaway">
+            <h2>À retenir</h2>
+            {takeaway.paragraphs?.map((paragraph) => (
+              <p key={paragraph}>{renderRichText(paragraph)}</p>
+            ))}
+          </section>
+        )}
+
+        <section className="timeline-sources">
+          <h2>Sources consultées</h2>
+          <ul>
+            {article.sources.map((source) => (
+              <li key={source.label}>
+                <a href={source.url} target="_blank" rel="noreferrer">
+                  {source.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
+    </main>
+  );
+}
+
 function UnifiedArticle({ article }: { article: Article }) {
   const essentials = article.sections.find(
     (section) => section.title === "L’essentiel en 30 secondes"
@@ -578,6 +1154,12 @@ export default async function ArticlePage({ params }: Props) {
   const article = getArticle(slug);
 
   if (!article) notFound();
+
+  if (
+    article.slug === "evolution-bebe-semaine-par-semaine-premier-trimestre"
+  ) {
+    return <WeekByWeekArticle article={article} />;
+  }
 
   return <UnifiedArticle article={article} />;
 }
