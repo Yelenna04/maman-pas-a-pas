@@ -26,7 +26,7 @@ export function getArticleImage(
     return "/images/article-a-la-une.png";
   }
 
-  if (slug === "comment-evolue-bebe-premier-trimestre") {
+  if (slug === "evolution-bebe-semaine-par-semaine-premier-trimestre") {
     return "/images/article-a-la-une.png";
   }
 
