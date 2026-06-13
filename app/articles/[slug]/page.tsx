@@ -341,19 +341,19 @@ function getItems(section: Article["sections"][number] | undefined): string[] {
 
 function FruitIllustration({ kind }: { kind: string }) {
   const common = {
-    width: 76,
-    height: 76,
-    viewBox: "0 0 76 76",
+    width: 78,
+    height: 78,
+    viewBox: "0 0 78 78",
     role: "img",
   };
 
   if (kind === "dust") {
     return (
       <svg {...common} aria-label="Grain de poussière">
-        <circle cx="37" cy="38" r="3" fill="#6f4a3e" />
-        <circle cx="30" cy="31" r="1.5" fill="#9d7468" />
-        <circle cx="45" cy="45" r="1.8" fill="#8b6155" />
-        <circle cx="42" cy="29" r="1" fill="#b48c80" />
+        <circle cx="39" cy="39" r="2.6" fill="#7a5549" />
+        <circle cx="33" cy="34" r="1.5" fill="#a47d70" />
+        <circle cx="46" cy="43" r="1.7" fill="#8b6358" />
+        <circle cx="44" cy="32" r="1.2" fill="#c59f93" />
       </svg>
     );
   }
@@ -361,9 +361,16 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "poppy") {
     return (
       <svg {...common} aria-label="Graine de pavot">
-        <ellipse cx="38" cy="39" rx="11" ry="14" fill="#29242d" />
-        <ellipse cx="34" cy="34" rx="5" ry="7" fill="#68616e" opacity=".8" />
-        <path d="M31 31c5-3 11-2 14 2" fill="none" stroke="#928b97" strokeWidth="1.3" />
+        <defs>
+          <radialGradient id="poppyGrad" cx="35%" cy="30%">
+            <stop offset="0%" stopColor="#7f7884" />
+            <stop offset="55%" stopColor="#3f3947" />
+            <stop offset="100%" stopColor="#25212b" />
+          </radialGradient>
+        </defs>
+        <ellipse cx="39" cy="40" rx="11.5" ry="14.5" fill="url(#poppyGrad)" />
+        <path d="M32 33c4-2 10-2 14 2" fill="none" stroke="#918a97" strokeWidth="1.2" />
+        <ellipse cx="35" cy="34" rx="4.2" ry="6" fill="#8f8794" opacity=".4" />
       </svg>
     );
   }
@@ -371,14 +378,20 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "sesame") {
     return (
       <svg {...common} aria-label="Graine de sésame">
+        <defs>
+          <linearGradient id="sesameGrad" x1="0" x2="1">
+            <stop offset="0%" stopColor="#f2d9a6" />
+            <stop offset="100%" stopColor="#d4b077" />
+          </linearGradient>
+        </defs>
         <path
-          d="M19 43c5-17 27-24 37-12 7 9-5 22-22 22-11 0-18-4-15-10Z"
-          fill="#e9c98d"
-          stroke="#c49b55"
-          strokeWidth="1.5"
+          d="M19 44c4-16 25-24 37-14 9 8 1 24-17 26-13 2-24-4-20-12Z"
+          fill="url(#sesameGrad)"
+          stroke="#c39a5e"
+          strokeWidth="1.4"
         />
-        <path d="M25 42c10 3 20 1 27-5" fill="none" stroke="#b88743" strokeWidth="1.4" />
-        <ellipse cx="30" cy="34" rx="8" ry="4" fill="#fff0c5" opacity=".65" />
+        <path d="M26 44c9 2 18 0 25-5" fill="none" stroke="#b48548" strokeWidth="1.2" />
+        <ellipse cx="32" cy="35" rx="8" ry="4" fill="#fff1cf" opacity=".55" />
       </svg>
     );
   }
@@ -386,9 +399,15 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "lentil") {
     return (
       <svg {...common} aria-label="Lentille">
-        <ellipse cx="38" cy="42" rx="22" ry="13" fill="#9a7a42" />
-        <ellipse cx="38" cy="38" rx="18" ry="8" fill="#b99b62" />
-        <ellipse cx="32" cy="35" rx="8" ry="3" fill="#d7c08e" opacity=".55" />
+        <defs>
+          <linearGradient id="lentilGrad" x1="0" x2="1">
+            <stop offset="0%" stopColor="#8f6d37" />
+            <stop offset="100%" stopColor="#c0a26b" />
+          </linearGradient>
+        </defs>
+        <ellipse cx="39" cy="44" rx="22" ry="13" fill="#8f6d37" />
+        <ellipse cx="39" cy="39" rx="20" ry="10" fill="url(#lentilGrad)" />
+        <ellipse cx="33" cy="35" rx="7" ry="3.5" fill="#e1c790" opacity=".5" />
       </svg>
     );
   }
@@ -396,8 +415,15 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "pea") {
     return (
       <svg {...common} aria-label="Petit pois">
-        <circle cx="38" cy="39" r="20" fill="#79a92f" stroke="#56831e" strokeWidth="1.5" />
-        <ellipse cx="31" cy="31" rx="8" ry="5" fill="#c2df70" opacity=".65" />
+        <defs>
+          <radialGradient id="peaGrad" cx="30%" cy="28%">
+            <stop offset="0%" stopColor="#cce78b" />
+            <stop offset="55%" stopColor="#89bb39" />
+            <stop offset="100%" stopColor="#648f22" />
+          </radialGradient>
+        </defs>
+        <circle cx="39" cy="40" r="20" fill="url(#peaGrad)" stroke="#557b24" strokeWidth="1.4" />
+        <ellipse cx="32" cy="32" rx="8" ry="5" fill="#e0f0b0" opacity=".55" />
       </svg>
     );
   }
@@ -405,29 +431,36 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "blueberry") {
     return (
       <svg {...common} aria-label="Myrtille">
-        <circle cx="38" cy="41" r="21" fill="#465b93" stroke="#2c3e73" strokeWidth="1.5" />
-        <ellipse cx="31" cy="33" rx="8" ry="6" fill="#8798c7" opacity=".7" />
-        <path d="m38 19 4 7 8-1-6 6 4 7-10-4-10 4 4-7-6-6 8 1Z" fill="#2f3f70" />
+        <defs>
+          <radialGradient id="blueGrad" cx="32%" cy="28%">
+            <stop offset="0%" stopColor="#8ea0d0" />
+            <stop offset="55%" stopColor="#4d649d" />
+            <stop offset="100%" stopColor="#304272" />
+          </radialGradient>
+        </defs>
+        <circle cx="39" cy="41" r="21" fill="url(#blueGrad)" stroke="#2d3d6d" strokeWidth="1.4" />
+        <path d="m39 19 4 7 8-1-6 6 4 7-10-4-10 4 4-7-6-6 8 1Z" fill="#2f3f70" />
+        <ellipse cx="32" cy="33" rx="7.5" ry="5.5" fill="#a8b6dc" opacity=".45" />
       </svg>
     );
   }
 
   if (kind === "raspberry") {
     const dots = [
-      [29, 27], [38, 24], [47, 28],
-      [24, 37], [34, 35], [44, 36], [52, 39],
-      [28, 47], [38, 46], [48, 48],
-      [34, 56], [44, 55],
+      [30, 28], [39, 25], [48, 28],
+      [25, 37], [34, 36], [44, 36], [53, 38],
+      [28, 47], [39, 46], [50, 47],
+      [33, 56], [45, 56],
     ];
     return (
       <svg {...common} aria-label="Framboise">
-        <g fill="#d94f70" stroke="#b93b5d" strokeWidth="1">
-          {dots.map(([cx, cy], index) => (
-            <circle key={index} cx={cx} cy={cy} r="7" />
+        <path d="M31 21c5 2 11 2 16 0" fill="none" stroke="#5c9447" strokeWidth="3.5" strokeLinecap="round" />
+        <path d="m35 20 4-6 4 6" fill="#79ad60" />
+        <g fill="#dc5471" stroke="#be3f5c" strokeWidth="1">
+          {dots.map(([cx, cy], i) => (
+            <circle key={i} cx={cx} cy={cy} r="6.5" />
           ))}
         </g>
-        <path d="M29 20c6 2 12 2 18 0" fill="none" stroke="#588f47" strokeWidth="4" strokeLinecap="round" />
-        <path d="m34 20 4-7 4 7" fill="#6ea154" />
       </svg>
     );
   }
@@ -435,20 +468,27 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "strawberry") {
     return (
       <svg {...common} aria-label="Fraise">
+        <defs>
+          <linearGradient id="strawGrad" x1="0" x2="0" y1="0" y2="1">
+            <stop offset="0%" stopColor="#f36b72" />
+            <stop offset="100%" stopColor="#cf4048" />
+          </linearGradient>
+        </defs>
         <path
-          d="M38 65C22 53 16 37 22 26c4-8 12-10 16-4 5-6 13-4 17 4 6 11 0 27-17 39Z"
-          fill="#df565d"
-          stroke="#c64049"
+          d="M39 66C25 57 18 44 20 32c2-9 9-13 17-12 1-5 5-8 10-8 8 0 13 7 11 16-2 14-9 25-19 38Z"
+          fill="url(#strawGrad)"
+          stroke="#b93942"
           strokeWidth="1.4"
         />
-        <path d="m25 24 8 2 5-9 5 9 9-2-6 8H31Z" fill="#5f9948" />
+        <path d="M24 23c4 2 7 2 10 1 1-4 3-7 5-8 2 3 4 6 5 8 3 1 6 1 10-1-2 4-4 6-7 8H31c-3-2-5-4-7-8Z" fill="#5a9448" />
         {[
-          [30,34],[38,31],[46,35],
-          [27,43],[36,41],[45,44],
-          [32,52],[41,51]
+          [31,34],[39,31],[47,35],
+          [28,43],[36,41],[45,43],
+          [32,51],[40,50],[37,58]
         ].map(([cx, cy], i) => (
-          <ellipse key={i} cx={cx} cy={cy} rx="1.3" ry="2.1" fill="#ffd98a" />
+          <ellipse key={i} cx={cx} cy={cy} rx="1.2" ry="2" fill="#ffe1a0" />
         ))}
+        <ellipse cx="32" cy="32" rx="8" ry="5" fill="#ff9aa1" opacity=".3" />
       </svg>
     );
   }
@@ -457,13 +497,13 @@ function FruitIllustration({ kind }: { kind: string }) {
     return (
       <svg {...common} aria-label="Figue">
         <path
-          d="M38 12c3 10 20 16 20 34 0 13-9 20-20 20s-20-7-20-20c0-18 17-24 20-34Z"
-          fill="#765078"
-          stroke="#5b395f"
-          strokeWidth="1.5"
+          d="M39 12c3 10 20 16 20 34 0 13-9 20-20 20s-20-7-20-20c0-18 17-24 20-34Z"
+          fill="#7a537d"
+          stroke="#5d3d60"
+          strokeWidth="1.4"
         />
-        <path d="M38 13c-2 2-5 4-9 4" fill="none" stroke="#638b4c" strokeWidth="4" strokeLinecap="round" />
-        <ellipse cx="31" cy="37" rx="7" ry="12" fill="#a780a7" opacity=".4" />
+        <path d="M39 13c-2 2-5 4-9 4" fill="none" stroke="#6a914d" strokeWidth="4" strokeLinecap="round" />
+        <ellipse cx="32" cy="38" rx="7" ry="12" fill="#af8db0" opacity=".35" />
       </svg>
     );
   }
@@ -471,29 +511,39 @@ function FruitIllustration({ kind }: { kind: string }) {
   if (kind === "plum") {
     return (
       <svg {...common} aria-label="Prune">
-        <ellipse cx="38" cy="43" rx="22" ry="25" fill="#6c4777" stroke="#4d3057" strokeWidth="1.5" />
-        <ellipse cx="31" cy="34" rx="8" ry="11" fill="#a174aa" opacity=".55" />
-        <path d="M38 18c1-6 5-9 10-11" fill="none" stroke="#5f8544" strokeWidth="4" strokeLinecap="round" />
-        <path d="M47 10c8 0 11 4 12 8-7 1-12-1-14-5Z" fill="#78a85b" />
+        <defs>
+          <radialGradient id="plumGrad" cx="32%" cy="28%">
+            <stop offset="0%" stopColor="#b18abb" />
+            <stop offset="60%" stopColor="#745084" />
+            <stop offset="100%" stopColor="#53385e" />
+          </radialGradient>
+        </defs>
+        <ellipse cx="39" cy="43" rx="22" ry="25" fill="url(#plumGrad)" stroke="#4e3158" strokeWidth="1.4" />
+        <path d="M39 17c1-6 5-9 10-11" fill="none" stroke="#648848" strokeWidth="4" strokeLinecap="round" />
+        <path d="M48 10c8 0 11 4 12 8-7 1-12-1-14-5Z" fill="#7ead5f" />
+        <ellipse cx="31" cy="35" rx="7.5" ry="10" fill="#c8a8cf" opacity=".25" />
       </svg>
     );
   }
 
   return (
     <svg {...common} aria-label="Petit citron">
-      <ellipse
-        cx="38"
-        cy="41"
-        rx="24"
-        ry="18"
-        transform="rotate(-8 38 41)"
-        fill="#efd33b"
-        stroke="#c6aa1d"
+      <defs>
+        <linearGradient id="lemonGrad" x1="0" x2="1">
+          <stop offset="0%" stopColor="#ffe05d" />
+          <stop offset="100%" stopColor="#e0ba18" />
+        </linearGradient>
+      </defs>
+      <path
+        d="M18 42c2-10 10-18 21-20 10-2 18 1 24 8 6 8 6 17 0 24-6 8-15 11-26 10-11-2-18-10-19-22Z"
+        fill="url(#lemonGrad)"
+        stroke="#be9b11"
         strokeWidth="1.5"
       />
-      <ellipse cx="31" cy="34" rx="9" ry="6" fill="#fff28b" opacity=".65" />
-      <path d="M57 31c7 0 10-4 12-8" fill="none" stroke="#678f46" strokeWidth="4" strokeLinecap="round" />
-      <path d="M62 24c7 0 10 4 10 8-6 1-11-1-13-5Z" fill="#79a858" />
+      <path d="M18 42c-5 0-7 2-9 5 2-5 4-8 9-9" fill="#ebc633" />
+      <path d="M63 32c6-1 9-4 12-8" fill="none" stroke="#6a9149" strokeWidth="4" strokeLinecap="round" />
+      <path d="M67 25c8 0 10 4 10 8-6 1-10-1-13-5Z" fill="#7fb05e" />
+      <ellipse cx="33" cy="34" rx="8" ry="5" fill="#fff2a4" opacity=".5" />
     </svg>
   );
 }
@@ -609,11 +659,11 @@ function WeekByWeekArticle({ article }: { article: Article }) {
     <main className="pregnancy-timeline-page">
       <style>{`
         .pregnancy-timeline-page {
-          --timeline-rose: #dc7f88;
+          --timeline-rose: #b97c76;
           --timeline-dark: #4d403d;
           --timeline-cream: #fffaf7;
-          --timeline-blush: #fdf0ef;
-          --timeline-border: #f1dfda;
+          --timeline-blush: #fff5f3;
+          --timeline-border: #eed5d3;
           background:
             radial-gradient(circle at top left, rgba(246, 220, 216, .45), transparent 31rem),
             #fffdfb;
@@ -666,9 +716,9 @@ function WeekByWeekArticle({ article }: { article: Article }) {
           max-width: 850px;
           margin: 30px auto 16px;
           padding: 18px 22px;
-          border: 1px solid #f4dddb;
+          border: 1px solid #eed5d3;
           border-radius: 22px;
-          background: linear-gradient(100deg, #fcebea, #fff7f5);
+          background: #fff5f3;
           box-shadow: 0 12px 36px rgba(119, 81, 72, .06);
         }
         .timeline-info-icon {
@@ -772,8 +822,8 @@ function WeekByWeekArticle({ article }: { article: Article }) {
         }
         .week-fruit {
           display: grid;
-          width: 82px;
-          height: 82px;
+          width: 86px;
+          height: 86px;
           margin: 13px 0 8px;
           place-items: center;
           border-radius: 50%;
@@ -860,15 +910,26 @@ function WeekByWeekArticle({ article }: { article: Article }) {
         }
         .timeline-sources {
           margin-top: 28px;
-          padding-top: 24px;
-          border-top: 1px solid var(--timeline-border);
+          padding: 24px 28px;
+          border: 1px solid var(--timeline-border);
+          border-radius: 24px;
+          background: #fff5f3;
+          box-shadow: none;
         }
         .timeline-sources h2 {
+          margin: 0 0 14px;
           font-family: Georgia, "Times New Roman", serif;
           font-size: 1.45rem;
+          color: var(--timeline-dark);
+        }
+        .timeline-sources ul {
+          margin: 0;
+          padding-left: 20px;
         }
         .timeline-sources li {
-          margin-bottom: 8px;
+          margin-bottom: 10px;
+          color: #6d615d;
+          line-height: 1.55;
         }
         .timeline-sources a {
           color: #7b5f59;
