@@ -5703,7 +5703,116 @@ export const articles: Article[] = [
         url: "https://www.service-public.fr/particuliers/vosdroits/F39477"
       }
     ]
+  },
+
+  {
+    slug: "quand-commence-t-on-a-sentir-le-bebe-bouger",
+    title: "Quand commence-t-on à sentir le bébé bouger ?",
+    description:
+      "Les premiers mouvements du bébé sont souvent ressentis entre 16 et 24 semaines de grossesse. Découvrez à quoi ils ressemblent et quand demander conseil.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "6 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les premiers mouvements sont généralement ressentis entre 16 et 24 semaines de grossesse.",
+          "Lors d’une première grossesse, ils sont souvent identifiés un peu plus tard.",
+          "Au début, les sensations peuvent ressembler à des bulles, des frôlements ou de petits papillons.",
+          "Un placenta placé à l’avant de l’utérus peut rendre les mouvements moins faciles à percevoir.",
+          "Si vous n’avez encore rien senti à 24 semaines, parlez-en à votre sage-femme ou à votre médecin."
+        ],
+        quote:
+          "Il n’existe pas une semaine précise à laquelle toutes les femmes enceintes doivent sentir leur bébé. Chaque grossesse évolue à son propre rythme."
+      },
+      {
+        title: "À quel moment ressent-on généralement les premiers mouvements ?",
+        paragraphs: [
+          "Le bébé commence à bouger bien avant que ses mouvements soient perceptibles. Ils peuvent d’ailleurs être observés lors des échographies du premier trimestre, alors que vous ne les ressentez pas encore.",
+          "Les premières sensations sont le plus souvent perçues au cours du deuxième trimestre, généralement entre 16 et 24 semaines de grossesse.",
+          "Lors d’une première grossesse, il est fréquent de ne reconnaître les mouvements qu’autour de 20 semaines, parfois un peu plus tard. Lorsque vous avez déjà été enceinte, vous pouvez les identifier plus tôt, car vous connaissez davantage ces sensations."
+        ]
+      },
+      {
+        title: "À quoi ressemblent les premiers mouvements ?",
+        paragraphs: [
+          "Les premiers mouvements ne ressemblent pas toujours à de véritables coups de pied. Ils sont souvent très légers et irréguliers.",
+          "Au début, il est normal d’hésiter entre les mouvements du bébé et ceux de la digestion. En avançant dans la grossesse, les sensations deviennent généralement plus nettes et plus faciles à reconnaître."
+        ],
+        bullets: [
+          "De petites bulles dans le ventre.",
+          "Des frôlements ou des vibrations.",
+          "Une impression de papillons.",
+          "De légers tapotements.",
+          "Une sensation proche des mouvements intestinaux."
+        ],
+        quote:
+          "Les premiers mouvements peuvent être si discrets que vous ne réalisez qu’après plusieurs jours qu’il s’agissait bien de votre bébé."
+      },
+      {
+        title: "Pourquoi certaines femmes les ressentent-elles plus tôt que d’autres ?",
+        paragraphs: [
+          "Le moment où les mouvements sont ressentis dépend de nombreux facteurs. Cela ne signifie pas qu’une grossesse se développe mieux ou moins bien qu’une autre.",
+          "Vous pouvez les percevoir plus tôt si vous avez déjà été enceinte et si vous reconnaissez plus facilement les premières sensations.",
+          "La position du placenta joue aussi un rôle. Lorsqu’il est placé à l’avant de l’utérus, entre le bébé et la paroi abdominale, il peut amortir une partie des mouvements. Vous pouvez alors les ressentir plus tard ou de manière moins nette.",
+          "La position du bébé, ses périodes d’activité et votre propre attention aux sensations peuvent également influencer ce que vous percevez."
+        ]
+      },
+      {
+        title: "Est-il normal de ne pas sentir le bébé tous les jours au début ?",
+        paragraphs: [
+          "Oui. Pendant les premières semaines, les mouvements peuvent rester irréguliers. Le bébé est encore petit, dispose de beaucoup d’espace et certains de ses mouvements ne sont pas dirigés vers la paroi de l’utérus.",
+          "Vous pouvez donc le sentir un jour, puis ne rien remarquer pendant quelque temps. Un rythme personnel devient progressivement plus identifiable à mesure que la grossesse avance.",
+          "Il n’est généralement pas nécessaire de compter les mouvements dès leur apparition. L’important est surtout d’apprendre progressivement à reconnaître les habitudes de votre bébé."
+        ]
+      },
+      {
+        title: "Quand le ou la partenaire peut-il sentir le bébé ?",
+        paragraphs: [
+          "Les mouvements sont d’abord perçus uniquement par la femme enceinte. Il faut souvent attendre qu’ils deviennent plus forts pour qu’une autre personne puisse les sentir en posant une main sur le ventre.",
+          "Cela arrive généralement quelques semaines après les premières sensations. Le moment varie selon la position du bébé, celle du placenta et l’intensité de ses mouvements.",
+          "Il est fréquent que le bébé cesse justement de bouger lorsque quelqu’un pose la main sur le ventre. Cela ne signifie pas qu’il réagit négativement : ses périodes d’activité restent encore imprévisibles."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis médical ?",
+        paragraphs: [
+          "Parlez-en à votre sage-femme ou à votre médecin si vous n’avez encore jamais senti votre bébé bouger à 24 semaines de grossesse. Un contrôle pourra être proposé pour vérifier que tout va bien et vous rassurer.",
+          "Lorsque vous avez commencé à reconnaître les habitudes de votre bébé, contactez rapidement la maternité ou le professionnel qui suit votre grossesse si ses mouvements diminuent nettement, si vous ne le sentez plus bouger comme d’habitude ou si son rythme vous semble inhabituel.",
+          "N’attendez pas le rendez-vous suivant et ne restez pas seule avec votre inquiétude. Vous ne dérangez jamais en demandant un avis concernant les mouvements de votre bébé."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les premiers mouvements sont le plus souvent ressentis entre 16 et 24 semaines de grossesse. Ils peuvent d’abord ressembler à des bulles, des frôlements ou de petits tapotements.",
+          "Le moment où vous les percevez dépend notamment du nombre de grossesses précédentes et de la position du placenta. Ne vous comparez pas aux autres femmes enceintes : chaque grossesse possède son propre rythme.",
+          "Si vous n’avez encore rien senti à 24 semaines, ou si les mouvements diminuent après avoir été régulièrement perçus, demandez rapidement conseil à un professionnel de santé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — Your baby's movements",
+        url: "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Your baby's movements in pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/your-babys-movements-in-pregnancy/"
+      },
+      {
+        label: "Tommy’s — Baby movements in pregnancy",
+        url: "https://www.tommys.org/pregnancy-information/im-pregnant/ask-a-midwife/baby-movements-pregnancy"
+      }
+    ]
   }
+
 ];
 
 export const categories = [
