@@ -48,8 +48,17 @@ export function CategoryPage({ slug }: { slug: string }) {
                   href={href}
                   className="category-card-link"
                   aria-label={`Découvrir ${subcategory.title}`}
+                  style={{ display: "flex", height: "100%" }}
                 >
-                  <section className="card card-hover">
+                  <section
+                    className="card card-hover"
+                    style={{
+                      display: "flex",
+                      flex: 1,
+                      flexDirection: "column",
+                      height: "100%"
+                    }}
+                  >
                     <div className="icon-chip sage">
                       <FolderOpen />
                     </div>
@@ -71,7 +80,10 @@ export function CategoryPage({ slug }: { slug: string }) {
                           } disponible${count > 1 ? "s" : ""}`}
                     </p>
 
-                    <span className="link-arrow">
+                    <span
+                      className="link-arrow"
+                      style={{ marginTop: "auto" }}
+                    >
                       Découvrir
                       <ArrowRight size={17} />
                     </span>
