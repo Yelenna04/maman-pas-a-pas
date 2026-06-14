@@ -6539,6 +6539,169 @@ export const articles: Article[] = [
         url: "https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/signs-of-labor/art-20046184"
       }
     ]
+  },
+
+  {
+    slug: "essoufflement-reflux-jambes-lourdes-comment-se-soulager",
+    title: "Essoufflement, reflux et jambes lourdes : comment se soulager ?",
+    description:
+      "Au troisième trimestre, l’essoufflement, le reflux et les jambes lourdes sont fréquents. Découvrez des gestes simples pour les soulager et les signes qui nécessitent un avis médical.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "9 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un essoufflement progressif à l’effort peut être fréquent en fin de grossesse, mais un essoufflement brutal ou au repos doit être évalué rapidement.",
+          "Le reflux est souvent amélioré par des repas plus petits, l’évitement des aliments déclencheurs et une position moins allongée après les repas.",
+          "Pour les jambes lourdes, marchez régulièrement, évitez les longues périodes immobiles et surélevez les jambes au repos.",
+          "Ne prenez pas de médicament, de plante ou d’huile essentielle sans vérifier sa compatibilité avec la grossesse.",
+          "Une jambe soudainement gonflée, rouge ou douloureuse, une douleur thoracique, un malaise ou une difficulté importante à respirer nécessitent une aide médicale urgente."
+        ],
+        quote:
+          "Ces symptômes sont fréquents au troisième trimestre, mais ils ne doivent jamais être banalisés lorsqu’ils apparaissent brutalement, deviennent intenses ou s’accompagnent d’autres signes."
+      },
+      {
+        title: "Pourquoi ces symptômes sont-ils fréquents au troisième trimestre ?",
+        paragraphs: [
+          "À mesure que l’utérus grandit, il prend davantage de place dans l’abdomen. Cela peut limiter l’amplitude du diaphragme, favoriser les remontées acides et ralentir le retour veineux dans les jambes.",
+          "Les hormones de la grossesse relâchent aussi certains muscles, notamment le sphincter situé entre l’œsophage et l’estomac, ce qui facilite le reflux.",
+          "L’augmentation du volume sanguin, la pression de l’utérus sur les veines du bassin et la chaleur peuvent accentuer la sensation de jambes lourdes ou les gonflements."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "L’essoufflement habituel est généralement progressif, surtout à l’effort, et s’améliore au repos. Un essoufflement soudain, intense ou présent au repos n’est pas à banaliser.",
+          "Le reflux provoque souvent une brûlure derrière le sternum, des remontées acides ou une gêne après les repas, surtout en position allongée.",
+          "Les jambes lourdes touchent souvent les deux côtés et s’aggravent en fin de journée. Une seule jambe brutalement gonflée, rouge, chaude ou douloureuse doit faire consulter rapidement."
+        ],
+        quote:
+          "Le caractère progressif ou brutal, l’intensité et les symptômes associés sont plus importants que le symptôme isolé."
+      },
+      {
+        title: "Comment soulager un essoufflement léger ?",
+        paragraphs: [
+          "Ralentissez le rythme et accordez-vous des pauses régulières. Évitez de porter des charges lourdes et adaptez les activités qui vous demandent beaucoup d’effort.",
+          "Tenez-vous aussi droite que possible afin de libérer la cage thoracique. Assise, soutenez le dos et évitez de vous affaisser.",
+          "Pour dormir, surélevez légèrement le haut du corps avec des coussins si cette position vous aide à mieux respirer.",
+          "Une activité physique douce et régulière, si elle est autorisée dans votre grossesse, peut entretenir l’endurance. Arrêtez-vous et demandez conseil si l’effort provoque une gêne inhabituelle."
+        ]
+      },
+      {
+        title: "Quand l’essoufflement doit-il inquiéter ?",
+        paragraphs: [
+          "Contactez rapidement un professionnel si l’essoufflement apparaît brutalement, devient important, survient au repos ou vous empêche de parler normalement.",
+          "Appelez les urgences en cas de douleur thoracique, de malaise, de lèvres bleutées, de palpitations importantes, de toux avec du sang ou de sensation d’étouffement.",
+          "Un essoufflement associé à une douleur ou à un gonflement d’une seule jambe peut évoquer une complication veineuse et nécessite une évaluation urgente.",
+          "Une fatigue extrême, une pâleur, des palpitations ou un essoufflement inhabituel peuvent aussi être liés à une anémie et doivent être signalés lors du suivi."
+        ]
+      },
+      {
+        title: "Comment reconnaître le reflux ?",
+        paragraphs: [
+          "Le reflux gastro-œsophagien se manifeste souvent par une sensation de brûlure qui remonte derrière le sternum, des régurgitations acides, un goût amer dans la bouche ou une gêne après les repas.",
+          "Les symptômes sont fréquemment aggravés lorsque vous vous allongez, vous penchez en avant ou mangez un repas copieux.",
+          "Une douleur thoracique ne doit toutefois pas être attribuée automatiquement au reflux, surtout si elle est intense, inhabituelle ou associée à un essoufflement."
+        ]
+      },
+      {
+        title: "Quels gestes peuvent réduire le reflux ?",
+        bullets: [
+          "Fractionnez les repas et mangez de plus petites quantités.",
+          "Évitez de vous allonger immédiatement après avoir mangé.",
+          "Repérez les aliments qui déclenchent vos symptômes, par exemple les plats gras, épicés, acides ou très chocolatés.",
+          "Mangez lentement et évitez les vêtements qui compriment fortement l’abdomen.",
+          "Surélevez légèrement la tête et le haut du corps pendant la nuit.",
+          "Limitez la caféine et évitez l’alcool, qui est déconseillé pendant toute la grossesse."
+        ],
+        paragraphs: [
+          "Il n’est pas nécessaire de supprimer de nombreux aliments sans raison. Identifiez plutôt ceux qui déclenchent réellement vos symptômes."
+        ]
+      },
+      {
+        title: "Peut-on prendre un traitement contre le reflux ?",
+        paragraphs: [
+          "Certains traitements peuvent être utilisés pendant la grossesse, mais le choix dépend de vos symptômes, de vos antécédents et des autres médicaments que vous prenez.",
+          "Demandez conseil à votre sage-femme, à votre médecin ou à votre pharmacien avant de prendre un antiacide, un alginate ou un autre traitement.",
+          "Évitez l’automédication prolongée et ne prenez pas de bicarbonate, de plante, de complément ou d’huile essentielle sans avis professionnel.",
+          "Consultez si le reflux est très fréquent, vous empêche de manger ou de dormir, s’accompagne de vomissements persistants, de difficultés à avaler, de sang ou d’une perte de poids."
+        ]
+      },
+      {
+        title: "Pourquoi a-t-on les jambes lourdes ?",
+        paragraphs: [
+          "Pendant la grossesse, le retour du sang des jambes vers le cœur peut être ralenti par les hormones, l’augmentation du volume sanguin et la pression de l’utérus sur les veines du bassin.",
+          "La sensation de lourdeur est souvent plus marquée en fin de journée, par temps chaud ou après une longue période debout ou assise.",
+          "Des chevilles légèrement gonflées des deux côtés peuvent aussi apparaître. Elles doivent néanmoins être surveillées si le gonflement devient brutal ou important."
+        ]
+      },
+      {
+        title: "Comment soulager les jambes lourdes ?",
+        bullets: [
+          "Marchez régulièrement et mobilisez les chevilles plusieurs fois par jour.",
+          "Évitez de rester longtemps debout ou assise sans bouger.",
+          "Surélevez les jambes lorsque vous vous reposez.",
+          "Évitez de croiser longtemps les jambes.",
+          "Portez des chaussures confortables et des vêtements qui ne compriment pas l’aine ou les jambes.",
+          "Passez de l’eau fraîche des chevilles vers les cuisses si cela vous soulage.",
+          "Demandez conseil pour des bas ou collants de compression adaptés à la grossesse."
+        ],
+        paragraphs: [
+          "Les massages doux peuvent être agréables lorsqu’il s’agit d’une lourdeur diffuse des deux jambes. Ne massez pas une jambe soudainement douloureuse, rouge, chaude ou gonflée avant d’avoir demandé un avis médical."
+        ]
+      },
+      {
+        title: "Quand un gonflement doit-il faire consulter ?",
+        paragraphs: [
+          "Une seule jambe qui devient soudainement gonflée, rouge, chaude ou douloureuse peut évoquer une thrombose veineuse. Contactez immédiatement un professionnel de santé.",
+          "Un gonflement brutal du visage, des mains ou des jambes, surtout s’il s’accompagne de maux de tête, de troubles visuels, de douleur sous les côtes ou d’un malaise, nécessite aussi une évaluation urgente.",
+          "Un œdème progressif et symétrique des chevilles est souvent bénin en fin de grossesse, mais signalez-le lors du suivi s’il s’aggrave ou vous inquiète."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis médical ?",
+        paragraphs: [
+          "Consultez rapidement si l’un de ces symptômes apparaît brutalement, devient intense, ne s’améliore pas au repos ou s’accompagne d’un malaise.",
+          "Appelez les urgences en cas de difficulté importante à respirer, de douleur thoracique, de perte de connaissance, de toux avec du sang ou de douleur et gonflement d’une seule jambe.",
+          "Contactez également la maternité en cas de diminution des mouvements du bébé, de contractions régulières, de saignement ou de perte de liquide.",
+          "Pour des symptômes plus modérés mais persistants, parlez-en à votre sage-femme, à votre médecin ou à votre pharmacien afin d’obtenir un conseil adapté à la grossesse."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un essoufflement léger et progressif, le reflux et les jambes lourdes sont fréquents au troisième trimestre.",
+          "Des pauses, une posture plus droite, des repas plus petits, une activité douce et la surélévation des jambes peuvent améliorer le confort.",
+          "Les médicaments et produits naturels doivent toujours être vérifiés avant utilisation pendant la grossesse.",
+          "Un essoufflement brutal, une douleur thoracique ou une seule jambe douloureuse et gonflée nécessitent une évaluation urgente."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Essoufflement ou dyspnée",
+        url: "https://www.ameli.fr/assure/sante/themes/essoufflement-dyspnee"
+      },
+      {
+        label: "Assurance Maladie — Reflux gastro-œsophagien de l’adulte",
+        url: "https://www.ameli.fr/assure/sante/themes/rgo-adulte"
+      },
+      {
+        label: "Assurance Maladie — Jambes lourdes",
+        url: "https://www.ameli.fr/assure/sante/themes/jambes-lourdes"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse"
+      }
+    ]
   }
 
 ];
