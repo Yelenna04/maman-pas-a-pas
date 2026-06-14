@@ -7084,6 +7084,183 @@ export const articles: Article[] = [
         url: "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/"
       }
     ]
+  },
+
+{
+    slug: "perte-des-eaux-que-faut-il-faire",
+    title: "Perte des eaux : que faut-il faire ?",
+    description:
+      "Comment reconnaître une perte des eaux, quoi faire immédiatement et quand contacter la maternité.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "8 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Si vous pensez perdre les eaux, mettez une protection externe, notez l’heure, la couleur et l’odeur du liquide, puis contactez votre maternité.",
+          "La perte des eaux peut être abondante et soudaine, mais aussi se manifester par de petites fuites répétées.",
+          "N’utilisez pas de tampon, ne prenez pas de bain et évitez les rapports sexuels après une suspicion de rupture de la poche des eaux.",
+          "Un liquide vert, brun, malodorant, très sanglant ou accompagné d’une diminution des mouvements du bébé nécessite une évaluation rapide.",
+          "Avant 37 semaines, toute suspicion de perte des eaux doit être signalée sans attendre."
+        ],
+        quote:
+          "Même sans contraction et même si vous n’êtes pas certaine qu’il s’agisse de liquide amniotique, appelez la maternité pour être guidée."
+      },
+      {
+        title: "Qu’est-ce que la perte des eaux ?",
+        paragraphs: [
+          "La poche des eaux est constituée de membranes qui entourent le bébé et contiennent le liquide amniotique. Lorsqu’elles se rompent, le liquide peut s’écouler par le vagin.",
+          "La rupture peut survenir pendant le travail, avant le début des contractions ou, plus rarement, avant le terme de la grossesse.",
+          "Après la rupture, le risque infectieux augmente progressivement. C’est pourquoi la maternité doit être informée afin d’évaluer la situation et de vous indiquer quand venir."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le liquide amniotique est généralement clair, transparent ou légèrement rosé.",
+          "L’écoulement est souvent involontaire : il peut être difficile à retenir et recommencer lorsque vous bougez, toussez ou changez de position.",
+          "Une perte des eaux peut être franche, comme une grande quantité de liquide, ou discrète, sous forme de petites fuites continues."
+        ],
+        quote:
+          "En cas de doute entre urine, pertes vaginales et liquide amniotique, ne cherchez pas à poser vous-même le diagnostic : contactez la maternité."
+      },
+      {
+        title: "Comment reconnaître une perte des eaux ?",
+        paragraphs: [
+          "Certaines femmes ressentent un petit claquement ou une sensation de liquide chaud qui s’écoule soudainement. Pour d’autres, la fuite est beaucoup plus progressive.",
+          "Le liquide amniotique est souvent fluide et aqueux. Contrairement à l’urine, il n’a généralement pas l’odeur caractéristique d’ammoniaque et son écoulement peut se poursuivre malgré le fait de contracter le périnée.",
+          "Les pertes vaginales habituelles sont souvent plus épaisses ou glaireuses. Toutefois, il n’est pas toujours possible de faire la différence à domicile.",
+          "À la maternité, un examen au spéculum et, si nécessaire, des tests spécifiques peuvent confirmer ou non la rupture des membranes."
+        ]
+      },
+      {
+        title: "Que faire immédiatement ?",
+        bullets: [
+          "Notez l’heure à laquelle l’écoulement a commencé.",
+          "Observez la couleur, l’odeur et la quantité approximative du liquide.",
+          "Mettez une serviette hygiénique ou une protection propre, sans rien introduire dans le vagin.",
+          "Appelez votre maternité et suivez ses consignes.",
+          "Préparez votre dossier de grossesse, votre valise et un moyen de transport.",
+          "Continuez à observer les mouvements du bébé."
+        ],
+        paragraphs: [
+          "Vous pouvez vous asseoir ou vous allonger confortablement en attendant les consignes. Il n’est pas nécessaire de rester totalement immobile, sauf indication particulière de l’équipe.",
+          "Si le liquide continue à couler, changez simplement de protection pour rester confortable et permettre à l’équipe d’en observer la couleur si besoin."
+        ]
+      },
+      {
+        title: "Faut-il aller immédiatement à la maternité ?",
+        paragraphs: [
+          "Oui, il faut au minimum contacter la maternité rapidement, même si vous n’avez aucune contraction. L’équipe vous indiquera quand venir selon votre terme, vos antécédents, la couleur du liquide et les mouvements du bébé.",
+          "Certaines maternités demandent une venue immédiate, tandis que d’autres peuvent vous laisser un court délai si la grossesse est à terme, que le liquide est clair et que tout va bien.",
+          "Ne restez pas seule sans avis médical. La rupture de la poche des eaux nécessite une évaluation, notamment pour vérifier le bien-être du bébé et le risque infectieux."
+        ]
+      },
+      {
+        title: "Quels signes nécessitent de partir sans attendre ?",
+        bullets: [
+          "Le liquide est vert, brun ou très foncé.",
+          "Le liquide est malodorant.",
+          "Vous avez un saignement rouge ou abondant.",
+          "Le bébé bouge nettement moins que d’habitude.",
+          "Vous avez de la fièvre, des frissons ou un malaise.",
+          "Vous ressentez une douleur abdominale continue ou inhabituelle.",
+          "Vous sentez quelque chose dans le vagin ou avez une forte envie de pousser.",
+          "La perte des eaux survient avant 37 semaines."
+        ],
+        paragraphs: [
+          "En cas d’urgence, de saignement important, de sensation que le bébé arrive ou si vous ne pouvez pas rejoindre la maternité en sécurité, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "Pourquoi la couleur du liquide est-elle importante ?",
+        paragraphs: [
+          "Un liquide clair ou légèrement rosé est fréquent. De petites traces rosées peuvent être liées aux modifications du col.",
+          "Un liquide verdâtre ou brunâtre peut contenir du méconium, les premières selles du bébé. Cela nécessite une surveillance à la maternité.",
+          "Un liquide rouge ou fortement teinté de sang n’est pas considéré comme une perte des eaux normale et doit conduire à une évaluation urgente.",
+          "Une odeur inhabituelle ou désagréable peut faire suspecter une infection et doit être signalée."
+        ]
+      },
+      {
+        title: "Que ne faut-il pas faire après la perte des eaux ?",
+        bullets: [
+          "Ne mettez pas de tampon.",
+          "N’introduisez pas vos doigts dans le vagin.",
+          "N’ayez pas de rapport sexuel.",
+          "Ne prenez pas de bain sans l’accord de la maternité.",
+          "N’attendez pas plusieurs heures sans avoir appelé.",
+          "Ne conduisez pas vous-même si vous avez des contractions fortes, un malaise ou un signe d’alerte."
+        ],
+        paragraphs: [
+          "Une douche rapide peut généralement être possible si vous vous sentez bien, mais demandez l’avis de votre maternité, car les consignes peuvent varier selon la situation."
+        ]
+      },
+      {
+        title: "Et si les contractions ne commencent pas ?",
+        paragraphs: [
+          "Il est possible de perdre les eaux avant le début du travail. Les contractions peuvent commencer spontanément dans les heures qui suivent.",
+          "À la maternité, l’équipe surveillera votre température, le rythme cardiaque du bébé, l’apparition des contractions et d’éventuels signes d’infection.",
+          "Selon le terme, le résultat du dépistage du streptocoque B, votre état et celui du bébé, l’équipe peut proposer une surveillance, des antibiotiques ou un déclenchement.",
+          "La conduite à tenir dépend de nombreux facteurs : il n’est donc pas possible de prévoir à l’avance un délai identique pour toutes les femmes."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si la perte des eaux survient avant 37 semaines ?",
+        paragraphs: [
+          "Une rupture des membranes avant 37 semaines est appelée rupture prématurée des membranes avant terme. Elle nécessite une évaluation rapide en maternité.",
+          "La prise en charge dépend du nombre de semaines de grossesse, de la présence de contractions, du risque infectieux et de l’état du bébé.",
+          "Une hospitalisation, une antibiothérapie, une surveillance rapprochée ou des traitements destinés à préparer le bébé à une naissance prématurée peuvent être proposés.",
+          "N’attendez pas l’apparition de contractions pour appeler : une simple suspicion de fuite de liquide avant terme doit être signalée."
+        ]
+      },
+      {
+        title: "Comment se préparer avant le départ ?",
+        bullets: [
+          "Prenez votre dossier de grossesse et vos documents administratifs.",
+          "Emportez une protection propre et éventuellement une serviette pour le siège de la voiture.",
+          "Demandez à une personne de vous accompagner.",
+          "Notez l’heure, la couleur du liquide et le début éventuel des contractions.",
+          "Gardez le téléphone de la maternité facilement accessible."
+        ],
+        paragraphs: [
+          "Ne retardez pas votre départ pour finir de préparer la valise si la maternité vous demande de venir rapidement. L’essentiel pourra être apporté plus tard par votre accompagnant."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Toute suspicion de perte des eaux doit conduire à contacter la maternité.",
+          "La rupture peut être franche ou se manifester par de petites fuites répétées.",
+          "Après la perte des eaux, utilisez uniquement une protection externe et évitez tout ce qui peut augmenter le risque infectieux.",
+          "La couleur du liquide, les mouvements du bébé, votre terme et votre état général sont des informations importantes à transmettre.",
+          "En cas de doute ou de signe d’alerte, ne restez pas seule : demandez un avis médical rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Accouchement normal : accompagnement de la physiologie et interventions médicales",
+        url: "https://www.has-sante.fr/jcms/c_2820336/fr/accouchement-normal-accompagnement-de-la-physiologie-et-interventions-medicales"
+      },
+      {
+        label: "Assistance Publique – Hôpitaux de Paris — Grossesse et accouchement",
+        url: "https://www.aphp.fr/grossesse-et-accouchement"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+      },
+      {
+        label: "NHS — Signs that labour has begun",
+        url: "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/"
+      }
+    ]
   }
 ];
 
