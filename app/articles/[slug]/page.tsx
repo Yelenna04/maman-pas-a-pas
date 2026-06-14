@@ -5,6 +5,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   AlertTriangle,
+  ArrowLeft,
+  ArrowRight,
   CalendarDays,
   Check,
   ChevronDown,
@@ -858,6 +860,68 @@ const weekVisuals: Record<
   },
 };
 
+
+function ArticleNavigation({ article }: { article: Article }) {
+  const articlesInSubcategory = articles.filter(
+    (item) =>
+      item.categorySlug === article.categorySlug &&
+      item.subcategorySlug === article.subcategorySlug,
+  );
+  const currentIndex = articlesInSubcategory.findIndex(
+    (item) => item.slug === article.slug,
+  );
+  const nextArticle =
+    currentIndex >= 0 ? articlesInSubcategory[currentIndex + 1] : undefined;
+
+  const backHref = article.subcategorySlug
+    ? `/categories/${article.categorySlug}/${article.subcategorySlug}`
+    : `/${article.categorySlug}`;
+  const backLabel = article.subcategory || article.category;
+
+  return (
+    <nav
+      aria-label="Navigation entre les articles"
+      style={{
+        alignItems: "stretch",
+        display: "flex",
+        flexWrap: "wrap",
+        gap: 12,
+        justifyContent: "center",
+        marginTop: 36,
+      }}
+    >
+      <Link
+        href={backHref}
+        className="btn btn-secondary"
+        style={{ minWidth: 240 }}
+      >
+        <ArrowLeft size={18} />
+        Retour à {backLabel}
+      </Link>
+
+      {nextArticle ? (
+        <Link
+          href={`/articles/${nextArticle.slug}`}
+          className="btn btn-primary"
+          style={{ minWidth: 240 }}
+        >
+          Article suivant
+          <ArrowRight size={18} />
+        </Link>
+      ) : (
+        <Link
+          href="/articles"
+          className="btn btn-primary"
+          style={{ minWidth: 240 }}
+        >
+          Tous les articles
+          <ArrowRight size={18} />
+        </Link>
+      )}
+    </nav>
+  );
+}
+
 function WeekByWeekArticle({ article }: { article: Article }) {
   const essentials = article.sections.find(
     (section) => section.title === "L’essentiel en 30 secondes",
@@ -1309,6 +1373,8 @@ function WeekByWeekArticle({ article }: { article: Article }) {
             ))}
           </ul>
         </section>
+
+        <ArticleNavigation article={article} />
       </div>
     </main>
   );
@@ -1620,6 +1686,8 @@ function UnifiedArticle({ article }: { article: Article }) {
             ))}
           </ul>
         </section>
+
+        <ArticleNavigation article={article} />
       </div>
     </main>
   );
