@@ -6227,6 +6227,162 @@ export const articles: Article[] = [
         url: "https://www.acog.org/womens-health/faqs/problems-of-the-digestive-system"
       }
     ]
+  },
+
+  {
+    slug: "sexualite-pendant-grossesse-que-faut-il-savoir",
+    title: "Sexualité pendant la grossesse : que faut-il savoir ?",
+    description:
+      "La sexualité peut évoluer pendant la grossesse. Découvrez ce qui est généralement sans risque, les adaptations possibles et les situations qui nécessitent un avis médical.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "8 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Dans une grossesse sans complication, les rapports sexuels et l’orgasme sont généralement sans danger pour le bébé.",
+          "Le désir peut augmenter, diminuer ou varier au fil des semaines : toutes ces évolutions sont normales.",
+          "Le confort et le consentement priment. Il n’existe aucune obligation de maintenir une sexualité pénétrative pendant la grossesse.",
+          "Un préservatif reste nécessaire en cas de risque d’infection sexuellement transmissible.",
+          "En cas de saignement, de perte de liquide, de douleur importante ou si un professionnel vous a conseillé d’éviter les rapports, demandez un avis avant de reprendre."
+        ],
+        quote:
+          "La grossesse ne crée ni devoir conjugal ni norme de fréquence. Une sexualité satisfaisante repose d’abord sur le consentement, le confort et la communication."
+      },
+      {
+        title: "Les rapports sexuels sont-ils dangereux pour le bébé ?",
+        paragraphs: [
+          "Dans une grossesse qui évolue normalement, les rapports sexuels ne blessent pas le bébé. Celui-ci est protégé dans l’utérus par les membranes, le liquide amniotique, les muscles utérins et le col.",
+          "La pénétration ne peut pas atteindre le bébé. Les mouvements ressentis pendant ou après un rapport ne signifient pas qu’il est en danger.",
+          "Un rapport sexuel ou un orgasme ne provoque pas une fausse couche dans une grossesse sans complication. La majorité des fausses couches précoces sont liées à des anomalies du développement de l’embryon."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La sécurité : en l’absence de complication ou de consigne médicale particulière, la sexualité est généralement possible pendant toute la grossesse.",
+          "Le confort : adaptez les positions, le rythme, la profondeur de pénétration et utilisez un lubrifiant à base d’eau si nécessaire.",
+          "Le consentement : chacun peut avoir plus ou moins de désir. Une envie changeante, une pause ou le choix d’autres formes d’intimité doivent être respectés."
+        ],
+        quote:
+          "Le bon repère n’est pas ce que font les autres couples, mais ce qui reste agréable, librement consenti et compatible avec votre suivi médical."
+      },
+      {
+        title: "Pourquoi le désir peut-il changer ?",
+        paragraphs: [
+          "Les hormones, la fatigue, les nausées, la sensibilité des seins, l’image du corps et les inquiétudes peuvent modifier le désir sexuel.",
+          "Au deuxième trimestre, certaines femmes retrouvent de l’énergie et ressentent davantage de désir ou de sensibilité en raison de l’augmentation du flux sanguin dans la région génitale.",
+          "D’autres ont moins envie de rapports ou n’en souhaitent pas du tout. Ces variations ne signifient pas qu’il existe un problème dans le couple.",
+          "Le désir du ou de la partenaire peut lui aussi évoluer, notamment par peur de faire mal au bébé ou face aux changements corporels."
+        ]
+      },
+      {
+        title: "Quelles positions sont les plus confortables ?",
+        paragraphs: [
+          "Il n’existe pas une position obligatoire. L’objectif est d’éviter la pression sur le ventre et de choisir une installation qui ne provoque ni douleur ni gêne respiratoire.",
+          "Les positions sur le côté, côte à côte ou en cuillère, sont souvent confortables lorsque le ventre s’arrondit.",
+          "La personne enceinte au-dessus peut contrôler davantage le rythme et la profondeur de la pénétration.",
+          "Des coussins sous les hanches, entre les genoux ou derrière le dos peuvent améliorer le soutien. Arrêtez ou changez de position dès qu’une gêne apparaît."
+        ]
+      },
+      {
+        title: "Que faire en cas de sécheresse ou de douleur ?",
+        paragraphs: [
+          "La lubrification peut augmenter ou diminuer pendant la grossesse. Un lubrifiant à base d’eau peut réduire les frottements lors d’une pénétration.",
+          "Prenez davantage de temps, ralentissez et choisissez une pénétration moins profonde si certaines positions deviennent sensibles.",
+          "Une douleur répétée, vive ou persistante pendant les rapports ne doit pas être considérée comme normale. Parlez-en à une sage-femme, à un médecin ou à un professionnel de santé."
+        ]
+      },
+      {
+        title: "L’orgasme peut-il provoquer des contractions ?",
+        paragraphs: [
+          "L’orgasme peut entraîner un durcissement temporaire de l’utérus ou de petites contractions, surtout lorsque la grossesse avance.",
+          "Ces sensations sont généralement brèves, irrégulières et sans danger dans une grossesse sans complication. Elles ne correspondent pas forcément au début du travail.",
+          "Si les contractions deviennent douloureuses, régulières, persistent ou s’accompagnent de saignements ou d’une perte de liquide, contactez la maternité."
+        ]
+      },
+      {
+        title: "De légers saignements après un rapport sont-ils possibles ?",
+        paragraphs: [
+          "Le col de l’utérus est davantage vascularisé pendant la grossesse. Une pénétration peut parfois provoquer un léger saignement ou quelques traces rosées.",
+          "Tout saignement pendant la grossesse mérite toutefois d’être signalé, surtout s’il est rouge, abondant, répété, douloureux ou accompagné de contractions.",
+          "Évitez de reprendre les rapports pénétratifs avant d’avoir demandé conseil si vous présentez un saignement inexpliqué."
+        ]
+      },
+      {
+        title: "Dans quelles situations faut-il éviter les rapports pénétratifs ?",
+        paragraphs: [
+          "Un médecin ou une sage-femme peut recommander d’éviter temporairement ou durablement la pénétration selon votre situation.",
+          "C’est notamment possible en cas de placenta prævia ou très bas inséré avec risque de saignement, de rupture de la poche des eaux, de saignements inexpliqués ou de risque particulier d’accouchement prématuré.",
+          "Une consigne d’abstinence peut concerner la pénétration uniquement ou inclure l’orgasme et l’utilisation de sex-toys. Demandez précisément ce qui est déconseillé et pendant combien de temps."
+        ]
+      },
+      {
+        title: "Comment prévenir les infections sexuellement transmissibles ?",
+        paragraphs: [
+          "La grossesse ne protège pas des infections sexuellement transmissibles. Certaines peuvent avoir des conséquences pour la mère et le bébé.",
+          "Utilisez un préservatif en cas de nouveau partenaire, de partenaires multiples, de relation non exclusive ou de doute sur une infection.",
+          "En cas de brûlures, de lésions, de douleurs, d’écoulements inhabituels ou de suspicion d’exposition, consultez rapidement pour un dépistage et un traitement adapté."
+        ]
+      },
+      {
+        title: "Le sexe oral et les sex-toys sont-ils possibles ?",
+        paragraphs: [
+          "Le sexe oral est généralement possible pendant la grossesse. Il faut toutefois éviter tout contact en présence d’un bouton de fièvre ou d’un herpès actif, en raison du risque de transmission.",
+          "Il ne faut jamais souffler de l’air directement dans le vagin, car cela peut exceptionnellement entraîner une complication grave.",
+          "Les sex-toys peuvent être utilisés s’ils sont propres, non douloureux et qu’aucune consigne médicale ne les interdit. Nettoyez-les après chaque utilisation et utilisez un préservatif neuf s’ils sont partagés."
+        ]
+      },
+      {
+        title: "Et si l’on ne souhaite pas de pénétration ?",
+        paragraphs: [
+          "L’intimité ne se limite pas aux rapports pénétratifs. Les caresses, les massages, les baisers, la masturbation mutuelle ou simplement le contact physique peuvent convenir davantage à certains moments.",
+          "Parler de ce qui est agréable, inconfortable ou inquiétant permet d’éviter les malentendus et la pression.",
+          "Personne ne doit accepter une activité sexuelle par peur de décevoir l’autre. Le consentement doit rester libre, clair et réversible à tout moment."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis médical ?",
+        paragraphs: [
+          "Contactez rapidement la maternité ou le professionnel qui suit votre grossesse en cas de saignement important, de perte de liquide, de douleur intense, de fièvre ou de contractions régulières.",
+          "Demandez aussi conseil si les rapports provoquent systématiquement une douleur ou des saignements, ou si vous ne savez pas si une complication vous impose des précautions particulières.",
+          "Si la sexualité devient source de détresse, de conflit, de peur ou de pression, vous pouvez en parler à une sage-femme, à un médecin, à un psychologue ou à un conseiller conjugal."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Dans une grossesse sans complication, la sexualité est généralement sans danger pour le bébé.",
+          "Le désir et le confort peuvent beaucoup varier. Il n’existe aucune fréquence ni pratique obligatoire.",
+          "Adaptez les positions, utilisez un lubrifiant si nécessaire et protégez-vous des infections sexuellement transmissibles.",
+          "En cas de saignement, de perte de liquide, de douleur importante ou de consigne médicale particulière, demandez un avis avant de poursuivre les rapports."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Tommy’s — Is it safe to have sex in pregnancy?",
+        url: "https://www.tommys.org/pregnancy-information/im-pregnant/sex-pregnancy"
+      },
+      {
+        label: "NHS Inform — Sex and sexual health in pregnancy",
+        url: "https://www.nhsinform.scot/ready-steady-baby/pregnancy/relationships-and-wellbeing-in-pregnancy/sex-and-sexual-health-in-pregnancy"
+      },
+      {
+        label: "Centers for Disease Control and Prevention — About sexually transmitted infections",
+        url: "https://www.cdc.gov/sti/about/index.html"
+      },
+      {
+        label: "NHS — Vaginal bleeding in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
+      }
+    ]
   }
 
 ];
