@@ -5743,7 +5743,8 @@ export const articles: Article[] = [
         title: "À quoi ressemblent les premiers mouvements ?",
         paragraphs: [
           "Les premiers mouvements ne ressemblent pas toujours à de véritables coups de pied. Ils sont souvent très légers et irréguliers.",
-          "Au début, il est normal d’hésiter entre les mouvements du bébé et ceux de la digestion. En avançant dans la grossesse, les sensations deviennent généralement plus nettes et plus faciles à reconnaître."
+          "Au début, il est normal d’hésiter entre les mouvements du bébé et ceux de la digestion.",
+          "En avançant dans la grossesse, les sensations deviennent généralement plus nettes, plus fortes et plus faciles à reconnaître."
         ],
         bullets: [
           "De petites bulles dans le ventre.",
