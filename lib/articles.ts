@@ -6383,6 +6383,162 @@ export const articles: Article[] = [
         url: "https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/"
       }
     ]
+  },
+
+  {
+    slug: "contractions-differencier-travail-et-faux-travail",
+    title: "Contractions : comment différencier travail et faux travail ?",
+    description:
+      "Braxton Hicks ou début du travail ? Découvrez les repères utiles pour reconnaître l’évolution des contractions et savoir quand contacter la maternité.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "8 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les contractions de Braxton Hicks sont généralement irrégulières, peu fréquentes et ne deviennent pas progressivement plus longues, plus fortes et plus rapprochées.",
+          "Les contractions du travail ont tendance à suivre un rythme de plus en plus régulier et à s’intensifier avec le temps.",
+          "Le repos, l’hydratation ou un changement de position peuvent calmer les contractions de faux travail, mais pas toujours celles du véritable travail.",
+          "La rupture de la poche des eaux, un saignement, une diminution des mouvements du bébé ou des contractions avant 37 semaines nécessitent un appel rapide à la maternité.",
+          "En cas de doute, il ne faut pas attendre d’être certaine : la maternité peut vous guider par téléphone."
+        ],
+        quote:
+          "On ne peut pas toujours faire la différence seule. Le meilleur repère reste l’évolution des contractions dans le temps et l’avis de la maternité en cas de doute."
+      },
+      {
+        title: "Qu’est-ce qu’une contraction ?",
+        paragraphs: [
+          "Une contraction correspond au resserrement puis au relâchement du muscle de l’utérus. Le ventre devient dur pendant quelques secondes ou quelques minutes, puis se détend.",
+          "Certaines contractions apparaissent pendant la grossesse sans annoncer le début de l’accouchement. Elles sont souvent appelées contractions de Braxton Hicks, contractions d’entraînement ou faux travail.",
+          "Les contractions du travail, elles, participent progressivement à l’effacement et à l’ouverture du col de l’utérus."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le rythme : le faux travail reste souvent irrégulier, tandis que les contractions du travail deviennent progressivement plus régulières et plus rapprochées.",
+          "L’intensité : les contractions de travail ont tendance à devenir plus longues, plus fortes et plus difficiles à ignorer.",
+          "L’évolution : des contractions qui persistent malgré le repos, l’hydratation ou un changement de position peuvent davantage évoquer un travail en cours."
+        ],
+        quote:
+          "Une seule contraction ne permet pas de conclure. C’est surtout la manière dont elles évoluent sur plusieurs dizaines de minutes qui compte."
+      },
+      {
+        title: "Comment reconnaître les contractions de Braxton Hicks ?",
+        paragraphs: [
+          "Les contractions de Braxton Hicks sont fréquentes au troisième trimestre. Elles peuvent donner une sensation de ventre dur, de tension ou de serrement, parfois inconfortable mais souvent peu douloureuse.",
+          "Elles restent généralement irrégulières, espacées et de durée variable. Elles ne se rapprochent pas progressivement et ne deviennent pas systématiquement plus fortes.",
+          "Elles peuvent apparaître après une journée active, un effort, un rapport sexuel, lorsque la vessie est pleine ou en cas de déshydratation.",
+          "Elles peuvent diminuer après avoir bu, uriné, changé de position, ralenti l’activité ou pris un temps de repos."
+        ]
+      },
+      {
+        title: "Quels signes évoquent davantage le début du travail ?",
+        paragraphs: [
+          "Les contractions du travail deviennent généralement plus régulières, plus longues, plus fortes et plus rapprochées au fil du temps.",
+          "Elles continuent souvent malgré le repos ou un changement de position et peuvent rendre la parole, la marche ou la concentration plus difficiles pendant leur passage.",
+          "La douleur peut être ressentie dans le bas du ventre, le bassin ou le dos et parfois se déplacer vers l’avant.",
+          "Le véritable travail s’accompagne d’une modification du col, mais seule une évaluation par un professionnel peut le confirmer."
+        ]
+      },
+      {
+        title: "Comment chronométrer les contractions ?",
+        paragraphs: [
+          "Chronométrez une contraction du début du durcissement jusqu’au relâchement complet. Notez ensuite le temps entre le début d’une contraction et le début de la suivante.",
+          "Observez surtout leur tendance : deviennent-elles plus régulières, plus longues, plus rapprochées ou plus intenses ?",
+          "Une application peut aider, mais un simple chronomètre ou une feuille suffit. Il n’est pas nécessaire de surveiller chaque contraction pendant des heures si elles restent occasionnelles et disparaissent.",
+          "Suivez en priorité les consignes données par votre maternité, car le moment recommandé pour appeler ou se déplacer peut varier selon votre situation."
+        ]
+      },
+      {
+        title: "La règle des 5 minutes est-elle toujours valable ?",
+        paragraphs: [
+          "Certaines maternités conseillent d’appeler lorsque les contractions reviennent environ toutes les cinq minutes, mais cette règle n’est pas universelle.",
+          "La conduite à tenir dépend notamment du terme, de la durée des contractions, de l’évolution de la douleur, de la distance jusqu’à la maternité, du nombre d’accouchements précédents et des particularités de la grossesse.",
+          "Pour un deuxième accouchement ou les suivants, le travail peut parfois évoluer plus rapidement. Les consignes personnalisées de la maternité doivent donc toujours primer."
+        ]
+      },
+      {
+        title: "Le bouchon muqueux annonce-t-il le travail ?",
+        paragraphs: [
+          "Le bouchon muqueux peut se détacher en une fois ou progressivement. Il ressemble souvent à des glaires épaisses, transparentes, rosées ou légèrement teintées de sang.",
+          "Sa perte indique que le col commence peut-être à évoluer, mais le travail peut débuter rapidement ou seulement plusieurs jours plus tard.",
+          "Un saignement plus abondant que quelques traces ne doit pas être assimilé au bouchon muqueux et nécessite un appel à la maternité."
+        ]
+      },
+      {
+        title: "Que faire si la poche des eaux se rompt ?",
+        paragraphs: [
+          "La rupture de la poche des eaux peut se manifester par un écoulement soudain ou par une fuite continue difficile à contrôler.",
+          "Notez si possible l’heure, la couleur et l’odeur du liquide, utilisez une protection hygiénique externe et contactez la maternité sans attendre les contractions.",
+          "N’utilisez pas de tampon. Si le liquide est verdâtre, malodorant, très teinté de sang ou si les mouvements du bébé diminuent, l’évaluation doit être urgente."
+        ]
+      },
+      {
+        title: "Que peut-on essayer en cas de faux travail probable ?",
+        bullets: [
+          "Boire de l’eau et manger légèrement si vous en ressentez le besoin.",
+          "Vider votre vessie.",
+          "Changer de position ou marcher doucement si vous êtes restée immobile.",
+          "Vous allonger et vous reposer si vous avez été active.",
+          "Prendre une douche ou un bain tiède si votre maternité ne vous a donné aucune contre-indication.",
+          "Observer l’évolution pendant un court moment sans ignorer les signes d’alerte."
+        ],
+        paragraphs: [
+          "Si les contractions diminuent ou disparaissent, il s’agissait probablement de contractions d’entraînement. Si elles persistent, deviennent régulières ou s’intensifient, contactez la maternité."
+        ]
+      },
+      {
+        title: "Quand faut-il contacter la maternité ?",
+        paragraphs: [
+          "Appelez si vous pensez être en travail, si les contractions deviennent régulières et rapprochées ou si leur intensité augmente nettement.",
+          "Contactez-la immédiatement en cas de rupture de la poche des eaux, de saignement vaginal, de diminution des mouvements du bébé, de douleur inhabituelle ou si vous vous sentez mal.",
+          "Avant 37 semaines, des contractions ou durcissements réguliers, des douleurs de règles, une pression pelvienne, un mal de dos inhabituel ou une perte de liquide peuvent évoquer un travail prématuré et nécessitent un avis urgent.",
+          "Appelez également si une contraction dure anormalement longtemps, si elles sont extrêmement fréquentes ou si vous ressentez une forte envie de pousser."
+        ]
+      },
+      {
+        title: "Faut-il attendre que la douleur soit très forte ?",
+        paragraphs: [
+          "Non. Il n’est pas nécessaire d’attendre d’avoir très mal pour demander conseil.",
+          "Certaines femmes ressentent les contractions du début du travail de façon modérée, tandis que d’autres ont rapidement besoin d’aide pour les gérer.",
+          "L’intensité de la douleur est un repère personnel. Le rythme, la progression des contractions et les autres signes associés sont tout aussi importants."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les contractions de faux travail sont souvent irrégulières et peuvent se calmer avec le repos, l’hydratation ou un changement de position.",
+          "Les contractions du travail deviennent généralement plus régulières, plus longues, plus fortes et plus rapprochées.",
+          "La rupture de la poche des eaux, un saignement, une diminution des mouvements du bébé ou des contractions avant 37 semaines nécessitent un appel rapide.",
+          "En cas de doute, contactez la maternité : il vaut mieux appeler trop tôt que rester seule avec une inquiétude."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — Signs that labour has begun",
+        url: "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/"
+      },
+      {
+        label: "NHS — Premature labour and birth",
+        url: "https://www.nhs.uk/pregnancy/labour-and-birth/premature-labour-and-birth/"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — How to Tell When Labor Begins",
+        url: "https://www.acog.org/womens-health/faqs/how-to-tell-when-labor-begins"
+      },
+      {
+        label: "Mayo Clinic — Signs of labor: Know what to expect",
+        url: "https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/signs-of-labor/art-20046184"
+      }
+    ]
   }
 
 ];
