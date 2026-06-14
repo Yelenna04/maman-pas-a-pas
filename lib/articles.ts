@@ -7467,6 +7467,244 @@ export const articles: Article[] = [
         url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/prevention-des-risques-lies-au-sommeil-du-nourrisson"
       }
     ]
+  },
+
+{
+    slug: "premier-rendez-vous-de-grossesse-comment-se-deroule-t-il",
+    title: "Premier rendez-vous de grossesse : comment se déroule-t-il ?",
+    description:
+      "Questions, examen clinique, analyses, déclaration de grossesse : tout ce qu’il faut savoir pour préparer le premier rendez-vous de suivi.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "9 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le premier examen prénatal doit avoir lieu avant la fin du troisième mois de grossesse.",
+          "Il peut être réalisé par une sage-femme, un médecin généraliste ou un gynécologue-obstétricien.",
+          "Le professionnel fait le point sur vos antécédents, vos traitements, vos symptômes, votre mode de vie et le déroulement de la grossesse.",
+          "Un examen clinique est réalisé et plusieurs analyses sont prescrites, notamment le groupe sanguin et le dépistage de certaines infections.",
+          "La déclaration de grossesse est généralement effectuée à l’issue de ce rendez-vous."
+        ],
+        quote:
+          "Ce premier rendez-vous ne sert pas seulement à prescrire des examens : il permet aussi d’identifier vos besoins, vos inquiétudes et les éventuels facteurs nécessitant un suivi particulier."
+      },
+      {
+        title: "Quand prendre le premier rendez-vous de grossesse ?",
+        paragraphs: [
+          "Il est conseillé de prendre rendez-vous dès que la grossesse est confirmée afin d’obtenir une consultation dans les premières semaines.",
+          "En France, le premier examen prénatal obligatoire doit être réalisé avant la fin du troisième mois de grossesse.",
+          "Il n’est pas nécessaire d’attendre la première échographie pour consulter. Le rendez-vous permet justement d’organiser les examens et les étapes du suivi.",
+          "En cas de douleur importante, de saignement, de malaise, de fièvre ou d’antécédent de grossesse extra-utérine, consultez plus rapidement."
+        ]
+      },
+      {
+        title: "Avec quel professionnel prendre rendez-vous ?",
+        paragraphs: [
+          "Le suivi d’une grossesse sans complication peut être assuré par une sage-femme, un médecin généraliste ou un gynécologue-obstétricien.",
+          "Une sage-femme peut réaliser les consultations prénatales, prescrire les examens nécessaires et effectuer la déclaration de grossesse.",
+          "Un suivi par un gynécologue-obstétricien peut être proposé en cas de grossesse à risque, d’antécédents particuliers ou de problème médical.",
+          "Vous pouvez choisir un professionnel en ville, à la maternité ou dans un centre de protection maternelle et infantile selon votre situation."
+        ]
+      },
+      {
+        title: "Comment préparer le rendez-vous ?",
+        bullets: [
+          "Notez la date du premier jour de vos dernières règles, si vous la connaissez.",
+          "Préparez la liste de vos traitements, compléments alimentaires et allergies.",
+          "Rassemblez vos comptes rendus médicaux importants et vos résultats récents.",
+          "Apportez votre carte Vitale et votre carte de mutuelle.",
+          "Notez vos antécédents médicaux, chirurgicaux et gynécologiques.",
+          "Préparez les questions qui vous préoccupent."
+        ],
+        paragraphs: [
+          "Vous pouvez venir seule ou accompagnée si cela vous rassure. La présence de l’autre parent n’est pas obligatoire.",
+          "Ne vous inquiétez pas si vous ne connaissez pas toutes les dates ou informations : le professionnel vous aidera à reconstituer les éléments utiles."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le rendez-vous commence généralement par un échange détaillé sur votre santé et votre grossesse.",
+          "L’examen clinique permet d’évaluer votre état général et de rechercher d’éventuels facteurs de risque.",
+          "La consultation se termine souvent par les prescriptions, l’organisation du suivi et la déclaration de grossesse."
+        ],
+        quote:
+          "Il n’existe pas un déroulement strictement identique pour toutes les femmes : certains examens dépendent du terme, des symptômes et des antécédents."
+      },
+      {
+        title: "Quelles questions le professionnel va-t-il poser ?",
+        bullets: [
+          "La date des dernières règles et la régularité habituelle des cycles.",
+          "Les grossesses précédentes et leur déroulement.",
+          "Les maladies, opérations ou hospitalisations passées.",
+          "Les traitements en cours et les allergies.",
+          "Les antécédents familiaux importants.",
+          "La consommation de tabac, d’alcool ou d’autres substances.",
+          "Les conditions de travail et les éventuelles expositions à risque.",
+          "Votre situation familiale, sociale et psychologique.",
+          "Les symptômes actuels : nausées, douleurs, saignements, fatigue ou anxiété."
+        ],
+        paragraphs: [
+          "Certaines questions peuvent sembler personnelles, mais elles servent à adapter le suivi et à proposer de l’aide si nécessaire.",
+          "Vous pouvez signaler une difficulté financière, professionnelle, conjugale ou psychologique : ces informations sont confidentielles."
+        ]
+      },
+      {
+        title: "Quel examen clinique est réalisé ?",
+        paragraphs: [
+          "Le professionnel mesure généralement le poids et la tension artérielle.",
+          "Il peut examiner le cœur, les poumons, l’abdomen et les jambes selon votre situation.",
+          "Un examen gynécologique n’est pas systématique. Il peut être proposé en cas de symptômes, pour réaliser un frottis si vous n’êtes pas à jour ou si le professionnel estime qu’il est utile.",
+          "Au tout début de la grossesse, il n’est pas toujours possible d’entendre les battements du cœur avec un appareil externe. Cela ne signifie pas qu’il existe un problème."
+        ]
+      },
+      {
+        title: "Une échographie est-elle faite pendant ce rendez-vous ?",
+        paragraphs: [
+          "Pas nécessairement. Le premier rendez-vous et la première échographie sont souvent deux rendez-vous distincts.",
+          "L’échographie du premier trimestre est habituellement réalisée entre 11 semaines d’aménorrhée et 13 semaines d’aménorrhée plus 6 jours.",
+          "Elle permet notamment de dater la grossesse, de vérifier le nombre d’embryons, d’observer le développement et de mesurer la clarté nucale dans le cadre du dépistage de la trisomie 21.",
+          "Une échographie plus précoce peut être demandée en cas de douleur, de saignement, de doute sur le terme ou d’antécédent particulier."
+        ]
+      },
+      {
+        title: "Quelles analyses sont prescrites ?",
+        bullets: [
+          "La détermination du groupe sanguin et du rhésus si nécessaire.",
+          "La recherche d’anticorps irréguliers.",
+          "Le dépistage de la rubéole.",
+          "Le dépistage de la toxoplasmose.",
+          "Le dépistage de la syphilis.",
+          "Le dépistage de l’hépatite B.",
+          "La proposition d’un dépistage du VIH.",
+          "Une analyse d’urines, notamment pour rechercher du sucre ou des protéines."
+        ],
+        paragraphs: [
+          "D’autres examens peuvent être ajoutés selon vos antécédents, vos symptômes ou les habitudes de la maternité.",
+          "Si vous n’êtes pas immunisée contre la toxoplasmose, des prises de sang régulières seront proposées pendant la grossesse."
+        ]
+      },
+      {
+        title: "Comment se passe le dépistage de la trisomie 21 ?",
+        paragraphs: [
+          "Le dépistage combiné du premier trimestre repose sur votre âge, une prise de sang et la mesure de la clarté nucale lors de l’échographie.",
+          "Il permet d’estimer une probabilité, mais ne pose pas de diagnostic.",
+          "Selon le résultat, un dépistage prénatal non invasif sur ADN libre circulant peut être proposé, puis éventuellement un examen diagnostique.",
+          "Le professionnel doit vous expliquer les objectifs, les limites et les différentes possibilités afin que vous puissiez décider librement."
+        ]
+      },
+      {
+        title: "Quand la déclaration de grossesse est-elle faite ?",
+        paragraphs: [
+          "La déclaration de grossesse doit être transmise avant la fin du troisième mois.",
+          "Le médecin ou la sage-femme peut généralement l’effectuer en ligne à l’aide de votre carte Vitale. Elle est alors envoyée directement à l’Assurance Maladie et à la Caf ou à la MSA.",
+          "Si la télétransmission n’est pas possible, un formulaire papier vous est remis.",
+          "Cette démarche permet d’ouvrir les droits liés à la maternité et d’organiser la prise en charge des examens."
+        ]
+      },
+      {
+        title: "Le professionnel va-t-il parler des habitudes de vie ?",
+        paragraphs: [
+          "Oui. La consultation permet d’aborder l’alimentation, l’activité physique, le sommeil, le travail, les médicaments et la prévention des infections.",
+          "Le professionnel rappelle qu’aucune consommation d’alcool n’est considérée comme sans risque pendant la grossesse et peut proposer une aide pour arrêter le tabac.",
+          "Il vérifie également les vaccinations, notamment la protection contre la coqueluche, la grippe et la Covid-19 selon les recommandations en vigueur.",
+          "N’arrêtez pas un traitement prescrit sans avis médical. Certains médicaments doivent être poursuivis ou adaptés plutôt que supprimés brutalement."
+        ]
+      },
+      {
+        title: "L’acide folique est-il encore utile ?",
+        paragraphs: [
+          "La supplémentation en acide folique est idéalement commencée avant la conception et poursuivie pendant le début de la grossesse.",
+          "Elle contribue à réduire le risque d’anomalies de fermeture du tube neural.",
+          "Si vous n’en prenez pas encore, parlez-en lors du rendez-vous. Le professionnel adaptera la dose à votre situation.",
+          "Des doses plus élevées sont parfois prescrites en cas d’antécédent ou de traitement particulier."
+        ]
+      },
+      {
+        title: "Qu’est-ce que l’entretien prénatal précoce ?",
+        paragraphs: [
+          "L’entretien prénatal précoce est un temps d’échange consacré à vos besoins, votre projet de naissance, votre environnement et vos éventuelles difficultés.",
+          "Il est distinct du suivi médical habituel et peut être réalisé par une sage-femme ou un médecin.",
+          "Il permet d’organiser un accompagnement personnalisé, de présenter la préparation à la naissance et d’orienter vers d’autres professionnels si besoin.",
+          "Il peut être réalisé dès le début de la grossesse, seule ou en couple."
+        ]
+      },
+      {
+        title: "Quelles questions peut-on poser ?",
+        bullets: [
+          "Comment seront organisés les prochains rendez-vous ?",
+          "Quand réaliser la première échographie ?",
+          "Quels médicaments puis-je prendre en cas de douleur ou de nausées ?",
+          "Quels aliments et activités dois-je éviter ?",
+          "À quels signes dois-je consulter rapidement ?",
+          "Comment choisir la maternité et quand s’y inscrire ?",
+          "Quels professionnels peuvent m’accompagner ?",
+          "Comment obtenir de l’aide si je me sens anxieuse ou dépassée ?"
+        ],
+        paragraphs: [
+          "Aucune question n’est inutile. Vous pouvez demander des explications supplémentaires ou prendre des notes pendant la consultation."
+        ]
+      },
+      {
+        title: "Que se passe-t-il après ce premier rendez-vous ?",
+        paragraphs: [
+          "Le professionnel vous remet les ordonnances pour les analyses et l’échographie, puis planifie la suite du suivi.",
+          "Après ce premier examen, une consultation prénatale est prévue chaque mois à partir du quatrième mois jusqu’à l’accouchement.",
+          "Le calendrier peut être renforcé en cas de grossesse multiple, de maladie chronique, d’hypertension, de diabète, de complications antérieures ou d’anomalie détectée.",
+          "Vous restez libre de changer de professionnel au cours de la grossesse si vous souhaitez un suivi différent."
+        ]
+      },
+      {
+        title: "Quand consulter avant le rendez-vous prévu ?",
+        bullets: [
+          "Saignement vaginal.",
+          "Douleur abdominale ou pelvienne importante.",
+          "Malaise, faiblesse marquée ou douleur à l’épaule.",
+          "Fièvre.",
+          "Vomissements empêchant de boire.",
+          "Essoufflement inhabituel ou douleur thoracique.",
+          "Aggravation d’une maladie chronique."
+        ],
+        paragraphs: [
+          "En cas de symptômes importants ou inquiétants, contactez un professionnel de santé, la maternité ou les urgences sans attendre le rendez-vous programmé."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le premier rendez-vous de grossesse doit avoir lieu avant la fin du troisième mois.",
+          "Il peut être assuré par une sage-femme, un médecin généraliste ou un gynécologue-obstétricien.",
+          "Il comprend un échange détaillé, un examen clinique, des prescriptions d’analyses et l’organisation de la première échographie.",
+          "La déclaration de grossesse est généralement réalisée à l’issue de cette consultation.",
+          "Ce rendez-vous est aussi le moment de poser vos questions et de signaler toute difficulté médicale, psychologique ou sociale."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Assurance Maladie — Suivi mensuel de la grossesse à partir du 4e mois",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-mensuel-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Ministère de la Santé — L’entretien prénatal précoce",
+        url: "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/1000jours/article/l-entretien-prenatal-precoce"
+      }
+    ]
   }
 ];
 
