@@ -5812,6 +5812,128 @@ export const articles: Article[] = [
         url: "https://www.tommys.org/pregnancy-information/im-pregnant/ask-a-midwife/baby-movements-pregnancy"
       }
     ]
+  },
+
+  {
+    slug: "ventre-qui-s-arrondit-quels-changements-attendre",
+    title: "Le ventre qui s’arrondit : quels changements attendre ?",
+    description:
+      "Au deuxième trimestre, le ventre devient souvent plus visible. Taille, forme, peau, tiraillements : découvrez les changements habituels et les signes qui doivent amener à consulter.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le ventre devient généralement plus visible au cours du deuxième trimestre, mais le moment varie beaucoup d’une personne à l’autre.",
+          "Sa taille et sa forme dépendent notamment de la morphologie, du nombre de grossesses précédentes, de la position du bébé et de l’utérus.",
+          "Des tiraillements légers, une peau plus tendue, des démangeaisons modérées ou l’apparition d’une ligne brune peuvent être habituels.",
+          "La taille du ventre ne permet pas, à elle seule, de savoir si le bébé grandit normalement.",
+          "Une douleur forte ou persistante, des saignements, une perte de liquide ou des contractions régulières nécessitent un avis médical rapide."
+        ],
+        quote:
+          "Il n’existe pas un ventre de grossesse « normal » en matière de taille ou de forme. Le suivi médical repose sur plusieurs repères, pas sur une comparaison visuelle."
+      },
+      {
+        title: "Quand le ventre commence-t-il vraiment à se voir ?",
+        paragraphs: [
+          "Chez de nombreuses femmes enceintes, le ventre commence à s’arrondir entre la fin du premier trimestre et le début du deuxième. Il peut toutefois devenir visible plus tôt ou plus tard sans que cela indique un problème.",
+          "Lors d’une première grossesse, les muscles abdominaux peuvent maintenir l’utérus plus longtemps vers l’intérieur. Après une ou plusieurs grossesses, le ventre peut parfois se voir plus tôt.",
+          "Au début, une partie du volume peut aussi être liée aux ballonnements et à la constipation. À mesure que l’utérus grandit et remonte dans l’abdomen, l’arrondi devient généralement plus constant."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La taille du ventre varie beaucoup. La morphologie, la taille, la longueur du buste, le tonus abdominal et le nombre de grossesses précédentes influencent son apparence.",
+          "La forme du ventre peut changer. Elle dépend notamment de la position du bébé, de l’utérus, du placenta et de la manière dont votre corps répartit les volumes.",
+          "L’évolution compte davantage qu’une photo isolée. Lors du suivi, le professionnel de santé s’appuie sur l’examen clinique, la mesure de la hauteur utérine au moment adapté et les échographies, si elles sont indiquées."
+        ],
+        quote:
+          "Un ventre plus petit ou plus grand que celui d’une autre femme enceinte ne permet pas de conclure sur la croissance du bébé."
+      },
+      {
+        title: "Quels changements peut-on ressentir lorsque l’utérus grandit ?",
+        paragraphs: [
+          "L’utérus prend progressivement plus de place. Vous pouvez ressentir une impression de poids, de tension ou d’étirement dans le bas du ventre, surtout en fin de journée ou après une activité.",
+          "Des douleurs ligamentaires peuvent apparaître sous la forme de tiraillements brefs sur un côté du bas-ventre ou vers l’aine. Elles sont souvent déclenchées par un changement de position, un mouvement brusque, la toux ou un éternuement.",
+          "Des ballonnements, une constipation ou des gaz peuvent également modifier les sensations et donner l’impression que le ventre est plus tendu certains jours."
+        ]
+      },
+      {
+        title: "Comment la peau du ventre peut-elle évoluer ?",
+        paragraphs: [
+          "À mesure que le ventre s’étire, la peau peut sembler plus tendue, sèche ou légèrement irritée. Une hydratation simple peut améliorer le confort, même si aucune crème ne peut garantir la prévention des vergetures.",
+          "Les vergetures sont fréquentes pendant la grossesse. Elles peuvent apparaître sur le ventre, mais aussi sur les seins, les hanches ou les cuisses. Leur survenue dépend notamment de la peau, des hormones et de la rapidité avec laquelle les tissus s’étirent.",
+          "Une ligne plus foncée peut apparaître au milieu du ventre, entre le pubis et le nombril, parfois au-delà. Appelée ligne brune ou linea nigra, elle est liée aux changements hormonaux et s’atténue généralement après la grossesse."
+        ]
+      },
+      {
+        title: "Le nombril peut-il changer ?",
+        paragraphs: [
+          "Le nombril peut s’aplatir ou devenir plus saillant lorsque l’utérus pousse progressivement la paroi abdominale vers l’avant. Ce changement est habituellement indolore.",
+          "Il peut aussi devenir plus sensible au frottement des vêtements. Des matières souples et une taille moins serrée peuvent améliorer le confort.",
+          "En revanche, une douleur localisée importante, une bosse dure ou une zone qui reste très sensible mérite un avis médical afin d’écarter notamment une hernie ombilicale."
+        ]
+      },
+      {
+        title: "Faut-il changer de vêtements ou utiliser une ceinture de grossesse ?",
+        paragraphs: [
+          "Il n’existe pas de moment obligatoire pour passer aux vêtements de grossesse. L’essentiel est d’éviter les habits qui compriment le ventre, gênent la respiration ou laissent une douleur persistante.",
+          "Un pantalon souple, des tailles extensibles et un soutien-gorge adapté peuvent rendre le quotidien plus confortable à mesure que la silhouette évolue.",
+          "Une ceinture ou un bandeau de soutien peut soulager certaines sensations de pesanteur ou des douleurs du dos, mais ne doit pas être serré ni remplacer un avis médical. Demandez conseil à votre sage-femme, à votre médecin ou à un professionnel formé si la douleur persiste."
+        ]
+      },
+      {
+        title: "Comment mieux vivre ces changements corporels ?",
+        paragraphs: [
+          "Voir son ventre s’arrondir peut susciter de la joie, de la fierté, de l’étonnement, mais aussi de l’inconfort ou une impression de ne plus reconnaître son corps. Toutes ces réactions peuvent coexister.",
+          "Évitez autant que possible de comparer votre ventre à des photos, à des applications ou à celui d’autres femmes enceintes. Les différences de silhouette sont très importantes et ne reflètent pas à elles seules le déroulement de la grossesse.",
+          "Parlez-en lors du suivi si les changements corporels deviennent difficiles à vivre, s’ils réveillent un trouble alimentaire, une anxiété importante ou une souffrance liée à l’image du corps."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis médical ?",
+        paragraphs: [
+          "Les tiraillements légers et brefs sont fréquents, mais toute douleur qui vous inquiète mérite d’être signalée au professionnel qui suit votre grossesse.",
+          "Contactez rapidement la maternité, votre sage-femme ou votre médecin en cas de douleur forte ou persistante, de saignements, de perte de liquide, de fièvre, de malaise, de douleur en urinant ou de contractions régulières.",
+          "Après 20 semaines, une douleur importante ou persistante sous les côtes, surtout à droite, associée à des maux de tête, des troubles visuels ou un gonflement soudain du visage et des mains, nécessite également un avis urgent."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Au deuxième trimestre, le ventre devient souvent plus visible, mais son rythme d’évolution, sa taille et sa forme restent très variables.",
+          "Des tiraillements modérés, une peau plus tendue, des vergetures, une ligne brune ou un nombril plus saillant peuvent faire partie des changements habituels.",
+          "La croissance du bébé ne se juge pas à l’œil. Le suivi médical permet d’évaluer son évolution avec des repères adaptés.",
+          "En cas de douleur forte ou persistante, de saignements, de perte de liquide ou de contractions régulières, demandez rapidement un avis médical."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — Stomach pain in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/stomach-pain/"
+      },
+      {
+        label: "NHS — Stretch marks in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/stretch-marks/"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Skin Conditions During Pregnancy",
+        url: "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Weight Gain During Pregnancy",
+        url: "https://www.acog.org/womens-health/infographics/weight-gain-during-pregnancy"
+      }
+    ]
   }
 
 ];
