@@ -25,30 +25,42 @@ export default function ArticlesPage() {
       >
         <div
           style={{
-            maxWidth: "760px",
-            marginBottom: "48px",
+            maxWidth: "900px",
+            margin: "0 auto 56px",
+            textAlign: "center",
           }}
         >
-          <p
+          <nav
+            aria-label="Fil d’Ariane"
             style={{
-              margin: "0 0 12px",
-              color: "#bf7b73",
-              fontSize: "0.85rem",
-              fontWeight: 700,
-              letterSpacing: "0.08em",
-              textTransform: "uppercase",
+              marginBottom: "18px",
+              color: "#9a6f66",
+              fontSize: "0.98rem",
             }}
           >
-            Maman, Pas à Pas
-          </p>
+            <Link
+              href="/"
+              style={{
+                color: "inherit",
+                textDecoration: "none",
+              }}
+            >
+              Accueil
+            </Link>
+            <span aria-hidden="true" style={{ margin: "0 10px" }}>
+              ›
+            </span>
+            <span>Articles</span>
+          </nav>
 
           <h1
             style={{
-              margin: "0 0 18px",
+              margin: "0 0 12px",
               color: "#493733",
               fontFamily: 'Georgia, "Times New Roman", serif',
-              fontSize: "clamp(2.6rem, 6vw, 4.8rem)",
-              lineHeight: 1.05,
+              fontSize: "clamp(3.2rem, 7vw, 5.4rem)",
+              lineHeight: 1,
+              fontWeight: 700,
             }}
           >
             Tous nos articles
@@ -57,12 +69,14 @@ export default function ArticlesPage() {
           <p
             style={{
               margin: 0,
-              color: "#725f59",
-              fontSize: "1.08rem",
-              lineHeight: 1.75,
+              color: "#8a655d",
+              fontFamily: 'Georgia, "Times New Roman", serif',
+              fontSize: "clamp(1.15rem, 2.2vw, 1.45rem)",
+              fontStyle: "italic",
+              lineHeight: 1.5,
             }}
           >
-            Retrouvez tous nos conseils et repères pour vous accompagner avant,
+            Conseils, repères et informations pour vous accompagner avant,
             pendant et après la grossesse.
           </p>
         </div>
