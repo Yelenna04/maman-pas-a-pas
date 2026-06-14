@@ -1578,7 +1578,8 @@ function UnifiedArticle({ article }: { article: Article }) {
               </section>
             )}
 
-            {takeaway && (
+            {takeaway &&
+              article.slug !== "comment-preparer-sa-valise-de-maternite" && (
               <section className="compact-takeaway">
                 <h2>À retenir</h2>
 
@@ -1673,67 +1674,137 @@ function UnifiedArticle({ article }: { article: Article }) {
               </section>
             )}
 
-            {article.slug === "comment-preparer-sa-valise-de-maternite" && (
-              <section
-                aria-labelledby="checklist-maternite-title"
-                style={{
-                  marginTop: "18px",
-                  padding: "24px",
-                  border: "1px solid #e7d8cd",
-                  borderRadius: "24px",
-                  background:
-                    "linear-gradient(135deg, #fbf7f1 0%, #f6eee8 100%)",
-                  textAlign: "center",
-                }}
-              >
-                <span
-                  aria-hidden="true"
-                  style={{
-                    width: 52,
-                    height: 52,
-                    margin: "0 auto 14px",
-                    borderRadius: "50%",
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    color: "#78906f",
-                    background: "#e8efe3",
-                  }}
-                >
-                  <ClipboardList size={26} />
-                </span>
-
-                <h2
-                  id="checklist-maternite-title"
-                  style={{ margin: "0 0 14px", fontSize: "1.45rem" }}
-                >
-                  Checklist maternité à imprimer
-                </h2>
-
-                <a
-                  href="/telechargements/checklist-maternite-maman-pas-a-pas.pdf"
-                  download
-                  style={{
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    gap: 10,
-                    padding: "13px 22px",
-                    borderRadius: 999,
-                    color: "#ffffff",
-                    background: "#bf7f79",
-                    fontWeight: 700,
-                    textDecoration: "none",
-                    boxShadow: "0 8px 20px rgba(191, 127, 121, 0.2)",
-                  }}
-                >
-                  <Download size={19} />
-                  Télécharger la checklist en PDF
-                </a>
-              </section>
-            )}
           </aside>
         </div>
+
+        {article.slug === "comment-preparer-sa-valise-de-maternite" &&
+          takeaway && (
+            <>
+              <style>{`
+                .maternity-download-row {
+                  display: grid;
+                  grid-template-columns: minmax(0, 2fr) minmax(270px, 0.82fr);
+                  gap: 24px;
+                  align-items: stretch;
+                  margin-top: 28px;
+                }
+
+                .maternity-download-row > section {
+                  height: 100%;
+                  margin: 0;
+                  box-sizing: border-box;
+                }
+
+                .maternity-download-card {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  justify-content: center;
+                  padding: 22px 20px;
+                  border: 1px solid #e7d8cd;
+                  border-radius: 24px;
+                  background: linear-gradient(135deg, #fbf7f1 0%, #f6eee8 100%);
+                  text-align: center;
+                }
+
+                .maternity-download-button {
+                  display: inline-flex;
+                  align-items: center;
+                  justify-content: center;
+                  gap: 7px;
+                  width: auto;
+                  min-width: 0;
+                  padding: 10px 18px;
+                  border-radius: 999px;
+                  color: #ffffff;
+                  background: #bf7f79;
+                  font-weight: 700;
+                  line-height: 1;
+                  text-decoration: none;
+                  box-shadow: 0 7px 18px rgba(191, 127, 121, 0.18);
+                }
+
+                .maternity-download-button:hover {
+                  background: #ae706b;
+                }
+
+                @media (max-width: 860px) {
+                  .maternity-download-row {
+                    grid-template-columns: 1fr;
+                  }
+                }
+              `}</style>
+
+              <div className="maternity-download-row">
+                <section
+                  className="compact-takeaway"
+                  style={{ margin: 0, height: "100%" }}
+                >
+                  <h2>À retenir</h2>
+
+                  {takeaway.paragraphs?.map((paragraph) => (
+                    <p key={paragraph}>{renderRichText(paragraph)}</p>
+                  ))}
+
+                  {takeaway.bullets && (
+                    <ul>
+                      {takeaway.bullets.map((bullet) => (
+                        <li key={bullet}>{renderRichText(bullet)}</li>
+                      ))}
+                    </ul>
+                  )}
+
+                  {takeaway.quote && (
+                    <div className="project-takeaway-note">
+                      {renderRichText(takeaway.quote)}
+                    </div>
+                  )}
+                </section>
+
+                <section
+                  className="maternity-download-card"
+                  aria-labelledby="checklist-maternite-title"
+                >
+                  <span
+                    aria-hidden="true"
+                    style={{
+                      width: 52,
+                      height: 52,
+                      marginBottom: 13,
+                      borderRadius: "50%",
+                      display: "inline-flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      color: "#78906f",
+                      background: "#e8efe3",
+                    }}
+                  >
+                    <ClipboardList size={26} />
+                  </span>
+
+                  <h2
+                    id="checklist-maternite-title"
+                    style={{
+                      margin: "0 0 14px",
+                      fontSize: "1.38rem",
+                      lineHeight: 1.16,
+                    }}
+                  >
+                    Checklist maternité à imprimer
+                  </h2>
+
+                  <a
+                    className="maternity-download-button"
+                    href="/telechargements/checklist-maternite-maman-pas-a-pas.pdf"
+                    download
+                  >
+                    <Download size={16} />
+                    Télécharger
+                  </a>
+                </section>
+              </div>
+            </>
+          )}
 
         <section className="compact-source-box">
           <h2>Sources consultées</h2>
