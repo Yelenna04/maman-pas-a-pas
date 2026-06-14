@@ -13,7 +13,7 @@ export default function ArticlesPage() {
       style={{
         minHeight: "100vh",
         background: "#fffaf7",
-        padding: "72px 20px 96px",
+        padding: "30px 20px 96px",
       }}
     >
       <section
@@ -25,8 +25,8 @@ export default function ArticlesPage() {
       >
         <div
           style={{
-            maxWidth: "900px",
-            margin: "0 auto 56px",
+            width: "100%",
+            margin: "0 auto 52px",
             textAlign: "center",
           }}
         >
@@ -35,7 +35,8 @@ export default function ArticlesPage() {
             style={{
               marginBottom: "18px",
               color: "#9a6f66",
-              fontSize: "0.98rem",
+              fontSize: "1rem",
+              lineHeight: 1.4,
             }}
           >
             <Link
@@ -55,15 +56,15 @@ export default function ArticlesPage() {
 
           <h1
             style={{
-              margin: "0 0 12px",
+              margin: "0 0 10px",
               color: "#493733",
               fontFamily: 'Georgia, "Times New Roman", serif',
-              fontSize: "clamp(3.2rem, 7vw, 5.4rem)",
-              lineHeight: 1,
+              fontSize: "clamp(3rem, 5vw, 4rem)",
+              lineHeight: 1.08,
               fontWeight: 700,
             }}
           >
-            Tous nos articles
+            Articles
           </h1>
 
           <p
@@ -71,13 +72,12 @@ export default function ArticlesPage() {
               margin: 0,
               color: "#8a655d",
               fontFamily: 'Georgia, "Times New Roman", serif',
-              fontSize: "clamp(1.15rem, 2.2vw, 1.45rem)",
+              fontSize: "clamp(1.15rem, 1.8vw, 1.4rem)",
               fontStyle: "italic",
-              lineHeight: 1.5,
+              lineHeight: 1.45,
             }}
           >
-            Conseils, repères et informations pour vous accompagner avant,
-            pendant et après la grossesse.
+            Conseils et informations pour vous accompagner à chaque étape.
           </p>
         </div>
 
