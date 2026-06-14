@@ -8173,6 +8173,229 @@ export const articles: Article[] = [
         url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
+  },
+
+{
+    slug: "depistage-de-la-trisomie-21-comment-se-deroule-t-il",
+    title: "Dépistage de la trisomie 21 : comment se déroule-t-il ?",
+    description:
+      "Échographie, prise de sang, calcul de probabilité, DPNI et examens diagnostiques : comprendre les étapes du dépistage de la trisomie 21 pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le dépistage de la trisomie 21 est proposé à toutes les femmes enceintes, mais il n’est jamais obligatoire.",
+          "Au premier trimestre, il associe généralement l’âge maternel, une prise de sang et la mesure de la clarté nucale à l’échographie.",
+          "Le résultat indique une probabilité et non un diagnostic.",
+          "Selon cette probabilité, un dépistage prénatal non invasif, appelé DPNI, peut être proposé à partir d’une prise de sang maternel.",
+          "Seuls un prélèvement de villosités choriales ou une amniocentèse permettent de confirmer ou d’exclure avec certitude une trisomie 21."
+        ],
+        quote:
+          "À chaque étape, vous devez recevoir une information claire et pouvoir accepter ou refuser l’examen sans pression."
+      },
+      {
+        title: "Qu’est-ce que la trisomie 21 ?",
+        paragraphs: [
+          "La trisomie 21 est une anomalie chromosomique liée à la présence d’un chromosome 21 supplémentaire.",
+          "Elle peut entraîner une déficience intellectuelle de degré variable, des particularités physiques et parfois des malformations, notamment cardiaques.",
+          "Son expression est très variable d’une personne à l’autre.",
+          "Le risque augmente avec l’âge maternel, mais la trisomie 21 peut survenir à tout âge."
+        ]
+      },
+      {
+        title: "Pourquoi parle-t-on de dépistage et non de diagnostic ?",
+        paragraphs: [
+          "Le dépistage estime la probabilité que le bébé soit porteur d’une trisomie 21.",
+          "Il ne donne pas une réponse certaine : un résultat dit à faible probabilité n’exclut pas totalement la trisomie 21, et un résultat à probabilité élevée ne signifie pas que le bébé est forcément porteur.",
+          "Le diagnostic repose sur l’analyse des chromosomes du bébé à partir d’un prélèvement de villosités choriales ou de liquide amniotique.",
+          "Cette distinction est essentielle pour comprendre les résultats et décider de la suite."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le dépistage combiné du premier trimestre associe l’échographie, une prise de sang et l’âge maternel.",
+          "Le DPNI analyse de l’ADN placentaire circulant dans le sang maternel et affine fortement l’estimation du risque.",
+          "Un DPNI positif doit toujours être confirmé par un examen diagnostique avant toute décision médicale."
+        ],
+        quote:
+          "Le dépistage est une démarche personnelle : vous pouvez demander du temps, poser des questions ou refuser certains examens."
+      },
+      {
+        title: "Quand le dépistage est-il proposé ?",
+        paragraphs: [
+          "Le dépistage est généralement abordé lors du premier rendez-vous de grossesse.",
+          "La première échographie est réalisée entre 11 semaines d’aménorrhée et 13 semaines d’aménorrhée plus 6 jours.",
+          "La prise de sang des marqueurs sériques du premier trimestre est réalisée dans une période compatible avec cette échographie.",
+          "Si le dépistage du premier trimestre n’a pas pu être effectué, d’autres modalités peuvent être proposées plus tard selon le terme."
+        ]
+      },
+      {
+        title: "Que mesure l’échographie du premier trimestre ?",
+        paragraphs: [
+          "L’échographiste mesure la clarté nucale, une petite zone liquidienne située derrière la nuque du bébé.",
+          "Cette mesure doit être réalisée à une période précise et dans des conditions techniques rigoureuses.",
+          "Une clarté nucale augmentée peut être associée à une anomalie chromosomique ou à certaines malformations, mais elle ne permet pas à elle seule de poser un diagnostic.",
+          "L’échographie vérifie aussi la vitalité, le nombre de bébés, la datation et certains premiers éléments anatomiques."
+        ]
+      },
+      {
+        title: "Que mesure la prise de sang du premier trimestre ?",
+        paragraphs: [
+          "La prise de sang dose des marqueurs produits pendant la grossesse.",
+          "Leurs valeurs sont interprétées avec l’âge maternel, le terme précis et la mesure de la clarté nucale.",
+          "Un logiciel calcule ensuite une probabilité individuelle de trisomie 21.",
+          "Le résultat est souvent présenté sous la forme d’un rapport, par exemple une probabilité sur plusieurs centaines ou plusieurs milliers."
+        ]
+      },
+      {
+        title: "Comment interpréter le résultat du dépistage combiné ?",
+        paragraphs: [
+          "Le résultat classe la grossesse dans une zone de probabilité plus ou moins élevée.",
+          "Une probabilité faible ne supprime pas totalement le risque, mais ne justifie généralement pas d’examen supplémentaire spécifique.",
+          "Une probabilité intermédiaire conduit souvent à proposer un DPNI.",
+          "Une probabilité élevée peut conduire à discuter directement un examen diagnostique, avec la possibilité de réaliser d’abord un DPNI selon la situation et votre choix."
+        ]
+      },
+      {
+        title: "Qu’est-ce que le DPNI ?",
+        paragraphs: [
+          "Le dépistage prénatal non invasif, ou DPNI, est une prise de sang réalisée chez la mère.",
+          "Il analyse des fragments d’ADN provenant principalement du placenta et circulant dans le sang maternel.",
+          "Le DPNI est beaucoup plus performant que le dépistage combiné pour estimer le risque de trisomie 21.",
+          "Il ne présente pas de risque de fausse couche car il ne nécessite aucun prélèvement dans l’utérus."
+        ]
+      },
+      {
+        title: "Le DPNI est-il un diagnostic ?",
+        paragraphs: [
+          "Non. Malgré sa grande fiabilité, le DPNI reste un test de dépistage.",
+          "Un résultat négatif rend la trisomie 21 très peu probable, sans l’exclure absolument.",
+          "Un résultat positif peut parfois être lié au placenta sans que le bébé soit porteur.",
+          "Un résultat positif doit donc être confirmé par une analyse chromosomique après prélèvement de villosités choriales ou amniocentèse."
+        ]
+      },
+      {
+        title: "Pourquoi le résultat du DPNI peut-il être non interprétable ?",
+        paragraphs: [
+          "Dans certains cas, la quantité d’ADN analysable est insuffisante.",
+          "Cela peut être lié au terme trop précoce, à certaines caractéristiques maternelles, à la grossesse ou à des raisons techniques.",
+          "Le professionnel peut proposer de refaire la prise de sang ou de discuter un autre examen.",
+          "Un résultat non interprétable ne signifie pas automatiquement que le bébé présente une anomalie."
+        ]
+      },
+      {
+        title: "Qu’est-ce que le prélèvement de villosités choriales ?",
+        paragraphs: [
+          "Le prélèvement de villosités choriales, aussi appelé biopsie de trophoblaste, prélève un petit fragment du futur placenta.",
+          "Il peut être réalisé plus tôt dans la grossesse que l’amniocentèse.",
+          "Le prélèvement s’effectue à travers l’abdomen ou, plus rarement, par voie vaginale selon la position du placenta.",
+          "Il permet d’étudier les chromosomes et de poser un diagnostic."
+        ]
+      },
+      {
+        title: "Qu’est-ce que l’amniocentèse ?",
+        paragraphs: [
+          "L’amniocentèse consiste à prélever une petite quantité de liquide amniotique à l’aide d’une aiguille fine introduite à travers l’abdomen sous contrôle échographique.",
+          "Le liquide contient des cellules du bébé qui peuvent être analysées.",
+          "L’examen est réalisé à partir d’un terme défini par l’équipe spécialisée.",
+          "Il permet de confirmer ou d’exclure une anomalie chromosomique."
+        ]
+      },
+      {
+        title: "Les examens diagnostiques comportent-ils un risque ?",
+        paragraphs: [
+          "Le prélèvement de villosités choriales et l’amniocentèse sont des examens invasifs.",
+          "Ils comportent un faible risque de complication, notamment de fausse couche.",
+          "Le professionnel doit vous expliquer le bénéfice attendu, les limites, le déroulement et les risques avant de recueillir votre consentement.",
+          "La décision de réaliser ou non l’examen vous appartient."
+        ]
+      },
+      {
+        title: "Combien de temps faut-il attendre les résultats ?",
+        paragraphs: [
+          "Le délai dépend du test réalisé et du laboratoire.",
+          "Le résultat du dépistage combiné est généralement disponible après réception des données échographiques et biologiques.",
+          "Le DPNI nécessite souvent plusieurs jours.",
+          "Après un prélèvement invasif, une première réponse ciblée peut parfois être disponible rapidement, tandis que l’analyse complète demande davantage de temps."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le diagnostic confirme une trisomie 21 ?",
+        paragraphs: [
+          "Une consultation spécialisée est proposée pour expliquer le diagnostic, ses conséquences possibles et les différentes options.",
+          "Vous pouvez rencontrer une équipe de diagnostic prénatal, un généticien, un pédiatre ou des associations de familles.",
+          "Vous pouvez décider de poursuivre la grossesse avec un accompagnement adapté ou demander une interruption médicale de grossesse.",
+          "Aucune décision ne doit être imposée. Vous devez pouvoir disposer d’une information complète, loyale et d’un temps de réflexion."
+        ]
+      },
+      {
+        title: "Peut-on refuser le dépistage ?",
+        paragraphs: [
+          "Oui. Le dépistage de la trisomie 21 est proposé, mais il n’est pas obligatoire.",
+          "Vous pouvez accepter le dépistage combiné, refuser le DPNI ou ne pas souhaiter d’examen diagnostique.",
+          "Votre décision ne doit pas modifier la qualité de votre suivi de grossesse.",
+          "Le professionnel doit respecter votre choix après vous avoir expliqué les avantages, les limites et les conséquences possibles."
+        ]
+      },
+      {
+        title: "Le dépistage est-il pris en charge ?",
+        paragraphs: [
+          "Les examens recommandés dans le parcours national de dépistage sont pris en charge selon les règles de l’Assurance Maladie.",
+          "La prescription et les conditions de réalisation doivent respecter les indications prévues.",
+          "Des tests plus larges proposés en dehors du parcours habituel peuvent ne pas être remboursés.",
+          "Demandez au professionnel ou au laboratoire de vous préciser la prise en charge avant l’examen."
+        ]
+      },
+      {
+        title: "Quelles questions poser au professionnel ?",
+        bullets: [
+          "Que signifie exactement ma probabilité calculée ?",
+          "Quelle est la différence entre dépistage et diagnostic ?",
+          "Pourquoi me propose-t-on un DPNI ou un prélèvement invasif ?",
+          "Quels sont les bénéfices et les limites de chaque option ?",
+          "Quel est le délai pour recevoir les résultats ?",
+          "Que se passera-t-il si le résultat est positif ou non interprétable ?",
+          "Puis-je rencontrer un conseiller en génétique ou une équipe spécialisée ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le dépistage de la trisomie 21 est proposé à toutes les femmes enceintes mais reste facultatif.",
+          "Le dépistage combiné associe la clarté nucale, une prise de sang et l’âge maternel.",
+          "Le DPNI affine fortement l’estimation du risque sans geste invasif.",
+          "Un résultat de dépistage positif doit être confirmé par un examen diagnostique.",
+          "À chaque étape, la décision vous appartient après une information claire et complète."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Dépistage prénatal de la trisomie 21",
+        url: "https://www.has-sante.fr/jcms/c_2898274/fr/depistage-prenatal-de-la-trisomie-21"
+      },
+      {
+        label: "Assurance Maladie — Le dépistage prénatal de la trisomie 21",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/depistage-prenatal-trisomie-21"
+      },
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Agence de la biomédecine — Diagnostic prénatal",
+        url: "https://www.agence-biomedecine.fr/Diagnostic-prenatal"
+      }
+    ]
   }
 ];
 
