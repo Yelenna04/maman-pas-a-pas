@@ -142,8 +142,17 @@ export function ArticleSearch({ articles }: ArticleSearchProps) {
               href={`/articles/${article.slug}`}
               className="category-card-link"
               aria-label={`Lire ${article.title}`}
+              style={{ display: "flex", height: "100%" }}
             >
-              <article className="card card-hover">
+              <article
+                className="card card-hover"
+                style={{
+                  display: "flex",
+                  flex: 1,
+                  flexDirection: "column",
+                  height: "100%"
+                }}
+              >
                 <p
                   className="muted"
                   style={{
@@ -158,7 +167,10 @@ export function ArticleSearch({ articles }: ArticleSearchProps) {
                 <h3>{article.title}</h3>
                 <p className="muted">{article.description}</p>
 
-                <span className="link-arrow">
+                <span
+                  className="link-arrow"
+                  style={{ marginTop: "auto" }}
+                >
                   Lire l’article
                   <ArrowRight size={17} />
                 </span>
