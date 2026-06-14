@@ -7930,6 +7930,249 @@ export const articles: Article[] = [
         url: "https://www.cfef.org/"
       }
     ]
+  },
+
+{
+    slug: "quelles-prises-de-sang-et-analyses-sont-realisees-pendant-la-grossesse",
+    title: "Quelles prises de sang et analyses sont réalisées pendant la grossesse ?",
+    description:
+      "Groupe sanguin, toxoplasmose, rubéole, diabète gestationnel, anémie : les principaux examens biologiques réalisés pendant la grossesse et leur calendrier.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les analyses réalisées pendant la grossesse servent à connaître votre groupe sanguin, dépister certaines infections et surveiller votre état de santé.",
+          "Au début de la grossesse, plusieurs sérologies sont prescrites, notamment pour la rubéole, la toxoplasmose, la syphilis, l’hépatite B et le VIH.",
+          "Une numération sanguine peut être réalisée pour rechercher une anémie, et des analyses d’urines sont effectuées régulièrement.",
+          "Le dépistage du diabète gestationnel n’est pas systématique pour toutes les femmes : il dépend des facteurs de risque et des recommandations du professionnel.",
+          "Le calendrier peut être renforcé si la grossesse présente un risque particulier."
+        ],
+        quote:
+          "Un résultat anormal ne signifie pas forcément qu’il existe une complication : il sert souvent à décider d’une surveillance ou d’un examen complémentaire."
+      },
+      {
+        title: "Pourquoi autant d’analyses pendant la grossesse ?",
+        paragraphs: [
+          "La grossesse modifie le fonctionnement de l’organisme et peut révéler ou aggraver certaines maladies. Les examens biologiques permettent de repérer précocement une infection, une anémie, un trouble du sucre ou un problème immunologique.",
+          "Ils servent aussi à prévenir certaines complications pour le bébé, notamment lorsqu’une infection peut traverser le placenta ou lorsqu’il existe une incompatibilité de groupe sanguin.",
+          "Tous les examens ne sont pas réalisés au même moment ni chez toutes les femmes. Le suivi dépend du terme, des antécédents, des symptômes et des résultats précédents."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le bilan du début de grossesse est le plus complet : il réunit plusieurs sérologies, le groupe sanguin et souvent une numération sanguine.",
+          "Certaines analyses sont répétées chaque mois uniquement si vous n’êtes pas immunisée ou si votre groupe sanguin le nécessite.",
+          "Les urines sont contrôlées régulièrement pour rechercher notamment des protéines, du sucre ou une infection."
+        ],
+        quote:
+          "Gardez tous vos résultats dans votre dossier de grossesse, même lorsqu’ils sont normaux."
+      },
+      {
+        title: "Quelles analyses sont prescrites au début de la grossesse ?",
+        bullets: [
+          "La détermination du groupe sanguin ABO et du rhésus.",
+          "La recherche d’agglutinines irrégulières.",
+          "La sérologie de la rubéole.",
+          "La sérologie de la toxoplasmose.",
+          "Le dépistage de la syphilis.",
+          "Le dépistage de l’hépatite B.",
+          "La proposition d’un dépistage du VIH.",
+          "Une analyse d’urines.",
+          "Une numération formule sanguine selon le contexte et les habitudes de suivi."
+        ],
+        paragraphs: [
+          "D’autres examens peuvent être ajoutés selon vos antécédents, votre origine géographique, vos symptômes ou vos traitements.",
+          "Le professionnel vous indique si vous devez être à jeun. Beaucoup de prises de sang de grossesse ne nécessitent pas de jeûne."
+        ]
+      },
+      {
+        title: "Pourquoi vérifier le groupe sanguin et le rhésus ?",
+        paragraphs: [
+          "Le groupe sanguin doit être connu de façon fiable, notamment en cas de saignement, d’intervention ou d’accouchement.",
+          "Le rhésus est particulièrement important lorsqu’une femme est rhésus négatif. Si le bébé est rhésus positif, l’organisme maternel peut produire des anticorps dirigés contre ses globules rouges.",
+          "La recherche d’agglutinines irrégulières sert à détecter ces anticorps.",
+          "Une injection d’immunoglobulines anti-D peut être proposée à certains moments de la grossesse ou après une situation à risque afin de prévenir cette immunisation."
+        ]
+      },
+      {
+        title: "À quoi sert la sérologie de la toxoplasmose ?",
+        paragraphs: [
+          "La toxoplasmose est une infection souvent bénigne chez l’adulte, mais elle peut atteindre le bébé lorsqu’elle est contractée pendant la grossesse.",
+          "La première prise de sang détermine si vous avez déjà été infectée et si vous êtes immunisée.",
+          "Si vous n’êtes pas immunisée, un contrôle sérologique mensuel est généralement réalisé jusqu’à l’accouchement.",
+          "Le professionnel vous rappelle alors les mesures de prévention liées à l’alimentation, au lavage des fruits et légumes, à la cuisson de la viande et au contact avec la terre ou les litières."
+        ]
+      },
+      {
+        title: "Pourquoi dépister la rubéole ?",
+        paragraphs: [
+          "La rubéole peut entraîner des complications importantes pour le bébé lorsqu’elle est contractée au début de la grossesse.",
+          "La sérologie permet de savoir si vous êtes immunisée, généralement grâce à une vaccination antérieure ou à une ancienne infection.",
+          "Si vous n’êtes pas immunisée, la vaccination ne peut pas être réalisée pendant la grossesse. Elle sera proposée après l’accouchement.",
+          "Un contrôle peut être prescrit en cours de grossesse selon le résultat initial et les recommandations du professionnel."
+        ]
+      },
+      {
+        title: "Quels autres dépistages infectieux sont réalisés ?",
+        paragraphs: [
+          "Le dépistage de la syphilis est obligatoire car cette infection peut être transmise au bébé et nécessite un traitement.",
+          "La recherche de l’antigène de l’hépatite B permet d’organiser la prise en charge du nouveau-né dès la naissance si la mère est porteuse du virus.",
+          "Le dépistage du VIH est proposé à toutes les femmes enceintes. Un traitement adapté réduit très fortement le risque de transmission au bébé.",
+          "D’autres dépistages, comme l’hépatite C, la chlamydia ou certaines infections sexuellement transmissibles, peuvent être proposés selon les facteurs de risque."
+        ]
+      },
+      {
+        title: "Pourquoi réaliser une numération sanguine ?",
+        paragraphs: [
+          "La numération formule sanguine mesure notamment l’hémoglobine, les globules rouges, les globules blancs et les plaquettes.",
+          "Elle permet surtout de rechercher une anémie, fréquente pendant la grossesse, notamment en cas de manque de fer.",
+          "Une anémie peut provoquer fatigue, essoufflement, palpitations ou faiblesse, mais elle peut aussi être découverte sans symptôme.",
+          "Selon le résultat, le professionnel peut demander un dosage de la ferritine et proposer une supplémentation en fer."
+        ]
+      },
+      {
+        title: "Quelles analyses d’urines sont réalisées ?",
+        paragraphs: [
+          "Les urines sont contrôlées régulièrement au cours de la grossesse.",
+          "La recherche de protéines peut aider à repérer une prééclampsie lorsqu’elle est associée à une tension artérielle élevée ou à d’autres signes.",
+          "La recherche de sucre peut conduire à approfondir le dépistage d’un trouble de la glycémie.",
+          "Un examen cytobactériologique des urines, appelé ECBU, peut être prescrit en cas de symptômes urinaires ou pour rechercher une infection sans symptôme."
+        ]
+      },
+      {
+        title: "Comment dépiste-t-on le diabète gestationnel ?",
+        paragraphs: [
+          "Le diabète gestationnel correspond à une élévation du taux de sucre dans le sang apparaissant pendant la grossesse.",
+          "Le dépistage est proposé en priorité en présence de facteurs de risque : âge maternel élevé, surpoids, antécédent familial de diabète, diabète gestationnel antérieur ou naissance d’un bébé de poids élevé.",
+          "Une glycémie à jeun peut être réalisée au début de la grossesse chez les femmes à risque.",
+          "Entre 24 et 28 semaines d’aménorrhée, une hyperglycémie provoquée par voie orale peut être prescrite. Elle consiste à boire une solution sucrée puis à effectuer plusieurs prises de sang."
+        ]
+      },
+      {
+        title: "Comment se déroule l’hyperglycémie provoquée ?",
+        bullets: [
+          "Vous devez généralement être à jeun depuis plusieurs heures.",
+          "Une première prise de sang mesure la glycémie à jeun.",
+          "Vous buvez une solution contenant du glucose.",
+          "D’autres prélèvements sont réalisés une heure puis deux heures plus tard.",
+          "Vous devez rester au laboratoire sans manger, fumer ni faire d’effort pendant le test."
+        ],
+        paragraphs: [
+          "La boisson peut provoquer des nausées. Signalez tout malaise au personnel du laboratoire.",
+          "Un seul résultat dépassant le seuil retenu peut suffire à poser le diagnostic de diabète gestationnel."
+        ]
+      },
+      {
+        title: "Qu’est-ce que la recherche d’agglutinines irrégulières ?",
+        paragraphs: [
+          "Cette analyse recherche des anticorps dirigés contre certains antigènes présents sur les globules rouges.",
+          "Elle est particulièrement importante chez les femmes de rhésus négatif, mais peut aussi concerner d’autres situations.",
+          "Elle est réalisée au début de la grossesse puis répétée selon le groupe sanguin et les résultats précédents.",
+          "Si des anticorps sont détectés, leur type et leur quantité sont étudiés afin d’adapter la surveillance du bébé."
+        ]
+      },
+      {
+        title: "Le dépistage de la trisomie 21 nécessite-t-il une prise de sang ?",
+        paragraphs: [
+          "Oui. Le dépistage combiné du premier trimestre associe une prise de sang, l’âge maternel et la mesure de la clarté nucale à l’échographie.",
+          "Il estime une probabilité et ne constitue pas un diagnostic.",
+          "Selon le résultat, un dépistage prénatal non invasif sur ADN libre circulant peut être proposé.",
+          "En cas de risque élevé, un examen diagnostique peut être discuté avec une équipe spécialisée."
+        ]
+      },
+      {
+        title: "Le dépistage du streptocoque B est-il une prise de sang ?",
+        paragraphs: [
+          "Non. Il s’agit d’un prélèvement vaginal réalisé en fin de grossesse, habituellement entre 34 et 38 semaines d’aménorrhée selon les pratiques.",
+          "Le streptocoque B peut être présent sans provoquer de symptôme chez la mère.",
+          "S’il est détecté, des antibiotiques sont généralement administrés pendant le travail afin de réduire le risque d’infection chez le nouveau-né.",
+          "Il ne s’agit pas d’une infection sexuellement transmissible et sa présence peut varier au cours du temps."
+        ]
+      },
+      {
+        title: "Faut-il refaire certaines analyses en fin de grossesse ?",
+        paragraphs: [
+          "Une numération sanguine est souvent contrôlée à nouveau pour vérifier l’hémoglobine et les plaquettes.",
+          "La recherche d’agglutinines irrégulières peut être répétée selon votre groupe sanguin.",
+          "Les sérologies sont renouvelées si vous n’êtes pas immunisée ou si un risque particulier est identifié.",
+          "D’autres bilans peuvent être prescrits avant l’accouchement ou l’anesthésie selon les habitudes de la maternité et votre état de santé."
+        ]
+      },
+      {
+        title: "Que signifient les résultats positifs ou négatifs ?",
+        paragraphs: [
+          "Pour une sérologie, un résultat positif peut signifier une immunité ancienne, une infection récente ou simplement nécessiter une confirmation.",
+          "Un résultat négatif signifie souvent que vous n’êtes pas immunisée, mais son interprétation dépend de l’analyse concernée.",
+          "Ne tentez pas d’interpréter seule des taux ou des valeurs de référence, qui peuvent varier selon les laboratoires.",
+          "Le professionnel croise toujours les résultats avec le terme de la grossesse, vos symptômes et les examens précédents."
+        ]
+      },
+      {
+        title: "Quand faut-il contacter rapidement un professionnel ?",
+        bullets: [
+          "Vous recevez un résultat signalé comme urgent par le laboratoire.",
+          "Vous avez de la fièvre, une éruption cutanée ou un contact avec une maladie infectieuse.",
+          "Vous présentez des brûlures urinaires, des douleurs lombaires ou des frissons.",
+          "Vous ressentez une fatigue extrême, un essoufflement important ou des palpitations.",
+          "Vous avez des maux de tête intenses, des troubles visuels ou un gonflement brutal.",
+          "Vous ne comprenez pas un résultat et aucun rendez-vous n’est prévu rapidement."
+        ],
+        paragraphs: [
+          "Le laboratoire peut signaler une anomalie, mais seul le professionnel qui suit la grossesse peut l’interpréter dans son contexte."
+        ]
+      },
+      {
+        title: "Comment bien se préparer aux prélèvements ?",
+        bullets: [
+          "Vérifiez si vous devez être à jeun.",
+          "Buvez de l’eau avant la prise de sang sauf consigne contraire.",
+          "Apportez l’ordonnance, la carte Vitale et les résultats précédents.",
+          "Signalez les traitements et compléments que vous prenez.",
+          "Prévenez le laboratoire si vous faites facilement des malaises.",
+          "Demandez quand et comment les résultats seront transmis."
+        ],
+        paragraphs: [
+          "Pour les urines, respectez les consignes du laboratoire concernant le flacon, la toilette locale et le moment du prélèvement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le bilan du début de grossesse comprend le groupe sanguin, plusieurs sérologies et des analyses d’urines.",
+          "La toxoplasmose est contrôlée chaque mois si vous n’êtes pas immunisée.",
+          "La numération sanguine permet notamment de rechercher une anémie.",
+          "Le dépistage du diabète gestationnel dépend de vos facteurs de risque et peut nécessiter une hyperglycémie provoquée.",
+          "Le calendrier exact des analyses est toujours adapté à votre situation médicale."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Assurance Maladie — Le suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Diabète gestationnel",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+      }
+    ]
   }
 ];
 
