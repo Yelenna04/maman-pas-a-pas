@@ -11,32 +11,23 @@ type PageProps = {
   }>;
 };
 
-export default async function SubcategoryPage({
-  params
-}: PageProps) {
+export default async function SubcategoryPage({ params }: PageProps) {
   const { categorySlug, subcategorySlug } = await params;
-
   const category = getCategory(categorySlug);
 
-  if (!category) {
-    notFound();
-  }
+  if (!category) notFound();
 
   const subcategory = category.subcategories.find(
     (item) => item.slug === subcategorySlug
   );
 
-  if (!subcategory) {
-    notFound();
-  }
+  if (!subcategory) notFound();
 
   const matchingArticles = articles.filter(
     (article) =>
       article.categorySlug === categorySlug &&
       article.subcategorySlug === subcategorySlug
   );
-
-  const subcategoryHref = `/categories/${categorySlug}/${subcategorySlug}`;
 
   return (
     <>
@@ -45,11 +36,7 @@ export default async function SubcategoryPage({
           <div className="breadcrumbs">
             <Link href="/">Accueil</Link>
             <span>›</span>
-
-            <Link href={`/${categorySlug}`}>
-              {category.title}
-            </Link>
-
+            <Link href={`/${categorySlug}`}>{category.title}</Link>
             <span>›</span>
             <span>{subcategory.title}</span>
           </div>
@@ -64,16 +51,12 @@ export default async function SubcategoryPage({
           {matchingArticles.length > 0 ? (
             <div className="grid-3">
               {matchingArticles.map((article) => (
-                <ArticleCard
-                  key={article.slug}
-                  article={article}
-                />
+                <ArticleCard key={article.slug} article={article} />
               ))}
             </div>
           ) : (
             <div className="card center">
               <h2>Les articles arrivent bientôt</h2>
-
               <p className="muted">
                 Les premiers contenus de cette rubrique sont actuellement en préparation.
               </p>
@@ -91,12 +74,12 @@ export default async function SubcategoryPage({
             }}
           >
             <Link
-              href={subcategoryHref}
+              href={`/${categorySlug}`}
               className="btn btn-secondary"
               style={{ minWidth: 220 }}
             >
               <ArrowLeft size={18} />
-              Retour à {subcategory.title}
+              Retour à {category.title}
             </Link>
 
             <Link
