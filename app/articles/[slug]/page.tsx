@@ -1548,68 +1548,6 @@ function UnifiedArticle({ article }: { article: Article }) {
               </section>
             )}
 
-            {article.slug === "comment-preparer-sa-valise-de-maternite" && (
-              <section
-                aria-labelledby="checklist-maternite-title"
-                style={{
-                  margin: "28px 0 34px",
-                  padding: "28px",
-                  border: "1px solid #e7d8cd",
-                  borderRadius: "24px",
-                  background:
-                    "linear-gradient(135deg, #fbf7f1 0%, #f6eee8 100%)",
-                  textAlign: "center",
-                }}
-              >
-                <span
-                  aria-hidden="true"
-                  style={{
-                    width: 52,
-                    height: 52,
-                    margin: "0 auto 14px",
-                    borderRadius: "50%",
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    color: "#78906f",
-                    background: "#e8efe3",
-                  }}
-                >
-                  <ClipboardList size={26} />
-                </span>
-
-                <h2
-                  id="checklist-maternite-title"
-                  style={{ margin: "0 0 10px", fontSize: "1.65rem" }}
-                >
-                  Checklist maternité à imprimer
-                </h2>
-
-
-                <a
-                  href="/telechargements/checklist-maternite-maman-pas-a-pas.pdf"
-                  download
-                  style={{
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    gap: 10,
-                    padding: "13px 22px",
-                    borderRadius: 999,
-                    color: "#ffffff",
-                    background: "#bf7f79",
-                    fontWeight: 700,
-                    textDecoration: "none",
-                    boxShadow: "0 8px 20px rgba(191, 127, 121, 0.2)",
-                  }}
-                >
-                  <Download size={19} />
-                  Télécharger la checklist en PDF
-                </a>
-
-              </section>
-            )}
-
             {helpSection && (
               <section className="compact-section medical-section">
                 <h2>
@@ -1732,6 +1670,66 @@ function UnifiedArticle({ article }: { article: Article }) {
                       "Avancez étape par étape.",
                   )}
                 </p>
+              </section>
+            )}
+
+            {article.slug === "comment-preparer-sa-valise-de-maternite" && (
+              <section
+                aria-labelledby="checklist-maternite-title"
+                style={{
+                  marginTop: "18px",
+                  padding: "24px",
+                  border: "1px solid #e7d8cd",
+                  borderRadius: "24px",
+                  background:
+                    "linear-gradient(135deg, #fbf7f1 0%, #f6eee8 100%)",
+                  textAlign: "center",
+                }}
+              >
+                <span
+                  aria-hidden="true"
+                  style={{
+                    width: 52,
+                    height: 52,
+                    margin: "0 auto 14px",
+                    borderRadius: "50%",
+                    display: "inline-flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    color: "#78906f",
+                    background: "#e8efe3",
+                  }}
+                >
+                  <ClipboardList size={26} />
+                </span>
+
+                <h2
+                  id="checklist-maternite-title"
+                  style={{ margin: "0 0 14px", fontSize: "1.45rem" }}
+                >
+                  Checklist maternité à imprimer
+                </h2>
+
+                <a
+                  href="/telechargements/checklist-maternite-maman-pas-a-pas.pdf"
+                  download
+                  style={{
+                    display: "inline-flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    gap: 10,
+                    padding: "13px 22px",
+                    borderRadius: 999,
+                    color: "#ffffff",
+                    background: "#bf7f79",
+                    fontWeight: 700,
+                    textDecoration: "none",
+                    boxShadow: "0 8px 20px rgba(191, 127, 121, 0.2)",
+                  }}
+                >
+                  <Download size={19} />
+                  Télécharger la checklist en PDF
+                </a>
               </section>
             )}
           </aside>
