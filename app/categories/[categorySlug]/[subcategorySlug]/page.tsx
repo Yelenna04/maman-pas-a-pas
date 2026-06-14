@@ -36,6 +36,8 @@ export default async function SubcategoryPage({
       article.subcategorySlug === subcategorySlug
   );
 
+  const subcategoryHref = `/categories/${categorySlug}/${subcategorySlug}`;
+
   return (
     <>
       <section className="page-hero">
@@ -78,19 +80,29 @@ export default async function SubcategoryPage({
             </div>
           )}
 
-          <div className="center" style={{ marginTop: 42 }}>
+          <div
+            style={{
+              alignItems: "center",
+              display: "flex",
+              flexWrap: "wrap",
+              gap: 12,
+              justifyContent: "center",
+              marginTop: 42
+            }}
+          >
             <Link
-              href={`/${categorySlug}`}
+              href={subcategoryHref}
               className="btn btn-secondary"
+              style={{ minWidth: 220 }}
             >
               <ArrowLeft size={18} />
-              Retour à {category.title}
+              Retour à {subcategory.title}
             </Link>
 
             <Link
               href="/articles"
               className="btn btn-primary"
-              style={{ marginLeft: 12 }}
+              style={{ minWidth: 220 }}
             >
               Tous les articles
               <ArrowRight size={18} />
