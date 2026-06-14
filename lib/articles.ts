@@ -7261,6 +7261,212 @@ export const articles: Article[] = [
         url: "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/"
       }
     ]
+  },
+
+{
+    slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
+    title: "Comment préparer le retour à la maison après la naissance ?",
+    description:
+      "Organisation, suivi médical, repos, alimentation du bébé et soutien : les repères utiles pour préparer sereinement le retour à la maison après la maternité.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Préparez surtout un environnement simple, sûr et pratique : un endroit pour faire dormir le bébé, quelques vêtements, du matériel de change et des repas faciles pour les parents.",
+          "Avant la sortie, vérifiez que le suivi de la mère et du nouveau-né est organisé avec une sage-femme, un médecin ou la PMI.",
+          "Les premiers jours sont consacrés au repos, à l’alimentation du bébé, aux soins essentiels et à l’observation de l’état de la mère et de l’enfant.",
+          "Il n’est pas nécessaire que la maison soit parfaite : mieux vaut limiter les visites, accepter de l’aide et préserver le sommeil dès que possible.",
+          "Fièvre, saignements très abondants, douleur importante, difficulté respiratoire, bébé très somnolent ou qui s’alimente mal nécessitent un avis médical rapide."
+        ],
+        quote:
+          "Le meilleur retour à la maison n’est pas celui où tout est parfaitement rangé, mais celui où les parents savent qui appeler, peuvent se reposer et disposent de l’essentiel."
+      },
+      {
+        title: "Pourquoi préparer le retour avant la naissance ?",
+        paragraphs: [
+          "Le retour à la maison peut être à la fois heureux, intense et déstabilisant. Après quelques jours entourés par l’équipe de la maternité, les parents se retrouvent responsables des soins quotidiens tout en récupérant de l’accouchement.",
+          "Anticiper quelques éléments pratiques permet de réduire la charge mentale : rendez-vous de suivi, repas, linge, couchage du bébé, aide de l’entourage et numéros utiles.",
+          "L’objectif n’est pas de tout prévoir, mais de rendre les premiers jours plus simples et de savoir vers qui se tourner en cas de doute."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Organisez le suivi avant la sortie : une première visite doit être prévue rapidement après le retour, particulièrement après une sortie précoce.",
+          "Préparez seulement l’essentiel pour le bébé et pour votre récupération, sans multiplier le matériel inutile.",
+          "Planifiez du soutien concret : repas, courses, ménage, garde des aînés ou présence d’un proche, plutôt que des visites longues."
+        ],
+        quote:
+          "Avant de quitter la maternité, demandez clairement qui appeler la nuit, le week-end et en cas de problème concernant la mère ou le bébé."
+      },
+      {
+        title: "Quel suivi prévoir après la sortie de maternité ?",
+        paragraphs: [
+          "Le suivi postnatal doit être organisé avant le retour à domicile. Une sage-femme peut surveiller la récupération de la mère, la cicatrisation, les saignements, la douleur, la tension artérielle, l’allaitement ou les biberons, ainsi que l’état général du bébé.",
+          "Après une durée de séjour standard, la Haute Autorité de santé recommande une première visite dans la semaine suivant la sortie, si possible dans les 48 heures. Après une sortie précoce, la première visite doit avoir lieu dans les 24 heures.",
+          "Un examen médical du nouveau-né est également recommandé entre le sixième et le dixième jour de vie. Les rendez-vous exacts peuvent varier selon la maternité et la situation de l’enfant.",
+          "Gardez à portée de main les coordonnées de la maternité, de la sage-femme, du médecin, du pédiatre et de la Protection maternelle et infantile."
+        ]
+      },
+      {
+        title: "Que faut-il préparer dans la maison ?",
+        bullets: [
+          "Un couchage sûr et dégagé pour le bébé.",
+          "Quelques bodies, pyjamas, langes et une gigoteuse adaptée à la saison.",
+          "Des couches et le matériel de change recommandé.",
+          "Un thermomètre.",
+          "Des protections hygiéniques adaptées au post-partum.",
+          "Des vêtements souples et confortables pour la mère.",
+          "Une petite réserve de produits du quotidien pour éviter les courses urgentes.",
+          "Un espace accessible pour les soins, sans avoir à porter ou déplacer du matériel lourd."
+        ],
+        paragraphs: [
+          "Il n’est pas nécessaire d’aménager plusieurs postes de change ni d’acheter de nombreux produits de toilette. Pour un nouveau-né, la simplicité est généralement préférable.",
+          "Rangez les objets les plus utilisés à hauteur de main, surtout après une césarienne ou en cas de douleurs périnéales."
+        ]
+      },
+      {
+        title: "Comment préparer un sommeil sûr pour le bébé ?",
+        paragraphs: [
+          "Le bébé doit dormir sur le dos, dans son propre lit ou berceau, sur un matelas ferme et plat.",
+          "Le couchage doit rester vide : pas d’oreiller, de couette, de tour de lit, de cale-bébé, de peluche ni d’objet mou.",
+          "Une gigoteuse adaptée à la température de la pièce remplace les couvertures. Évitez de trop couvrir le bébé.",
+          "Le lit peut être installé dans la chambre des parents pendant les premiers mois afin de faciliter la surveillance et les repas nocturnes.",
+          "Ne vous endormez pas avec le bébé sur un canapé ou un fauteuil. Si vous le prenez dans votre lit pour le nourrir, replacez-le dans son couchage dès que vous êtes réveillée et disponible."
+        ]
+      },
+      {
+        title: "Comment simplifier les repas des parents ?",
+        bullets: [
+          "Préparez ou congelez quelques plats simples avant la naissance.",
+          "Gardez des aliments rapides à consommer : soupes, légumes, féculents, œufs, produits laitiers, fruits et collations.",
+          "Prévoyez une bouteille d’eau à proximité de l’endroit où vous nourrissez le bébé.",
+          "Demandez aux proches d’apporter un repas plutôt qu’un cadeau supplémentaire.",
+          "Utilisez ponctuellement la livraison de courses si cela allège réellement votre organisation."
+        ],
+        paragraphs: [
+          "Après l’accouchement, l’alimentation doit surtout être variée, suffisante et facile à préparer. Il n’existe pas de régime particulier obligatoire en dehors d’une indication médicale.",
+          "En cas d’allaitement, buvez selon votre soif et mangez normalement. Une alimentation équilibrée suffit généralement."
+        ]
+      },
+      {
+        title: "Comment organiser l’alimentation du bébé ?",
+        paragraphs: [
+          "Que le bébé soit allaité ou nourri au biberon, les premiers jours servent à observer ses signes d’éveil, la qualité des prises alimentaires, les urines, les selles et l’évolution du poids.",
+          "Pour l’allaitement, installez un espace confortable avec de l’eau, des coussins ordinaires si besoin et les coordonnées d’une professionnelle pouvant vous aider rapidement.",
+          "Pour les biberons, vérifiez les recommandations de préparation données par la maternité, l’hygiène du matériel et le dosage exact indiqué sur la boîte de lait.",
+          "Ne changez pas de lait, ne donnez pas d’eau et n’ajoutez rien au biberon sans avis médical.",
+          "Un bébé qui refuse plusieurs repas, tète très peu, est difficile à réveiller ou mouille moins de couches doit être évalué."
+        ]
+      },
+      {
+        title: "Comment préserver le repos de la mère ?",
+        paragraphs: [
+          "La récupération demande du temps, que l’accouchement ait eu lieu par voie basse ou par césarienne. Les saignements, la fatigue, les douleurs et les variations émotionnelles sont fréquents.",
+          "Essayez de vous allonger plusieurs fois par jour et de dormir lorsque cela est possible, même brièvement. Les tâches domestiques peuvent attendre.",
+          "Évitez de porter des charges lourdes et reprenez les activités progressivement. Après une césarienne, suivez les consignes spécifiques de la maternité.",
+          "Acceptez une aide concrète pour les repas, le linge, les courses ou les autres enfants. L’autre parent peut prendre en charge les changes, les rots, le bain, les repas et la logistique."
+        ]
+      },
+      {
+        title: "Comment gérer les visites ?",
+        paragraphs: [
+          "Il est possible de limiter les visites pendant les premiers jours. La mère récupère, le bébé s’adapte et les parents apprennent à se connaître.",
+          "Prévenez l’entourage que les visites seront courtes, espacées et confirmées à l’avance. Une personne malade ne doit pas venir au contact du nouveau-né.",
+          "Demandez à chacun de se laver les mains avant de toucher le bébé et évitez les bisous sur le visage ou les mains.",
+          "Vous n’avez pas à recevoir ni à préparer un repas pour les visiteurs. Une visite utile peut consister à apporter des courses, lancer une machine ou promener l’aîné."
+        ]
+      },
+      {
+        title: "Quels soins prévoir pour la mère ?",
+        bullets: [
+          "Surveiller les saignements et leur évolution.",
+          "Prendre les traitements prescrits et respecter les doses.",
+          "Nettoyer et surveiller la cicatrice du périnée ou de la césarienne selon les consignes.",
+          "Boire régulièrement et prévenir la constipation.",
+          "Observer les seins en cas d’allaitement : douleur importante, rougeur ou fièvre.",
+          "Respecter les rendez-vous postnataux et parler de la contraception."
+        ],
+        paragraphs: [
+          "Des saignements comparables à des règles peuvent persister plusieurs semaines, mais ils doivent diminuer progressivement.",
+          "Consultez rapidement en cas de saignement très abondant, de gros caillots répétés, de fièvre, de mauvaise odeur, de douleur qui augmente, de difficulté à respirer, de douleur dans un mollet ou de maux de tête intenses."
+        ]
+      },
+      {
+        title: "Quels signes surveiller chez le bébé ?",
+        bullets: [
+          "La qualité des repas et la capacité du bébé à se réveiller pour manger.",
+          "Le nombre de couches mouillées et l’émission des selles.",
+          "La température et la respiration.",
+          "La couleur de la peau, notamment une jaunisse qui s’intensifie.",
+          "Le tonus, les pleurs et le comportement habituel.",
+          "L’état du cordon ombilical."
+        ],
+        paragraphs: [
+          "Demandez un avis rapidement si le bébé est très somnolent, difficile à réveiller, respire mal, devient bleu ou gris, présente une température anormale, vomit de façon répétée, s’alimente mal ou mouille nettement moins ses couches.",
+          "En cas de détresse respiratoire, de coloration bleutée, de malaise ou si le bébé ne réagit pas normalement, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "Et si les émotions deviennent difficiles ?",
+        paragraphs: [
+          "Une grande émotivité, des pleurs ou une irritabilité peuvent apparaître dans les premiers jours : c’est souvent le baby blues, qui reste généralement transitoire.",
+          "Demandez de l’aide si la tristesse persiste, si l’anxiété devient envahissante, si vous ne parvenez plus à dormir même lorsque le bébé dort, si vous vous sentez incapable de vous occuper de vous ou de votre enfant, ou si vous avez des pensées inquiétantes.",
+          "Parlez-en rapidement à une sage-femme, un médecin, la maternité ou la PMI. Une dépression du post-partum peut toucher n’importe quel parent et nécessite un accompagnement.",
+          "En cas d’idées suicidaires, de peur de faire du mal au bébé ou de perte de contact avec la réalité, demandez une aide médicale urgente et ne restez pas seule."
+        ]
+      },
+      {
+        title: "Que mettre sur une liste de contacts utiles ?",
+        bullets: [
+          "Le numéro de la maternité et des urgences obstétricales.",
+          "La sage-femme chargée du suivi à domicile.",
+          "Le médecin traitant et le pédiatre ou médecin du bébé.",
+          "La Protection maternelle et infantile de votre secteur.",
+          "Le 15 et le 112 en cas d’urgence.",
+          "Une ou deux personnes proches pouvant venir rapidement."
+        ],
+        paragraphs: [
+          "Placez cette liste près du téléphone et partagez-la avec l’autre parent ou la personne qui vous accompagne."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le retour à la maison se prépare surtout en organisant le suivi médical, le soutien et les besoins essentiels du quotidien.",
+          "Le bébé a besoin d’un couchage sûr, d’être nourri régulièrement et d’être observé, mais pas d’une grande quantité de matériel.",
+          "La mère doit pouvoir se reposer, récupérer et demander de l’aide sans attendre que la situation devienne difficile.",
+          "Les visites peuvent être limitées et les proches orientés vers une aide concrète.",
+          "En cas de doute sur l’état de la mère ou du bébé, contactez la maternité, la sage-femme ou un médecin."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement : conditions et organisation du retour à domicile des mères et de leurs nouveau-nés",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement-conditions-et-organisation-du-retour-a-domicile-des-meres-et-de-leurs-nouveau-nes"
+      },
+      {
+        label: "Assurance Maladie — Le suivi de la mère et du nouveau-né après la naissance",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/suivi-mere-nouveau-ne-apres-naissance"
+      },
+      {
+        label: "Santé publique France — 1000 premiers jours",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Ministère de la Santé — Prévention des risques liés au sommeil du nourrisson",
+        url: "https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/prevention-des-risques-lies-au-sommeil-du-nourrisson"
+      }
+    ]
   }
 ];
 
