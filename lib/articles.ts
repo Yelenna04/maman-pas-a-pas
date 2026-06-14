@@ -5934,6 +5934,144 @@ export const articles: Article[] = [
         url: "https://www.acog.org/womens-health/infographics/weight-gain-during-pregnancy"
       }
     ]
+  },
+
+  {
+    slug: "douleurs-ligamentaires-comment-les-reconnaitre-et-les-soulager",
+    title: "Douleurs ligamentaires : comment les reconnaître et les soulager ?",
+    description:
+      "Les douleurs ligamentaires sont fréquentes pendant la grossesse, surtout au deuxième trimestre. Découvrez comment les reconnaître, les soulager et savoir quand consulter.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les douleurs ligamentaires apparaissent souvent au deuxième trimestre, lorsque l’utérus grandit et tire davantage sur les ligaments qui le soutiennent.",
+          "Elles provoquent généralement un tiraillement ou une douleur brève dans le bas-ventre, l’aine ou un côté du bassin.",
+          "Elles sont souvent déclenchées par un mouvement brusque, le fait de se lever rapidement, de tousser, d’éternuer ou de se retourner dans le lit.",
+          "Bouger plus lentement, se reposer, changer de position et utiliser une chaleur douce peuvent aider.",
+          "Une douleur forte, persistante ou associée à des saignements, de la fièvre, une perte de liquide ou des contractions régulières nécessite un avis médical rapide."
+        ],
+        quote:
+          "Une douleur ligamentaire est habituellement brève, liée à un mouvement et s’améliore au repos. Une douleur inhabituelle, intense ou persistante ne doit pas être attribuée automatiquement aux ligaments."
+      },
+      {
+        title: "Que sont les douleurs ligamentaires ?",
+        paragraphs: [
+          "L’utérus est maintenu dans le bassin par plusieurs tissus et ligaments. Pendant la grossesse, il augmente rapidement de volume et de poids, ce qui étire progressivement les structures qui le soutiennent.",
+          "Les ligaments ronds, situés de chaque côté de l’utérus, peuvent notamment se tendre lorsque vous bougez. Cette tension peut provoquer une douleur soudaine et brève dans le bas du ventre ou vers l’aine.",
+          "Ces douleurs sont fréquentes au cours du deuxième trimestre, mais elles peuvent apparaître plus tôt ou plus tard selon les femmes et les grossesses."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La localisation : la douleur se situe souvent dans le bas-ventre, sur un côté ou des deux côtés, et peut descendre vers l’aine.",
+          "Le déclenchement : elle survient fréquemment lors d’un mouvement brusque, en se levant, en se retournant, en marchant rapidement, en toussant ou en éternuant.",
+          "La durée : elle est généralement brève, en pointe ou en tiraillement, puis diminue lorsque vous ralentissez, changez de position ou vous reposez."
+        ],
+        quote:
+          "Les douleurs ligamentaires peuvent être impressionnantes, mais elles ne sont habituellement ni régulières ni continues."
+      },
+      {
+        title: "À quoi ressemblent-elles ?",
+        paragraphs: [
+          "Certaines femmes décrivent une sensation de pincement, de décharge, de point de côté ou de coup d’aiguille. D’autres ressentent plutôt un étirement ou une lourdeur dans le bas du ventre.",
+          "La douleur peut être plus marquée d’un côté, souvent à droite, mais elle peut aussi être ressentie à gauche ou des deux côtés.",
+          "Elle peut durer quelques secondes ou quelques minutes, puis disparaître. Une gêne diffuse peut néanmoins persister après une journée active ou une longue période debout."
+        ]
+      },
+      {
+        title: "Qu’est-ce qui peut les déclencher ?",
+        bullets: [
+          "Se lever rapidement d’une chaise ou du lit.",
+          "Se retourner brusquement pendant la nuit.",
+          "Marcher vite, courir ou faire un mouvement inhabituel.",
+          "Tousser, éternuer ou rire.",
+          "Rester longtemps debout ou enchaîner une journée très active.",
+          "Porter une charge ou faire un effort sans adapter sa posture."
+        ],
+        paragraphs: [
+          "Ces déclencheurs ne sont pas dangereux en eux-mêmes. Ils provoquent surtout une mise en tension rapide des ligaments déjà étirés par la croissance de l’utérus."
+        ]
+      },
+      {
+        title: "Comment les soulager au quotidien ?",
+        paragraphs: [
+          "Commencez par ralentir le mouvement qui déclenche la douleur. Asseyez-vous ou allongez-vous quelques instants dans une position confortable et respirez calmement.",
+          "Levez-vous et changez de position progressivement. Avant de tousser ou d’éternuer, vous pouvez légèrement fléchir les hanches et soutenir le bas de votre ventre avec la main.",
+          "Une douche tiède, un bain tiède ou une bouillotte enveloppée dans un tissu et utilisée brièvement à température modérée peuvent apporter du confort. Évitez la chaleur très forte ou prolongée.",
+          "Une activité douce et régulière, adaptée à votre grossesse, peut parfois réduire les tensions. Si les douleurs reviennent souvent, demandez conseil à votre sage-femme, à votre médecin ou à un kinésithérapeute formé à la grossesse."
+        ]
+      },
+      {
+        title: "Une ceinture de grossesse peut-elle aider ?",
+        paragraphs: [
+          "Certaines femmes ressentent un soulagement avec une ceinture ou un bandeau de soutien, surtout lors de la marche ou des périodes prolongées debout.",
+          "Ce dispositif doit rester confortable, ne pas comprimer le ventre et ne pas être porté en permanence sans conseil professionnel.",
+          "Si la douleur est fréquente ou gêne vos activités, demandez un avis avant d’acheter un dispositif afin de vérifier qu’il est adapté et que la douleur ne vient pas d’une autre cause."
+        ]
+      },
+      {
+        title: "Peut-on prendre un médicament contre la douleur ?",
+        paragraphs: [
+          "Ne prenez pas d’antalgique sans vérifier qu’il est compatible avec la grossesse. Le paracétamol peut être utilisé dans certaines situations, à la dose efficace la plus faible et pendant la durée la plus courte possible, après avis d’un professionnel de santé.",
+          "Les anti-inflammatoires non stéroïdiens, comme l’ibuprofène, ne doivent pas être pris en automédication pendant la grossesse. Leur utilisation est particulièrement contre-indiquée à partir du sixième mois.",
+          "Si vous avez besoin de médicaments de façon répétée, la douleur doit être évaluée afin d’en confirmer la cause."
+        ]
+      },
+      {
+        title: "Comment les différencier d’autres douleurs ?",
+        paragraphs: [
+          "Une douleur ligamentaire est souvent liée à un mouvement, brève et améliorée par le repos. Elle ne s’accompagne généralement pas de fièvre, de saignements, de perte de liquide ou de contractions régulières.",
+          "Les douleurs digestives peuvent être associées à des ballonnements, des gaz ou une constipation. Une infection urinaire peut provoquer des brûlures en urinant, des envies fréquentes ou une douleur dans le bas du ventre.",
+          "Des contractions ont tendance à revenir selon un rythme, à durer plus longtemps et à donner une sensation de durcissement de l’utérus. Il n’est pas toujours possible de faire la différence seule : en cas de doute, contactez la maternité ou le professionnel qui suit votre grossesse."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis médical ?",
+        paragraphs: [
+          "Contactez rapidement un professionnel si la douleur est forte, persistante, s’aggrave, vous empêche de marcher ou ne s’améliore pas au repos.",
+          "Demandez également un avis sans attendre en cas de saignements, de perte de liquide, de fièvre, de frissons, de malaise, de vomissements importants, de brûlures urinaires, de douleur dans le dos ou de contractions régulières.",
+          "Après 20 semaines, une douleur sous les côtes, surtout à droite, associée à des maux de tête, des troubles visuels ou un gonflement soudain du visage ou des mains nécessite une évaluation urgente.",
+          "Si vous avez simplement le sentiment que la douleur n’est pas habituelle, appelez. Il vaut mieux demander conseil que rester seule avec une inquiétude."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les douleurs ligamentaires sont fréquentes au deuxième trimestre. Elles correspondent souvent à une mise en tension des ligaments qui accompagnent la croissance de l’utérus.",
+          "Elles sont généralement brèves, situées dans le bas-ventre ou l’aine et déclenchées par un mouvement brusque.",
+          "Bouger lentement, se reposer, changer de position et utiliser une chaleur douce peuvent aider.",
+          "Une douleur forte, continue ou associée à d’autres symptômes doit toujours être évaluée par un professionnel de santé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — Stomach pain in pregnancy",
+        url: "https://www.nhs.uk/pregnancy/common-symptoms/stomach-pain/"
+      },
+      {
+        label: "Assurance Maladie — Médicaments et grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/medicaments-grossesse"
+      },
+      {
+        label: "ANSM — Anti-inflammatoires non stéroïdiens et grossesse",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Pelvic girdle pain and pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-girdle-pain-and-pregnancy/"
+      }
+    ]
   }
 
 ];
