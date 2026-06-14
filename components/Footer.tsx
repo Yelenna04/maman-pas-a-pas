@@ -12,6 +12,12 @@ export function Footer() {
               href="/"
               className="footer-brand"
               aria-label="Maman, Pas à Pas — Accueil"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "12px",
+                textDecoration: "none"
+              }}
             >
               <Image
                 src="/images/logo-instagram-maman-pas-a-pas.png"
@@ -21,7 +27,18 @@ export function Footer() {
                 className="footer-logo-icon"
               />
 
-              <span>{siteConfig.name}</span>
+              <span
+                style={{
+                  display: "inline-block",
+                  color: "#ffffff",
+                  fontFamily: 'Georgia, "Times New Roman", serif',
+                  fontSize: "1.35rem",
+                  lineHeight: 1.1,
+                  whiteSpace: "nowrap"
+                }}
+              >
+                {siteConfig.name}
+              </span>
             </Link>
 
             <p
