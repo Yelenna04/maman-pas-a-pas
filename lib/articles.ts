@@ -7705,6 +7705,231 @@ export const articles: Article[] = [
         url: "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/1000jours/article/l-entretien-prenatal-precoce"
       }
     ]
+  },
+
+{
+    slug: "premiere-echographie-quand-a-t-elle-lieu-et-que-verifie-t-elle",
+    title: "Première échographie : quand a-t-elle lieu et que vérifie-t-elle ?",
+    description:
+      "Date, déroulement, mesures et dépistage : les repères essentiels pour comprendre la première échographie de grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "9 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La première échographie recommandée a généralement lieu entre 11 semaines d’aménorrhée et 13 semaines d’aménorrhée plus 6 jours.",
+          "Elle sert à vérifier que la grossesse évolue, à dater précisément son début et à déterminer s’il y a un ou plusieurs bébés.",
+          "Elle permet aussi d’observer les premières structures anatomiques et de mesurer la clarté nucale dans le cadre du dépistage de la trisomie 21.",
+          "Elle peut être réalisée par voie abdominale ou, si l’image n’est pas suffisante, par voie endovaginale.",
+          "Une échographie normale est rassurante, mais elle ne peut pas exclure toutes les anomalies."
+        ],
+        quote:
+          "Cette échographie est à la fois un examen médical important et souvent un moment très attendu par les futurs parents."
+      },
+      {
+        title: "Quand la première échographie a-t-elle lieu ?",
+        paragraphs: [
+          "En France, la première échographie recommandée du suivi de grossesse est réalisée au premier trimestre, habituellement entre 11 semaines d’aménorrhée et 13 semaines d’aménorrhée plus 6 jours.",
+          "Cette période permet de dater la grossesse avec précision, de mesurer la clarté nucale et d’observer plusieurs éléments du développement du bébé.",
+          "Le rendez-vous est généralement prescrit lors de la première consultation prénatale.",
+          "Une échographie plus précoce peut être proposée en cas de saignement, de douleur, de doute sur le terme, de grossesse obtenue par assistance médicale à la procréation ou d’antécédent particulier."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La datation repose principalement sur la mesure de la longueur cranio-caudale, c’est-à-dire la distance entre le sommet du crâne et les fesses du bébé.",
+          "La vitalité est vérifiée grâce à l’activité cardiaque et aux mouvements visibles à l’écran.",
+          "La mesure de la clarté nucale participe au calcul du risque de trisomie 21, mais elle ne constitue pas un diagnostic."
+        ],
+        quote:
+          "Le terme retenu après cette échographie peut être légèrement différent de celui calculé à partir des dernières règles."
+      },
+      {
+        title: "Que vérifie l’échographiste ?",
+        bullets: [
+          "La localisation de la grossesse dans l’utérus.",
+          "La présence d’une activité cardiaque.",
+          "Le nombre d’embryons ou de fœtus.",
+          "La datation de la grossesse.",
+          "La croissance du bébé à ce stade.",
+          "L’aspect général de la tête, du tronc et des membres.",
+          "La mesure de la clarté nucale.",
+          "L’aspect du placenta et de l’environnement du bébé."
+        ],
+        paragraphs: [
+          "L’examen permet également d’identifier certaines anomalies visibles précocement, mais il ne remplace pas l’échographie morphologique du deuxième trimestre.",
+          "Tous les organes ne peuvent pas encore être analysés avec le même niveau de détail."
+        ]
+      },
+      {
+        title: "Comment la grossesse est-elle datée ?",
+        paragraphs: [
+          "L’échographiste mesure la longueur cranio-caudale du bébé. Cette mesure est particulièrement fiable au premier trimestre.",
+          "Elle permet d’estimer l’âge gestationnel et de fixer une date prévue d’accouchement.",
+          "Si la date obtenue diffère de celle calculée à partir des dernières règles, la datation échographique est souvent retenue.",
+          "Cette date sert ensuite de référence pour organiser les examens, surveiller la croissance et déterminer le terme de la grossesse."
+        ]
+      },
+      {
+        title: "Comment sait-on s’il y a un ou plusieurs bébés ?",
+        paragraphs: [
+          "L’échographie permet de voir s’il existe un seul bébé ou une grossesse multiple.",
+          "En cas de grossesse gémellaire, l’échographiste cherche aussi à déterminer le nombre de placentas et de poches amniotiques.",
+          "Cette information est importante car elle influence la fréquence et le type de surveillance pendant la grossesse.",
+          "Le type de grossesse gémellaire est plus facile à déterminer au premier trimestre qu’ultérieurement."
+        ]
+      },
+      {
+        title: "Qu’est-ce que la clarté nucale ?",
+        paragraphs: [
+          "La clarté nucale correspond à une petite zone liquidienne située derrière la nuque du bébé.",
+          "Elle est mesurée pendant une période précise du premier trimestre, lorsque la taille du bébé permet une mesure fiable.",
+          "Cette mesure est intégrée au dépistage combiné de la trisomie 21 avec l’âge maternel et les marqueurs sanguins.",
+          "Une clarté nucale augmentée ne signifie pas automatiquement que le bébé présente une anomalie, mais elle peut conduire à proposer des examens complémentaires."
+        ]
+      },
+      {
+        title: "La première échographie dépiste-t-elle la trisomie 21 ?",
+        paragraphs: [
+          "Elle participe au dépistage, mais elle ne suffit pas à elle seule.",
+          "Le dépistage combiné du premier trimestre tient compte de la mesure de la clarté nucale, d’une prise de sang et de l’âge de la mère.",
+          "Le résultat exprime une probabilité et non une certitude.",
+          "Selon le niveau de risque obtenu, un dépistage prénatal non invasif sur ADN libre circulant peut être proposé, puis éventuellement un examen diagnostique."
+        ]
+      },
+      {
+        title: "Comment se déroule l’examen ?",
+        paragraphs: [
+          "Vous êtes installée allongée sur le dos ou légèrement inclinée.",
+          "Le professionnel applique du gel sur l’abdomen puis déplace une sonde pour obtenir les différentes images.",
+          "L’examen dure généralement entre vingt et trente minutes, mais il peut être plus long si la position du bébé ne permet pas certaines mesures.",
+          "L’échographiste peut vous demander de tousser, de bouger légèrement ou de marcher quelques minutes afin que le bébé change de position."
+        ]
+      },
+      {
+        title: "L’échographie est-elle toujours réalisée sur le ventre ?",
+        paragraphs: [
+          "Le plus souvent, l’examen est réalisé par voie abdominale.",
+          "Une échographie endovaginale peut être proposée si la grossesse est très précoce, si l’utérus est rétroversé ou si les images abdominales ne sont pas assez précises.",
+          "La sonde est alors protégée et introduite doucement dans le vagin.",
+          "Cet examen n’augmente pas le risque de fausse couche et n’est pas dangereux pour le bébé."
+        ]
+      },
+      {
+        title: "Faut-il avoir la vessie pleine ?",
+        paragraphs: [
+          "Les consignes varient selon le cabinet, le terme et le type d’échographie prévu.",
+          "Une vessie modérément pleine peut parfois améliorer les images au début de la grossesse, mais ce n’est pas toujours nécessaire.",
+          "Suivez les indications données lors de la prise de rendez-vous.",
+          "Si vous êtes très inconfortable, signalez-le à l’équipe plutôt que de rester avec une douleur importante."
+        ]
+      },
+      {
+        title: "Peut-on venir accompagnée ?",
+        paragraphs: [
+          "Dans la plupart des établissements, une personne accompagnante est autorisée, mais les règles peuvent varier.",
+          "Il est préférable de vérifier au moment du rendez-vous, notamment pour la présence des enfants.",
+          "L’examen est avant tout un acte médical : l’échographiste doit pouvoir se concentrer et peut rester silencieux pendant certaines mesures.",
+          "Les explications sont généralement données au fur et à mesure ou à la fin de l’examen."
+        ]
+      },
+      {
+        title: "Peut-on connaître le sexe du bébé ?",
+        paragraphs: [
+          "À ce stade, le sexe peut parfois être supposé, mais l’estimation reste incertaine.",
+          "La position du bébé et le terme influencent fortement la fiabilité.",
+          "Le sexe est généralement identifié plus sûrement lors de l’échographie du deuxième trimestre.",
+          "Si vous ne souhaitez pas connaître le sexe, dites-le clairement au début de l’examen."
+        ]
+      },
+      {
+        title: "Que faut-il apporter au rendez-vous ?",
+        bullets: [
+          "L’ordonnance de l’échographie.",
+          "La carte Vitale et la carte de mutuelle.",
+          "Les résultats des prises de sang déjà réalisées.",
+          "Les comptes rendus d’échographies précédentes, s’il y en a.",
+          "Le dossier de grossesse ou le carnet de maternité.",
+          "La date du premier jour des dernières règles, si vous la connaissez."
+        ],
+        paragraphs: [
+          "Portez de préférence des vêtements faciles à relever au niveau du ventre.",
+          "Vous pouvez aussi préparer les questions que vous souhaitez poser."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le bébé est mal positionné ?",
+        paragraphs: [
+          "Il arrive que le bébé soit dans une position qui empêche une mesure correcte, notamment celle de la clarté nucale.",
+          "Le professionnel peut patienter, vous demander de bouger ou recommencer après quelques minutes.",
+          "Dans certains cas, un nouveau rendez-vous est proposé dans les jours suivants, tant que la période recommandée n’est pas dépassée.",
+          "Cela ne signifie pas qu’il existe un problème : il s’agit souvent simplement d’une difficulté technique."
+        ]
+      },
+      {
+        title: "Que signifient les mesures du compte rendu ?",
+        paragraphs: [
+          "La longueur cranio-caudale, souvent notée LCC, sert principalement à dater la grossesse.",
+          "La clarté nucale, parfois notée CN, participe au dépistage de certaines anomalies chromosomiques.",
+          "La fréquence cardiaque et différentes observations anatomiques sont également consignées.",
+          "Le compte rendu peut contenir des termes techniques : demandez au professionnel de vous les expliquer avant de partir."
+        ]
+      },
+      {
+        title: "Une échographie normale garantit-elle que tout va bien ?",
+        paragraphs: [
+          "Une première échographie normale est rassurante, mais elle ne peut pas exclure toutes les anomalies.",
+          "Certaines structures sont encore trop petites pour être étudiées précisément, et certaines anomalies apparaissent plus tard.",
+          "L’échographie morphologique du deuxième trimestre reste donc indispensable pour analyser plus finement les organes.",
+          "Des examens supplémentaires peuvent aussi être proposés selon les antécédents, les résultats du dépistage ou l’évolution de la grossesse."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si une anomalie est suspectée ?",
+        paragraphs: [
+          "Le professionnel vous explique ce qui a été observé et les limites de l’examen.",
+          "Une échographie de contrôle ou un avis spécialisé peut être proposé dans un centre de diagnostic prénatal.",
+          "Selon la situation, d’autres examens peuvent être recommandés, comme un dépistage sur ADN libre circulant, une biopsie de trophoblaste ou une amniocentèse.",
+          "Une image inhabituelle ne correspond pas toujours à une anomalie confirmée : des examens complémentaires sont souvent nécessaires avant de conclure."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La première échographie recommandée a lieu entre 11 semaines d’aménorrhée et 13 semaines d’aménorrhée plus 6 jours.",
+          "Elle permet de dater la grossesse, de vérifier la vitalité et de déterminer le nombre de bébés.",
+          "Elle observe les premières structures anatomiques et mesure la clarté nucale.",
+          "Elle participe au dépistage de la trisomie 21 mais ne pose pas de diagnostic.",
+          "Une échographie normale est rassurante, sans pouvoir exclure toutes les anomalies."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Haute Autorité de santé — Dépistage prénatal de la trisomie 21",
+        url: "https://www.has-sante.fr/jcms/c_2898274/fr/depistage-prenatal-de-la-trisomie-21"
+      },
+      {
+        label: "Assurance Maladie — Le suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Collège français d’échographie fœtale — Informations sur l’échographie obstétricale",
+        url: "https://www.cfef.org/"
+      }
+    ]
   }
 ];
 
