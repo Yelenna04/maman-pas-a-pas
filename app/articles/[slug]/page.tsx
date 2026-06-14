@@ -1585,17 +1585,6 @@ function UnifiedArticle({ article }: { article: Article }) {
                   Checklist maternité à imprimer
                 </h2>
 
-                <p
-                  style={{
-                    maxWidth: 620,
-                    margin: "0 auto 20px",
-                    color: "#75655e",
-                    lineHeight: 1.7,
-                  }}
-                >
-                  Retrouvez l’essentiel à préparer pour la salle de naissance,
-                  le séjour de la mère, le bébé et la personne accompagnante.
-                </p>
 
                 <a
                   href="/telechargements/checklist-maternite-maman-pas-a-pas.pdf"
@@ -1618,15 +1607,6 @@ function UnifiedArticle({ article }: { article: Article }) {
                   Télécharger la checklist en PDF
                 </a>
 
-                <p
-                  style={{
-                    margin: "12px 0 0",
-                    color: "#8a7a72",
-                    fontSize: "0.86rem",
-                  }}
-                >
-                  1 page A4 · gratuite · prête à imprimer
-                </p>
               </section>
             )}
 
