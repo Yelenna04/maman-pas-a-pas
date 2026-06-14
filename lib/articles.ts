@@ -6072,6 +6072,161 @@ export const articles: Article[] = [
         url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pelvic-girdle-pain-and-pregnancy/"
       }
     ]
+  },
+
+  {
+    slug: "sommeil-positions-mieux-dormir-deuxieme-trimestre",
+    title: "Sommeil et positions : comment mieux dormir au deuxième trimestre ?",
+    description:
+      "Au deuxième trimestre, le ventre s’arrondit et le sommeil peut devenir moins confortable. Découvrez les positions adaptées, les bons repères et les solutions simples pour mieux dormir.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Deuxième trimestre",
+    subcategorySlug: "deuxieme-trimestre",
+    readingTime: "7 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Au deuxième trimestre, vous pouvez dormir dans la position qui reste confortable, en privilégiant progressivement le côté à mesure que la grossesse avance.",
+          "À partir de 28 semaines, il est recommandé de s’endormir sur le côté, à gauche ou à droite.",
+          "Il n’est pas nécessaire de dormir uniquement sur le côté gauche : les deux côtés conviennent.",
+          "Si vous vous réveillez sur le dos, ne paniquez pas. Replacez-vous simplement sur le côté.",
+          "Des coussins sous le ventre, entre les genoux ou derrière le dos peuvent améliorer le confort."
+        ],
+        quote:
+          "Le plus important n’est pas de contrôler chaque mouvement pendant la nuit, mais de choisir une position confortable et de vous rendormir sur le côté si vous vous réveillez sur le dos."
+      },
+      {
+        title: "Pourquoi le sommeil peut-il changer au deuxième trimestre ?",
+        paragraphs: [
+          "Le deuxième trimestre apporte parfois un regain d’énergie, mais le sommeil peut rester irrégulier. Le ventre commence à s’arrondir, certaines positions deviennent moins confortables et les réveils nocturnes peuvent augmenter.",
+          "Les douleurs du dos ou du bassin, les tiraillements ligamentaires, les brûlures d’estomac, les envies fréquentes d’uriner et les mouvements du bébé peuvent également perturber les nuits.",
+          "Les inquiétudes liées à la grossesse, au travail ou à l’arrivée du bébé peuvent enfin rendre l’endormissement plus difficile, même lorsque vous êtes fatiguée."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Avant 28 semaines, recherchez d’abord le confort. Vous pouvez commencer à vous habituer au sommeil sur le côté sans vous inquiéter si vous changez de position pendant la nuit.",
+          "À partir de 28 semaines, essayez de vous endormir sur le côté. Le côté gauche et le côté droit sont tous les deux adaptés.",
+          "Si vous vous réveillez sur le dos, il n’y a pas lieu de paniquer. Tournez-vous simplement sur un côté et rendormez-vous."
+        ],
+        quote:
+          "La recommandation concerne surtout la position dans laquelle vous vous endormez, pas la capacité à rester immobile toute la nuit."
+      },
+      {
+        title: "Faut-il obligatoirement dormir sur le côté gauche ?",
+        paragraphs: [
+          "Non. Le côté gauche est parfois présenté comme la seule bonne position, mais il n’est pas nécessaire de dormir uniquement de ce côté.",
+          "Dormir sur le côté droit est également possible. Alterner les côtés peut même réduire les douleurs de hanche, d’épaule ou de bassin.",
+          "Choisissez le côté le plus confortable et utilisez des coussins pour mieux répartir les appuis."
+        ]
+      },
+      {
+        title: "Peut-on encore dormir sur le dos ?",
+        paragraphs: [
+          "Au début du deuxième trimestre, une position sur le dos peut encore être confortable pour certaines femmes. À mesure que l’utérus grandit, cette position peut toutefois provoquer une gêne, des nausées, des étourdissements ou une sensation d’oppression.",
+          "À partir de 28 semaines, il est recommandé de s’endormir sur le côté plutôt que sur le dos.",
+          "Se réveiller ponctuellement sur le dos n’est pas une urgence. Le corps change naturellement de position pendant le sommeil. Replacez-vous simplement sur le côté."
+        ]
+      },
+      {
+        title: "Peut-on dormir sur le ventre ?",
+        paragraphs: [
+          "Dormir sur le ventre n’est pas dangereux tant que cette position reste confortable. Le bébé est protégé par l’utérus et le liquide amniotique.",
+          "Avec l’arrondissement du ventre, cette position devient généralement inconfortable ou impossible sans que vous ayez besoin de l’éviter volontairement.",
+          "Un coussin adapté ou une position légèrement inclinée vers le ventre peut parfois aider les personnes habituées à dormir ainsi."
+        ]
+      },
+      {
+        title: "Comment placer les coussins pour être plus confortable ?",
+        bullets: [
+          "Placez un coussin entre les genoux pour garder les hanches et le bassin mieux alignés.",
+          "Glissez un petit coussin sous le ventre pour réduire la sensation de traction.",
+          "Ajoutez un coussin derrière le dos pour vous sentir soutenue et limiter le basculement complet sur le dos.",
+          "Surélevez légèrement le haut du corps si vous avez des brûlures d’estomac ou une gêne respiratoire.",
+          "Un coussin de grossesse peut être utile, mais plusieurs coussins classiques peuvent offrir le même soutien."
+        ],
+        paragraphs: [
+          "L’objectif est de trouver une position stable qui limite les tensions. Il n’existe pas une installation parfaite valable pour toutes les femmes enceintes."
+        ]
+      },
+      {
+        title: "Quelles habitudes peuvent favoriser l’endormissement ?",
+        paragraphs: [
+          "Essayez de garder des horaires de coucher et de lever relativement réguliers, y compris le week-end.",
+          "Réduisez les écrans, le travail et les discussions stimulantes juste avant le coucher. Une routine calme peut aider le cerveau à associer la soirée au repos.",
+          "Une activité physique douce et régulière, adaptée à votre grossesse, peut améliorer le sommeil. Évitez toutefois un exercice intense juste avant de vous coucher.",
+          "Limitez la caféine, surtout l’après-midi et le soir. Le café, le thé, certains sodas, boissons énergisantes et le chocolat peuvent en contenir."
+        ]
+      },
+      {
+        title: "Comment limiter les réveils liés aux brûlures d’estomac ?",
+        paragraphs: [
+          "Évitez les repas très copieux, gras ou épicés le soir si vous remarquez qu’ils aggravent vos symptômes.",
+          "Laissez si possible un délai entre le dîner et le coucher et surélevez légèrement le haut du corps.",
+          "Dormir sur le côté gauche peut parfois améliorer le reflux, mais ne vous forcez pas à rester dans une position douloureuse.",
+          "Si les brûlures sont fréquentes, demandez conseil à votre sage-femme, à votre médecin ou à votre pharmacien avant de prendre un médicament."
+        ]
+      },
+      {
+        title: "Que faire en cas d’envies fréquentes d’uriner ?",
+        paragraphs: [
+          "Continuez à boire suffisamment dans la journée. Réduire fortement l’hydratation pour éviter les réveils n’est pas recommandé.",
+          "Vous pouvez répartir davantage les boissons en journée et boire un peu moins au cours de l’heure précédant le coucher, sans vous priver si vous avez soif.",
+          "Prenez le temps de vider complètement votre vessie avant de vous coucher.",
+          "Des brûlures urinaires, une douleur, de la fièvre ou des envies très fréquentes inhabituelles peuvent évoquer une infection urinaire et nécessitent un avis médical."
+        ]
+      },
+      {
+        title: "Peut-on prendre quelque chose pour dormir ?",
+        paragraphs: [
+          "Ne prenez pas de somnifère, d’antihistaminique sédatif, de complément, de mélatonine, de plante ou d’huile essentielle sans avis médical pendant la grossesse.",
+          "Même les produits présentés comme naturels peuvent avoir des effets indésirables, interagir avec un traitement ou ne pas avoir été suffisamment étudiés chez la femme enceinte.",
+          "Si les troubles du sommeil persistent, un professionnel pourra rechercher leur cause et proposer une solution compatible avec la grossesse."
+        ]
+      },
+      {
+        title: "Quand faut-il en parler à un professionnel ?",
+        paragraphs: [
+          "Parlez-en lors du suivi si l’insomnie dure plusieurs semaines, si la fatigue vous empêche de fonctionner normalement ou si l’anxiété occupe une grande partie de vos nuits.",
+          "Consultez également si vous ronflez très fortement, si votre entourage remarque des pauses respiratoires, si vous vous réveillez en suffoquant ou si vous avez une somnolence importante dans la journée.",
+          "Des sensations désagréables dans les jambes, surtout le soir, avec un besoin irrépressible de les bouger peuvent évoquer un syndrome des jambes sans repos. Un bilan, notamment du fer, peut parfois être utile.",
+          "Une gêne respiratoire brutale, une douleur thoracique, un malaise ou tout symptôme inhabituel nécessite une évaluation médicale rapide."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Au deuxième trimestre, le sommeil peut être perturbé par les changements du corps, le reflux, les envies d’uriner ou les douleurs.",
+          "Avant 28 semaines, recherchez surtout le confort et commencez progressivement à vous habituer au sommeil sur le côté.",
+          "À partir de 28 semaines, endormez-vous sur le côté, à gauche ou à droite. Si vous vous réveillez sur le dos, replacez-vous simplement sans culpabiliser.",
+          "Des coussins bien placés et quelques habitudes régulières peuvent améliorer les nuits. Si les troubles deviennent importants ou persistants, demandez conseil."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "NHS — Tiredness and sleep problems",
+        url: "https://www.nhs.uk/pregnancy/related-conditions/common-symptoms/tiredness/"
+      },
+      {
+        label: "NHS — Your baby's movements and sleep position",
+        url: "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+      },
+      {
+        label: "Tommy’s — Sleep position in pregnancy",
+        url: "https://www.tommys.org/pregnancy-information/im-pregnant/sleep-side/sleep-position-pregnancy"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Problems of the Digestive System",
+        url: "https://www.acog.org/womens-health/faqs/problems-of-the-digestive-system"
+      }
+    ]
   }
 
 ];
