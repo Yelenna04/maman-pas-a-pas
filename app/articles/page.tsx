@@ -1,15 +1,23 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArticleSearch } from "@/components/ArticleSearch";
 import { articles } from "@/lib/articles";
 
 export const metadata: Metadata = {
   title: "Articles",
   description:
-    "Conseils et informations pour vous accompagner à chaque étape.",
+    "Conseils et informations pour vous accompagner à chaque étape."
 };
 
 export default function ArticlesPage() {
+  const searchableArticles = articles.map((article) => ({
+    slug: article.slug,
+    title: article.title,
+    description: article.description,
+    category: article.category,
+    subcategory: article.subcategory
+  }));
+
   return (
     <>
       <section className="page-hero category-page-hero">
@@ -30,42 +38,7 @@ export default function ArticlesPage() {
 
       <section className="section-sm category-page-content">
         <div className="container">
-          <div className="grid-3 category-grid">
-            {articles.map((article) => (
-              <Link
-                key={article.slug}
-                href={`/articles/${article.slug}`}
-                className="category-card-link"
-                aria-label={`Lire ${article.title}`}
-              >
-                <article className="card card-hover">
-                  <p
-                    className="muted"
-                    style={{
-                      marginBottom: "10px",
-                      fontSize: ".88rem",
-                    }}
-                  >
-                    {article.category}
-                    {article.subcategory
-                      ? ` · ${article.subcategory}`
-                      : ""}
-                  </p>
-
-                  <h3>{article.title}</h3>
-
-                  <p className="muted">
-                    {article.description}
-                  </p>
-
-                  <span className="link-arrow">
-                    Lire l’article
-                    <ArrowRight size={17} />
-                  </span>
-                </article>
-              </Link>
-            ))}
-          </div>
+          <ArticleSearch articles={searchableArticles} />
         </div>
       </section>
     </>
