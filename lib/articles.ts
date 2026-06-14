@@ -6909,8 +6909,182 @@ export const articles: Article[] = [
         url: "https://www.securite-routiere.gouv.fr/chacun-sa-conduite/conseils-sur-la-route-avec-les-enfants/bien-attacher-son-enfant-en-voiture"
       }
     ]
-  }
+  },
 
+{
+    slug: "comment-reconnaitre-les-signes-de-debut-du-travail",
+    title: "Comment reconnaître les signes de début du travail ?",
+    description:
+      "Contractions régulières, perte des eaux, bouchon muqueux : les repères utiles pour reconnaître le début du travail et savoir quand contacter la maternité.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "9 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le début du travail se manifeste le plus souvent par des contractions qui deviennent progressivement régulières, plus longues, plus rapprochées et plus intenses.",
+          "La rupture de la poche des eaux peut survenir avant ou après le début des contractions : contactez alors la maternité, même si vous n’avez pas mal.",
+          "La perte du bouchon muqueux peut annoncer que le col évolue, mais elle ne signifie pas forcément que l’accouchement est imminent.",
+          "Un saignement rouge, une diminution des mouvements du bébé, une douleur continue ou des contractions avant 37 semaines nécessitent un avis rapide.",
+          "Les consignes de votre maternité restent prioritaires : appelez-la dès que vous avez un doute."
+        ],
+        quote:
+          "Le travail ne commence pas exactement de la même manière pour toutes les femmes. L’évolution des signes compte souvent davantage qu’un symptôme isolé."
+      },
+      {
+        title: "Qu’appelle-t-on le début du travail ?",
+        paragraphs: [
+          "Le travail correspond à des contractions utérines efficaces qui entraînent progressivement des modifications du col de l’utérus, puis sa dilatation.",
+          "À la maison, il n’est pas possible de savoir avec certitude si le col se modifie. On se repère donc surtout grâce au rythme des contractions, à leur évolution et aux autres signes associés.",
+          "Le début peut être progressif, avec plusieurs heures de contractions encore espacées, ou plus rapide. Il peut aussi commencer par la rupture de la poche des eaux."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Les contractions du travail évoluent : elles tendent à devenir plus régulières, plus longues, plus fortes et plus rapprochées.",
+          "La perte des eaux correspond à un écoulement de liquide clair, souvent difficile à retenir, qui peut être franc ou se produire par petites fuites répétées.",
+          "La perte du bouchon muqueux est possible plusieurs jours avant le travail et ne suffit pas, à elle seule, pour décider de partir à la maternité."
+        ],
+        quote:
+          "Chronométrez les contractions pendant quelque temps et observez surtout si elles poursuivent leur progression malgré le repos ou un changement de position."
+      },
+      {
+        title: "Comment reconnaître les contractions du travail ?",
+        paragraphs: [
+          "Une contraction provoque un durcissement de l’utérus qui augmente progressivement, atteint un maximum, puis diminue. Le ventre redevient plus souple entre deux contractions.",
+          "Au début du travail, elles peuvent rester espacées et supportables. Avec la progression, elles tendent à revenir selon un rythme plus prévisible, à durer davantage et à demander de plus en plus de concentration.",
+          "La douleur peut être ressentie dans le bas-ventre, dans le dos, dans le bassin ou comme des douleurs de règles. Son intensité varie beaucoup d’une femme à l’autre.",
+          "Il n’existe pas de seuil universel valable pour toutes. La distance avec la maternité, un premier accouchement ou non, les antécédents et les consignes données pendant le suivi doivent être pris en compte."
+        ]
+      },
+      {
+        title: "Contractions de travail ou contractions d’entraînement ?",
+        paragraphs: [
+          "Les contractions d’entraînement sont souvent irrégulières, variables et sans progression nette. Elles peuvent diminuer après du repos, une hydratation, une douche tiède ou un changement de position.",
+          "Les contractions du travail persistent généralement et deviennent progressivement plus organisées, plus rapprochées ou plus intenses.",
+          "Cette distinction n’est pas toujours évidente au début. Si les contractions continuent, vous empêchent de parler normalement, vous inquiètent ou s’accompagnent d’un autre signe, appelez la maternité."
+        ]
+      },
+      {
+        title: "Comment chronométrer les contractions ?",
+        bullets: [
+          "Notez l’heure à laquelle chaque contraction commence.",
+          "Mesurez sa durée jusqu’au relâchement de l’utérus.",
+          "Calculez l’intervalle entre le début d’une contraction et le début de la suivante.",
+          "Observez pendant environ une heure si la situation vous le permet.",
+          "Notez aussi l’évolution de l’intensité et votre capacité à parler ou à bouger pendant la contraction."
+        ],
+        paragraphs: [
+          "Une application peut aider, mais un simple chronomètre suffit. Ne restez pas concentrée sur les chiffres si vous avez un signe d’alerte : contactez directement la maternité."
+        ]
+      },
+      {
+        title: "Comment reconnaître la perte des eaux ?",
+        paragraphs: [
+          "La rupture de la poche des eaux peut provoquer un écoulement soudain et abondant, mais aussi une fuite plus discrète et continue.",
+          "Le liquide amniotique est généralement clair, transparent ou légèrement rosé. Il est souvent difficile à retenir contrairement à l’urine.",
+          "Mettez une protection externe, notez l’heure, la couleur et l’odeur du liquide, puis appelez la maternité. N’utilisez pas de tampon et évitez les rapports sexuels après une suspicion de rupture.",
+          "Un liquide vert, brun, malodorant ou fortement teinté de sang nécessite une évaluation rapide."
+        ]
+      },
+      {
+        title: "La perte du bouchon muqueux annonce-t-elle l’accouchement ?",
+        paragraphs: [
+          "Le bouchon muqueux ressemble à une glaire épaisse, parfois transparente, rosée ou légèrement striée de sang.",
+          "Sa perte indique que le col commence peut-être à évoluer, mais le travail peut débuter quelques heures comme plusieurs jours plus tard.",
+          "En l’absence de contractions régulières, de rupture de la poche des eaux ou de saignement important, la perte du bouchon muqueux seule ne nécessite généralement pas un départ immédiat.",
+          "Un véritable saignement rouge ou abondant n’est cependant pas assimilable au bouchon muqueux et doit faire contacter la maternité sans attendre."
+        ]
+      },
+      {
+        title: "Quels autres changements peuvent précéder le travail ?",
+        bullets: [
+          "Une sensation que le bébé est descendu plus bas dans le bassin.",
+          "Une pression pelvienne plus marquée.",
+          "Des douleurs de règles ou un mal de dos inhabituel.",
+          "Des selles plus fréquentes ou une sensation digestive différente.",
+          "Une grande fatigue ou, au contraire, un regain d’énergie."
+        ],
+        paragraphs: [
+          "Ces changements sont inconstants et peu spécifiques. Ils peuvent accompagner la fin de grossesse sans signifier que le travail a réellement commencé."
+        ]
+      },
+      {
+        title: "Quand faut-il partir à la maternité ?",
+        paragraphs: [
+          "Suivez d’abord les consignes qui vous ont été données par votre maternité. Certaines demandent de venir lorsque les contractions sont régulières depuis un certain temps, tandis que d’autres adaptent leurs recommandations à votre situation.",
+          "Appelez avant de partir si cela est possible : l’équipe pourra vous poser quelques questions sur le terme, le rythme des contractions, la rupture éventuelle de la poche des eaux, les mouvements du bébé et vos antécédents.",
+          "Partez ou demandez un avis sans attendre en cas de rupture de la poche des eaux, de saignement, de diminution des mouvements du bébé, de douleur continue ou inhabituelle, de malaise, de fièvre ou d’envie irrépressible de pousser.",
+          "Si vous habitez loin, si vous avez déjà accouché rapidement, si vous attendez plusieurs bébés ou si votre grossesse nécessite une surveillance particulière, les consignes peuvent être différentes."
+        ]
+      },
+      {
+        title: "Que faire pendant le début du travail à la maison ?",
+        bullets: [
+          "Restez dans un environnement calme et économisez votre énergie.",
+          "Buvez régulièrement et mangez légèrement si votre maternité ne vous a donné aucune restriction.",
+          "Videz régulièrement votre vessie.",
+          "Marchez, changez de position ou reposez-vous selon ce qui vous soulage.",
+          "Respirez lentement pendant les contractions.",
+          "Vérifiez que la valise, le dossier de grossesse et le moyen de transport sont prêts."
+        ],
+        paragraphs: [
+          "Une douche ou un bain tiède peut apporter du confort si la poche des eaux n’est pas rompue et si aucune contre-indication ne vous a été donnée.",
+          "Ne conduisez pas vous-même si les contractions sont fortes, rapprochées ou si vous ne vous sentez pas en sécurité."
+        ]
+      },
+      {
+        title: "Quand faut-il appeler sans attendre ?",
+        bullets: [
+          "Vous perdez les eaux, même sans contraction.",
+          "Vous avez un saignement rouge ou abondant.",
+          "Le bébé bouge nettement moins que d’habitude.",
+          "Vous avez des contractions régulières ou douloureuses avant 37 semaines.",
+          "Vous ressentez une douleur abdominale continue entre les contractions.",
+          "Vous avez de la fièvre, un malaise, des maux de tête intenses ou des troubles visuels.",
+          "Vous ressentez une forte envie de pousser ou avez l’impression que le bébé arrive."
+        ],
+        paragraphs: [
+          "En cas d’urgence ou si l’accouchement semble imminent, appelez le 15 ou le 112. Ne tentez pas de rejoindre seule la maternité."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les contractions du travail évoluent généralement vers un rythme plus régulier, une durée plus longue et une intensité croissante.",
+          "La perte des eaux nécessite de contacter la maternité, même si les contractions n’ont pas commencé.",
+          "La perte du bouchon muqueux seule ne signifie pas forcément que l’accouchement est imminent.",
+          "Un saignement, une diminution des mouvements du bébé, une douleur inhabituelle ou des signes avant 37 semaines nécessitent un avis rapide.",
+          "En cas de doute, appelez la maternité : l’équipe est là pour vous guider."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Accouchement normal : accompagnement de la physiologie et interventions médicales",
+        url: "https://www.has-sante.fr/jcms/c_2820336/fr/accouchement-normal-accompagnement-de-la-physiologie-et-interventions-medicales"
+      },
+      {
+        label: "Assistance Publique – Hôpitaux de Paris — Grossesse et accouchement",
+        url: "https://www.aphp.fr/grossesse-et-accouchement"
+      },
+      {
+        label: "CHU de Toulouse — Quand venir à la maternité ?",
+        url: "https://www.chu-toulouse.fr/-quand-venir-a-la-maternite-"
+      },
+      {
+        label: "NHS — Signs that labour has begun",
+        url: "https://www.nhs.uk/pregnancy/labour-and-birth/signs-that-labour-has-begun/"
+      }
+    ]
+  }
 ];
 
 export const categories = [
