@@ -6702,6 +6702,213 @@ export const articles: Article[] = [
         url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse"
       }
     ]
+  },
+
+  {
+    slug: "comment-preparer-sa-valise-de-maternite",
+    title: "Comment préparer sa valise de maternité ?",
+    description:
+      "Quand la préparer, quoi emporter pour la salle de naissance, le séjour et le bébé : une checklist simple pour une valise de maternité complète sans être surchargée.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "9 min",
+    publishedAt: "2026-06-14",
+    updatedAt: "2026-06-14",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Préparez idéalement la valise autour du huitième mois, ou plus tôt si votre maternité vous le conseille.",
+          "Vérifiez d’abord la liste fournie par votre maternité : le matériel demandé et ce qui est fourni varient selon les établissements.",
+          "Séparez un petit sac pour la salle de naissance du reste de la valise afin d’avoir l’essentiel immédiatement accessible.",
+          "Prévoyez les documents administratifs, des vêtements confortables pour vous, quelques tenues adaptées pour le bébé et le matériel demandé par la maternité.",
+          "Installez le siège-auto avant le terme si le retour se fait en voiture."
+        ],
+        quote:
+          "La meilleure valise n’est pas la plus remplie : c’est celle qui correspond aux consignes de votre maternité et dans laquelle l’essentiel est facile à trouver."
+      },
+      {
+        title: "Quand faut-il préparer la valise ?",
+        paragraphs: [
+          "Vous pouvez commencer à rassembler les affaires au cours du septième mois et finaliser la valise autour du huitième mois de grossesse.",
+          "Si vous avez un risque d’accouchement prématuré, une grossesse multiple, une maternité éloignée ou une situation médicale particulière, il peut être utile de la préparer plus tôt.",
+          "Gardez la valise dans un endroit facile d’accès et indiquez à la personne qui vous accompagne où elle se trouve."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "La liste de votre maternité passe en premier. Certains établissements fournissent les couches, les protections ou le nécessaire de toilette, tandis que d’autres demandent de tout apporter.",
+          "Séparez les affaires par moment : salle de naissance, séjour de la mère, séjour du bébé et retour à la maison.",
+          "Privilégiez la simplicité. Quelques tenues faciles à enfiler et des pochettes clairement identifiées sont souvent plus utiles qu’une valise très chargée."
+        ],
+        quote:
+          "Avant d’acheter quoi que ce soit, consultez le livret d’accueil ou la checklist de votre maternité."
+      },
+      {
+        title: "Quels documents faut-il emporter ?",
+        bullets: [
+          "Une pièce d’identité.",
+          "La carte Vitale et l’attestation de droits si elle est demandée.",
+          "La carte de mutuelle.",
+          "Le dossier de suivi de grossesse et les résultats d’examens récents.",
+          "La carte de groupe sanguin si vous en possédez une.",
+          "Le livret de famille, si vous en avez déjà un.",
+          "La reconnaissance anticipée, si elle a été réalisée.",
+          "Le projet de naissance, si vous en avez préparé un.",
+          "Les coordonnées de la personne à prévenir et de la personne de confiance."
+        ],
+        paragraphs: [
+          "Regroupez les documents dans une pochette distincte et facilement accessible. Vérifiez avec la maternité si elle demande des pièces supplémentaires."
+        ]
+      },
+      {
+        title: "Que mettre dans le sac pour la salle de naissance ?",
+        bullets: [
+          "Une tenue ample et confortable ou une chemise de nuit.",
+          "Des chaussettes et des chaussons faciles à enfiler.",
+          "Un élastique ou un bandeau pour les cheveux.",
+          "Un brumisateur, un baume à lèvres et une petite bouteille d’eau si la maternité l’autorise.",
+          "Un téléphone et son chargeur, éventuellement avec un câble long.",
+          "Les lunettes plutôt que les lentilles si vous en portez.",
+          "Une première tenue complète pour le bébé dans une pochette séparée.",
+          "Un bonnet, une brassière ou un gilet selon les consignes de la maternité.",
+          "Une couverture légère si elle est demandée."
+        ],
+        paragraphs: [
+          "Demandez à la maternité ce qui est autorisé pendant le travail, notamment concernant les boissons, les collations, la musique ou les accessoires de confort."
+        ]
+      },
+      {
+        title: "Que prévoir pour le séjour de la mère ?",
+        bullets: [
+          "Deux ou trois tenues souples et faciles à enfiler.",
+          "Des chemises de nuit ou pyjamas confortables.",
+          "Des sous-vêtements larges, respirants et qui ne serrent pas.",
+          "Des soutiens-gorge adaptés si vous souhaitez allaiter.",
+          "Une robe de chambre ou un gilet.",
+          "Des chaussons antidérapants.",
+          "Une trousse de toilette avec des produits simples et non parfumés si possible.",
+          "Une serviette de toilette, si elle n’est pas fournie.",
+          "Des protections hygiéniques très absorbantes si la maternité les demande.",
+          "Des coussinets d’allaitement si vous souhaitez en utiliser."
+        ],
+        paragraphs: [
+          "Après un accouchement, le confort est prioritaire. Choisissez des vêtements qui ne compriment ni le ventre ni le périnée.",
+          "En cas de césarienne prévue ou possible, privilégiez des sous-vêtements et des pantalons dont la taille ne repose pas directement sur la cicatrice."
+        ]
+      },
+      {
+        title: "Que faut-il prévoir pour le bébé ?",
+        bullets: [
+          "Plusieurs bodies, de préférence croisés pour les premiers jours.",
+          "Plusieurs pyjamas adaptés à la saison.",
+          "Deux ou trois brassières ou gilets.",
+          "Un ou deux bonnets selon les consignes de la maternité.",
+          "Des chaussettes ou chaussons souples.",
+          "Des bavoirs ou langes.",
+          "Une gigoteuse adaptée à la saison.",
+          "Une tenue pour la sortie.",
+          "Des couches et du matériel de change uniquement si la maternité le demande.",
+          "Un thermomètre si celui-ci figure sur la liste de l’établissement."
+        ],
+        paragraphs: [
+          "Prévoyez surtout des vêtements en taille naissance et un mois, car le gabarit du bébé ne peut pas toujours être anticipé avec précision.",
+          "Lavez les vêtements avant la première utilisation avec une lessive simple, puis retirez les étiquettes susceptibles d’irriter la peau."
+        ]
+      },
+      {
+        title: "Comment choisir les vêtements selon la saison ?",
+        paragraphs: [
+          "En hiver, privilégiez plusieurs couches fines plutôt qu’un vêtement très épais : body, pyjama, gilet et gigoteuse adaptée.",
+          "En été, prévoyez des vêtements légers, mais gardez une petite couche supplémentaire pour les espaces climatisés ou le trajet de retour.",
+          "La température de la maternité peut être différente de celle de l’extérieur. Demandez conseil à l’équipe avant d’ajouter ou de retirer une couche au bébé."
+        ]
+      },
+      {
+        title: "Faut-il apporter du matériel pour l’allaitement ou les biberons ?",
+        paragraphs: [
+          "La plupart des maternités fournissent le matériel nécessaire à l’alimentation du nouveau-né pendant le séjour, mais les pratiques varient.",
+          "Il est généralement inutile d’apporter un tire-lait, des biberons ou du lait infantile sans demande spécifique de l’équipe.",
+          "Si vous avez un projet d’allaitement, des soutiens-gorge confortables, des coussinets et éventuellement une crème compatible peuvent suffire. Demandez conseil avant d’utiliser un produit sur les mamelons.",
+          "Si vous ne souhaitez pas allaiter, informez l’équipe afin qu’elle puisse vous accompagner sans jugement et vous expliquer l’organisation du séjour."
+        ]
+      },
+      {
+        title: "Que prévoir pour la personne accompagnante ?",
+        bullets: [
+          "Une tenue de rechange.",
+          "Une trousse de toilette.",
+          "Un téléphone et un chargeur.",
+          "De l’eau et des collations si elles sont autorisées.",
+          "De la monnaie ou une carte bancaire.",
+          "Une liste des personnes à prévenir.",
+          "Les éventuels documents demandés par la maternité."
+        ],
+        paragraphs: [
+          "Renseignez-vous sur les horaires de présence, les possibilités de dormir sur place et les repas proposés à l’accompagnant."
+        ]
+      },
+      {
+        title: "Comment organiser la valise pour tout retrouver facilement ?",
+        paragraphs: [
+          "Utilisez des pochettes ou des sacs transparents portant une étiquette : salle de naissance, première tenue, toilette, sortie, documents.",
+          "Placez le sac de naissance et la pochette administrative sur le dessus.",
+          "Laissez à la maison une petite réserve prête à être apportée en cas de séjour plus long.",
+          "Glissez un sac séparé pour le linge sale afin de garder le reste de la valise organisé."
+        ]
+      },
+      {
+        title: "Que préparer pour le retour à la maison ?",
+        paragraphs: [
+          "Choisissez pour vous une tenue souple adaptée à la météo. Le ventre ne retrouve pas immédiatement son volume d’avant la grossesse.",
+          "Préparez une tenue complète pour le bébé et vérifiez que le siège-auto est adapté, correctement installé et utilisé dos à la route si le retour se fait en voiture.",
+          "N’habillez pas le bébé avec un manteau épais sous le harnais du siège-auto. Utilisez plutôt une couverture par-dessus les sangles une fois le bébé installé.",
+          "Si le retour se fait autrement qu’en voiture, anticipez le moyen de transport et les conditions de sécurité."
+        ]
+      },
+      {
+        title: "Les objets utiles mais non indispensables",
+        bullets: [
+          "Un coussin personnel ou un coussin d’allaitement.",
+          "Des écouteurs ou une petite enceinte si elle est autorisée.",
+          "Un masque de sommeil et des bouchons d’oreilles.",
+          "Une gourde facile à utiliser.",
+          "Un carnet et un stylo.",
+          "Une veilleuse douce.",
+          "Un sac supplémentaire pliable."
+        ],
+        paragraphs: [
+          "Évitez d’emporter des objets de valeur, trop de vêtements ou du matériel volumineux dont la maternité dispose déjà."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Préparez la valise suffisamment tôt, mais commencez toujours par vérifier la liste de votre maternité.",
+          "Séparez un petit sac pour la salle de naissance du reste des affaires.",
+          "Regroupez les documents, choisissez des vêtements confortables et prévoyez quelques tailles différentes pour le bébé.",
+          "Installez le siège-auto avant le terme et gardez la valise dans un endroit facile d’accès."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Maternité, paternité et adoption : droits et démarches",
+        url: "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption"
+      },
+      {
+        label: "Service-Public.fr — Déclaration de naissance",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F961"
+      },
+      {
+        label: "Sécurité routière — Bien attacher son enfant en voiture",
+        url: "https://www.securite-routiere.gouv.fr/chacun-sa-conduite/conseils-sur-la-route-avec-les-enfants/bien-attacher-son-enfant-en-voiture"
+      }
+    ]
   }
 
 ];
