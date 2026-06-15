@@ -11063,6 +11063,269 @@ export const articles: Article[] = [
         url: "https://www.1000-premiers-jours.fr/"
       }
     ]
+  },
+
+{
+    slug: "maux-de-dos-pendant-la-grossesse-que-faire",
+    title: "Maux de dos pendant la grossesse : que faire ?",
+    description:
+      "Postures, mouvements, activité physique, chaleur et traitements compatibles : les gestes utiles pour soulager les douleurs de dos pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les douleurs de dos sont fréquentes pendant la grossesse en raison des changements de posture, du relâchement ligamentaire et du poids du ventre.",
+          "Bouger régulièrement, renforcer doucement les muscles et éviter les positions prolongées sont souvent plus utiles que le repos complet.",
+          "La chaleur modérée, les étirements doux et l’adaptation du sommeil peuvent apporter un soulagement.",
+          "Avant de prendre un médicament, demandez conseil : les anti-inflammatoires ne doivent pas être utilisés sans avis et sont contre-indiqués à partir du début du sixième mois.",
+          "Consultez rapidement en cas de douleur brutale, fièvre, faiblesse d’une jambe, perte de sensibilité, contractions, saignement ou perte de liquide."
+        ],
+        quote:
+          "Une douleur fréquente n’est pas forcément une douleur à supporter : des adaptations simples et un accompagnement précoce peuvent nettement améliorer le quotidien."
+      },
+      {
+        title: "Pourquoi le dos peut-il devenir douloureux pendant la grossesse ?",
+        paragraphs: [
+          "À mesure que le ventre s’arrondit, le centre de gravité se déplace et la posture se modifie.",
+          "Les muscles du dos, du bassin et de l’abdomen travaillent différemment pour maintenir l’équilibre.",
+          "Les hormones de la grossesse assouplissent les ligaments, ce qui peut rendre certaines articulations plus sensibles.",
+          "La fatigue, une position prolongée, le manque d’activité ou, au contraire, un effort inhabituel peuvent accentuer la douleur."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Changez régulièrement de position plutôt que de rester longtemps assise, debout ou allongée.",
+          "Privilégiez une activité douce et régulière au lieu du repos complet.",
+          "Adaptez les gestes du quotidien pour éviter de vous pencher ou de porter en torsion."
+        ],
+        quote:
+          "Le mouvement doit rester confortable : une gêne légère peut être acceptable, mais une douleur qui augmente impose d’adapter ou d’arrêter."
+      },
+      {
+        title: "Comment reconnaître une douleur de dos liée à la grossesse ?",
+        paragraphs: [
+          "La douleur se situe souvent dans le bas du dos, au niveau des lombaires, du sacrum ou des fesses.",
+          "Elle peut apparaître après une longue journée, une station debout prolongée, un trajet en voiture ou un effort.",
+          "Certaines douleurs sont diffuses et musculaires, tandis que d’autres sont plus localisées autour du bassin.",
+          "Une douleur qui descend dans la jambe, s’accompagne d’engourdissements ou de faiblesse nécessite une évaluation médicale."
+        ]
+      },
+      {
+        title: "Quelles postures adopter au quotidien ?",
+        bullets: [
+          "Répartir le poids sur les deux jambes.",
+          "Éviter de cambrer volontairement le bas du dos.",
+          "Garder les épaules relâchées.",
+          "S’asseoir avec le dos soutenu et les pieds posés au sol.",
+          "Éviter de croiser les jambes longtemps.",
+          "Changer de position toutes les trente à soixante minutes.",
+          "Utiliser un petit coussin lombaire si cela améliore le confort."
+        ],
+        paragraphs: [
+          "Il n’existe pas une posture parfaite à conserver toute la journée.",
+          "Le plus important est d’alterner les positions et d’éviter l’immobilité prolongée."
+        ]
+      },
+      {
+        title: "Comment se relever et se pencher sans aggraver la douleur ?",
+        paragraphs: [
+          "Pour ramasser un objet, rapprochez-vous, écartez légèrement les pieds et pliez les genoux plutôt que de courber le dos.",
+          "Gardez l’objet près du corps et évitez de tourner le tronc en portant.",
+          "Pour sortir du lit, tournez-vous sur le côté, laissez descendre les jambes puis poussez avec les bras.",
+          "Pour vous relever d’une chaise, avancez-vous vers le bord, placez les pieds sous les genoux et poussez avec les jambes."
+        ]
+      },
+      {
+        title: "Peut-on continuer à bouger ?",
+        paragraphs: [
+          "Oui, sauf contre-indication donnée par le professionnel qui suit la grossesse.",
+          "Le repos complet peut raidir les muscles et entretenir la douleur.",
+          "La marche, la natation, le vélo d’appartement, le yoga prénatal et certains exercices de renforcement sont souvent bien tolérés.",
+          "Commencez progressivement et privilégiez la régularité plutôt que les séances longues ou intenses."
+        ]
+      },
+      {
+        title: "Quels exercices peuvent aider ?",
+        bullets: [
+          "Les bascules douces du bassin.",
+          "La mobilité du dos à quatre pattes.",
+          "Les étirements légers des hanches et des fessiers.",
+          "Le renforcement doux des fessiers.",
+          "Les exercices de respiration et de gainage profond.",
+          "La marche à un rythme confortable."
+        ],
+        paragraphs: [
+          "Les exercices doivent être réalisés sans blocage respiratoire, sans douleur vive et sans pression importante vers le bas.",
+          "Une sage-femme ou un kinésithérapeute formé à la périnatalité peut vous montrer les mouvements adaptés."
+        ]
+      },
+      {
+        title: "La natation peut-elle soulager le dos ?",
+        paragraphs: [
+          "L’eau diminue la sensation de poids et permet de bouger avec moins d’impact.",
+          "La nage douce ou l’aquagym prénatale peut soulager les tensions lombaires et pelviennes.",
+          "Évitez les mouvements qui accentuent la cambrure ou provoquent une douleur.",
+          "Après une perte des eaux ou en cas de complication, demandez l’avis de la maternité avant d’aller à la piscine."
+        ]
+      },
+      {
+        title: "La chaleur est-elle autorisée ?",
+        paragraphs: [
+          "Une bouillotte tiède, une douche chaude ou une compresse chauffante peuvent détendre les muscles.",
+          "La chaleur doit rester modérée et être appliquée pendant une durée limitée.",
+          "Évitez de placer une source très chaude directement sur la peau ou de vous exposer à une chaleur excessive.",
+          "Les bains très chauds, saunas et hammams peuvent favoriser le malaise et la surchauffe."
+        ]
+      },
+      {
+        title: "Le massage peut-il aider ?",
+        paragraphs: [
+          "Un massage doux du bas du dos, des fessiers ou des épaules peut réduire les tensions.",
+          "La pression doit rester confortable et ne pas provoquer de douleur.",
+          "Évitez les huiles essentielles sans validation professionnelle.",
+          "Pour un massage thérapeutique, choisissez un professionnel informé de la grossesse et formé à la périnatalité."
+        ]
+      },
+      {
+        title: "Comment dormir avec moins de douleurs ?",
+        bullets: [
+          "Dormir sur le côté dans la position la plus confortable.",
+          "Placer un coussin entre les genoux.",
+          "Ajouter un petit coussin sous le ventre si besoin.",
+          "Soutenir le dos avec un coussin placé derrière soi.",
+          "Choisir un matelas ni trop mou ni excessivement ferme.",
+          "Tourner tout le corps ensemble pour changer de position."
+        ],
+        paragraphs: [
+          "Il n’est pas nécessaire d’acheter un coussin spécifique si des oreillers ordinaires apportent un soutien suffisant.",
+          "Si vous vous réveillez sur le dos, changez simplement de position sans vous inquiéter."
+        ]
+      },
+      {
+        title: "Quel type de chaussures privilégier ?",
+        paragraphs: [
+          "Choisissez des chaussures stables, confortables et adaptées à votre activité.",
+          "Un petit talon large peut parfois être plus confortable qu’une chaussure totalement plate, mais cela dépend de vos habitudes.",
+          "Évitez les talons hauts, les semelles instables et les chaussures qui modifient fortement votre équilibre.",
+          "Remplacez les chaussures très usées si elles n’amortissent plus correctement."
+        ]
+      },
+      {
+        title: "Une ceinture de grossesse est-elle utile ?",
+        paragraphs: [
+          "Une ceinture ou un bandeau de soutien peut soulager temporairement certaines femmes.",
+          "Elle ne doit pas être trop serrée ni remplacer le renforcement musculaire et le mouvement.",
+          "Son intérêt dépend du type de douleur, du terme et de votre morphologie.",
+          "Demandez conseil à une sage-femme, un médecin ou un kinésithérapeute avant un usage prolongé."
+        ]
+      },
+      {
+        title: "Comment adapter le travail et les trajets ?",
+        bullets: [
+          "Faire des pauses régulières.",
+          "Alterner les positions assise et debout.",
+          "Ajuster la hauteur du siège et du bureau.",
+          "Soutenir le bas du dos.",
+          "Éviter de porter seule des charges lourdes.",
+          "Limiter les torsions répétées.",
+          "Faire quelques pas lors des longs trajets."
+        ],
+        paragraphs: [
+          "Si le poste de travail aggrave fortement les douleurs, parlez-en au médecin ou à la sage-femme.",
+          "Un aménagement temporaire peut parfois être proposé."
+        ]
+      },
+      {
+        title: "Peut-on prendre un médicament contre la douleur ?",
+        paragraphs: [
+          "Le paracétamol est généralement le traitement de première intention lorsqu’un médicament est nécessaire pendant la grossesse.",
+          "Il doit être pris à la dose efficace la plus faible, pendant la durée la plus courte possible et après validation d’un professionnel.",
+          "Les anti-inflammatoires non stéroïdiens, comme l’ibuprofène ou le kétoprofène, ne doivent pas être utilisés sans avis et sont contre-indiqués à partir du début du sixième mois.",
+          "Une douleur persistante mérite une évaluation plutôt qu’une automédication prolongée."
+        ]
+      },
+      {
+        title: "Quand consulter un kinésithérapeute ou un ostéopathe ?",
+        paragraphs: [
+          "Un kinésithérapeute peut proposer des exercices, travailler la mobilité et vous aider à adapter les gestes du quotidien.",
+          "La prise en charge doit être individualisée et tenir compte du terme de la grossesse.",
+          "Si vous consultez un ostéopathe, choisissez un professionnel habitué à accompagner les femmes enceintes et informez le professionnel qui suit la grossesse.",
+          "Aucune manipulation ne doit être douloureuse ou réalisée en force."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une douleur de la ceinture pelvienne ?",
+        paragraphs: [
+          "Certaines douleurs proviennent davantage des articulations du bassin que de la colonne vertébrale.",
+          "Elles peuvent se situer au niveau du pubis, des fesses, des hanches ou de l’arrière du bassin.",
+          "Elles sont parfois aggravées par la marche, les escaliers, l’écartement des jambes ou le fait de se retourner dans le lit.",
+          "Une prise en charge précoce avec des exercices adaptés et des conseils de mouvement peut améliorer le confort."
+        ]
+      },
+      {
+        title: "Comment distinguer douleur musculaire et sciatique ?",
+        paragraphs: [
+          "Une douleur musculaire reste souvent localisée au dos ou aux fesses.",
+          "Une irritation du nerf sciatique peut provoquer une douleur qui descend derrière la cuisse ou la jambe.",
+          "Des fourmillements, une perte de sensibilité ou une faiblesse musculaire doivent être signalés.",
+          "Une douleur intense avec difficulté à marcher ou troubles urinaires nécessite une évaluation rapide."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        bullets: [
+          "Douleur brutale, très intense ou qui s’aggrave rapidement.",
+          "Fièvre ou frissons.",
+          "Douleur dans le dos accompagnée de brûlures urinaires.",
+          "Faiblesse d’une jambe ou difficulté à marcher.",
+          "Perte de sensibilité dans la jambe ou autour du périnée.",
+          "Difficulté à uriner ou perte de contrôle des urines ou des selles.",
+          "Contractions régulières, saignement ou perte de liquide.",
+          "Douleur sous les côtes associée à des maux de tête ou des troubles visuels."
+        ],
+        paragraphs: [
+          "Ces signes peuvent correspondre à une infection, une atteinte neurologique ou une complication obstétricale.",
+          "En cas de déficit neurologique brutal, de malaise important ou de douleur incontrôlable, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les douleurs de dos sont fréquentes pendant la grossesse mais peuvent souvent être soulagées.",
+          "Le mouvement régulier, les postures variées et les exercices adaptés sont généralement préférables au repos complet.",
+          "La chaleur modérée, le soutien au sommeil et l’adaptation des gestes du quotidien peuvent aider.",
+          "Les médicaments doivent être vérifiés avant toute prise.",
+          "Une douleur brutale, neurologique, fébrile ou associée à des signes obstétricaux nécessite un avis rapide."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Mal de dos : que faire et quand consulter ?",
+        url: "https://www.ameli.fr/assure/sante/themes/lombalgie-aigue/que-faire-quand-consulter"
+      },
+      {
+        label: "Haute Autorité de santé — Prescription d’activité physique pendant la grossesse et en post-partum",
+        url: "https://www.has-sante.fr/jcms/c_2859527/fr/prescription-d-activite-physique-et-sportive-pendant-la-grossesse-et-en-post-partum"
+      },
+      {
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "CRAT — Médicaments utilisables pendant la grossesse",
+        url: "https://www.lecrat.fr/"
+      }
+    ]
   }
 ];
 
