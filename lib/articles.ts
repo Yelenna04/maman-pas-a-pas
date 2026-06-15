@@ -11326,6 +11326,285 @@ export const articles: Article[] = [
         url: "https://www.lecrat.fr/"
       }
     ]
+  },
+
+{
+    slug: "troubles-du-sommeil-comment-mieux-dormir-enceinte",
+    title: "Troubles du sommeil : comment mieux dormir enceinte ?",
+    description:
+      "Réveils nocturnes, insomnies, position de sommeil, reflux, jambes sans repos et fatigue : les repères pour mieux dormir pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les troubles du sommeil sont fréquents pendant la grossesse et peuvent évoluer selon les trimestres.",
+          "Une routine régulière, une chambre calme, des écrans limités le soir et une activité douce dans la journée peuvent aider.",
+          "Dormez dans la position la plus confortable, généralement sur le côté à partir du deuxième trimestre, sans vous inquiéter si vous vous réveillez sur le dos.",
+          "Le reflux, les douleurs, les envies d’uriner et le syndrome des jambes sans repos doivent être pris en charge s’ils perturbent les nuits.",
+          "Demandez un avis si l’insomnie dure, si vous ronflez fortement avec des pauses respiratoires, si l’anxiété devient envahissante ou si la fatigue vous empêche de fonctionner."
+        ],
+        quote:
+          "Mieux dormir ne signifie pas forcément dormir d’une traite : l’objectif est aussi d’améliorer le confort, la récupération et la régularité."
+      },
+      {
+        title: "Pourquoi le sommeil change-t-il pendant la grossesse ?",
+        paragraphs: [
+          "Les hormones, les modifications du corps et les préoccupations liées à la grossesse peuvent perturber le sommeil.",
+          "Au premier trimestre, la fatigue est souvent importante, mais les nausées, les envies d’uriner et l’anxiété peuvent fragmenter les nuits.",
+          "Au deuxième trimestre, le sommeil peut s’améliorer, puis devenir plus difficile avec l’augmentation du ventre, le reflux, les douleurs et les mouvements du bébé.",
+          "À l’approche du terme, les réveils fréquents sont courants et ne signifient pas forcément qu’il existe un trouble médical."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Gardez des heures de lever et de coucher aussi régulières que possible.",
+          "Réservez le lit au sommeil et aux moments calmes plutôt qu’au travail ou aux écrans.",
+          "Traitez la cause concrète des réveils : douleur, reflux, jambes sans repos, anxiété ou envies d’uriner."
+        ],
+        quote:
+          "Une bonne nuit commence souvent dès la journée, avec de la lumière naturelle, du mouvement et des horaires réguliers."
+      },
+      {
+        title: "Quelle position adopter pour dormir ?",
+        paragraphs: [
+          "La position la plus confortable est généralement la meilleure.",
+          "À partir du deuxième trimestre, beaucoup de femmes préfèrent dormir sur le côté.",
+          "Le côté gauche peut parfois améliorer le confort, notamment en cas de reflux ou de sensation de compression, mais il n’est pas obligatoire toute la nuit.",
+          "Si vous vous réveillez sur le dos, tournez-vous simplement sur le côté sans vous inquiéter."
+        ]
+      },
+      {
+        title: "Les coussins de grossesse sont-ils indispensables ?",
+        paragraphs: [
+          "Non. Des oreillers ordinaires peuvent suffire.",
+          "Un coussin entre les genoux peut soulager le bassin et le bas du dos.",
+          "Un petit coussin sous le ventre ou derrière le dos peut améliorer le maintien.",
+          "L’important est d’obtenir une position stable et confortable, sans multiplier inutilement le matériel."
+        ]
+      },
+      {
+        title: "Comment créer une routine favorable au sommeil ?",
+        bullets: [
+          "Se lever à une heure relativement stable.",
+          "S’exposer à la lumière naturelle le matin.",
+          "Limiter les siestes tardives ou très longues.",
+          "Prévoir une transition calme avant le coucher.",
+          "Réduire les écrans et les contenus stimulants le soir.",
+          "Garder une chambre fraîche, sombre et silencieuse.",
+          "Éviter de regarder l’heure à répétition pendant la nuit."
+        ],
+        paragraphs: [
+          "La régularité est souvent plus efficace qu’une routine parfaite suivie seulement quelques jours.",
+          "Choisissez des habitudes réalistes et compatibles avec votre quotidien."
+        ]
+      },
+      {
+        title: "Les siestes sont-elles une bonne idée ?",
+        paragraphs: [
+          "Oui, surtout lorsque la fatigue est importante.",
+          "Une sieste courte en début d’après-midi peut améliorer la récupération sans trop retarder l’endormissement du soir.",
+          "Si vous souffrez d’insomnie, évitez les siestes longues ou tardives.",
+          "Écoutez votre niveau de fatigue plutôt que de vous imposer de rester éveillée à tout prix."
+        ]
+      },
+      {
+        title: "L’activité physique peut-elle améliorer le sommeil ?",
+        paragraphs: [
+          "Une activité régulière et adaptée peut faciliter l’endormissement, réduire le stress et améliorer le confort physique.",
+          "La marche, la natation, le yoga prénatal ou le vélo d’appartement sont souvent de bonnes options.",
+          "Évitez les séances très intenses ou stimulantes juste avant le coucher si elles retardent votre endormissement.",
+          "En cas de grossesse à risque, demandez conseil avant de modifier votre activité."
+        ]
+      },
+      {
+        title: "Comment limiter les réveils pour uriner ?",
+        paragraphs: [
+          "Buvez régulièrement pendant la journée afin de ne pas concentrer toute votre hydratation le soir.",
+          "Réduisez légèrement les boissons dans l’heure ou les deux heures précédant le coucher, sans vous déshydrater.",
+          "Allez aux toilettes juste avant de dormir.",
+          "Des brûlures urinaires, des douleurs ou une envie très fréquente inhabituelle doivent être signalées."
+        ]
+      },
+      {
+        title: "Comment dormir malgré le reflux ?",
+        bullets: [
+          "Éviter les repas très copieux le soir.",
+          "Ne pas s’allonger dans les deux à trois heures suivant le dîner.",
+          "Surélever légèrement le haut du corps.",
+          "Dormir sur le côté si cette position est confortable.",
+          "Limiter les aliments qui déclenchent clairement les symptômes.",
+          "Demander conseil si les brûlures persistent."
+        ],
+        paragraphs: [
+          "Certains antiacides ou alginates peuvent être utilisés pendant la grossesse après avis d’un professionnel.",
+          "Une douleur thoracique inhabituelle ne doit pas être attribuée automatiquement au reflux."
+        ]
+      },
+      {
+        title: "Que faire contre les douleurs nocturnes ?",
+        paragraphs: [
+          "Adaptez les coussins pour soutenir le ventre, le bassin et le dos.",
+          "Une douche tiède, une chaleur modérée ou quelques mouvements doux peuvent détendre les muscles.",
+          "Évitez les positions qui augmentent la douleur ou provoquent des engourdissements.",
+          "Une douleur persistante, intense ou neurologique doit être évaluée."
+        ]
+      },
+      {
+        title: "Que faire en cas de crampes nocturnes ?",
+        paragraphs: [
+          "Étirez doucement le mollet en ramenant les orteils vers vous.",
+          "Marchez quelques minutes puis massez légèrement la zone.",
+          "Hydratez-vous régulièrement et conservez une activité adaptée.",
+          "Une douleur d’un seul mollet associée à un gonflement, une chaleur ou une rougeur nécessite un avis urgent."
+        ]
+      },
+      {
+        title: "Qu’est-ce que le syndrome des jambes sans repos ?",
+        paragraphs: [
+          "Il provoque un besoin irrépressible de bouger les jambes, souvent accompagné de sensations désagréables au repos et le soir.",
+          "Le mouvement apporte généralement un soulagement temporaire.",
+          "Ce trouble peut être favorisé par une carence en fer.",
+          "Parlez-en au professionnel qui suit la grossesse : une prise de sang et une adaptation de la supplémentation peuvent être proposées."
+        ]
+      },
+      {
+        title: "Comment calmer les jambes sans repos ?",
+        bullets: [
+          "Marcher quelques minutes.",
+          "Étirer doucement les jambes.",
+          "Prendre une douche tiède.",
+          "Masser les mollets.",
+          "Limiter la caféine.",
+          "Garder des horaires de sommeil réguliers.",
+          "Faire vérifier le fer si les symptômes persistent."
+        ]
+      },
+      {
+        title: "Les mouvements du bébé peuvent-ils empêcher de dormir ?",
+        paragraphs: [
+          "Oui, certains bébés sont plus actifs le soir ou lorsque la mère s’allonge.",
+          "Changez légèrement de position et prenez quelques respirations lentes.",
+          "Ces mouvements sont généralement rassurants.",
+          "En revanche, une diminution nette des mouvements habituels doit conduire à contacter la maternité."
+        ]
+      },
+      {
+        title: "Comment gérer les pensées qui tournent en boucle ?",
+        paragraphs: [
+          "Notez les préoccupations ou les tâches à faire avant de vous coucher afin de ne pas essayer de tout retenir.",
+          "Prévoyez un court moment dans la journée pour traiter les questions pratiques liées à la grossesse.",
+          "La respiration lente, la relaxation ou une méditation guidée peuvent aider.",
+          "Si l’anxiété devient envahissante, parlez-en à une sage-femme, un médecin ou un psychologue."
+        ]
+      },
+      {
+        title: "Que faire si l’on ne parvient pas à s’endormir ?",
+        paragraphs: [
+          "Si vous restez éveillée longtemps, levez-vous quelques minutes et choisissez une activité calme avec une lumière douce.",
+          "Retournez au lit lorsque la somnolence revient.",
+          "Évitez de travailler, de consulter les réseaux sociaux ou de regarder l’heure en continu.",
+          "Cette stratégie aide à ne pas associer durablement le lit à l’éveil et à la frustration."
+        ]
+      },
+      {
+        title: "La caféine peut-elle perturber le sommeil ?",
+        paragraphs: [
+          "Oui. La caféine peut retarder l’endormissement et augmenter les réveils nocturnes.",
+          "Elle se trouve dans le café, le thé, les boissons au cola, le chocolat, les boissons énergisantes et certains médicaments.",
+          "Limitez les apports quotidiens et évitez la caféine en fin de journée si vous êtes sensible.",
+          "Les boissons énergisantes sont déconseillées pendant la grossesse."
+        ]
+      },
+      {
+        title: "Peut-on prendre de la mélatonine ou un somnifère ?",
+        paragraphs: [
+          "Ne prenez pas de mélatonine, de somnifère, d’antihistaminique sédatif ou de plante pour dormir sans avis médical.",
+          "Les données et les indications varient selon les produits.",
+          "Un traitement peut parfois être proposé lorsque l’insomnie est importante, mais il doit être choisi au cas par cas.",
+          "Les mesures non médicamenteuses restent généralement la première étape."
+        ]
+      },
+      {
+        title: "Les tisanes et huiles essentielles sont-elles sûres ?",
+        paragraphs: [
+          "Non, pas automatiquement.",
+          "Certaines plantes ont des effets actifs ou manquent de données fiables pendant la grossesse.",
+          "Les huiles essentielles sont très concentrées et plusieurs sont déconseillées.",
+          "Demandez conseil à un pharmacien, une sage-femme ou un médecin avant toute utilisation régulière."
+        ]
+      },
+      {
+        title: "Le ronflement est-il normal pendant la grossesse ?",
+        paragraphs: [
+          "Le ronflement peut apparaître ou augmenter en raison de la congestion nasale et de la prise de poids.",
+          "Un ronflement léger isolé est fréquent.",
+          "En revanche, des pauses respiratoires, des réveils en suffoquant, des maux de tête au réveil ou une somnolence importante peuvent évoquer une apnée du sommeil.",
+          "Ces signes doivent être signalés, car un bilan et une prise en charge peuvent être nécessaires."
+        ]
+      },
+      {
+        title: "Quand l’insomnie doit-elle être prise en charge ?",
+        paragraphs: [
+          "Demandez conseil si les difficultés durent plusieurs semaines, si elles surviennent plusieurs nuits par semaine ou si elles ont un impact important dans la journée.",
+          "Une fatigue sévère, une irritabilité marquée, des difficultés de concentration ou une anxiété persistante justifient un accompagnement.",
+          "L’insomnie peut parfois être liée à une dépression, un trouble anxieux, une douleur ou un problème médical.",
+          "Une prise en charge précoce évite que le cercle fatigue-anxiété-insomnie s’installe."
+        ]
+      },
+      {
+        title: "Quand consulter rapidement ?",
+        bullets: [
+          "Vous ronflez fortement avec des pauses respiratoires ou des réveils en suffoquant.",
+          "Vous ressentez une somnolence incontrôlable dans la journée.",
+          "Vous avez une douleur thoracique, un essoufflement important ou un malaise.",
+          "Une jambe devient douloureuse, gonflée, chaude ou rouge.",
+          "Vous avez des maux de tête intenses, des troubles visuels ou un gonflement brutal.",
+          "Vous présentez des contractions régulières, un saignement ou une perte de liquide.",
+          "Vous ressentez nettement moins les mouvements du bébé."
+        ],
+        paragraphs: [
+          "Ces signes ne correspondent pas à un simple trouble du sommeil et nécessitent un avis médical.",
+          "En cas de détresse respiratoire, de douleur thoracique ou de malaise grave, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les troubles du sommeil sont fréquents et peuvent varier au cours de la grossesse.",
+          "Des horaires réguliers, une activité adaptée et une routine calme peuvent améliorer le sommeil.",
+          "Dormez dans la position la plus confortable, généralement sur le côté à partir du deuxième trimestre.",
+          "Le reflux, les douleurs, les jambes sans repos et l’anxiété doivent être pris en charge s’ils perturbent les nuits.",
+          "Les produits pour dormir, même naturels, ne doivent pas être utilisés sans avis médical."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Insomnie : que faire et quand consulter ?",
+        url: "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/que-faire-quand-consulter"
+      },
+      {
+        label: "1000 premiers jours — Sommeil et grossesse",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et information des femmes enceintes",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "CRAT — Médicaments et grossesse",
+        url: "https://www.lecrat.fr/"
+      }
+    ]
   }
 ];
 
