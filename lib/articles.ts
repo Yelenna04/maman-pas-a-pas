@@ -8661,6 +8661,259 @@ export const articles: Article[] = [
         url: "https://www.cfef.org/"
       }
     ]
+  },
+
+{
+    slug: "test-du-diabete-gestationnel-qui-est-concerne-et-comment-se-passe-t-il",
+    title: "Test du diabète gestationnel : qui est concerné et comment se passe-t-il ?",
+    description:
+      "Facteurs de risque, glycémie à jeun, HGPO, résultats et prise en charge : comprendre le dépistage du diabète gestationnel pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "9 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le dépistage du diabète gestationnel n’est pas systématique pour toutes les femmes enceintes : il est surtout proposé en présence de facteurs de risque.",
+          "Une glycémie à jeun peut être prescrite dès le début de la grossesse.",
+          "Entre 24 et 28 semaines d’aménorrhée, le test le plus utilisé est l’hyperglycémie provoquée par voie orale, appelée HGPO.",
+          "L’HGPO consiste à boire une solution contenant 75 g de glucose puis à réaliser plusieurs prises de sang.",
+          "Un seul résultat au-dessus du seuil retenu peut suffire à poser le diagnostic."
+        ],
+        quote:
+          "Le diabète gestationnel ne provoque souvent aucun symptôme : le dépistage permet donc de le repérer avant l’apparition de complications."
+      },
+      {
+        title: "Qu’est-ce que le diabète gestationnel ?",
+        paragraphs: [
+          "Le diabète gestationnel correspond à une augmentation du taux de sucre dans le sang découverte pendant la grossesse.",
+          "Il apparaît lorsque l’organisme ne produit pas suffisamment d’insuline pour compenser la diminution normale de la sensibilité à cette hormone au cours de la grossesse.",
+          "Il survient le plus souvent au deuxième ou au troisième trimestre.",
+          "Dans certains cas, le bilan réalisé en début de grossesse révèle un diabète déjà présent avant la grossesse mais jusque-là méconnu."
+        ]
+      },
+      {
+        title: "Qui est concerné par le dépistage ?",
+        paragraphs: [
+          "En France, le dépistage est généralement ciblé sur les femmes présentant au moins un facteur de risque.",
+          "Le professionnel qui suit la grossesse évalue ces facteurs dès le premier rendez-vous puis peut réévaluer la situation en cours de grossesse.",
+          "Même sans facteur de risque initial, un test peut être proposé si l’échographie montre un bébé très grand, un excès de liquide amniotique ou un autre signe évocateur."
+        ]
+      },
+      {
+        title: "Quels sont les principaux facteurs de risque ?",
+        bullets: [
+          "Un âge maternel de 35 ans ou plus.",
+          "Un indice de masse corporelle supérieur ou égal à 25 avant la grossesse.",
+          "Un antécédent personnel de diabète gestationnel.",
+          "Un antécédent de naissance d’un bébé de poids élevé.",
+          "Un parent du premier degré atteint de diabète de type 2.",
+          "Une glycémie anormale découverte au début de la grossesse."
+        ],
+        paragraphs: [
+          "D’autres éléments peuvent être pris en compte par le professionnel selon votre histoire médicale et l’évolution de la grossesse.",
+          "La présence d’un facteur de risque ne signifie pas que vous développerez forcément un diabète gestationnel."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Une glycémie à jeun peut être réalisée dès le premier trimestre chez les femmes à risque.",
+          "L’HGPO est généralement proposée entre 24 et 28 semaines d’aménorrhée.",
+          "Le test dure un peu plus de deux heures et nécessite de rester au laboratoire sans manger ni faire d’effort."
+        ],
+        quote:
+          "Le test est contraignant mais ponctuel. Prévoir de quoi s’occuper et signaler rapidement toute nausée ou sensation de malaise peut aider."
+      },
+      {
+        title: "Quel test est réalisé au début de la grossesse ?",
+        paragraphs: [
+          "Chez les femmes présentant des facteurs de risque, une glycémie veineuse à jeun peut être prescrite dès le premier trimestre.",
+          "Elle permet de rechercher une hyperglycémie précoce et d’identifier éventuellement un diabète déjà présent avant la grossesse.",
+          "Le prélèvement est réalisé après plusieurs heures sans manger, selon les consignes du laboratoire.",
+          "Un résultat normal au début de la grossesse n’exclut pas toujours l’apparition d’un diabète gestationnel plus tard."
+        ]
+      },
+      {
+        title: "Quand réalise-t-on l’HGPO ?",
+        paragraphs: [
+          "L’hyperglycémie provoquée par voie orale est le plus souvent réalisée entre 24 et 28 semaines d’aménorrhée.",
+          "Cette période correspond au moment où les hormones placentaires augmentent davantage la résistance à l’insuline.",
+          "Le test peut être prescrit plus tard si un signe apparaît en cours de grossesse.",
+          "Il n’est généralement pas utile de réaliser une HGPO si une glycémie antérieure a déjà permis de poser le diagnostic."
+        ]
+      },
+      {
+        title: "Comment se préparer au test ?",
+        bullets: [
+          "Respectez le jeûne indiqué par le laboratoire, souvent pendant 8 à 12 heures.",
+          "Buvez uniquement de l’eau pendant le jeûne, sauf consigne contraire.",
+          "Ne modifiez pas volontairement votre alimentation les jours précédents.",
+          "Prenez vos traitements habituels uniquement selon les consignes du médecin ou du laboratoire.",
+          "Prévoyez de rester sur place un peu plus de deux heures.",
+          "Apportez l’ordonnance, votre carte Vitale et de quoi vous occuper."
+        ],
+        paragraphs: [
+          "Évitez un effort physique inhabituel avant et pendant le test, car il pourrait modifier les résultats.",
+          "Si vous êtes malade, fiévreuse ou avez vomi, contactez le laboratoire ou le professionnel avant de vous déplacer."
+        ]
+      },
+      {
+        title: "Comment se déroule l’HGPO ?",
+        bullets: [
+          "Une première prise de sang mesure la glycémie à jeun.",
+          "Vous buvez une solution contenant 75 g de glucose.",
+          "Une deuxième prise de sang est réalisée une heure après.",
+          "Une troisième prise de sang est réalisée deux heures après.",
+          "Pendant ce temps, vous restez au repos au laboratoire sans manger, fumer ni marcher longuement."
+        ],
+        paragraphs: [
+          "La solution est très sucrée et doit généralement être bue en quelques minutes.",
+          "Le laboratoire vous précise exactement l’heure de chaque prélèvement."
+        ]
+      },
+      {
+        title: "Le test peut-il provoquer des nausées ?",
+        paragraphs: [
+          "Oui. La boisson très sucrée peut provoquer des nausées, des sueurs, des vertiges ou une sensation de malaise.",
+          "Restez assise et prévenez immédiatement le personnel si vous ne vous sentez pas bien.",
+          "Si vous vomissez, le test ne peut généralement pas être interprété et devra parfois être reprogrammé.",
+          "N’essayez pas de poursuivre sans prévenir le laboratoire."
+        ]
+      },
+      {
+        title: "Quels sont les seuils du test ?",
+        paragraphs: [
+          "Les seuils habituellement utilisés pour l’HGPO avec 75 g de glucose sont de 0,92 g/L à jeun, 1,80 g/L après une heure et 1,53 g/L après deux heures.",
+          "Le diagnostic peut être retenu si une seule des trois valeurs atteint ou dépasse le seuil correspondant.",
+          "Les résultats doivent toujours être interprétés par le professionnel qui suit la grossesse.",
+          "Ne comparez pas vos valeurs à celles d’une autre personne, car le contexte médical peut être différent."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le test est positif ?",
+        paragraphs: [
+          "Le professionnel vous explique les résultats et organise une prise en charge adaptée.",
+          "Vous pouvez être orientée vers une sage-femme, un diabétologue, un endocrinologue ou un diététicien.",
+          "La prise en charge commence le plus souvent par des conseils alimentaires, une activité physique adaptée et une surveillance de la glycémie à domicile.",
+          "Le suivi du bébé peut être renforcé, notamment pour surveiller sa croissance et la quantité de liquide amniotique."
+        ]
+      },
+      {
+        title: "Comment surveille-t-on la glycémie à la maison ?",
+        paragraphs: [
+          "Un lecteur de glycémie permet de mesurer le sucre dans une goutte de sang prélevée au bout du doigt.",
+          "Les mesures sont généralement réalisées à jeun et après les repas selon le schéma donné par l’équipe.",
+          "Les résultats sont notés dans un carnet ou transmis par une application.",
+          "Cette surveillance permet de vérifier si les adaptations alimentaires suffisent."
+        ]
+      },
+      {
+        title: "Faut-il suivre un régime strict ?",
+        paragraphs: [
+          "L’objectif n’est pas de supprimer tous les glucides ni de perdre du poids pendant la grossesse.",
+          "Les conseils visent à répartir les apports sur la journée, choisir des aliments rassasiants et limiter les produits très sucrés.",
+          "Les féculents, le pain, les fruits et les produits laitiers peuvent généralement être conservés dans des quantités adaptées.",
+          "Un accompagnement personnalisé est préférable aux régimes trouvés sur internet."
+        ]
+      },
+      {
+        title: "L’activité physique peut-elle aider ?",
+        paragraphs: [
+          "Une activité régulière et adaptée peut améliorer l’utilisation du glucose par l’organisme.",
+          "La marche, la natation douce ou le vélo d’appartement peuvent être proposés en l’absence de contre-indication obstétricale.",
+          "Une courte marche après les repas peut parfois aider à contrôler la glycémie.",
+          "Demandez l’avis du professionnel qui suit la grossesse avant de modifier votre activité."
+        ]
+      },
+      {
+        title: "Quand l’insuline est-elle nécessaire ?",
+        paragraphs: [
+          "L’insuline peut être proposée si les objectifs glycémiques ne sont pas atteints malgré les mesures alimentaires et l’activité physique.",
+          "Elle peut aussi être nécessaire d’emblée lorsque les valeurs sont très élevées.",
+          "L’insuline ne traverse pas le placenta et constitue le traitement médicamenteux de référence dans de nombreuses situations.",
+          "La dose est adaptée progressivement selon les mesures de glycémie."
+        ]
+      },
+      {
+        title: "Quels sont les risques d’un diabète gestationnel mal équilibré ?",
+        bullets: [
+          "Une croissance excessive du bébé.",
+          "Un excès de liquide amniotique.",
+          "Une hypertension ou une prééclampsie.",
+          "Un accouchement plus difficile.",
+          "Un risque accru de césarienne.",
+          "Une baisse du sucre chez le bébé après la naissance."
+        ],
+        paragraphs: [
+          "Un diabète bien pris en charge réduit nettement ces risques.",
+          "La majorité des femmes suivies pour un diabète gestationnel ont une grossesse et un accouchement sans complication majeure."
+        ]
+      },
+      {
+        title: "Le diabète gestationnel disparaît-il après l’accouchement ?",
+        paragraphs: [
+          "Dans la majorité des cas, la glycémie revient à la normale après la naissance.",
+          "Un contrôle est toutefois recommandé après l’accouchement afin de vérifier qu’il ne persiste pas de diabète.",
+          "Avoir eu un diabète gestationnel augmente le risque de développer plus tard un diabète de type 2.",
+          "Une surveillance régulière, une alimentation équilibrée et une activité physique sont donc recommandées à long terme."
+        ]
+      },
+      {
+        title: "Le bébé devra-t-il être surveillé après la naissance ?",
+        paragraphs: [
+          "Le bébé peut bénéficier d’une surveillance de sa glycémie dans les premières heures de vie.",
+          "Une mise au sein ou un premier biberon précoce peut être proposé selon son état et les pratiques de la maternité.",
+          "La surveillance dépend du poids de naissance, du terme, de l’équilibre du diabète et du déroulement de l’accouchement.",
+          "L’équipe vous expliquera les contrôles nécessaires."
+        ]
+      },
+      {
+        title: "Quand faut-il contacter rapidement un professionnel ?",
+        bullets: [
+          "Vous recevez une glycémie très élevée signalée par le laboratoire.",
+          "Vous vomissez pendant le test ou vous faites un malaise.",
+          "Vos glycémies restent au-dessus des objectifs malgré les mesures recommandées.",
+          "Vous avez une soif intense, des urines très fréquentes ou une fatigue inhabituelle.",
+          "Vous ressentez une diminution des mouvements du bébé.",
+          "Vous avez des maux de tête intenses, des troubles visuels ou un gonflement brutal."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le dépistage du diabète gestationnel est surtout proposé aux femmes présentant des facteurs de risque.",
+          "Une glycémie à jeun peut être prescrite au début de la grossesse.",
+          "L’HGPO est généralement réalisée entre 24 et 28 semaines d’aménorrhée.",
+          "Elle comporte trois prises de sang autour de l’ingestion de 75 g de glucose.",
+          "Un diagnostic précoce et une prise en charge adaptée permettent de réduire les risques pour la mère et le bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Diabète gestationnel : dépistage et diagnostic",
+        url: "https://www.ameli.fr/assure/sante/themes/diabete-gestationnel/depistage-diagnostic"
+      },
+      {
+        label: "Haute Autorité de santé — Diabète gestationnel",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Recommandations sur le diabète gestationnel",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+      },
+      {
+        label: "Fédération française des diabétiques — Diabète gestationnel",
+        url: "https://www.federationdesdiabetiques.org/information/diabete/gestationnel"
+      }
+    ]
   }
 ];
 
