@@ -9415,6 +9415,279 @@ export const articles: Article[] = [
         url: "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/1000jours/article/l-entretien-prenatal-precoce"
       }
     ]
+  },
+
+{
+    slug: "monitoring-du-bebe-quand-et-pourquoi-est-il-realise",
+    title: "Monitoring du bébé : quand et pourquoi est-il réalisé ?",
+    description:
+      "Rythme cardiaque du bébé, contractions, indications et interprétation : comprendre le monitoring pendant la grossesse et l’accouchement.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "9 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le monitoring enregistre le rythme cardiaque du bébé et, le plus souvent, les contractions de l’utérus.",
+          "Pendant la grossesse, il est réalisé lorsqu’une surveillance supplémentaire est nécessaire : diminution des mouvements, contractions, dépassement du terme ou grossesse à risque.",
+          "Pendant le travail, il permet de surveiller la réaction du bébé aux contractions.",
+          "L’examen est indolore et utilise généralement deux capteurs placés sur le ventre.",
+          "Un tracé inhabituel ne signifie pas toujours que le bébé va mal : l’équipe l’interprète avec le contexte et peut prolonger ou compléter la surveillance."
+        ],
+        quote:
+          "Le monitoring est un outil de surveillance : il ne s’interprète jamais à partir d’un chiffre isolé ni sans tenir compte de la situation clinique."
+      },
+      {
+        title: "Qu’est-ce qu’un monitoring du bébé ?",
+        paragraphs: [
+          "Le monitoring, aussi appelé cardiotocographie, enregistre simultanément le rythme cardiaque du bébé et l’activité contractile de l’utérus.",
+          "Le tracé obtenu permet d’observer la fréquence cardiaque de base, ses variations et sa réaction aux mouvements du bébé ou aux contractions.",
+          "Il peut être utilisé ponctuellement pendant la grossesse ou de manière continue ou intermittente pendant le travail.",
+          "Il ne remplace pas l’examen clinique, l’échographie ou le Doppler lorsque ceux-ci sont nécessaires."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Un capteur enregistre le cœur du bébé et un autre repère les contractions.",
+          "L’examen dure souvent entre vingt et trente minutes, mais peut être prolongé.",
+          "Le tracé est interprété dans son ensemble : rythme de base, variabilité, accélérations et éventuels ralentissements."
+        ],
+        quote:
+          "Si le bébé dort ou bouge peu pendant l’enregistrement, l’équipe peut attendre davantage avant de conclure."
+      },
+      {
+        title: "Quand réalise-t-on un monitoring pendant la grossesse ?",
+        bullets: [
+          "Diminution ou modification inhabituelle des mouvements du bébé.",
+          "Contractions régulières ou douloureuses.",
+          "Saignement ou perte de liquide.",
+          "Dépassement du terme.",
+          "Hypertension ou prééclampsie.",
+          "Diabète nécessitant une surveillance particulière.",
+          "Retard de croissance ou anomalie du Doppler.",
+          "Grossesse multiple ou autre situation à risque."
+        ],
+        paragraphs: [
+          "Il n’est pas réalisé systématiquement à chaque consultation dans une grossesse sans complication.",
+          "La fréquence dépend de la raison de la surveillance, du terme et des résultats des autres examens."
+        ]
+      },
+      {
+        title: "Pourquoi est-il proposé en cas de diminution des mouvements ?",
+        paragraphs: [
+          "Une diminution des mouvements ressentis peut parfois être liée au sommeil du bébé, à sa position ou au placenta.",
+          "Elle peut aussi signaler qu’une évaluation est nécessaire.",
+          "Le monitoring vérifie le rythme cardiaque du bébé et sa réactivité.",
+          "Une échographie, une mesure du liquide amniotique ou un Doppler peuvent être ajoutés selon les résultats et le terme."
+        ]
+      },
+      {
+        title: "Pourquoi réalise-t-on un monitoring après le terme ?",
+        paragraphs: [
+          "Lorsque la grossesse dépasse la date prévue d’accouchement, la surveillance est renforcée.",
+          "Le monitoring aide à vérifier le bien-être du bébé en complément de l’évaluation clinique et parfois de l’échographie.",
+          "Le calendrier des contrôles varie selon la maternité et votre situation.",
+          "L’équipe vous explique également à quel moment un déclenchement peut être proposé."
+        ]
+      },
+      {
+        title: "Comment se déroule l’examen ?",
+        paragraphs: [
+          "Vous êtes généralement installée semi-allongée ou sur le côté.",
+          "Deux capteurs sont maintenus sur le ventre par des sangles souples.",
+          "Le premier utilise les ultrasons pour enregistrer le rythme cardiaque du bébé.",
+          "Le second détecte les variations de tension de la paroi abdominale liées aux contractions."
+        ]
+      },
+      {
+        title: "Le monitoring est-il douloureux ?",
+        paragraphs: [
+          "Non. Les capteurs externes sont indolores.",
+          "Les sangles peuvent parfois être un peu serrées ou la position devenir inconfortable lorsque l’enregistrement dure longtemps.",
+          "Signalez toute douleur, gêne, malaise ou difficulté à rester sur le dos.",
+          "L’équipe peut modifier votre position ou replacer les capteurs."
+        ]
+      },
+      {
+        title: "Combien de temps dure un monitoring ?",
+        paragraphs: [
+          "Un enregistrement simple dure souvent entre vingt et trente minutes.",
+          "Il peut être prolongé si le bébé semble dormir, si le tracé est difficile à obtenir ou si une anomalie doit être surveillée.",
+          "Pendant le travail, la surveillance peut être intermittente ou continue selon les recommandations de l’équipe.",
+          "La durée ne permet pas à elle seule de savoir si le tracé est normal ou préoccupant."
+        ]
+      },
+      {
+        title: "Que mesure le capteur du rythme cardiaque ?",
+        paragraphs: [
+          "Le capteur enregistre la fréquence cardiaque du bébé au fil du temps.",
+          "L’équipe observe le rythme de base, les petites variations normales autour de ce rythme, les accélérations et les ralentissements.",
+          "Un rythme qui varie correctement est généralement un signe rassurant.",
+          "L’interprétation dépend toutefois du terme, de l’état de la mère, des médicaments et de la présence de contractions."
+        ]
+      },
+      {
+        title: "Que mesure le capteur des contractions ?",
+        paragraphs: [
+          "Le capteur externe repère la fréquence et la durée des contractions.",
+          "Il ne mesure pas précisément leur intensité réelle ni la douleur ressentie.",
+          "Une contraction peut apparaître faiblement sur le tracé si le capteur est déplacé ou si la position du bébé et de l’utérus rend l’enregistrement difficile.",
+          "Pendant le travail, l’équipe associe donc toujours le tracé à vos sensations et à l’examen obstétrical."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’un tracé réactif ?",
+        paragraphs: [
+          "Pendant la grossesse, un tracé dit réactif présente généralement une variabilité adaptée et des accélérations du rythme cardiaque.",
+          "Ces accélérations sont souvent liées aux mouvements du bébé.",
+          "Les critères exacts dépendent du terme de la grossesse.",
+          "Le professionnel est le seul à pouvoir conclure que l’enregistrement est rassurant."
+        ]
+      },
+      {
+        title: "Que signifient les ralentissements du rythme ?",
+        paragraphs: [
+          "Des ralentissements peuvent apparaître de manière ponctuelle ou répétée.",
+          "Leur signification dépend de leur forme, de leur durée, de leur fréquence et de leur relation avec les contractions.",
+          "Certains sont sans gravité, tandis que d’autres nécessitent une surveillance ou une intervention.",
+          "L’équipe peut vous faire changer de position, arrêter un médicament, perfuser des liquides ou réaliser d’autres examens."
+        ]
+      },
+      {
+        title: "Pourquoi le tracé peut-il être difficile à enregistrer ?",
+        bullets: [
+          "Le bébé bouge beaucoup.",
+          "Il change de position.",
+          "La grossesse est encore peu avancée.",
+          "Le placenta ou la morphologie maternelle modifient la transmission du signal.",
+          "Les capteurs se déplacent.",
+          "Le rythme maternel est capté à la place de celui du bébé."
+        ],
+        paragraphs: [
+          "Le professionnel replace alors le capteur ou utilise un appareil d’échographie pour localiser le cœur.",
+          "Une perte momentanée du signal ne signifie pas que le cœur du bébé s’est arrêté."
+        ]
+      },
+      {
+        title: "Le bébé doit-il bouger pendant le monitoring ?",
+        paragraphs: [
+          "Les mouvements du bébé peuvent provoquer des accélérations rassurantes du rythme cardiaque.",
+          "Cependant, le bébé alterne des périodes d’éveil et de sommeil.",
+          "S’il dort, le tracé peut sembler moins réactif pendant un certain temps.",
+          "L’équipe peut prolonger l’examen, vous proposer de changer de position ou utiliser une stimulation adaptée."
+        ]
+      },
+      {
+        title: "Le monitoring est-il systématique pendant l’accouchement ?",
+        paragraphs: [
+          "Une surveillance du rythme cardiaque du bébé est organisée pendant le travail.",
+          "Elle peut être intermittente ou continue selon le niveau de risque, le déroulement du travail et les pratiques de la maternité.",
+          "Une surveillance continue est plus souvent utilisée en cas de péridurale, de déclenchement, d’ocytocine, de grossesse à risque ou de tracé inhabituel.",
+          "L’équipe vous explique le type de surveillance proposé et les raisons de son choix."
+        ]
+      },
+      {
+        title: "Peut-on bouger avec un monitoring ?",
+        paragraphs: [
+          "Avec un appareil classique relié par des câbles, les déplacements peuvent être limités.",
+          "Il est souvent possible de changer de position, de s’asseoir ou de se mettre sur le côté.",
+          "Certaines maternités disposent de dispositifs sans fil ou adaptés à la mobilité.",
+          "Demandez à l’équipe quelles positions et quels mouvements sont possibles sans perdre le signal."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’un monitoring interne ?",
+        paragraphs: [
+          "Pendant le travail, lorsque la poche des eaux est rompue et que le tracé externe est insuffisant, un capteur interne peut parfois être proposé.",
+          "Une petite électrode est alors placée sur le cuir chevelu du bébé pour enregistrer directement son rythme cardiaque.",
+          "Cette méthode n’est pas utilisée systématiquement.",
+          "Le professionnel doit vous expliquer son intérêt, son déroulement et les éventuels risques."
+        ]
+      },
+      {
+        title: "Quels examens peuvent compléter le monitoring ?",
+        bullets: [
+          "Une échographie.",
+          "Un Doppler des vaisseaux du bébé ou du placenta.",
+          "Une mesure du liquide amniotique.",
+          "Un examen du col.",
+          "Un bilan sanguin ou urinaire maternel.",
+          "Une surveillance répétée à distance."
+        ],
+        paragraphs: [
+          "Pendant le travail, d’autres méthodes d’évaluation peuvent être discutées selon la situation.",
+          "Le choix dépend du tracé, du terme, de l’avancement du travail et de l’état général de la mère et du bébé."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le monitoring est inhabituel ?",
+        paragraphs: [
+          "L’équipe vérifie d’abord la qualité du signal et votre position.",
+          "Elle recherche une cause possible : contractions trop rapprochées, chute de tension, fièvre, médicament ou problème placentaire.",
+          "Des mesures simples peuvent améliorer le tracé, comme changer de côté ou adapter la perfusion et les médicaments.",
+          "Si les anomalies persistent et que le bébé semble mal tolérer la situation, une naissance plus rapide peut être envisagée."
+        ]
+      },
+      {
+        title: "Le monitoring peut-il prévoir toutes les complications ?",
+        paragraphs: [
+          "Non. Il fournit des informations importantes au moment de l’enregistrement, mais ne garantit pas l’absence de toute complication.",
+          "Il peut aussi produire des tracés difficiles à interpréter ou des alertes qui ne correspondent pas à un problème grave.",
+          "C’est pourquoi il est toujours associé à l’examen clinique et au contexte obstétrical.",
+          "Sa principale utilité est de repérer les situations nécessitant une évaluation ou une réaction rapide."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter pour faire vérifier le bébé ?",
+        bullets: [
+          "Vous ressentez nettement moins de mouvements que d’habitude.",
+          "Vous avez des contractions régulières ou douloureuses avant le terme.",
+          "Vous perdez du liquide ou du sang.",
+          "Vous avez de la fièvre ou un malaise.",
+          "Vous présentez des maux de tête intenses, des troubles visuels ou un gonflement brutal.",
+          "Vous avez reçu une consigne de surveillance en raison d’une grossesse à risque."
+        ],
+        paragraphs: [
+          "N’attendez pas le prochain rendez-vous si un signe vous inquiète.",
+          "Contactez la maternité, qui vous indiquera si un monitoring ou un autre examen est nécessaire."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le monitoring enregistre le rythme cardiaque du bébé et les contractions.",
+          "Il est réalisé pendant la grossesse lorsqu’une surveillance supplémentaire est nécessaire.",
+          "Pendant le travail, il vérifie comment le bébé réagit aux contractions.",
+          "L’examen est indolore et dure généralement au moins vingt minutes.",
+          "Le tracé doit toujours être interprété par une équipe médicale dans son contexte."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Accouchement normal : accompagnement de la physiologie et interventions médicales",
+        url: "https://www.has-sante.fr/jcms/c_2820336/fr/accouchement-normal-accompagnement-de-la-physiologie-et-interventions-medicales"
+      },
+      {
+        label: "Assurance Maladie — Le suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Surveillance fœtale pendant le travail",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+      },
+      {
+        label: "CHU de Toulouse — Le monitoring fœtal",
+        url: "https://www.chu-toulouse.fr/"
+      }
+    ]
   }
 ];
 
