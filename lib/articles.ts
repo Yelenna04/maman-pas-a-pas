@@ -11605,6 +11605,330 @@ export const articles: Article[] = [
         url: "https://www.lecrat.fr/"
       }
     ]
+  },
+
+{
+    slug: "stress-anxiete-et-emotions-quand-demander-de-laide",
+    title: "Stress, anxiété et émotions : quand demander de l’aide ?",
+    description:
+      "Inquiétudes, anxiété, pleurs, crises d’angoisse et idées noires : comprendre les émotions pendant la grossesse et savoir quand demander de l’aide.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les émotions peuvent être plus intenses et changeantes pendant la grossesse sans que cela signifie forcément qu’un trouble psychique est présent.",
+          "Il est utile de demander de l’aide lorsque l’anxiété, la tristesse ou les pensées inquiétantes durent, s’intensifient ou perturbent le sommeil, l’alimentation, le travail ou le quotidien.",
+          "Une sage-femme, un médecin, un psychologue ou une équipe de psychiatrie périnatale peut proposer un accompagnement adapté.",
+          "Les troubles anxieux et dépressifs peuvent être pris en charge pendant la grossesse, y compris lorsqu’un traitement médicamenteux est nécessaire.",
+          "En cas d’idées suicidaires, de peur de se faire du mal, de faire du mal au bébé ou de perte de contact avec la réalité, il faut demander une aide médicale urgente et ne pas rester seule."
+        ],
+        quote:
+          "Demander de l’aide n’est ni un échec ni le signe que vous serez une mauvaise mère : c’est une façon de prendre soin de vous et de votre bébé."
+      },
+      {
+        title: "Pourquoi les émotions peuvent-elles être plus intenses ?",
+        paragraphs: [
+          "La grossesse entraîne des changements hormonaux, physiques, familiaux et sociaux importants.",
+          "La fatigue, les symptômes, les examens médicaux, les inquiétudes concernant le bébé ou l’accouchement et les changements dans le couple peuvent fragiliser l’équilibre émotionnel.",
+          "Des émotions contradictoires peuvent coexister : joie, peur, ambivalence, impatience, culpabilité ou sentiment d’irréalité.",
+          "Ces réactions sont fréquentes, mais elles méritent une attention particulière lorsqu’elles deviennent envahissantes ou durables."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Observez depuis combien de temps le mal-être dure et s’il s’aggrave.",
+          "Évaluez son impact sur le sommeil, l’alimentation, les relations et les activités habituelles.",
+          "Parlez-en tôt à un professionnel, même si vous ne savez pas encore comment nommer ce que vous ressentez."
+        ],
+        quote:
+          "Il n’est pas nécessaire d’attendre d’aller très mal pour demander un soutien."
+      },
+      {
+        title: "Quelles émotions sont fréquentes pendant la grossesse ?",
+        bullets: [
+          "Une sensibilité plus forte.",
+          "Des changements d’humeur.",
+          "Des inquiétudes concernant la santé du bébé.",
+          "La peur de l’accouchement.",
+          "Une ambivalence face à la grossesse.",
+          "Des doutes sur ses capacités à devenir parent.",
+          "Une irritabilité ou une impatience inhabituelle.",
+          "Des pleurs plus faciles."
+        ],
+        paragraphs: [
+          "Ces émotions peuvent être temporaires et varier selon les étapes de la grossesse.",
+          "Elles ne deviennent préoccupantes que lorsqu’elles sont très intenses, persistantes ou qu’elles empêchent de fonctionner normalement."
+        ]
+      },
+      {
+        title: "Comment distinguer inquiétude normale et anxiété envahissante ?",
+        paragraphs: [
+          "Une inquiétude ponctuelle diminue généralement après avoir obtenu une information, du repos ou du soutien.",
+          "L’anxiété devient plus problématique lorsque les pensées tournent en boucle, semblent incontrôlables ou provoquent une tension constante.",
+          "Elle peut entraîner des palpitations, une oppression, des troubles digestifs, des difficultés de concentration ou un évitement des rendez-vous et des activités.",
+          "Le niveau de souffrance et l’impact sur la vie quotidienne comptent davantage que le nombre exact de symptômes."
+        ]
+      },
+      {
+        title: "Quels signes doivent inciter à en parler ?",
+        bullets: [
+          "Une anxiété présente presque tous les jours.",
+          "Une tristesse ou un vide qui dure.",
+          "Une perte d’intérêt pour les activités habituelles.",
+          "Des crises d’angoisse répétées.",
+          "Des troubles importants du sommeil ou de l’appétit.",
+          "Une culpabilité excessive ou un sentiment d’incapacité.",
+          "Des pensées intrusives très pénibles.",
+          "Un isolement croissant.",
+          "Une difficulté à se rendre aux rendez-vous ou à prendre soin de soi."
+        ],
+        paragraphs: [
+          "Un seul de ces signes peut suffire à justifier une discussion avec un professionnel s’il vous fait souffrir.",
+          "Plus la prise en charge commence tôt, plus il est souvent facile de retrouver un équilibre."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une crise d’angoisse ?",
+        paragraphs: [
+          "Une crise d’angoisse correspond à une montée brutale de peur ou de malaise intense.",
+          "Elle peut s’accompagner de palpitations, tremblements, vertiges, sensation d’étouffement, douleur thoracique ou peur de perdre le contrôle.",
+          "La crise atteint souvent un maximum en quelques minutes puis diminue progressivement.",
+          "Une première crise, une douleur thoracique ou une difficulté respiratoire importante doit être évaluée afin d’écarter une cause médicale."
+        ]
+      },
+      {
+        title: "Que faire pendant une montée d’angoisse ?",
+        bullets: [
+          "S’asseoir dans un endroit calme et sûr.",
+          "Relâcher les épaules et desserrer les vêtements.",
+          "Ralentir progressivement la respiration sans chercher à inspirer très profondément.",
+          "Nommer cinq choses visibles, quatre sensations corporelles et trois sons.",
+          "Contacter une personne de confiance.",
+          "Éviter de conduire tant que le malaise persiste."
+        ],
+        paragraphs: [
+          "Ces gestes peuvent aider à traverser la crise, mais ils ne remplacent pas une consultation si les épisodes se répètent.",
+          "Un accompagnement psychologique permet d’apprendre des stratégies adaptées et de réduire la peur d’une nouvelle crise."
+        ]
+      },
+      {
+        title: "Les pensées intrusives sont-elles fréquentes ?",
+        paragraphs: [
+          "Certaines personnes ont des pensées ou des images involontaires et angoissantes concernant un accident, une maladie ou un danger pour le bébé.",
+          "Avoir une pensée intrusive ne signifie pas vouloir qu’elle se réalise ni être dangereuse.",
+          "Ces pensées deviennent préoccupantes lorsqu’elles sont répétitives, très pénibles ou conduisent à des vérifications et des évitements importants.",
+          "Parlez-en sans honte à un professionnel, qui pourra rechercher un trouble anxieux ou obsessionnel et proposer une prise en charge."
+        ]
+      },
+      {
+        title: "Comment reconnaître une dépression pendant la grossesse ?",
+        paragraphs: [
+          "Une dépression peut apparaître pendant la grossesse, même lorsque celle-ci était souhaitée.",
+          "Les principaux signes sont une tristesse persistante, une perte d’intérêt, une fatigue inhabituelle, un ralentissement, une forte culpabilité ou un sentiment de désespoir.",
+          "Certains symptômes physiques peuvent être confondus avec ceux de la grossesse, comme la fatigue ou les troubles du sommeil.",
+          "Le diagnostic repose donc sur l’ensemble des symptômes, leur durée et leur impact."
+        ]
+      },
+      {
+        title: "Qui peut-on contacter en premier ?",
+        bullets: [
+          "La sage-femme qui suit la grossesse.",
+          "Le médecin traitant.",
+          "Le gynécologue-obstétricien.",
+          "La maternité.",
+          "Un psychologue.",
+          "Un psychiatre.",
+          "La Protection maternelle et infantile.",
+          "Une équipe spécialisée en psychiatrie périnatale."
+        ],
+        paragraphs: [
+          "Vous pouvez commencer par le professionnel avec lequel vous vous sentez le plus en confiance.",
+          "Il pourra vous écouter, évaluer l’urgence et vous orienter si nécessaire."
+        ]
+      },
+      {
+        title: "À quoi sert l’entretien prénatal précoce ?",
+        paragraphs: [
+          "L’entretien prénatal précoce est un temps d’échange consacré à vos besoins, votre vécu et votre environnement.",
+          "Il permet d’aborder les inquiétudes, les difficultés familiales, le travail, l’isolement, les violences ou les antécédents psychologiques.",
+          "Il peut être réalisé par une sage-femme ou un médecin, seule ou avec l’autre parent.",
+          "Il ne remplace pas une consultation spécialisée mais facilite le repérage et l’organisation d’un accompagnement."
+        ]
+      },
+      {
+        title: "Comment se déroule une première consultation psychologique ?",
+        paragraphs: [
+          "Le professionnel vous demande ce que vous ressentez, depuis quand, et comment cela affecte votre quotidien.",
+          "Il peut vous interroger sur le sommeil, l’alimentation, les antécédents, les traitements, le soutien disponible et la présence éventuelle d’idées noires.",
+          "Vous n’êtes pas obligée de tout raconter immédiatement.",
+          "À la fin, un suivi, une thérapie, une orientation ou une réévaluation médicale peuvent être proposés."
+        ]
+      },
+      {
+        title: "Quelles thérapies peuvent aider ?",
+        paragraphs: [
+          "Les psychothérapies peuvent aider à comprendre les pensées anxieuses, retrouver des repères et développer des stratégies concrètes.",
+          "Les thérapies cognitives et comportementales sont notamment utilisées pour l’anxiété, les crises d’angoisse, les phobies et la dépression.",
+          "D’autres approches peuvent être proposées selon vos besoins, votre histoire et les professionnels disponibles.",
+          "Le soutien du couple ou de la famille peut aussi être utile lorsque les difficultés concernent l’organisation ou les relations."
+        ]
+      },
+      {
+        title: "Peut-on prendre un traitement pendant la grossesse ?",
+        paragraphs: [
+          "Oui, certains traitements peuvent être utilisés lorsqu’ils sont nécessaires.",
+          "Le choix dépend du trouble, de sa gravité, des traitements déjà efficaces, du terme et des risques liés à l’absence de soins.",
+          "Un médicament ne doit jamais être commencé, arrêté ou modifié sans avis médical.",
+          "Le médecin recherche le traitement le mieux connu, à la dose efficace, avec une surveillance adaptée."
+        ]
+      },
+      {
+        title: "Faut-il arrêter un antidépresseur après un test positif ?",
+        paragraphs: [
+          "Non, pas sans avis médical.",
+          "Un arrêt brutal peut provoquer un syndrome de sevrage ou une rechute.",
+          "Contactez rapidement le prescripteur afin de réévaluer le traitement.",
+          "Selon la situation, il peut être poursuivi, adapté ou remplacé, mais la décision doit être individualisée."
+        ]
+      },
+      {
+        title: "Quelles habitudes peuvent soutenir le bien-être émotionnel ?",
+        bullets: [
+          "Conserver un rythme quotidien simple et régulier.",
+          "Sortir à la lumière du jour.",
+          "Pratiquer une activité physique adaptée.",
+          "Manger et boire régulièrement.",
+          "Limiter les informations anxiogènes et les recherches répétées.",
+          "Garder un contact régulier avec une personne de confiance.",
+          "Prévoir de courtes activités agréables sans objectif de performance.",
+          "Réduire l’alcool à zéro et éviter les substances psychoactives."
+        ],
+        paragraphs: [
+          "Ces habitudes peuvent soutenir la récupération, mais elles ne remplacent pas des soins lorsqu’un trouble anxieux ou dépressif est présent."
+        ]
+      },
+      {
+        title: "Comment limiter les recherches anxieuses sur internet ?",
+        paragraphs: [
+          "Choisissez quelques sources fiables et évitez de multiplier les forums ou les témoignages inquiétants.",
+          "Notez vos questions pour les poser lors du rendez-vous plutôt que de chercher une réponse pendant des heures.",
+          "Fixez un temps limité pour vous informer, puis passez à une activité différente.",
+          "Si les recherches deviennent incontrôlables, parlez-en à un professionnel car elles peuvent entretenir l’anxiété."
+        ]
+      },
+      {
+        title: "Comment l’entourage peut-il aider ?",
+        bullets: [
+          "Écouter sans minimiser ni chercher immédiatement une solution.",
+          "Proposer une aide concrète pour les rendez-vous, les repas ou les tâches.",
+          "Respecter le besoin de repos ou de solitude.",
+          "Encourager à consulter sans culpabiliser.",
+          "Rester présent lors d’une période de crise.",
+          "Aider à contacter un professionnel si la personne n’y parvient plus seule."
+        ],
+        paragraphs: [
+          "Des phrases comme « tu devrais être heureuse » ou « pense positif » peuvent renforcer la culpabilité.",
+          "Mieux vaut reconnaître la souffrance et rappeler que des solutions existent."
+        ]
+      },
+      {
+        title: "Les difficultés du couple peuvent-elles aggraver l’anxiété ?",
+        paragraphs: [
+          "Oui. Les changements de rôles, les inquiétudes financières, la sexualité, la fatigue et les différences de vécu peuvent créer des tensions.",
+          "Parler à un professionnel peut aider à distinguer une difficulté relationnelle ponctuelle d’une situation plus préoccupante.",
+          "Une consultation de couple peut être proposée lorsque les deux partenaires le souhaitent.",
+          "En cas de peur, de contrôle, de menaces ou de violence, demandez une aide confidentielle rapidement."
+        ]
+      },
+      {
+        title: "Les antécédents psychologiques augmentent-ils le risque ?",
+        paragraphs: [
+          "Un antécédent de dépression, d’anxiété, de trouble bipolaire, de psychose, de trouble alimentaire ou de traumatisme peut augmenter la vulnérabilité.",
+          "Cela ne signifie pas qu’une rechute est inévitable.",
+          "Prévenir tôt le professionnel permet d’organiser une surveillance et un soutien adaptés.",
+          "Les traitements et le projet de suivi après l’accouchement peuvent être anticipés pendant la grossesse."
+        ]
+      },
+      {
+        title: "Pourquoi préparer aussi le post-partum ?",
+        paragraphs: [
+          "La période qui suit la naissance comporte de nouveaux changements : récupération physique, manque de sommeil, alimentation du bébé et réorganisation familiale.",
+          "Un trouble psychique peut commencer pendant la grossesse ou apparaître après l’accouchement.",
+          "Préparer les contacts utiles, le relais de l’entourage et les rendez-vous de suivi réduit le risque de rester seule en cas de difficulté.",
+          "Un entretien postnatal précoce est prévu pour repérer les besoins et proposer un accompagnement."
+        ]
+      },
+      {
+        title: "Quels signes nécessitent une aide urgente ?",
+        bullets: [
+          "Des idées suicidaires ou l’envie de se faire du mal.",
+          "La peur de faire du mal au bébé ou à une autre personne.",
+          "Une impression de ne plus contrôler ses gestes.",
+          "Des voix, visions ou convictions inhabituelles.",
+          "Une agitation extrême ou plusieurs nuits presque sans sommeil avec une énergie anormalement élevée.",
+          "Une confusion, une désorientation ou une perte de contact avec la réalité.",
+          "L’impossibilité de manger, boire ou rester seule en sécurité."
+        ],
+        paragraphs: [
+          "Dans ces situations, ne restez pas seule et contactez immédiatement les urgences, la maternité ou un proche capable de rester avec vous.",
+          "Éloignez les médicaments et autres moyens potentiellement dangereux jusqu’à l’arrivée de l’aide."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide même sans urgence ?",
+        bullets: [
+          "Le mal-être dure depuis plus de deux semaines.",
+          "Les symptômes s’aggravent.",
+          "Vous ne parvenez plus à vous reposer malgré la fatigue.",
+          "Vous évitez les soins ou les sorties par peur.",
+          "Vous vous sentez coupée de votre entourage.",
+          "Vous ne ressentez plus de plaisir.",
+          "Vous avez besoin d’alcool, de médicaments ou d’autres substances pour tenir.",
+          "Vous avez simplement le sentiment que quelque chose ne va pas."
+        ],
+        paragraphs: [
+          "Votre ressenti suffit pour demander une consultation.",
+          "Il n’est pas nécessaire de remplir tous les critères d’un trouble pour mériter du soutien."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les émotions intenses peuvent être fréquentes pendant la grossesse, mais elles ne doivent pas être minimisées lorsqu’elles font souffrir.",
+          "Demandez de l’aide si l’anxiété, la tristesse ou les pensées inquiétantes durent ou perturbent le quotidien.",
+          "Une sage-femme, un médecin, un psychologue ou une équipe spécialisée peut vous accompagner.",
+          "Les psychothérapies et certains médicaments peuvent être utilisés pendant la grossesse lorsque cela est nécessaire.",
+          "Des idées suicidaires, des hallucinations, une confusion ou la peur de faire du mal nécessitent une aide médicale urgente."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Entretien prénatal précoce et accompagnement de la grossesse",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "1000 premiers jours — Bien-être psychique pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Dépression : symptômes et prise en charge",
+        url: "https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs"
+      },
+      {
+        label: "Santé publique France — Santé mentale périnatale",
+        url: "https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale"
+      }
+    ]
   }
 ];
 
