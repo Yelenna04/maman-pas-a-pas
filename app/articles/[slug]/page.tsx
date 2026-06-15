@@ -1416,9 +1416,27 @@ function UnifiedArticle({ article }: { article: Article }) {
       .reverse()
       .find((section) => section !== primary && section !== cardSection);
 
+  const promotedMainSectionTitles =
+    article.slug ===
+    "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre"
+      ? [
+          "Quels aliments faut-il éviter pour prévenir la listériose ?",
+          "Quelles précautions prendre contre la toxoplasmose ?",
+          "Quels poissons faut-il limiter ou éviter ?",
+          "Quelles règles d’hygiène respecter en cuisine ?",
+        ]
+      : [];
+
+  const promotedMainSections = contentSections.filter((section) =>
+    promotedMainSectionTitles.includes(section.title),
+  );
+
   const extraSections = contentSections.filter(
     (section) =>
-      section !== primary && section !== cardSection && section !== helpSection,
+      section !== primary &&
+      section !== cardSection &&
+      section !== helpSection &&
+      !promotedMainSections.includes(section),
   );
 
   const config = articleDisplayConfig[article.slug] ?? {
@@ -1429,46 +1447,8 @@ function UnifiedArticle({ article }: { article: Article }) {
 
   const cardItems = getItems(cardSection).slice(0, 3);
 
-  const extraSectionsWeight = extraSections.reduce((total, section) => {
-    const paragraphsLength =
-      section.paragraphs?.reduce((sum, paragraph) => sum + paragraph.length, 0) ?? 0;
-    const bulletsLength =
-      section.bullets?.reduce((sum, bullet) => sum + bullet.length, 0) ?? 0;
-
-    return total + section.title.length + paragraphsLength + bulletsLength;
-  }, 0);
-
-  const isAlimentationPregnancyArticle =
-    article.slug ===
-    "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre";
-
-  const articleGridClass = isAlimentationPregnancyArticle
-    ? extraSectionsWeight >= 5200
-      ? "compact-article-grid compact-article-grid-wide-sidebar"
-      : extraSectionsWeight >= 3200
-        ? "compact-article-grid compact-article-grid-medium-sidebar"
-        : "compact-article-grid"
-    : "compact-article-grid";
-
   return (
     <main className="compact-article">
-      <style>{`
-        .compact-article-grid-medium-sidebar {
-          grid-template-columns: minmax(0, 1.65fr) minmax(320px, 1fr);
-        }
-
-        .compact-article-grid-wide-sidebar {
-          grid-template-columns: minmax(0, 1.42fr) minmax(350px, 1fr);
-        }
-
-        @media (max-width: 900px) {
-          .compact-article-grid-medium-sidebar,
-          .compact-article-grid-wide-sidebar {
-            grid-template-columns: 1fr;
-          }
-        }
-      `}</style>
-
       <div className="article-shell">
         <section className="compact-article-hero">
           <div className="compact-hero-copy">
@@ -1521,7 +1501,7 @@ function UnifiedArticle({ article }: { article: Article }) {
           </section>
         )}
 
-        <div className={articleGridClass}>
+        <div className="compact-article-grid">
           <article className="compact-main-column">
             {primary && (
               <section className="compact-section">
@@ -1586,10 +1566,40 @@ function UnifiedArticle({ article }: { article: Article }) {
               </section>
             )}
 
+            {promotedMainSections.map((section, index) => (
+              <section className="compact-section" key={section.title}>
+                <h2>
+                  <span>{index + 3}</span>
+                  {section.title}
+                </h2>
+
+                {section.paragraphs?.map((paragraph) => (
+                  <p key={paragraph}>{renderRichText(paragraph)}</p>
+                ))}
+
+                {section.bullets && (
+                  <div className="medical-list">
+                    {section.bullets.map((bullet) => (
+                      <p key={bullet}>
+                        <Check size={18} />
+                        <span>{renderRichText(bullet)}</span>
+                      </p>
+                    ))}
+                  </div>
+                )}
+
+                {section.quote && (
+                  <div className="compact-note rose-note">
+                    <p>{renderRichText(section.quote)}</p>
+                  </div>
+                )}
+              </section>
+            ))}
+
             {helpSection && (
               <section className="compact-section medical-section">
                 <h2>
-                  <span>3</span>
+                  <span>{promotedMainSections.length + 3}</span>
                   {helpSection.title}
                 </h2>
 
