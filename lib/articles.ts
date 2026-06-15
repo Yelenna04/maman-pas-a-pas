@@ -10802,6 +10802,267 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
       }
     ]
+  },
+
+{
+    slug: "constipation-ballonnements-et-reflux-comment-les-soulager",
+    title: "Constipation, ballonnements et reflux : comment les soulager ?",
+    description:
+      "Alimentation, hydratation, activité physique, positions et traitements compatibles : les gestes utiles pour soulager la constipation, les ballonnements et le reflux pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La constipation, les ballonnements et le reflux sont fréquents pendant la grossesse en raison des hormones, du ralentissement du transit et de la pression exercée par l’utérus.",
+          "Commencez par des mesures simples : boire régulièrement, augmenter progressivement les fibres, bouger chaque jour et fractionner les repas.",
+          "Pour le reflux, évitez de vous allonger juste après avoir mangé et surélevez légèrement le haut du corps la nuit si nécessaire.",
+          "N’utilisez pas de laxatif, d’antiacide, de plante ou d’huile essentielle sans l’avis d’un professionnel.",
+          "Consultez en cas de douleur importante, vomissements persistants, sang dans les selles, ventre très tendu, fièvre ou impossibilité d’émettre des gaz."
+        ],
+        quote:
+          "Ces troubles sont souvent bénins, mais ils méritent d’être pris en charge lorsqu’ils deviennent douloureux, persistent ou perturbent l’alimentation et le sommeil."
+      },
+      {
+        title: "Pourquoi ces troubles sont-ils fréquents pendant la grossesse ?",
+        paragraphs: [
+          "La progestérone ralentit naturellement les mouvements du tube digestif pendant la grossesse.",
+          "Ce ralentissement peut favoriser la constipation, l’accumulation de gaz et une digestion plus lente.",
+          "À mesure que l’utérus augmente de volume, il exerce une pression sur l’estomac et les intestins, ce qui peut accentuer le reflux et les ballonnements.",
+          "Le fer prescrit pendant la grossesse peut également aggraver la constipation chez certaines femmes."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Augmentez les fibres progressivement pour éviter d’aggraver les ballonnements.",
+          "Buvez régulièrement tout au long de la journée plutôt que de grandes quantités d’un seul coup.",
+          "Après les repas, restez assise ou marchez doucement au lieu de vous allonger immédiatement."
+        ],
+        quote:
+          "Une modification progressive des habitudes est souvent mieux tolérée qu’un changement brutal."
+      },
+      {
+        title: "Comment reconnaître une constipation ?",
+        paragraphs: [
+          "La constipation ne se définit pas uniquement par la fréquence des selles.",
+          "Elle peut aussi se manifester par des selles dures, des efforts importants, une sensation d’évacuation incomplète ou une gêne abdominale.",
+          "Pendant la grossesse, quelques jours de ralentissement peuvent être fréquents.",
+          "En revanche, une constipation persistante, très douloureuse ou associée à des vomissements doit être évaluée."
+        ]
+      },
+      {
+        title: "Quels aliments peuvent aider le transit ?",
+        bullets: [
+          "Les légumes cuits ou crus soigneusement lavés.",
+          "Les fruits, notamment les pruneaux, poires, kiwis et agrumes.",
+          "Les légumineuses si elles sont bien tolérées.",
+          "Les céréales complètes ou semi-complètes.",
+          "Le pain complet ou aux céréales.",
+          "Les graines de chia ou de lin moulues en petite quantité avec suffisamment d’eau.",
+          "Les yaourts et aliments fermentés si vous les tolérez."
+        ],
+        paragraphs: [
+          "Augmentez les fibres progressivement sur plusieurs jours.",
+          "Une augmentation trop rapide peut majorer les gaz et les douleurs abdominales."
+        ]
+      },
+      {
+        title: "Combien faut-il boire ?",
+        paragraphs: [
+          "Une hydratation suffisante aide les fibres à retenir l’eau et à ramollir les selles.",
+          "Buvez régulièrement de l’eau au cours de la journée, en adaptant les quantités à votre soif, à la chaleur et à votre activité.",
+          "Les soupes, les fruits riches en eau et certaines infusions autorisées peuvent compléter les apports.",
+          "Si vous avez une maladie nécessitant une restriction hydrique, suivez les consignes de votre médecin."
+        ]
+      },
+      {
+        title: "L’activité physique peut-elle aider ?",
+        paragraphs: [
+          "Oui. La marche et les mouvements doux stimulent le transit et peuvent réduire la sensation de lourdeur digestive.",
+          "Une promenade de dix à vingt minutes après un repas peut être utile.",
+          "Le yoga prénatal, la natation et les exercices de mobilité peuvent également favoriser le confort.",
+          "Adaptez toujours l’activité à votre terme et aux éventuelles contre-indications."
+        ]
+      },
+      {
+        title: "Quelle position adopter aux toilettes ?",
+        paragraphs: [
+          "Prenez le temps de vous installer sans pousser de façon prolongée.",
+          "Un petit marchepied sous les pieds peut aider à rapprocher les genoux du ventre et faciliter l’évacuation.",
+          "Respirez lentement et évitez de bloquer votre souffle.",
+          "Si vous ressentez une douleur, une sensation de blocage ou un besoin de pousser très fort, parlez-en à une sage-femme ou à un médecin."
+        ]
+      },
+      {
+        title: "Que faire si le fer aggrave la constipation ?",
+        paragraphs: [
+          "Ne stoppez pas seule le complément prescrit.",
+          "Parlez-en au professionnel qui suit la grossesse : il peut vérifier la nécessité du traitement, adapter la dose ou proposer une autre forme de fer.",
+          "Prendre le fer avec un repas peut parfois améliorer la tolérance digestive, mais cela dépend du produit.",
+          "Une alimentation riche en fibres et une hydratation régulière peuvent compléter les mesures proposées."
+        ]
+      },
+      {
+        title: "Quand un laxatif peut-il être utilisé ?",
+        paragraphs: [
+          "Si les mesures alimentaires et l’activité ne suffisent pas, un laxatif peut parfois être proposé.",
+          "Le choix dépend du terme, de la durée des symptômes et de vos autres traitements.",
+          "Les laxatifs de lest ou osmotiques sont souvent privilégiés, mais ils doivent être validés par un professionnel.",
+          "Évitez les laxatifs stimulants, les purges, les huiles minérales, les plantes laxatives et les lavements répétés sans avis médical."
+        ]
+      },
+      {
+        title: "Comment soulager les ballonnements ?",
+        bullets: [
+          "Manger plus lentement et bien mâcher.",
+          "Fractionner les repas.",
+          "Éviter les boissons gazeuses.",
+          "Limiter les chewing-gums et les pailles, qui favorisent l’ingestion d’air.",
+          "Repérer les aliments qui augmentent les gaz sans supprimer inutilement de grands groupes alimentaires.",
+          "Marcher doucement après les repas.",
+          "Porter des vêtements qui ne compriment pas l’abdomen."
+        ],
+        paragraphs: [
+          "Les légumes secs, les choux, les oignons ou certains produits laitiers peuvent augmenter les gaz chez certaines femmes, mais la tolérance est individuelle.",
+          "Il vaut mieux ajuster les quantités et les modes de cuisson que supprimer systématiquement ces aliments."
+        ]
+      },
+      {
+        title: "Les probiotiques sont-ils utiles ?",
+        paragraphs: [
+          "Les probiotiques sont parfois proposés pour certains troubles digestifs, mais leur efficacité dépend des souches et des situations.",
+          "Tous les produits n’ont pas été étudiés de la même manière pendant la grossesse.",
+          "Ne choisissez pas un complément uniquement sur la base d’une publicité.",
+          "Demandez conseil à un professionnel avant une cure, surtout si vous avez une maladie chronique ou un traitement."
+        ]
+      },
+      {
+        title: "Pourquoi le reflux augmente-t-il pendant la grossesse ?",
+        paragraphs: [
+          "La progestérone relâche le sphincter situé entre l’œsophage et l’estomac.",
+          "Le contenu acide de l’estomac peut alors remonter plus facilement.",
+          "La pression exercée par l’utérus augmente également au fil des mois.",
+          "Le reflux peut provoquer des brûlures derrière le sternum, des remontées acides, une toux nocturne ou un goût amer dans la bouche."
+        ]
+      },
+      {
+        title: "Quels gestes peuvent réduire le reflux ?",
+        bullets: [
+          "Fractionner les repas et éviter les portions très copieuses.",
+          "Manger lentement.",
+          "Éviter de s’allonger dans les deux à trois heures suivant un repas.",
+          "Surélever légèrement la tête du lit ou le haut du corps.",
+          "Dormir de préférence sur le côté gauche si cette position est confortable.",
+          "Éviter les vêtements serrés au niveau du ventre.",
+          "Limiter les aliments qui déclenchent clairement vos symptômes."
+        ],
+        paragraphs: [
+          "Les déclencheurs varient selon les personnes.",
+          "Les aliments très gras, épicés, acides, le chocolat, la menthe, le café et les boissons gazeuses peuvent aggraver les symptômes chez certaines femmes."
+        ]
+      },
+      {
+        title: "Faut-il supprimer tous les aliments acides ou épicés ?",
+        paragraphs: [
+          "Non. Il n’existe pas une liste universelle valable pour toutes les femmes.",
+          "Observez les aliments qui provoquent réellement vos symptômes.",
+          "Évitez surtout les grandes quantités ou les repas tardifs si vous remarquez une aggravation.",
+          "Une suppression excessive peut appauvrir inutilement l’alimentation."
+        ]
+      },
+      {
+        title: "Peut-on prendre un antiacide ?",
+        paragraphs: [
+          "Certains antiacides ou alginates peuvent être utilisés pendant la grossesse après conseil d’un professionnel.",
+          "Le choix dépend de vos symptômes, de vos traitements et de vos antécédents.",
+          "Respectez les doses et espacez la prise de certains médicaments lorsque cela est nécessaire.",
+          "N’utilisez pas régulièrement un produit sans réévaluation si les symptômes persistent."
+        ]
+      },
+      {
+        title: "Quand un traitement plus fort est-il proposé ?",
+        paragraphs: [
+          "Si les mesures simples et les antiacides ne suffisent pas, un médecin peut proposer un traitement réduisant l’acidité gastrique.",
+          "Les inhibiteurs de la pompe à protons ou d’autres médicaments peuvent être utilisés dans certaines situations.",
+          "Le traitement doit être adapté à la fréquence et à la sévérité des symptômes.",
+          "Une douleur thoracique atypique ou persistante ne doit pas être attribuée automatiquement au reflux."
+        ]
+      },
+      {
+        title: "Les tisanes et huiles essentielles peuvent-elles aider ?",
+        paragraphs: [
+          "Certaines plantes utilisées pour la digestion ne sont pas recommandées pendant la grossesse ou manquent de données fiables.",
+          "Les huiles essentielles sont très concentrées et plusieurs sont déconseillées.",
+          "Évitez l’automédication à base de plantes, notamment les préparations laxatives ou les mélanges dont la composition est imprécise.",
+          "Demandez conseil à un pharmacien, une sage-femme ou un médecin."
+        ]
+      },
+      {
+        title: "Comment organiser les repas pour limiter les trois troubles ?",
+        bullets: [
+          "Prendre des repas réguliers mais moins volumineux.",
+          "Prévoir une collation simple si les longues périodes sans manger aggravent les symptômes.",
+          "Répartir les fibres sur la journée.",
+          "Boire entre les repas si de grandes quantités pendant le repas majorent le reflux.",
+          "Éviter les repas très gras le soir.",
+          "Prendre le temps de manger assise et au calme."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        bullets: [
+          "Douleur abdominale intense ou localisée.",
+          "Vomissements persistants.",
+          "Impossibilité d’émettre des selles et des gaz.",
+          "Ventre très distendu et douloureux.",
+          "Sang rouge ou selles noires.",
+          "Fièvre.",
+          "Perte de poids ou difficulté à s’alimenter.",
+          "Douleur thoracique, malaise ou essoufflement.",
+          "Contractions, saignement ou perte de liquide."
+        ],
+        paragraphs: [
+          "Ces signes ne correspondent pas à un simple trouble digestif et nécessitent une évaluation médicale.",
+          "En cas de douleur thoracique importante, de malaise ou de difficulté respiratoire, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La constipation, les ballonnements et le reflux sont fréquents pendant la grossesse.",
+          "L’hydratation, les fibres progressives, l’activité douce et des repas fractionnés sont les premières mesures utiles.",
+          "Le reflux est souvent amélioré en évitant de s’allonger après les repas et en surélevant le haut du corps.",
+          "Les laxatifs, antiacides, plantes et huiles essentielles doivent être vérifiés avant utilisation.",
+          "Une douleur importante, des vomissements persistants, du sang dans les selles ou un arrêt des gaz nécessitent un avis médical."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Constipation : que faire et quand consulter ?",
+        url: "https://www.ameli.fr/assure/sante/themes/constipation-adulte/que-faire-quand-consulter"
+      },
+      {
+        label: "Assurance Maladie — Reflux gastro-œsophagien de l’adulte",
+        url: "https://www.ameli.fr/assure/sante/themes/rgo-adulte"
+      },
+      {
+        label: "CRAT — Médicaments utilisables pendant la grossesse",
+        url: "https://www.lecrat.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
   }
 ];
 
