@@ -1416,27 +1416,67 @@ function UnifiedArticle({ article }: { article: Article }) {
       .reverse()
       .find((section) => section !== primary && section !== cardSection);
 
-  const promotedMainSectionTitles =
-    article.slug ===
-    "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre"
-      ? [
-          "Quels aliments faut-il éviter pour prévenir la listériose ?",
-          "Quelles précautions prendre contre la toxoplasmose ?",
-          "Quels poissons faut-il limiter ou éviter ?",
-          "Quelles règles d’hygiène respecter en cuisine ?",
-        ]
-      : [];
-
-  const promotedMainSections = contentSections.filter((section) =>
-    promotedMainSectionTitles.includes(section.title),
-  );
-
-  const extraSections = contentSections.filter(
+  const candidateExtraSections = contentSections.filter(
     (section) =>
       section !== primary &&
       section !== cardSection &&
-      section !== helpSection &&
-      !promotedMainSections.includes(section),
+      section !== helpSection,
+  );
+
+  const estimateSectionHeight = (
+    section: Article["sections"][number] | undefined,
+    mode: "main" | "accordion" = "main",
+  ) => {
+    if (!section) return 0;
+
+    if (mode === "accordion") {
+      // Un accordéon fermé occupe surtout la hauteur de son titre.
+      return 1.35;
+    }
+
+    const paragraphUnits = (section.paragraphs ?? []).reduce(
+      (total, paragraph) => total + Math.max(1, paragraph.length / 150),
+      0,
+    );
+    const bulletUnits = (section.bullets ?? []).reduce(
+      (total, bullet) => total + Math.max(0.75, bullet.length / 170),
+      0,
+    );
+    const quoteUnits = section.quote ? Math.max(1, section.quote.length / 180) : 0;
+
+    return 2.2 + paragraphUnits + bulletUnits + quoteUnits;
+  };
+
+  const baseMainHeight =
+    estimateSectionHeight(primary) +
+    Math.min(5.5, estimateSectionHeight(cardSection)) +
+    estimateSectionHeight(helpSection);
+
+  const adviceHeight = cardSection?.quote || essentials?.quote ? 3.2 : 0;
+  let estimatedMainHeight = baseMainHeight;
+  let estimatedSidebarHeight =
+    candidateExtraSections.reduce(
+      (total, section) =>
+        total + estimateSectionHeight(section, "accordion"),
+      0,
+    ) + adviceHeight;
+
+  const promotedMainSections: typeof candidateExtraSections = [];
+
+  // Les sections sont déjà classées éditorialement du plus essentiel au plus
+  // complémentaire. On fait donc remonter les premières rubriques jusqu’à
+  // obtenir deux colonnes visuellement proches, sans supprimer d’information.
+  for (const section of candidateExtraSections) {
+    if (estimatedSidebarHeight <= estimatedMainHeight * 1.12) break;
+    if (promotedMainSections.length >= 5) break;
+
+    promotedMainSections.push(section);
+    estimatedMainHeight += estimateSectionHeight(section);
+    estimatedSidebarHeight -= estimateSectionHeight(section, "accordion");
+  }
+
+  const extraSections = candidateExtraSections.filter(
+    (section) => !promotedMainSections.includes(section),
   );
 
   const config = articleDisplayConfig[article.slug] ?? {
