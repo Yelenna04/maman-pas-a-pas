@@ -8396,6 +8396,271 @@ export const articles: Article[] = [
         url: "https://www.agence-biomedecine.fr/Diagnostic-prenatal"
       }
     ]
+  },
+
+{
+    slug: "deuxieme-echographie-que-verifie-lechographie-morphologique",
+    title: "Deuxième échographie : que vérifie l’échographie morphologique ?",
+    description:
+      "Organes, croissance, placenta, liquide amniotique et sexe du bébé : comprendre ce que vérifie l’échographie morphologique du deuxième trimestre.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La deuxième échographie recommandée est généralement réalisée autour du cinquième mois, entre 20 et 25 semaines d’aménorrhée selon l’organisation du suivi.",
+          "Elle étudie en détail l’anatomie du bébé, sa croissance, ses mouvements, le placenta et la quantité de liquide amniotique.",
+          "Elle permet de repérer certaines malformations, mais elle ne peut pas toutes les détecter.",
+          "Le sexe du bébé peut souvent être identifié si vous souhaitez le connaître et si sa position le permet.",
+          "Si une image est difficile à obtenir ou qu’un doute existe, une échographie de contrôle ou un avis spécialisé peut être proposé."
+        ],
+        quote:
+          "L’échographie morphologique est un examen médical approfondi : l’échographiste peut rester silencieux pendant certaines mesures afin de se concentrer."
+      },
+      {
+        title: "Quand a lieu la deuxième échographie ?",
+        paragraphs: [
+          "La deuxième échographie du suivi de grossesse est réalisée au deuxième trimestre, généralement autour du cinquième mois.",
+          "En pratique, elle est souvent programmée entre 20 et 25 semaines d’aménorrhée, selon les recommandations du professionnel et l’organisation de la maternité.",
+          "À ce terme, le bébé est suffisamment développé pour que la plupart de ses organes puissent être observés avec précision.",
+          "Le rendez-vous doit parfois être décalé de quelques jours si la datation de la grossesse a été modifiée lors de la première échographie."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "L’échographie analyse l’anatomie du bébé organe par organe.",
+          "Elle vérifie aussi la croissance grâce à plusieurs mesures biométriques.",
+          "Elle observe l’environnement du bébé : placenta, cordon ombilical et liquide amniotique."
+        ],
+        quote:
+          "Une échographie morphologique normale est rassurante, mais elle ne garantit pas l’absence de toute anomalie."
+      },
+      {
+        title: "Pourquoi l’appelle-t-on échographie morphologique ?",
+        paragraphs: [
+          "Le terme morphologique signifie que l’examen étudie la forme et la structure des différentes parties du corps du bébé.",
+          "L’échographiste suit une liste précise de structures à observer afin d’examiner la tête, le cerveau, le visage, la colonne vertébrale, le thorax, le cœur, l’abdomen et les membres.",
+          "L’objectif est de repérer d’éventuelles anomalies visibles à ce stade et d’évaluer le développement global.",
+          "Certaines structures restent toutefois difficiles à analyser selon la position du bébé, la qualité des images ou le terme."
+        ]
+      },
+      {
+        title: "Que vérifie-t-on au niveau de la tête et du cerveau ?",
+        bullets: [
+          "La forme du crâne.",
+          "Les principales structures du cerveau.",
+          "La symétrie des hémisphères.",
+          "Les ventricules cérébraux.",
+          "La fosse postérieure et le cervelet.",
+          "Le profil et certaines structures du visage."
+        ],
+        paragraphs: [
+          "L’échographiste peut aussi rechercher certains signes associés à des anomalies chromosomiques ou neurologiques.",
+          "Toutes les anomalies du développement cérébral ne sont pas visibles à ce stade, car certaines apparaissent plus tard."
+        ]
+      },
+      {
+        title: "Comment le visage est-il examiné ?",
+        paragraphs: [
+          "Le profil, le nez, les lèvres et parfois les orbites sont observés selon la position du bébé.",
+          "L’examen peut notamment rechercher une fente labiale visible.",
+          "La qualité de l’analyse dépend fortement de l’orientation du visage, de la quantité de liquide amniotique et de la position des mains.",
+          "Une image incomplète peut conduire à proposer un contrôle sans que cela signifie forcément qu’une anomalie est présente."
+        ]
+      },
+      {
+        title: "Que vérifie-t-on au niveau du cœur ?",
+        paragraphs: [
+          "Le cœur fait partie des organes étudiés avec une attention particulière.",
+          "L’échographiste observe la position du cœur, ses quatre cavités, les principaux vaisseaux et le rythme cardiaque.",
+          "Certaines malformations cardiaques peuvent être repérées lors de cet examen.",
+          "D’autres sont plus difficiles à voir ou peuvent apparaître plus tard, ce qui explique qu’une échographie normale n’exclut pas toutes les cardiopathies."
+        ]
+      },
+      {
+        title: "Quels organes de l’abdomen sont observés ?",
+        bullets: [
+          "L’estomac.",
+          "Les reins.",
+          "La vessie.",
+          "La paroi abdominale.",
+          "L’insertion du cordon ombilical.",
+          "La position générale des organes."
+        ],
+        paragraphs: [
+          "L’échographiste vérifie également que le diaphragme semble continu et que l’abdomen présente un aspect adapté au terme.",
+          "L’observation des reins et de la vessie renseigne indirectement sur la production d’urines et le fonctionnement des voies urinaires."
+        ]
+      },
+      {
+        title: "Comment la colonne vertébrale et les membres sont-ils étudiés ?",
+        paragraphs: [
+          "La colonne vertébrale est examinée dans plusieurs plans afin d’en vérifier l’alignement et la fermeture.",
+          "Les bras, les avant-bras, les mains, les cuisses, les jambes et les pieds sont recherchés.",
+          "L’échographiste observe aussi les mouvements du bébé.",
+          "Le comptage précis de tous les doigts et orteils n’est pas toujours possible ni systématique."
+        ]
+      },
+      {
+        title: "Comment la croissance du bébé est-elle évaluée ?",
+        paragraphs: [
+          "Plusieurs mesures sont réalisées, notamment le diamètre ou le périmètre de la tête, le périmètre abdominal et la longueur du fémur.",
+          "Ces mesures sont comparées à des courbes de référence adaptées au terme.",
+          "Elles permettent d’estimer le poids du bébé, avec une marge d’erreur.",
+          "Une mesure isolée légèrement différente de la moyenne n’indique pas forcément un problème : l’ensemble des données et leur évolution sont pris en compte."
+        ]
+      },
+      {
+        title: "Que vérifie-t-on concernant le placenta ?",
+        paragraphs: [
+          "L’échographiste observe la position du placenta dans l’utérus.",
+          "Il vérifie notamment s’il est proche du col ou s’il le recouvre.",
+          "Un placenta bas au deuxième trimestre peut remonter avec la croissance de l’utérus. Une échographie de contrôle est alors souvent programmée.",
+          "L’aspect général du placenta et son insertion peuvent aussi être décrits."
+        ]
+      },
+      {
+        title: "Le cordon ombilical est-il examiné ?",
+        paragraphs: [
+          "L’insertion du cordon sur le placenta et sur l’abdomen du bébé est observée.",
+          "L’échographiste peut vérifier le nombre de vaisseaux présents dans le cordon.",
+          "Le Doppler n’est pas systématiquement utilisé pour toutes les grossesses à ce stade.",
+          "Il peut être ajouté si la croissance, le placenta ou une situation médicale nécessite une étude de la circulation sanguine."
+        ]
+      },
+      {
+        title: "Comment évalue-t-on le liquide amniotique ?",
+        paragraphs: [
+          "La quantité de liquide amniotique est estimée visuellement ou à l’aide de mesures.",
+          "Une quantité trop faible ou trop importante peut nécessiter des examens complémentaires.",
+          "Le liquide permet au bébé de bouger et contribue au développement de certains organes, notamment les poumons.",
+          "Son volume peut varier au cours de la grossesse et doit toujours être interprété avec les autres éléments de l’examen."
+        ]
+      },
+      {
+        title: "Peut-on connaître le sexe du bébé ?",
+        paragraphs: [
+          "Le sexe peut souvent être identifié lors de l’échographie morphologique si la position du bébé le permet.",
+          "L’estimation est généralement fiable, mais une erreur reste possible.",
+          "Si vous souhaitez connaître le sexe, vous pouvez le préciser au début de l’examen.",
+          "Si vous ne souhaitez pas le savoir, dites-le clairement afin que l’échographiste évite de vous le révéler."
+        ]
+      },
+      {
+        title: "Comment se déroule l’examen ?",
+        paragraphs: [
+          "Vous êtes installée allongée, le ventre découvert.",
+          "L’échographiste applique du gel puis déplace la sonde abdominale pour obtenir les différentes vues.",
+          "L’examen dure souvent entre trente et quarante-cinq minutes, mais sa durée varie selon la position du bébé et les images à obtenir.",
+          "Le professionnel peut appuyer légèrement sur le ventre, vous demander de changer de position ou de marcher quelques minutes."
+        ]
+      },
+      {
+        title: "Faut-il avoir la vessie pleine ?",
+        paragraphs: [
+          "À ce stade de la grossesse, une vessie pleine n’est généralement pas nécessaire.",
+          "Certaines structures peuvent toutefois être mieux vues avec une vessie modérément remplie selon la position du bébé ou du placenta.",
+          "Suivez les consignes données par le cabinet ou la maternité.",
+          "Si aucune instruction particulière ne vous a été donnée, vous pouvez généralement aller aux toilettes normalement."
+        ]
+      },
+      {
+        title: "Pourquoi l’échographiste peut-il rester silencieux ?",
+        paragraphs: [
+          "L’examen demande beaucoup de concentration et plusieurs mesures précises.",
+          "Le silence ne signifie pas qu’un problème a été découvert.",
+          "L’échographiste peut préférer terminer l’analyse avant de commenter les images.",
+          "À la fin, il vous explique les principaux résultats et vous remet un compte rendu."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le bébé est mal positionné ?",
+        paragraphs: [
+          "La position du bébé peut empêcher de voir correctement certaines structures.",
+          "Le professionnel peut vous demander de changer de côté, de bouger, de tousser ou de revenir après quelques minutes.",
+          "Un rendez-vous de contrôle peut être proposé si toutes les images nécessaires n’ont pas pu être obtenues.",
+          "Cette situation est fréquente et ne signifie pas qu’une anomalie est suspectée."
+        ]
+      },
+      {
+        title: "Que signifie une échographie de contrôle ?",
+        paragraphs: [
+          "Une échographie de contrôle peut être demandée pour compléter une structure mal vue, surveiller une mesure ou réévaluer la position du placenta.",
+          "Elle peut aussi vérifier la croissance ou un élément anatomique qui nécessite une nouvelle observation.",
+          "Le délai dépend de la raison du contrôle.",
+          "Le professionnel doit vous expliquer ce qui doit être revu et pourquoi."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si une anomalie est suspectée ?",
+        paragraphs: [
+          "L’échographiste vous explique ce qui a été observé et les limites de l’examen.",
+          "Une échographie spécialisée peut être proposée dans un centre de diagnostic prénatal.",
+          "Selon la situation, d’autres examens peuvent être discutés : échocardiographie fœtale, IRM, analyse génétique ou prélèvement diagnostique.",
+          "Une image inhabituelle ne correspond pas toujours à une anomalie confirmée. Des examens complémentaires sont souvent nécessaires avant de conclure."
+        ]
+      },
+      {
+        title: "Une échographie normale exclut-elle toutes les anomalies ?",
+        paragraphs: [
+          "Non. L’échographie morphologique permet de dépister de nombreuses anomalies, mais pas toutes.",
+          "Certaines malformations sont trop petites, apparaissent plus tard ou ne modifient pas l’aspect visible des organes.",
+          "La qualité de l’examen dépend aussi de la position du bébé, de la quantité de liquide amniotique et des conditions techniques.",
+          "Le suivi du troisième trimestre reste important pour surveiller la croissance et l’évolution de la grossesse."
+        ]
+      },
+      {
+        title: "Que faut-il apporter au rendez-vous ?",
+        bullets: [
+          "L’ordonnance.",
+          "La carte Vitale et la carte de mutuelle.",
+          "Le dossier de grossesse.",
+          "Le compte rendu de la première échographie.",
+          "Les résultats du dépistage de la trisomie 21.",
+          "Les comptes rendus médicaux utiles en cas d’antécédent particulier."
+        ],
+        paragraphs: [
+          "Portez des vêtements faciles à relever au niveau du ventre.",
+          "Vous pouvez noter vos questions à l’avance afin de ne pas les oublier."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La deuxième échographie est généralement réalisée autour du cinquième mois.",
+          "Elle étudie en détail l’anatomie, la croissance et les mouvements du bébé.",
+          "Elle vérifie aussi le placenta, le cordon et la quantité de liquide amniotique.",
+          "Elle peut détecter certaines anomalies, sans pouvoir toutes les exclure.",
+          "Une échographie de contrôle est parfois nécessaire simplement parce qu’une structure n’a pas pu être correctement observée."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Assurance Maladie — Les échographies de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/echographies-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Échographie obstétricale au cours de la grossesse",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège français d’échographie fœtale — Informations sur l’échographie obstétricale",
+        url: "https://www.cfef.org/"
+      }
+    ]
   }
 ];
 
