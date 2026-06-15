@@ -9688,6 +9688,287 @@ export const articles: Article[] = [
         url: "https://www.chu-toulouse.fr/"
       }
     ]
+  },
+
+{
+    slug: "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre",
+    title: "Alimentation pendant la grossesse : quels aliments éviter et quelles précautions prendre ?",
+    description:
+      "Aliments crus, lait cru, charcuteries, poissons, caféine et hygiène en cuisine : les précautions alimentaires essentielles pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "11 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Pendant la grossesse, l’objectif n’est pas de manger deux fois plus, mais de conserver une alimentation variée, équilibrée et suffisamment sûre.",
+          "L’alcool doit être évité complètement pendant toute la grossesse.",
+          "Pour réduire le risque de listériose et de toxoplasmose, évitez les aliments crus ou peu cuits à risque et respectez une hygiène rigoureuse en cuisine.",
+          "Limitez les boissons contenant de la caféine et choisissez les poissons en variant les espèces, tout en évitant les plus contaminés par le mercure.",
+          "En cas de doute sur un aliment, un complément ou une restriction, demandez conseil à une sage-femme, un médecin ou un pharmacien."
+        ],
+        quote:
+          "Les précautions alimentaires doivent protéger la grossesse sans transformer chaque repas en source d’angoisse : quelques règles simples suffisent dans la majorité des situations."
+      },
+      {
+        title: "Pourquoi certaines précautions sont-elles nécessaires ?",
+        paragraphs: [
+          "Pendant la grossesse, certaines infections alimentaires peuvent avoir des conséquences plus importantes pour la mère ou le bébé.",
+          "La listériose et la toxoplasmose sont les deux risques le plus souvent évoqués, mais l’hygiène alimentaire contribue aussi à prévenir d’autres infections.",
+          "Certains contaminants, comme le mercure présent dans quelques poissons, peuvent également atteindre le bébé.",
+          "L’objectif n’est pas d’exclure de nombreux groupes d’aliments, mais de privilégier des produits adaptés, bien conservés et correctement préparés."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Évitez l’alcool et les aliments crus ou insuffisamment cuits les plus à risque.",
+          "Lavez soigneusement les végétaux et séparez toujours les aliments crus des aliments déjà cuits.",
+          "Respectez la chaîne du froid, les dates de consommation et un réchauffage suffisant des restes."
+        ],
+        quote:
+          "Un aliment sûr dépend autant de sa nature que de sa conservation, de sa préparation et de sa cuisson."
+      },
+      {
+        title: "Quels aliments faut-il éviter pour prévenir la listériose ?",
+        bullets: [
+          "Les fromages au lait cru à pâte molle et leur croûte.",
+          "Les poissons fumés, coquillages crus, surimi, tarama et produits de la mer crus ou peu cuits.",
+          "Les graines germées crues.",
+          "Les produits de charcuterie consommés froids, comme les rillettes, pâtés, foie gras et produits en gelée.",
+          "Les aliments sensibles vendus à la coupe et destinés à être consommés sans cuisson."
+        ],
+        paragraphs: [
+          "La bactérie Listeria peut se développer au réfrigérateur. Respectez les températures de conservation et consommez rapidement les produits après ouverture.",
+          "Conservez les aliments prêts à manger séparément des viandes, poissons et légumes crus."
+        ]
+      },
+      {
+        title: "Quelles précautions prendre contre la toxoplasmose ?",
+        paragraphs: [
+          "La toxoplasmose peut être transmise par de la viande insuffisamment cuite, des aliments souillés par de la terre ou des mains contaminées.",
+          "Si vous n’êtes pas immunisée, consommez la viande bien cuite à cœur, sans partie rosée.",
+          "Lavez soigneusement les fruits, les légumes, les herbes aromatiques et les crudités, y compris ceux qui seront épluchés.",
+          "Portez des gants pour jardiner et évitez de nettoyer vous-même la litière du chat, ou utilisez des gants puis lavez-vous les mains."
+        ]
+      },
+      {
+        title: "La viande doit-elle toujours être bien cuite ?",
+        paragraphs: [
+          "Oui, en particulier si vous n’êtes pas immunisée contre la toxoplasmose.",
+          "La viande hachée doit toujours être cuite à cœur, car les microbes peuvent être présents dans toute son épaisseur.",
+          "Les carpaccios, tartares, viandes saignantes et préparations crues sont à éviter.",
+          "La congélation domestique ne doit pas être considérée comme une garantie suffisante pour rendre une viande crue sans risque."
+        ]
+      },
+      {
+        title: "Quels produits de charcuterie peut-on consommer ?",
+        paragraphs: [
+          "Les charcuteries crues ou peu cuites, comme le jambon cru, le saucisson et le chorizo, exposent notamment au risque de toxoplasmose.",
+          "Les pâtés, rillettes, foie gras et produits en gelée réfrigérés sont déconseillés en raison du risque de listériose.",
+          "Les produits cuits et consommés bien chauds présentent moins de risque s’ils ont été correctement conservés.",
+          "Pour le jambon cuit, privilégiez un produit préemballé et consommez-le rapidement après ouverture."
+        ]
+      },
+      {
+        title: "Quels fromages peut-on manger ?",
+        paragraphs: [
+          "Les fromages au lait pasteurisé sont généralement compatibles avec la grossesse lorsqu’ils sont bien conservés et consommés avant leur date limite.",
+          "Retirez la croûte avant de les manger.",
+          "Les fromages à pâte pressée cuite, comme l’emmental ou le comté, sont généralement moins à risque, à condition de retirer la croûte et de respecter la conservation.",
+          "Vérifiez l’étiquette en cas de doute."
+        ]
+      },
+      {
+        title: "Les œufs crus sont-ils autorisés ?",
+        paragraphs: [
+          "Les préparations contenant des œufs crus ou peu cuits peuvent exposer à des bactéries comme les salmonelles.",
+          "Évitez les œufs peu cuits, la mayonnaise maison, la mousse au chocolat maison, le tiramisu et les pâtes crues s’ils contiennent des œufs non pasteurisés.",
+          "Les produits industriels utilisent souvent des œufs pasteurisés, mais vérifiez l’étiquette et respectez la conservation.",
+          "Les œufs doivent être cuits jusqu’à ce que le blanc et le jaune soient suffisamment pris."
+        ]
+      },
+      {
+        title: "Peut-on manger du poisson pendant la grossesse ?",
+        paragraphs: [
+          "Oui. Le poisson apporte des protéines, de l’iode et des acides gras utiles au développement du bébé.",
+          "Variez les espèces et les lieux d’approvisionnement.",
+          "Consommez le poisson bien cuit et évitez les poissons crus, fumés ou marinés réfrigérés.",
+          "Alternez poissons gras et poissons maigres sans consommer toujours la même espèce."
+        ]
+      },
+      {
+        title: "Quels poissons faut-il limiter ou éviter ?",
+        paragraphs: [
+          "Certains grands poissons prédateurs accumulent davantage de mercure.",
+          "Évitez les espèces les plus contaminées, notamment le requin, la lamproie, l’espadon, le marlin et le siki.",
+          "D’autres poissons prédateurs, comme le thon, la lotte, le bar, la dorade, la raie ou le brochet, doivent être consommés avec modération.",
+          "Les recommandations pouvant évoluer, consultez les conseils actualisés de l’Anses."
+        ]
+      },
+      {
+        title: "Les sushis et poissons fumés sont-ils à éviter ?",
+        paragraphs: [
+          "Oui, les poissons crus exposent à des parasites et à des bactéries, tandis que les poissons fumés réfrigérés présentent un risque de listériose.",
+          "Les sushis végétariens peuvent être consommés si les légumes ont été soigneusement lavés et si la préparation respecte une bonne hygiène.",
+          "Les poissons cuits servis immédiatement sont une alternative plus sûre.",
+          "Les produits marinés, comme le ceviche, restent considérés comme crus : l’acidité ne remplace pas la cuisson."
+        ]
+      },
+      {
+        title: "Peut-on manger des coquillages et crustacés ?",
+        paragraphs: [
+          "Les coquillages crus, comme les huîtres, sont à éviter pendant la grossesse.",
+          "Les crustacés et coquillages peuvent être consommés s’ils sont très frais, bien cuits et conservés correctement.",
+          "Évitez les produits décortiqués ou préparés longtemps à l’avance lorsqu’ils sont destinés à être consommés froids.",
+          "Ne consommez jamais un coquillage dont la coquille reste fermée après cuisson."
+        ]
+      },
+      {
+        title: "Pourquoi faut-il éviter l’alcool ?",
+        paragraphs: [
+          "L’alcool traverse le placenta et atteint le bébé.",
+          "Aucune quantité d’alcool n’a été démontrée comme sans risque pendant la grossesse.",
+          "Le principe recommandé est donc zéro alcool pendant toute la grossesse, y compris pour les consommations occasionnelles.",
+          "Si vous avez consommé de l’alcool avant de savoir que vous étiez enceinte, arrêtez dès maintenant et parlez-en sans culpabilité au professionnel qui vous suit."
+        ]
+      },
+      {
+        title: "Quelle quantité de caféine ne faut-il pas dépasser ?",
+        paragraphs: [
+          "La caféine se trouve dans le café, le thé, les boissons au cola, les boissons énergisantes, le chocolat et certains médicaments.",
+          "Pendant la grossesse, limitez les apports quotidiens et évitez les consommations importantes.",
+          "La quantité varie fortement selon la taille et le mode de préparation du café.",
+          "Les boissons énergisantes sont déconseillées pendant la grossesse."
+        ]
+      },
+      {
+        title: "Les tisanes et plantes sont-elles toujours sans risque ?",
+        paragraphs: [
+          "Non. Une tisane est un produit actif et toutes les plantes n’ont pas été suffisamment étudiées pendant la grossesse.",
+          "Évitez les mélanges dont la composition est imprécise, les cures concentrées et les huiles essentielles sans avis professionnel.",
+          "Demandez conseil à un pharmacien, une sage-femme ou un médecin avant une consommation régulière.",
+          "Les compléments à base de plantes ne sont pas automatiquement sûrs parce qu’ils sont naturels."
+        ]
+      },
+      {
+        title: "Faut-il éviter le foie et certains produits riches en vitamine A ?",
+        paragraphs: [
+          "Le foie et les produits fabriqués à partir de foie sont très riches en vitamine A sous forme de rétinol.",
+          "Un excès de rétinol peut être nocif pendant la grossesse.",
+          "Évitez les consommations régulières de foie et les compléments contenant de fortes doses de vitamine A.",
+          "Les caroténoïdes présents dans les fruits et légumes ne présentent pas le même risque."
+        ]
+      },
+      {
+        title: "Comment laver correctement les fruits et légumes ?",
+        bullets: [
+          "Lavez-vous les mains avant de cuisiner.",
+          "Rincez soigneusement chaque fruit, légume et herbe aromatique à l’eau potable.",
+          "Frottez les surfaces et retirez les parties abîmées ou terreuses.",
+          "Épluchez lorsque cela est possible après le lavage.",
+          "Nettoyez le plan de travail, l’évier et les ustensiles utilisés.",
+          "N’utilisez pas d’eau de Javel ou de produit ménager sur les aliments."
+        ]
+      },
+      {
+        title: "Quelles règles d’hygiène respecter en cuisine ?",
+        bullets: [
+          "Lavez-vous les mains avant et après avoir manipulé des aliments crus.",
+          "Utilisez des planches et ustensiles distincts pour le cru et le cuit.",
+          "Nettoyez régulièrement le réfrigérateur.",
+          "Maintenez le réfrigérateur autour de 4 °C dans sa zone la plus froide.",
+          "Respectez les dates limites de consommation.",
+          "Placez rapidement les aliments cuisinés au réfrigérateur.",
+          "Réchauffez les restes à cœur et consommez-les rapidement."
+        ]
+      },
+      {
+        title: "Peut-on consommer des restes ?",
+        paragraphs: [
+          "Oui, s’ils ont été refroidis rapidement, conservés au réfrigérateur dans un récipient fermé et consommés rapidement.",
+          "Réchauffez-les jusqu’à ce qu’ils soient bien chauds à cœur.",
+          "Ne consommez pas un aliment resté plusieurs heures à température ambiante.",
+          "En cas de doute sur l’odeur, l’aspect, la conservation ou la date, jetez-le."
+        ]
+      },
+      {
+        title: "Faut-il manger davantage pendant la grossesse ?",
+        paragraphs: [
+          "Les besoins augmentent progressivement, mais il n’est pas nécessaire de manger pour deux.",
+          "Une alimentation équilibrée repose sur des légumes et fruits bien lavés, des féculents, des protéines, des produits laitiers adaptés et des matières grasses de bonne qualité.",
+          "Le professionnel peut adapter les conseils selon votre poids, vos nausées, votre activité, une grossesse multiple ou un diabète gestationnel.",
+          "Évitez les régimes amaigrissants et les restrictions importantes sans suivi médical."
+        ]
+      },
+      {
+        title: "Quels compléments alimentaires sont nécessaires ?",
+        paragraphs: [
+          "L’acide folique est recommandé avant la conception et au début de la grossesse selon la prescription du professionnel.",
+          "Le fer, la vitamine D, l’iode ou d’autres compléments ne sont prescrits qu’en fonction des besoins et des résultats.",
+          "Ne cumulez pas plusieurs compléments destinés à la grossesse sans vérifier leur composition.",
+          "Un excès de certaines vitamines et de certains minéraux peut être nocif."
+        ]
+      },
+      {
+        title: "Que faire après avoir mangé un aliment déconseillé ?",
+        paragraphs: [
+          "Ne paniquez pas : une consommation isolée n’entraîne pas automatiquement une infection ou une complication.",
+          "Notez l’aliment, la date et les conditions de consommation.",
+          "Surveillez l’apparition de fièvre, de troubles digestifs importants, de courbatures ou d’un état grippal.",
+          "Contactez rapidement un professionnel si vous avez des symptômes, si l’aliment fait l’objet d’un rappel ou si vous êtes particulièrement inquiète."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        bullets: [
+          "Fièvre pendant la grossesse.",
+          "Vomissements ou diarrhées importantes empêchant de boire.",
+          "Douleurs abdominales marquées.",
+          "Signes de déshydratation.",
+          "État grippal après la consommation d’un aliment à risque.",
+          "Suspicion d’intoxication alimentaire collective.",
+          "Diminution des mouvements du bébé à un terme où vous les ressentez habituellement."
+        ],
+        paragraphs: [
+          "En cas de symptômes importants, contactez la maternité ou le professionnel qui suit la grossesse sans attendre."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Évitez totalement l’alcool pendant toute la grossesse.",
+          "Privilégiez les aliments bien cuits, pasteurisés, frais et correctement conservés.",
+          "Lavez soigneusement les végétaux et séparez les aliments crus des aliments cuits.",
+          "Variez les poissons tout en évitant les espèces les plus contaminées par le mercure.",
+          "Demandez conseil avant de prendre une plante, une huile essentielle ou un complément alimentaire."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Grossesse : alimentation et hygiène de vie",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/alimentation-grossesse"
+      },
+      {
+        label: "Anses — Alimentation des femmes enceintes et allaitantes",
+        url: "https://www.anses.fr/fr/content/alimentation-des-femmes-enceintes-et-allaitantes"
+      },
+      {
+        label: "Santé publique France — Alcool et grossesse : zéro alcool",
+        url: "https://www.santepubliquefrance.fr/determinants-de-sante/alcool/articles/alcool-et-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Bien manger pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/bien-manger-pendant-la-grossesse"
+      }
+    ]
   }
 ];
 
