@@ -9969,6 +9969,271 @@ export const articles: Article[] = [
         url: "https://www.1000-premiers-jours.fr/fr/bien-manger-pendant-la-grossesse"
       }
     ]
+  },
+
+{
+    slug: "prise-de-poids-pendant-la-grossesse-quels-reperes",
+    title: "Prise de poids pendant la grossesse : quels repères ?",
+    description:
+      "Évolution selon les trimestres, repères selon l’IMC, variations normales et situations nécessitant un avis médical : comprendre la prise de poids pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La prise de poids varie d’une femme à l’autre et dépend notamment de l’IMC avant la grossesse, de la morphologie, des symptômes et du nombre de bébés.",
+          "Elle est souvent faible au premier trimestre, puis devient plus régulière au deuxième et au troisième trimestre.",
+          "Il n’existe pas un objectif unique valable pour toutes les femmes : les repères doivent être adaptés par le professionnel qui suit la grossesse.",
+          "Les régimes amaigrissants et les restrictions importantes sont déconseillés pendant la grossesse.",
+          "Une prise de poids très rapide, des gonflements soudains ou une perte de poids persistante doivent être signalés."
+        ],
+        quote:
+          "Le poids est un indicateur parmi d’autres : il doit toujours être interprété avec votre état de santé, la croissance du bébé et le déroulement de la grossesse."
+      },
+      {
+        title: "Pourquoi prend-on du poids pendant la grossesse ?",
+        paragraphs: [
+          "La prise de poids ne correspond pas uniquement au poids du bébé.",
+          "Elle comprend aussi le placenta, le liquide amniotique, l’augmentation du volume sanguin, le développement de l’utérus et des seins, ainsi que des réserves énergétiques utiles à la grossesse et à l’après-naissance.",
+          "Ces différentes composantes évoluent progressivement et expliquent pourquoi la courbe de poids n’est pas identique d’un trimestre à l’autre.",
+          "Une partie importante du poids pris disparaît naturellement après l’accouchement, tandis que le reste diminue plus progressivement."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le premier trimestre est souvent marqué par une prise de poids faible ou irrégulière.",
+          "La progression devient généralement plus régulière à partir du deuxième trimestre.",
+          "L’évolution dans le temps est plus informative qu’un chiffre isolé sur la balance."
+        ],
+        quote:
+          "Se peser dans des conditions similaires permet de suivre une tendance sans se focaliser sur les variations quotidiennes."
+      },
+      {
+        title: "Quels sont les repères selon l’IMC avant la grossesse ?",
+        paragraphs: [
+          "Les repères de prise de poids sont généralement adaptés à l’indice de masse corporelle avant la grossesse.",
+          "À titre indicatif, une prise de poids totale d’environ 12,5 à 18 kg est souvent proposée en cas d’insuffisance pondérale, de 11,5 à 16 kg pour un IMC considéré comme normal, de 7 à 11,5 kg en cas de surpoids et de 5 à 9 kg en cas d’obésité.",
+          "Ces fourchettes sont des repères généraux et non des objectifs rigides.",
+          "Votre professionnel peut proposer une surveillance différente selon votre histoire médicale, votre alimentation, votre activité et la croissance du bébé."
+        ]
+      },
+      {
+        title: "Comment calculer l’IMC avant la grossesse ?",
+        paragraphs: [
+          "L’IMC correspond au poids en kilogrammes divisé par la taille en mètres au carré.",
+          "Il est utilisé comme repère général pour adapter les conseils, mais il ne décrit pas précisément la composition corporelle.",
+          "Le poids de référence est idéalement celui d’avant la grossesse ou du tout début de grossesse.",
+          "Le calcul ne remplace pas l’évaluation du médecin ou de la sage-femme."
+        ]
+      },
+      {
+        title: "Comment le poids évolue-t-il au premier trimestre ?",
+        paragraphs: [
+          "La prise de poids est souvent limitée pendant les trois premiers mois.",
+          "Certaines femmes ne prennent presque pas de poids, tandis que d’autres en prennent davantage.",
+          "Les nausées et les vomissements peuvent entraîner une stagnation ou une légère perte de poids.",
+          "Une perte importante, persistante ou associée à une difficulté à boire doit conduire à demander un avis médical."
+        ]
+      },
+      {
+        title: "Comment évolue-t-il au deuxième trimestre ?",
+        paragraphs: [
+          "À partir du deuxième trimestre, la prise de poids devient souvent plus régulière.",
+          "L’appétit peut revenir lorsque les nausées diminuent, tandis que le bébé, l’utérus et le placenta poursuivent leur croissance.",
+          "La progression hebdomadaire varie selon l’IMC de départ et la situation individuelle.",
+          "Une semaine sans changement ou une variation ponctuelle ne signifie pas forcément qu’il existe un problème."
+        ]
+      },
+      {
+        title: "Et au troisième trimestre ?",
+        paragraphs: [
+          "La prise de poids se poursuit généralement avec la croissance du bébé et l’augmentation du liquide et du volume sanguin.",
+          "Elle peut ralentir à l’approche du terme.",
+          "La rétention d’eau peut provoquer des variations rapides, notamment au niveau des jambes, des mains ou du visage.",
+          "Un gonflement brutal associé à une prise de poids rapide, des maux de tête ou des troubles visuels nécessite un avis rapide."
+        ]
+      },
+      {
+        title: "Faut-il se peser toutes les semaines ?",
+        paragraphs: [
+          "Une pesée régulière peut être utile, mais il n’est pas nécessaire de se peser chaque jour.",
+          "Une fréquence hebdomadaire ou lors des consultations suffit généralement.",
+          "Utilisez si possible la même balance, au même moment de la journée et dans des conditions comparables.",
+          "Si la pesée provoque de l’anxiété ou réactive un trouble du comportement alimentaire, parlez-en au professionnel qui vous suit."
+        ]
+      },
+      {
+        title: "Peut-on prendre peu de poids et avoir un bébé en bonne santé ?",
+        paragraphs: [
+          "Oui. Une prise de poids inférieure aux repères peut parfois être compatible avec une grossesse normale.",
+          "Le professionnel vérifie surtout la croissance du bébé, votre alimentation, vos analyses et votre état général.",
+          "Une prise insuffisante peut toutefois augmenter certains risques lorsqu’elle s’accompagne de carences, d’un faible poids avant la grossesse ou d’un ralentissement de croissance du bébé.",
+          "Il ne faut pas essayer de compenser seule avec une alimentation très riche sans avoir identifié la cause."
+        ]
+      },
+      {
+        title: "Une prise de poids importante signifie-t-elle que le bébé sera gros ?",
+        paragraphs: [
+          "Non. Le poids pris par la mère ne correspond pas directement au poids du bébé.",
+          "Une prise importante peut être liée aux réserves maternelles, à une rétention d’eau ou à d’autres facteurs.",
+          "À l’inverse, un bébé de poids élevé peut être observé chez une femme dont la prise de poids reste modérée.",
+          "La croissance du bébé est évaluée par les mesures cliniques et échographiques, pas uniquement par la balance."
+        ]
+      },
+      {
+        title: "Quels facteurs influencent la prise de poids ?",
+        bullets: [
+          "L’IMC et le poids avant la grossesse.",
+          "Les nausées, vomissements et troubles digestifs.",
+          "L’appétit et les habitudes alimentaires.",
+          "Le niveau d’activité physique.",
+          "La rétention d’eau.",
+          "Le diabète gestationnel ou une autre maladie.",
+          "Une grossesse multiple.",
+          "L’arrêt du tabac.",
+          "Le contexte émotionnel et social."
+        ]
+      },
+      {
+        title: "Que se passe-t-il en cas de grossesse gémellaire ?",
+        paragraphs: [
+          "Les besoins et la prise de poids attendue sont généralement plus élevés lors d’une grossesse multiple.",
+          "Les repères dépendent de l’IMC avant la grossesse et du nombre de bébés.",
+          "La surveillance nutritionnelle et échographique est plus rapprochée.",
+          "Le professionnel peut vous orienter vers un diététicien si les apports sont difficiles à couvrir."
+        ]
+      },
+      {
+        title: "Faut-il manger pour deux ?",
+        paragraphs: [
+          "Non. Les besoins énergétiques augmentent progressivement, mais ils ne doublent pas.",
+          "La qualité de l’alimentation compte davantage que l’augmentation importante des portions.",
+          "Privilégiez des repas variés avec des légumes, des féculents, des protéines, des produits laitiers adaptés et des matières grasses de bonne qualité.",
+          "En cas de faim entre les repas, une collation équilibrée peut être plus adaptée que des grignotages répétés."
+        ]
+      },
+      {
+        title: "Comment favoriser une prise de poids adaptée ?",
+        bullets: [
+          "Conserver des repas réguliers.",
+          "Écouter les sensations de faim et de satiété.",
+          "Varier les aliments sans supprimer inutilement un groupe entier.",
+          "Limiter les boissons sucrées et les produits très transformés sans rechercher une alimentation parfaite.",
+          "Boire de l’eau régulièrement.",
+          "Maintenir une activité physique adaptée en l’absence de contre-indication.",
+          "Demander de l’aide si l’alimentation devient une source de stress."
+        ]
+      },
+      {
+        title: "Peut-on faire un régime pendant la grossesse ?",
+        paragraphs: [
+          "Les régimes amaigrissants et les restrictions caloriques importantes sont déconseillés.",
+          "Ils peuvent entraîner des carences et ne garantissent pas une grossesse plus sûre.",
+          "En cas de surpoids ou d’obésité, l’objectif est généralement de limiter une prise excessive tout en conservant des apports suffisants.",
+          "Un accompagnement par un professionnel permet d’adapter l’alimentation sans culpabilisation ni restriction dangereuse."
+        ]
+      },
+      {
+        title: "L’activité physique aide-t-elle à réguler le poids ?",
+        paragraphs: [
+          "Une activité régulière et adaptée contribue au bien-être, au maintien de la condition physique et à la prévention de certaines complications.",
+          "La marche, la natation douce, le vélo d’appartement ou les activités prénatales peuvent être envisagés en l’absence de contre-indication.",
+          "L’objectif n’est pas de brûler des calories ni de compenser les repas.",
+          "Demandez conseil avant de commencer une nouvelle activité ou si votre grossesse nécessite une surveillance particulière."
+        ]
+      },
+      {
+        title: "Quand une prise de poids rapide doit-elle inquiéter ?",
+        paragraphs: [
+          "Une variation rapide peut être liée à la rétention d’eau, mais elle doit être signalée lorsqu’elle est importante ou brutale.",
+          "Elle nécessite une attention particulière si elle s’accompagne de gonflement soudain du visage ou des mains, de maux de tête, de troubles visuels, de douleur sous les côtes ou d’une tension élevée.",
+          "Ces signes peuvent évoquer une prééclampsie et justifient une évaluation rapide.",
+          "N’attendez pas la consultation suivante pour contacter la maternité."
+        ]
+      },
+      {
+        title: "Quand une perte de poids doit-elle être signalée ?",
+        bullets: [
+          "La perte est importante ou se poursuit plusieurs semaines.",
+          "Vous vomissez fréquemment.",
+          "Vous ne parvenez pas à boire ou à garder les aliments.",
+          "Vous présentez des signes de déshydratation.",
+          "Vous êtes très faible, étourdie ou avez des palpitations.",
+          "L’alimentation est limitée par une peur intense de prendre du poids."
+        ],
+        paragraphs: [
+          "Une prise en charge précoce peut aider à contrôler les symptômes et à prévenir les carences."
+        ]
+      },
+      {
+        title: "Comment parler du poids sans culpabilisation ?",
+        paragraphs: [
+          "Le poids est un sujet sensible et ne devrait pas être présenté comme une faute ou un manque de volonté.",
+          "De nombreux facteurs biologiques, médicaux et sociaux influencent son évolution.",
+          "Vous pouvez demander au professionnel de ne pas annoncer le chiffre à voix haute ou de vous peser sans que vous regardiez la balance.",
+          "Signalez tout antécédent de trouble du comportement alimentaire afin que le suivi soit adapté avec bienveillance."
+        ]
+      },
+      {
+        title: "Que se passe-t-il après l’accouchement ?",
+        paragraphs: [
+          "Une partie du poids disparaît rapidement avec la naissance du bébé, du placenta et la diminution du liquide.",
+          "Le reste évolue progressivement au cours des mois suivants.",
+          "Le post-partum n’est pas une période adaptée aux régimes stricts, en particulier lorsque la récupération est difficile ou en cas d’allaitement.",
+          "Le repos, une alimentation régulière et une reprise progressive de l’activité sont prioritaires."
+        ]
+      },
+      {
+        title: "Quand demander conseil ?",
+        bullets: [
+          "Votre poids évolue très rapidement dans un sens ou dans l’autre.",
+          "Vous avez des difficultés importantes à vous alimenter.",
+          "Vous craignez de prendre du poids au point de restreindre vos repas.",
+          "Vous présentez un diabète gestationnel ou une maladie nécessitant des conseils spécifiques.",
+          "La croissance du bébé nécessite une surveillance.",
+          "Les remarques sur votre poids vous mettent en difficulté."
+        ],
+        paragraphs: [
+          "Une sage-femme, un médecin ou un diététicien formé à la périnatalité peut vous proposer des repères personnalisés."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La prise de poids pendant la grossesse varie selon l’IMC de départ et la situation individuelle.",
+          "Elle est souvent faible au premier trimestre puis plus régulière ensuite.",
+          "Les fourchettes sont des repères et ne doivent pas devenir des objectifs rigides.",
+          "Les régimes amaigrissants sont déconseillés pendant la grossesse.",
+          "Une variation brutale, une perte persistante ou des signes associés doivent être signalés."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Alimentation et prise de poids pendant la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/alimentation-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Bien manger pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/bien-manger-pendant-la-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Recommandations sur les soins prénatals",
+        url: "https://www.who.int/publications/i/item/9789241549912"
+      }
+    ]
   }
 ];
 
