@@ -10533,6 +10533,275 @@ export const articles: Article[] = [
         url: "https://www.sports.gouv.fr/"
       }
     ]
+  },
+
+{
+    slug: "medicaments-pendant-la-grossesse-quels-reflexes-adopter",
+    title: "Médicaments pendant la grossesse : quels réflexes adopter ?",
+    description:
+      "Ordonnance, automédication, douleur, rhume, traitements chroniques et CRAT : les bons réflexes avant de prendre un médicament pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Pendant la grossesse, ne commencez pas, n’arrêtez pas et ne modifiez pas un traitement sans avis médical.",
+          "Un médicament disponible sans ordonnance peut aussi présenter un risque pendant la grossesse.",
+          "Avant toute prise, signalez toujours votre grossesse au médecin, à la sage-femme ou au pharmacien.",
+          "Les anti-inflammatoires non stéroïdiens, comme l’ibuprofène ou le kétoprofène, sont contre-indiqués à partir du début du sixième mois de grossesse et ne doivent pas être utilisés auparavant sans avis médical.",
+          "En cas d’exposition accidentelle, ne paniquez pas et demandez rapidement conseil en précisant le nom du produit, la dose, la date et le terme de la grossesse."
+        ],
+        quote:
+          "Le bon réflexe n’est pas d’éviter tous les médicaments, mais de choisir le traitement réellement nécessaire, à la bonne dose et pendant la durée la plus courte possible."
+      },
+      {
+        title: "Pourquoi faut-il être prudente avec les médicaments ?",
+        paragraphs: [
+          "Certains médicaments peuvent traverser le placenta et atteindre le bébé.",
+          "Le niveau de risque dépend de la substance, de la dose, de la durée du traitement et du moment de la grossesse.",
+          "Le premier trimestre est notamment une période importante pour la formation des organes, tandis que certains médicaments peuvent avoir des effets particuliers plus tard sur la croissance, les reins, le cœur ou l’adaptation du nouveau-né.",
+          "À l’inverse, ne pas traiter une maladie maternelle peut aussi présenter un risque pour la mère et le bébé."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Vérifiez chaque médicament, même s’il a déjà été utilisé avant la grossesse.",
+          "N’arrêtez jamais brutalement un traitement chronique sans en parler au prescripteur.",
+          "Demandez conseil à un professionnel plutôt que de vous fier uniquement à la notice, au pictogramme ou à une recherche sur internet."
+        ],
+        quote:
+          "Gardez une liste à jour de tous vos médicaments, compléments et produits à base de plantes."
+      },
+      {
+        title: "Que faire avant de prendre un médicament ?",
+        bullets: [
+          "Vérifier le nom exact du médicament et sa substance active.",
+          "Lire la composition pour éviter les doublons entre plusieurs produits.",
+          "Demander conseil à un médecin, une sage-femme ou un pharmacien.",
+          "Préciser le terme de la grossesse.",
+          "Signaler les autres traitements, allergies et maladies chroniques.",
+          "Respecter la dose et la durée prescrites.",
+          "Ne pas utiliser un reste d’ordonnance ancienne."
+        ],
+        paragraphs: [
+          "Un même symptôme peut avoir plusieurs causes et ne nécessite pas toujours le même traitement.",
+          "Le professionnel peut proposer une mesure non médicamenteuse, un autre médicament ou une consultation si le symptôme doit être évalué."
+        ]
+      },
+      {
+        title: "Les médicaments sans ordonnance sont-ils sans risque ?",
+        paragraphs: [
+          "Non. Le fait qu’un médicament soit vendu sans ordonnance ne signifie pas qu’il convient pendant la grossesse.",
+          "Les médicaments contre le rhume, la toux, les allergies, les troubles digestifs ou la douleur peuvent contenir plusieurs substances.",
+          "Certaines associations exposent à des prises inutiles ou à un surdosage lorsqu’elles sont combinées avec un autre produit.",
+          "Demandez conseil au pharmacien en précisant systématiquement que vous êtes enceinte."
+        ]
+      },
+      {
+        title: "Peut-on reprendre un médicament déjà utilisé avant la grossesse ?",
+        paragraphs: [
+          "Pas automatiquement. Une substance bien tolérée auparavant peut nécessiter une vérification pendant la grossesse.",
+          "La dose adaptée peut aussi changer en raison des modifications du fonctionnement du foie, des reins ou du volume sanguin.",
+          "Si le médicament vous avait été prescrit pour un problème récurrent, contactez le professionnel avant de le reprendre.",
+          "N’utilisez pas un médicament périmé ou conservé dans de mauvaises conditions."
+        ]
+      },
+      {
+        title: "Faut-il arrêter un traitement chronique ?",
+        paragraphs: [
+          "Non, jamais sans avis médical.",
+          "L’arrêt brutal d’un traitement contre l’épilepsie, l’asthme, l’hypertension, le diabète, une maladie psychiatrique ou une autre affection chronique peut provoquer une aggravation dangereuse.",
+          "Le médecin évalue le rapport entre les bénéfices du traitement et les risques éventuels, puis peut maintenir, adapter ou remplacer le médicament.",
+          "Il est préférable de réévaluer les traitements avant la grossesse, mais une adaptation reste possible une fois la grossesse commencée."
+        ]
+      },
+      {
+        title: "Quels médicaments doivent faire l’objet d’une vigilance particulière ?",
+        bullets: [
+          "Les anti-inflammatoires non stéroïdiens.",
+          "Certains traitements contre l’acné, notamment les rétinoïdes par voie orale.",
+          "Certains antiépileptiques.",
+          "Certains anticoagulants.",
+          "Certains traitements de l’hypertension.",
+          "Certains médicaments psychiatriques.",
+          "Certains traitements anticancéreux ou immunosuppresseurs.",
+          "Les médicaments contenant plusieurs substances actives."
+        ],
+        paragraphs: [
+          "Cette liste n’est pas exhaustive et ne permet pas de conclure seule qu’un traitement doit être arrêté.",
+          "Chaque situation doit être évaluée avec le prescripteur."
+        ]
+      },
+      {
+        title: "Pourquoi les anti-inflammatoires sont-ils problématiques ?",
+        paragraphs: [
+          "Les anti-inflammatoires non stéroïdiens, ou AINS, comprennent notamment l’ibuprofène, le kétoprofène, le naproxène et certaines doses d’aspirine.",
+          "Ils sont contre-indiqués à partir du début du sixième mois de grossesse, même pour une prise unique, en raison de risques graves pour le bébé.",
+          "Avant cette période, ils ne doivent pas être utilisés sans indication médicale.",
+          "Les gels, crèmes, suppositoires et autres formes locales contenant un AINS doivent également être signalés."
+        ]
+      },
+      {
+        title: "Que peut-on prendre en cas de douleur ou de fièvre ?",
+        paragraphs: [
+          "Le paracétamol est généralement le médicament de première intention lorsqu’un traitement est nécessaire pendant la grossesse.",
+          "Il doit toutefois être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et en respectant la dose maximale indiquée.",
+          "Vérifiez qu’il n’est pas déjà présent dans un médicament contre le rhume, la douleur ou la grippe.",
+          "Une douleur importante, inhabituelle, persistante ou accompagnée d’autres symptômes doit être évaluée plutôt que simplement masquée."
+        ]
+      },
+      {
+        title: "Que faire en cas de rhume, toux ou mal de gorge ?",
+        paragraphs: [
+          "Commencez par des mesures simples : repos, hydratation, lavage du nez au sérum physiologique et boissons tièdes.",
+          "Les médicaments décongestionnants vasoconstricteurs et de nombreuses associations contre le rhume ne doivent pas être utilisés sans avis médical.",
+          "Les sirops peuvent contenir plusieurs substances, de l’alcool ou des plantes insuffisamment étudiées.",
+          "Consultez en cas de fièvre persistante, gêne respiratoire, douleur thoracique ou aggravation."
+        ]
+      },
+      {
+        title: "Que faire en cas de nausées, reflux ou constipation ?",
+        paragraphs: [
+          "Des mesures alimentaires et posturales sont souvent proposées en premier.",
+          "Si elles ne suffisent pas, certains traitements peuvent être utilisés pendant la grossesse après validation par un professionnel.",
+          "Évitez de choisir seule un antiacide, un laxatif ou un médicament contre les nausées, car les substances et les doses diffèrent.",
+          "Des vomissements empêchant de boire, une douleur abdominale ou une constipation sévère nécessitent un avis médical."
+        ]
+      },
+      {
+        title: "Les médicaments à base de plantes sont-ils plus sûrs ?",
+        paragraphs: [
+          "Non. Une origine naturelle ne garantit pas l’absence de risque.",
+          "Les plantes peuvent avoir des effets pharmacologiques, provoquer des interactions ou être présentes à des concentrations variables.",
+          "Les huiles essentielles sont particulièrement concentrées et plusieurs sont déconseillées pendant la grossesse.",
+          "Demandez conseil avant de prendre une tisane médicinale, un complément, une huile essentielle ou un produit traditionnel."
+        ]
+      },
+      {
+        title: "Les compléments alimentaires doivent-ils être signalés ?",
+        paragraphs: [
+          "Oui. Les vitamines, minéraux et compléments peuvent interagir avec un traitement ou entraîner un apport excessif.",
+          "Ne cumulez pas plusieurs produits destinés à la grossesse sans comparer leur composition.",
+          "La vitamine A sous forme de rétinol peut être nocive à forte dose.",
+          "Le fer, la vitamine D, l’iode ou d’autres compléments doivent être adaptés à vos besoins et aux prescriptions du professionnel."
+        ]
+      },
+      {
+        title: "Que signifie le pictogramme grossesse sur une boîte ?",
+        paragraphs: [
+          "Certaines boîtes comportent un pictogramme ou un message d’avertissement concernant la grossesse.",
+          "Il attire l’attention sur un risque ou sur la nécessité d’un avis médical.",
+          "L’absence de pictogramme ne signifie pas automatiquement que le médicament est sans risque.",
+          "N’interrompez pas seule un traitement à cause d’un pictogramme : contactez rapidement le prescripteur ou le pharmacien."
+        ]
+      },
+      {
+        title: "Qu’est-ce que le CRAT ?",
+        paragraphs: [
+          "Le **Centre de Référence sur les Agents Tératogènes** est une structure française spécialisée dans l’évaluation des risques liés aux médicaments et à d’autres expositions pendant la **grossesse** et l’**allaitement**.",
+          "Son site met à disposition des fiches par substance ou par classe de médicaments.",
+          "Ces informations peuvent aider à préparer une discussion avec un professionnel de santé.",
+          "Elles ne remplacent pas une prescription ni une évaluation individuelle."
+        ]
+      },
+      {
+        title: "Que faire après une prise accidentelle ?",
+        bullets: [
+          "Ne pas reprendre une nouvelle dose avant d’avoir obtenu un avis, sauf s’il s’agit d’un traitement indispensable qui ne doit pas être interrompu.",
+          "Noter le nom exact du produit.",
+          "Noter la dose et le nombre de prises.",
+          "Noter la date et l’heure.",
+          "Préciser le terme de la grossesse.",
+          "Conserver la boîte et la notice.",
+          "Contacter rapidement le médecin, la sage-femme, le pharmacien ou la maternité."
+        ],
+        paragraphs: [
+          "Une exposition accidentelle ne signifie pas automatiquement qu’un problème surviendra.",
+          "L’évaluation dépend de la substance, de la dose et du moment de la grossesse."
+        ]
+      },
+      {
+        title: "Que faire si le test de grossesse devient positif pendant un traitement ?",
+        paragraphs: [
+          "Contactez rapidement le prescripteur, mais n’arrêtez pas brutalement le traitement sans consigne.",
+          "Préparez la liste des médicaments, des doses et des dates de prise.",
+          "Le professionnel vérifie si le traitement doit être poursuivi, modifié ou remplacé.",
+          "Une surveillance particulière peut parfois être proposée, mais elle n’est pas systématique."
+        ]
+      },
+      {
+        title: "Comment éviter les doublons et les surdosages ?",
+        paragraphs: [
+          "Plusieurs médicaments de marques différentes peuvent contenir la même substance active.",
+          "C’est fréquent avec les produits contre la douleur, le rhume ou la grippe.",
+          "Lisez la composition et demandez au pharmacien de vérifier l’ensemble des produits utilisés.",
+          "Ne prenez pas plusieurs médicaments en même temps uniquement parce que leurs noms commerciaux sont différents."
+        ]
+      },
+      {
+        title: "Comment préparer une consultation ou un passage en pharmacie ?",
+        bullets: [
+          "Apporter ou photographier les boîtes des traitements.",
+          "Indiquer le terme exact de la grossesse.",
+          "Préciser les doses et la fréquence des prises.",
+          "Signaler les médicaments sans ordonnance.",
+          "Mentionner les plantes, tisanes, huiles essentielles et compléments.",
+          "Décrire précisément le symptôme et sa durée.",
+          "Signaler les allergies et maladies chroniques."
+        ]
+      },
+      {
+        title: "Quand faut-il consulter rapidement ?",
+        bullets: [
+          "Vous avez pris un médicament formellement déconseillé ou contre-indiqué pendant la grossesse.",
+          "Vous avez dépassé la dose recommandée.",
+          "Vous présentez une réaction allergique, un malaise ou des difficultés respiratoires.",
+          "Vous avez une fièvre persistante ou élevée.",
+          "La douleur est intense, inhabituelle ou s’aggrave.",
+          "Vous avez des saignements, une perte de liquide ou des contractions.",
+          "Vous ressentez moins les mouvements du bébé à un terme où ils sont habituellement perçus."
+        ],
+        paragraphs: [
+          "En cas de surdosage, de réaction grave ou de détresse respiratoire, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Aucun médicament ne doit être commencé, arrêté ou modifié sans avis pendant la grossesse.",
+          "Les produits sans ordonnance, les plantes et les compléments doivent aussi être vérifiés.",
+          "Les AINS sont contre-indiqués à partir du début du sixième mois et ne doivent pas être pris auparavant sans avis médical.",
+          "Un traitement chronique ne doit jamais être arrêté brutalement.",
+          "En cas de prise accidentelle, notez précisément l’exposition et contactez rapidement un professionnel."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Médicament et grossesse",
+        url: "https://www.ameli.fr/assure/sante/medicaments/medicaments-et-situation-de-vie/medicament-grossesse"
+      },
+      {
+        label: "ANSM — Médicaments et grossesse",
+        url: "https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse"
+      },
+      {
+        label: "CRAT — Centre de Référence sur les Agents Tératogènes",
+        url: "https://www.lecrat.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      }
+    ]
   }
 ];
 
