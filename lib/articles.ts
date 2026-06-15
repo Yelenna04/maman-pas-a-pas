@@ -8914,6 +8914,257 @@ export const articles: Article[] = [
         url: "https://www.federationdesdiabetiques.org/information/diabete/gestationnel"
       }
     ]
+  },
+
+{
+    slug: "troisieme-echographie-que-verifie-t-elle",
+    title: "Troisième échographie : que vérifie-t-elle ?",
+    description:
+      "Croissance, position du bébé, placenta, liquide amniotique et préparation de l’accouchement : comprendre la troisième échographie de grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "9 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La troisième échographie est généralement réalisée autour de 32 semaines d’aménorrhée, au cours du huitième mois.",
+          "Elle vérifie principalement la croissance du bébé, sa position, la quantité de liquide amniotique et la localisation du placenta.",
+          "Elle permet d’estimer le poids du bébé, avec une marge d’erreur.",
+          "Elle réexamine certains organes et peut repérer des anomalies apparues ou devenues visibles plus tard.",
+          "Selon les résultats, une surveillance supplémentaire ou une échographie de contrôle peut être proposée."
+        ],
+        quote:
+          "Cette échographie aide surtout à vérifier que la fin de grossesse évolue normalement et à préparer la naissance."
+      },
+      {
+        title: "Quand la troisième échographie a-t-elle lieu ?",
+        paragraphs: [
+          "La troisième échographie recommandée est généralement programmée autour de 32 semaines d’aménorrhée, soit au cours du huitième mois de grossesse.",
+          "La date exacte peut varier de quelques jours selon l’organisation de la maternité, la datation de la grossesse et votre situation médicale.",
+          "Elle peut être réalisée plus tôt, plus tard ou répétée si la croissance du bébé, le placenta, le liquide amniotique ou une maladie maternelle nécessitent une surveillance particulière.",
+          "Dans une grossesse sans complication, elle constitue habituellement la dernière échographie systématique avant l’accouchement."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "L’échographiste mesure la tête, l’abdomen et le fémur afin d’évaluer la croissance du bébé.",
+          "Il vérifie la position du bébé et celle du placenta en vue de l’accouchement.",
+          "Il estime la quantité de liquide amniotique et peut étudier la circulation sanguine avec le Doppler si nécessaire."
+        ],
+        quote:
+          "Le poids annoncé reste une estimation : il peut être différent du poids réel à la naissance."
+      },
+      {
+        title: "Comment la croissance du bébé est-elle évaluée ?",
+        paragraphs: [
+          "L’échographiste réalise plusieurs mesures, notamment le périmètre de la tête, le périmètre abdominal et la longueur du fémur.",
+          "Ces mesures sont reportées sur des courbes de référence adaptées au terme de la grossesse.",
+          "Elles permettent d’estimer le poids du bébé et de vérifier si sa croissance est régulière.",
+          "L’évolution entre les différentes échographies est souvent plus informative qu’une mesure isolée."
+        ]
+      },
+      {
+        title: "Comment le poids du bébé est-il estimé ?",
+        paragraphs: [
+          "Le poids est calculé à partir de plusieurs mesures échographiques grâce à une formule statistique.",
+          "Cette estimation comporte toujours une marge d’erreur, qui peut être de plusieurs centaines de grammes.",
+          "Un poids estimé élevé ou faible ne prédit donc pas exactement le poids de naissance.",
+          "Le professionnel interprète le résultat avec le terme, les courbes de croissance, les mesures précédentes et votre contexte médical."
+        ]
+      },
+      {
+        title: "Que signifie un bébé petit pour le terme ?",
+        paragraphs: [
+          "Un bébé peut être naturellement petit sans présenter de problème.",
+          "Lorsque les mesures sont basses ou que la croissance ralentit, le professionnel recherche un éventuel retard de croissance fœtale.",
+          "Une surveillance supplémentaire peut alors être proposée avec des échographies répétées, un Doppler et parfois un monitoring.",
+          "La prise en charge dépend de la sévérité du ralentissement, du terme et du bien-être du bébé."
+        ]
+      },
+      {
+        title: "Que signifie un bébé estimé gros ?",
+        paragraphs: [
+          "Une estimation élevée peut correspondre à un bébé constitutionnellement grand.",
+          "Elle peut aussi être associée à un diabète gestationnel ou à d’autres facteurs.",
+          "L’échographie ne permet pas de prévoir avec certitude un poids important à la naissance.",
+          "Le mode d’accouchement n’est pas décidé sur une seule estimation : l’ensemble de la situation obstétricale est pris en compte."
+        ]
+      },
+      {
+        title: "La position du bébé est-elle vérifiée ?",
+        paragraphs: [
+          "Oui. L’échographiste regarde si le bébé se présente tête en bas, en siège ou plus rarement en position transverse.",
+          "À 32 semaines, certains bébés peuvent encore changer de position.",
+          "Une présentation en siège à cette date ne signifie donc pas qu’une césarienne sera forcément nécessaire.",
+          "Une nouvelle vérification est souvent réalisée plus tard lors d’une consultation ou d’une échographie de contrôle."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le bébé est en siège ?",
+        paragraphs: [
+          "Si le bébé reste en siège en fin de grossesse, l’équipe discute avec vous des différentes possibilités.",
+          "Une version par manœuvre externe peut être proposée dans certaines situations afin d’essayer de tourner le bébé par des gestes réalisés sur le ventre.",
+          "La décision dépend du terme, de la position du bébé, du placenta, de la quantité de liquide amniotique et de vos antécédents.",
+          "Un accouchement par voie basse peut parfois être envisagé, tandis qu’une césarienne peut être recommandée dans d’autres cas."
+        ]
+      },
+      {
+        title: "Que vérifie-t-on concernant le placenta ?",
+        paragraphs: [
+          "L’échographiste vérifie la localisation du placenta et sa distance par rapport au col de l’utérus.",
+          "Un placenta qui recouvre ou reste très proche du col peut modifier les conditions de l’accouchement.",
+          "La troisième échographie permet de réévaluer un placenta décrit comme bas lors de l’échographie morphologique.",
+          "L’aspect général du placenta et son insertion peuvent aussi être observés."
+        ]
+      },
+      {
+        title: "Comment le liquide amniotique est-il évalué ?",
+        paragraphs: [
+          "La quantité de liquide amniotique est estimée visuellement ou à l’aide de mesures.",
+          "Un volume trop faible est appelé oligoamnios, tandis qu’un volume trop important est appelé hydramnios.",
+          "Ces situations peuvent être temporaires ou nécessiter des examens complémentaires.",
+          "Le professionnel interprète toujours la quantité de liquide avec la croissance, les mouvements et l’état général du bébé."
+        ]
+      },
+      {
+        title: "Le cordon ombilical est-il examiné ?",
+        paragraphs: [
+          "L’échographiste peut observer l’insertion du cordon sur le placenta et sur l’abdomen du bébé.",
+          "Le nombre de vaisseaux du cordon a généralement déjà été vérifié lors de l’échographie morphologique.",
+          "Le cordon peut parfois être visible autour du cou du bébé, mais cette situation est fréquente et ne permet pas à elle seule de prévoir une complication.",
+          "L’échographie ne permet pas toujours de connaître la position du cordon au moment de l’accouchement."
+        ]
+      },
+      {
+        title: "À quoi sert le Doppler ?",
+        paragraphs: [
+          "Le Doppler étudie la circulation du sang dans certains vaisseaux.",
+          "Il peut notamment être utilisé au niveau du cordon ombilical, des artères utérines ou de certains vaisseaux du bébé.",
+          "Il n’est pas systématiquement nécessaire dans toutes les grossesses.",
+          "Il est particulièrement utile lorsque la croissance semble insuffisante, qu’une hypertension est présente ou que le placenta nécessite une surveillance."
+        ]
+      },
+      {
+        title: "Les organes du bébé sont-ils à nouveau vérifiés ?",
+        paragraphs: [
+          "Oui. Certains organes et certaines structures sont réexaminés, notamment le cerveau, le cœur, les reins, la vessie et l’abdomen.",
+          "L’objectif n’est pas de refaire exactement toute l’échographie morphologique, mais de vérifier les éléments accessibles et l’évolution générale.",
+          "Certaines anomalies peuvent apparaître ou devenir visibles plus tard dans la grossesse.",
+          "D’autres restent impossibles à détecter par échographie, même au troisième trimestre."
+        ]
+      },
+      {
+        title: "Le visage du bébé est-il visible ?",
+        paragraphs: [
+          "Le visage peut parfois être bien visible, mais la position du bébé, ses mains, le placenta ou la diminution relative de l’espace peuvent limiter les images.",
+          "Une mauvaise visibilité ne signifie pas qu’il existe un problème.",
+          "Les images en trois dimensions peuvent être proposées dans certains centres, mais elles ne sont pas indispensables au suivi médical.",
+          "La priorité reste l’analyse des structures nécessaires à l’évaluation de la santé du bébé."
+        ]
+      },
+      {
+        title: "Comment se déroule l’examen ?",
+        paragraphs: [
+          "Vous êtes installée allongée, le ventre découvert.",
+          "L’échographiste applique du gel puis déplace la sonde sur l’abdomen.",
+          "L’examen dure généralement entre vingt et trente minutes, mais il peut être plus long si certaines mesures sont difficiles à obtenir.",
+          "Le professionnel peut vous demander de changer de côté ou de bouger afin d’améliorer la position du bébé."
+        ]
+      },
+      {
+        title: "Faut-il avoir la vessie pleine ?",
+        paragraphs: [
+          "À ce stade de la grossesse, une vessie pleine n’est généralement pas nécessaire.",
+          "Vous pouvez habituellement boire et aller aux toilettes normalement avant l’examen.",
+          "Suivez toutefois les consignes spécifiques données par le cabinet ou la maternité.",
+          "Signalez toute douleur ou gêne importante pendant l’examen."
+        ]
+      },
+      {
+        title: "Pourquoi une échographie de contrôle peut-elle être demandée ?",
+        bullets: [
+          "Une mesure doit être vérifiée.",
+          "La croissance du bébé nécessite une surveillance.",
+          "Le placenta est encore proche du col.",
+          "La quantité de liquide amniotique est inhabituelle.",
+          "Une structure a été difficile à observer.",
+          "Une maladie maternelle nécessite un suivi renforcé.",
+          "Le bébé est en siège ou dans une autre position particulière."
+        ],
+        paragraphs: [
+          "Une échographie supplémentaire ne signifie pas automatiquement qu’une complication grave a été découverte.",
+          "Elle permet souvent de vérifier l’évolution d’un élément ou de compléter un examen techniquement difficile."
+        ]
+      },
+      {
+        title: "Une troisième échographie normale garantit-elle que tout va bien ?",
+        paragraphs: [
+          "Une échographie normale est rassurante, mais elle ne peut pas exclure toutes les anomalies ou complications.",
+          "Certaines maladies ne sont pas visibles à l’échographie et certaines anomalies peuvent apparaître après l’examen.",
+          "Les consultations prénatales, la surveillance des mouvements du bébé et les autres examens restent donc indispensables.",
+          "Contactez rapidement la maternité en cas de diminution des mouvements, de saignement, de perte de liquide ou de contractions inhabituelles."
+        ]
+      },
+      {
+        title: "Cette échographie décide-t-elle du mode d’accouchement ?",
+        paragraphs: [
+          "Elle apporte des informations utiles, mais elle ne décide pas seule du mode d’accouchement.",
+          "La position du bébé, la localisation du placenta, la croissance estimée et vos antécédents sont pris en compte.",
+          "La décision finale dépend aussi de l’évolution de la grossesse et des constatations faites à l’approche du terme.",
+          "L’équipe vous explique les différentes possibilités lors des consultations suivantes."
+        ]
+      },
+      {
+        title: "Que faut-il apporter au rendez-vous ?",
+        bullets: [
+          "L’ordonnance.",
+          "La carte Vitale et la carte de mutuelle.",
+          "Le dossier de grossesse.",
+          "Les comptes rendus des deux premières échographies.",
+          "Les résultats d’examens récents.",
+          "Les courriers médicaux utiles si la grossesse fait l’objet d’un suivi particulier."
+        ],
+        paragraphs: [
+          "Portez des vêtements faciles à relever au niveau du ventre.",
+          "Notez vos questions à l’avance, notamment sur la croissance, la position du bébé et les prochaines étapes du suivi."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La troisième échographie a généralement lieu autour de 32 semaines d’aménorrhée.",
+          "Elle vérifie la croissance, le poids estimé et la position du bébé.",
+          "Elle évalue le placenta, le liquide amniotique et, si nécessaire, la circulation sanguine par Doppler.",
+          "Elle réexamine certains organes sans pouvoir exclure toutes les anomalies.",
+          "Ses résultats aident à organiser la surveillance de la fin de grossesse et à préparer l’accouchement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Assurance Maladie — Les échographies de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/echographies-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Information des femmes enceintes et suivi de grossesse",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège français d’échographie fœtale — Informations sur l’échographie obstétricale",
+        url: "https://www.cfef.org/"
+      }
+    ]
   }
 ];
 
