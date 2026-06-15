@@ -11974,7 +11974,7 @@ export const articles: Article[] = [
           "Contactez directement la maternité lorsque le symptôme concerne la grossesse ou lorsque vous ne savez pas à qui vous adresser."
         ],
         quote:
-          "Préparez votre terme, vos traitements, vos antécédents et la description précise des symptômes avant d’appeler."
+          "Avant d’appeler, notez le nombre de semaines de grossesse, vos traitements en cours, vos principaux antécédents médicaux et les symptômes que vous ressentez."
       },
       {
         title: "À partir de quelle température parle-t-on de fièvre ?",
