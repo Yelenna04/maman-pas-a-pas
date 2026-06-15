@@ -11,15 +11,15 @@ export function getArticleImage(
   }
 
   if (slug === "que-faire-avant-essayer-avoir-bebe") {
-    return "/images/article-a-la-une.png";
+    return "/images/projet-bebe-avant-essayer.png";
   }
 
   if (slug === "se-preparer-emotionnellement-projet-bebe") {
-    return "/images/article-a-la-une.png";
+    return "/images/projet-bebe-preparation-emotionnelle.png";
   }
 
   if (slug === "parler-projet-bebe-avec-partenaire") {
-    return "/images/article-a-la-une.png";
+    return "/images/projet-bebe-parler-partenaire.png";
   }
 
   if (slug === "nausees-vomissements-comment-les-soulager") {
