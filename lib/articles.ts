@@ -9165,6 +9165,256 @@ export const articles: Article[] = [
         url: "https://www.cfef.org/"
       }
     ]
+  },
+
+{
+    slug: "consultations-prenatales-quel-est-le-calendrier-du-suivi",
+    title: "Consultations prénatales : quel est le calendrier du suivi ?",
+    description:
+      "Premier rendez-vous, consultations mensuelles, échographies, analyses et rendez-vous du dernier trimestre : le calendrier du suivi prénatal en France.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Examens et suivi",
+    subcategorySlug: "examens-suivi",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "En France, 7 consultations prénatales obligatoires sont prévues pendant la grossesse.",
+          "La première doit avoir lieu avant la fin du troisième mois.",
+          "Les 6 suivantes sont organisées chaque mois, du quatrième mois jusqu’à l’accouchement.",
+          "Trois échographies sont habituellement recommandées au premier, au deuxième et au troisième trimestre.",
+          "Le calendrier peut être renforcé si la grossesse nécessite une surveillance particulière."
+        ],
+        quote:
+          "Le suivi ne se limite pas aux examens : chaque consultation permet aussi de parler de vos symptômes, de vos inquiétudes et de votre préparation à la naissance."
+      },
+      {
+        title: "Combien de consultations prénatales sont prévues ?",
+        paragraphs: [
+          "Le suivi réglementaire comprend 7 examens prénataux obligatoires.",
+          "Le premier a lieu avant la fin du troisième mois de grossesse.",
+          "À partir du quatrième mois, une consultation est prévue chaque mois jusqu’à l’accouchement.",
+          "Ces rendez-vous peuvent être assurés par une sage-femme, un médecin généraliste ou un gynécologue-obstétricien selon votre situation."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Le premier rendez-vous sert à confirmer et dater la grossesse, évaluer les facteurs de risque et lancer les premières analyses.",
+          "Du quatrième au neuvième mois, les consultations deviennent mensuelles.",
+          "Des rendez-vous supplémentaires sont ajoutés si un symptôme, un antécédent ou un résultat nécessite une surveillance renforcée."
+        ],
+        quote:
+          "Le calendrier est une base commune, mais il reste personnalisé selon votre santé et celle du bébé."
+      },
+      {
+        title: "Avant la fin du troisième mois",
+        paragraphs: [
+          "La première consultation prénatale doit avoir lieu avant la fin du troisième mois.",
+          "Le professionnel fait le point sur vos antécédents, vos traitements, vos symptômes, votre mode de vie et votre environnement.",
+          "Il mesure notamment la tension artérielle, le poids et prescrit les premières analyses.",
+          "La déclaration de grossesse est généralement réalisée à l’issue de ce rendez-vous."
+        ],
+        bullets: [
+          "Groupe sanguin et rhésus.",
+          "Recherche d’agglutinines irrégulières.",
+          "Sérologies de la rubéole, de la toxoplasmose, de la syphilis et de l’hépatite B.",
+          "Proposition de dépistage du VIH.",
+          "Analyse d’urines.",
+          "Prescription de la première échographie."
+        ]
+      },
+      {
+        title: "Au quatrième mois",
+        paragraphs: [
+          "La deuxième consultation obligatoire a lieu au quatrième mois.",
+          "Le professionnel vérifie la tension, le poids, les symptômes et l’évolution de la grossesse.",
+          "Il recherche d’éventuels signes d’alerte et répond à vos questions.",
+          "À partir de ce mois, un examen bucco-dentaire de prévention peut également être réalisé."
+        ]
+      },
+      {
+        title: "Au cinquième mois",
+        paragraphs: [
+          "La troisième consultation obligatoire a lieu au cinquième mois.",
+          "L’échographie morphologique est généralement réalisée autour de cette période.",
+          "Elle étudie en détail les organes, la croissance, le placenta et le liquide amniotique.",
+          "Une prise de sang peut aussi être prescrite pour rechercher notamment une anémie."
+        ]
+      },
+      {
+        title: "Au sixième mois",
+        paragraphs: [
+          "La quatrième consultation obligatoire a lieu au sixième mois.",
+          "Le suivi clinique reste similaire : tension, poids, symptômes, hauteur utérine et rythme cardiaque du bébé selon le terme.",
+          "Une numération sanguine est souvent réalisée.",
+          "La recherche d’anticorps irréguliers est renouvelée dans certaines situations, notamment si vous êtes rhésus négatif ou avez déjà été transfusée."
+        ]
+      },
+      {
+        title: "Au septième mois",
+        paragraphs: [
+          "La cinquième consultation obligatoire a lieu au septième mois.",
+          "La troisième échographie est programmée autour de 32 semaines d’aménorrhée, selon le calendrier retenu par la maternité.",
+          "Elle vérifie la croissance, la position du bébé, le placenta et le liquide amniotique.",
+          "Les séances de préparation à la naissance et à la parentalité se déroulent souvent à partir de cette période."
+        ]
+      },
+      {
+        title: "Au huitième mois",
+        paragraphs: [
+          "La sixième consultation obligatoire a lieu au huitième mois.",
+          "La consultation pré-anesthésique est obligatoire, même si vous ne souhaitez pas de péridurale.",
+          "Une nouvelle détermination du groupe sanguin peut être réalisée selon le dossier.",
+          "La position du bébé, le placenta et l’organisation de l’accouchement sont réévalués."
+        ]
+      },
+      {
+        title: "Au neuvième mois",
+        paragraphs: [
+          "La septième et dernière consultation obligatoire a lieu au neuvième mois.",
+          "Le professionnel vérifie le bien-être de la mère et du bébé, la présentation du bébé et l’absence de complication.",
+          "Il précise quand contacter la maternité et quels signes doivent conduire à venir sans attendre.",
+          "Une deuxième détermination du groupe sanguin est réalisée si elle ne l’a pas encore été."
+        ]
+      },
+      {
+        title: "Que vérifie-t-on à chaque consultation ?",
+        bullets: [
+          "La tension artérielle.",
+          "Le poids et son évolution.",
+          "Les symptômes et le bien-être général.",
+          "Les mouvements du bébé à partir du moment où vous les ressentez.",
+          "La hauteur utérine à partir d’un certain terme.",
+          "Le rythme cardiaque du bébé selon la consultation.",
+          "Les résultats des analyses et échographies.",
+          "Les signes nécessitant une surveillance particulière."
+        ],
+        paragraphs: [
+          "Le contenu précis varie selon le terme, votre état de santé et le professionnel qui assure le suivi.",
+          "Un examen gynécologique n’est pas systématique à chaque rendez-vous."
+        ]
+      },
+      {
+        title: "Quelles sont les trois échographies recommandées ?",
+        bullets: [
+          "La première échographie au premier trimestre, pour dater la grossesse, vérifier la vitalité et mesurer la clarté nucale.",
+          "La deuxième échographie autour du cinquième mois, pour étudier la morphologie du bébé.",
+          "La troisième échographie autour de 32 semaines d’aménorrhée, pour vérifier la croissance, la position et le placenta."
+        ],
+        paragraphs: [
+          "Des échographies supplémentaires peuvent être prescrites en cas de grossesse multiple, de problème de croissance, de placenta bas ou de maladie maternelle.",
+          "Une échographie supplémentaire ne signifie pas forcément qu’une complication grave est présente."
+        ]
+      },
+      {
+        title: "Quels autres rendez-vous faut-il prévoir ?",
+        bullets: [
+          "L’entretien prénatal précoce.",
+          "Les séances de préparation à la naissance et à la parentalité.",
+          "La consultation pré-anesthésique.",
+          "Le rendez-vous d’inscription à la maternité si nécessaire.",
+          "Un rendez-vous avec une sage-femme pour préparer l’allaitement ou le retour à domicile.",
+          "Des consultations spécialisées si la grossesse présente un risque particulier."
+        ]
+      },
+      {
+        title: "Qu’est-ce que l’entretien prénatal précoce ?",
+        paragraphs: [
+          "L’entretien prénatal précoce est un temps d’échange distinct des consultations médicales habituelles.",
+          "Il permet de parler de votre vécu, de vos besoins, de votre environnement, de votre projet de naissance et d’éventuelles difficultés.",
+          "Il peut être réalisé par une sage-femme ou un médecin, seule ou en couple.",
+          "Il aide à organiser un accompagnement personnalisé dès le début de la grossesse."
+        ]
+      },
+      {
+        title: "Quand le suivi doit-il être renforcé ?",
+        bullets: [
+          "Grossesse multiple.",
+          "Hypertension ou diabète.",
+          "Maladie chronique.",
+          "Antécédent de complication obstétricale.",
+          "Problème de croissance du bébé.",
+          "Placenta bas ou autre anomalie échographique.",
+          "Contractions précoces, saignements ou perte de liquide.",
+          "Difficulté psychologique ou sociale nécessitant un accompagnement."
+        ],
+        paragraphs: [
+          "Le nombre et la fréquence des rendez-vous sont alors adaptés par l’équipe.",
+          "Le suivi peut associer sage-femme, obstétricien, médecin spécialiste et maternité de niveau adapté."
+        ]
+      },
+      {
+        title: "Que faire si vous manquez un rendez-vous ?",
+        paragraphs: [
+          "Contactez rapidement le professionnel ou la maternité afin de le reprogrammer.",
+          "Un retard ponctuel ne signifie pas que la grossesse est en danger, mais certaines analyses doivent être réalisées à une période précise.",
+          "N’attendez pas le rendez-vous suivant pour signaler un symptôme inquiétant.",
+          "Si vous avez des difficultés de transport, de travail ou de garde d’enfants, parlez-en à l’équipe afin de rechercher une solution."
+        ]
+      },
+      {
+        title: "Quand consulter sans attendre le prochain rendez-vous ?",
+        bullets: [
+          "Saignement vaginal.",
+          "Perte de liquide.",
+          "Contractions régulières ou douloureuses avant le terme.",
+          "Diminution des mouvements du bébé.",
+          "Fièvre.",
+          "Maux de tête intenses, troubles visuels ou gonflement brutal.",
+          "Douleur abdominale importante.",
+          "Essoufflement inhabituel, douleur thoracique ou malaise."
+        ],
+        paragraphs: [
+          "En cas de doute, contactez la maternité ou le professionnel qui suit la grossesse.",
+          "Le calendrier mensuel ne remplace jamais une consultation urgente lorsqu’un signe inhabituel apparaît."
+        ]
+      },
+      {
+        title: "Comment bien organiser son suivi ?",
+        bullets: [
+          "Planifiez plusieurs rendez-vous à l’avance lorsque cela est possible.",
+          "Conservez les ordonnances, résultats et comptes rendus dans un seul dossier.",
+          "Notez vos questions avant chaque consultation.",
+          "Apportez la liste de vos traitements et compléments.",
+          "Gardez les coordonnées de la maternité et de la sage-femme.",
+          "Vérifiez les consignes spécifiques avant les analyses ou échographies."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le suivi prénatal comprend 7 consultations obligatoires.",
+          "La première a lieu avant la fin du troisième mois.",
+          "Les consultations suivantes sont mensuelles du quatrième au neuvième mois.",
+          "Trois échographies sont habituellement recommandées pendant la grossesse.",
+          "Le calendrier reste adaptable et peut être renforcé selon votre situation."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service Public — Grossesse : examens médicaux",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F963"
+      },
+      {
+        label: "Assurance Maladie — Suivi mensuel de la grossesse à partir du 4e mois",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-mensuel-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Ministère de la Santé — L’entretien prénatal précoce",
+        url: "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/1000jours/article/l-entretien-prenatal-precoce"
+      }
+    ]
   }
 ];
 
