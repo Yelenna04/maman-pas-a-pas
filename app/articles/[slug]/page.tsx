@@ -1429,8 +1429,46 @@ function UnifiedArticle({ article }: { article: Article }) {
 
   const cardItems = getItems(cardSection).slice(0, 3);
 
+  const extraSectionsWeight = extraSections.reduce((total, section) => {
+    const paragraphsLength =
+      section.paragraphs?.reduce((sum, paragraph) => sum + paragraph.length, 0) ?? 0;
+    const bulletsLength =
+      section.bullets?.reduce((sum, bullet) => sum + bullet.length, 0) ?? 0;
+
+    return total + section.title.length + paragraphsLength + bulletsLength;
+  }, 0);
+
+  const isAlimentationPregnancyArticle =
+    article.slug ===
+    "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre";
+
+  const articleGridClass = isAlimentationPregnancyArticle
+    ? extraSectionsWeight >= 5200
+      ? "compact-article-grid compact-article-grid-wide-sidebar"
+      : extraSectionsWeight >= 3200
+        ? "compact-article-grid compact-article-grid-medium-sidebar"
+        : "compact-article-grid"
+    : "compact-article-grid";
+
   return (
     <main className="compact-article">
+      <style>{`
+        .compact-article-grid-medium-sidebar {
+          grid-template-columns: minmax(0, 1.65fr) minmax(320px, 1fr);
+        }
+
+        .compact-article-grid-wide-sidebar {
+          grid-template-columns: minmax(0, 1.42fr) minmax(350px, 1fr);
+        }
+
+        @media (max-width: 900px) {
+          .compact-article-grid-medium-sidebar,
+          .compact-article-grid-wide-sidebar {
+            grid-template-columns: 1fr;
+          }
+        }
+      `}</style>
+
       <div className="article-shell">
         <section className="compact-article-hero">
           <div className="compact-hero-copy">
@@ -1483,7 +1521,7 @@ function UnifiedArticle({ article }: { article: Article }) {
           </section>
         )}
 
-        <div className="compact-article-grid">
+        <div className={articleGridClass}>
           <article className="compact-main-column">
             {primary && (
               <section className="compact-section">
