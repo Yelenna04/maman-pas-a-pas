@@ -11932,15 +11932,15 @@ export const articles: Article[] = [
   },
 
 {
-    slug: "pertes-vaginales-pendant-la-grossesse-quand-sinquieter",
-    title: "Pertes vaginales pendant la grossesse : quand s’inquiéter ?",
+    slug: "fievre-douleur-ou-malaise-quand-consulter-rapidement",
+    title: "Fièvre, douleur ou malaise : quand consulter rapidement ?",
     description:
-      "Pertes blanches, démangeaisons, odeur, couleur inhabituelle ou fuite de liquide : les repères pour distinguer les pertes normales des signes qui nécessitent un avis médical.",
+      "Fièvre, douleurs abdominales, malaise, maux de tête ou essoufflement : les signes qui nécessitent un avis médical rapide pendant la grossesse.",
     category: "Pendant la grossesse",
     categorySlug: "pendant-grossesse",
     subcategory: "Symptômes et bien-être",
     subcategorySlug: "symptomes-bien-etre",
-    readingTime: "9 min",
+    readingTime: "10 min",
     publishedAt: "2026-06-15",
     updatedAt: "2026-06-15",
     tone: "rose",
@@ -11948,232 +11948,257 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "Des pertes vaginales blanches ou transparentes, sans mauvaise odeur ni irritation, sont fréquentes pendant la grossesse.",
-          "Consultez si elles deviennent jaunes, vertes, grises, malodorantes, mousseuses ou accompagnées de démangeaisons, brûlures ou douleurs.",
-          "Un écoulement très liquide, continu ou difficile à retenir peut correspondre à une fissure ou une rupture de la poche des eaux.",
-          "Un saignement rouge, une fièvre, des douleurs importantes, des contractions ou une diminution des mouvements du bébé nécessitent un avis rapide.",
-          "Évitez les douches vaginales, les traitements antifongiques pris au hasard et les produits parfumés sans avis professionnel."
+          "Pendant la grossesse, une fièvre à partir de 38 °C, une douleur importante ou un malaise inhabituel doivent être signalés rapidement à un professionnel.",
+          "Appelez la maternité sans attendre en cas de saignement, perte de liquide, contractions régulières, diminution des mouvements du bébé ou douleur abdominale intense.",
+          "Des maux de tête importants associés à des troubles visuels, une douleur sous les côtes ou un gonflement brutal peuvent évoquer une prééclampsie.",
+          "Une douleur thoracique, une difficulté à respirer, une perte de connaissance, des convulsions ou un déficit neurologique imposent d’appeler le 15 ou le 112.",
+          "Ne prenez pas d’anti-inflammatoire et ne retardez pas la consultation pour essayer plusieurs médicaments à la maison."
         ],
         quote:
-          "La couleur, l’odeur, la texture et les symptômes associés sont les meilleurs repères pour savoir si les pertes restent habituelles."
+          "Vous n’avez pas besoin d’être certaine qu’il s’agit d’une urgence pour appeler : la maternité peut évaluer les symptômes et vous indiquer la conduite à tenir."
       },
       {
-        title: "Pourquoi les pertes augmentent-elles pendant la grossesse ?",
+        title: "Pourquoi certains symptômes nécessitent-ils un avis rapide ?",
         paragraphs: [
-          "Les hormones et l’augmentation de la circulation sanguine dans la région génitale stimulent les sécrétions vaginales.",
-          "Ces pertes physiologiques, appelées leucorrhées, contribuent à maintenir l’équilibre du vagin.",
-          "Elles peuvent être plus abondantes qu’avant la grossesse et nécessiter de changer plus souvent de sous-vêtements.",
-          "Une augmentation isolée, sans odeur inhabituelle, douleur ni irritation, est généralement rassurante."
+          "La plupart des douleurs et malaises survenant pendant la grossesse sont sans gravité, mais certains peuvent révéler une infection, une complication obstétricale ou un problème médical nécessitant un traitement.",
+          "La grossesse modifie le fonctionnement du cœur, de la circulation, des reins et du système digestif, ce qui peut rendre l’interprétation des symptômes plus difficile.",
+          "Le terme de la grossesse, l’intensité, la durée et les signes associés permettent d’évaluer le niveau d’urgence.",
+          "Il est préférable de demander conseil trop tôt plutôt que d’attendre l’aggravation d’un symptôme inhabituel."
         ]
       },
       {
         title: "Les 3 repères les plus utiles",
         paragraphs: [
-          "Des pertes normales sont le plus souvent blanches ou transparentes et peu odorantes.",
-          "Des démangeaisons, une brûlure, une odeur forte ou une couleur inhabituelle orientent plutôt vers une infection.",
-          "Un liquide très fluide qui s’écoule de façon répétée doit faire contacter la maternité pour éliminer une perte des eaux."
+          "Mesurez votre température et notez l’heure de début des symptômes.",
+          "Repérez les signes associés : saignement, perte de liquide, contractions, vomissements, gêne respiratoire ou diminution des mouvements du bébé.",
+          "Contactez directement la maternité lorsque le symptôme concerne la grossesse ou lorsque vous ne savez pas à qui vous adresser."
         ],
         quote:
-          "En cas de doute, mettez une protection externe propre et observez l’aspect de l’écoulement sans rien introduire dans le vagin."
+          "Préparez votre terme, vos traitements, vos antécédents et la description précise des symptômes avant d’appeler."
       },
       {
-        title: "À quoi ressemblent des pertes considérées comme normales ?",
+        title: "À partir de quelle température parle-t-on de fièvre ?",
         paragraphs: [
-          "Elles sont généralement blanches, laiteuses ou transparentes.",
-          "Leur texture peut être fluide ou légèrement crémeuse.",
-          "Elles n’ont pas d’odeur forte et ne provoquent ni démangeaison, ni brûlure, ni douleur.",
-          "Leur quantité peut varier d’un jour à l’autre et augmenter à l’approche du terme."
+          "On parle généralement de fièvre lorsque la température atteint ou dépasse 38 °C.",
+          "Prenez la température avec un thermomètre fiable plutôt que de vous fier uniquement à une sensation de chaleur ou de frissons.",
+          "Une fièvre pendant la grossesse doit conduire à rechercher sa cause, notamment une infection respiratoire, urinaire, digestive ou gynécologique.",
+          "Contactez le professionnel qui suit la grossesse ou la maternité, surtout si la fièvre persiste, s’accompagne de douleur ou altère votre état général."
         ]
       },
       {
-        title: "Quels changements doivent faire consulter ?",
+        title: "Que faire en attendant l’avis médical en cas de fièvre ?",
         bullets: [
-          "Une couleur jaune, verte ou grise.",
-          "Une odeur forte, désagréable ou évoquant le poisson.",
-          "Une texture mousseuse ou très grumeleuse.",
-          "Des démangeaisons, brûlures ou rougeurs.",
-          "Une douleur pendant les rapports ou en urinant.",
-          "Une douleur pelvienne ou abdominale.",
-          "De la fièvre ou un malaise.",
-          "Un écoulement très liquide et continu."
+          "Se reposer.",
+          "Boire régulièrement de petites quantités d’eau.",
+          "Porter des vêtements légers.",
+          "Noter la température et son évolution.",
+          "Repérer les autres symptômes.",
+          "Demander conseil avant de prendre un médicament."
         ],
         paragraphs: [
-          "Ces signes peuvent correspondre à une mycose, une vaginose bactérienne, une infection sexuellement transmissible ou une autre cause nécessitant un examen.",
-          "Le diagnostic repose sur les symptômes, l’examen clinique et parfois un prélèvement vaginal."
+          "Le paracétamol est généralement le médicament de première intention lorsqu’un traitement est nécessaire, mais il doit être utilisé à la dose adaptée et après vérification par un professionnel.",
+          "Les anti-inflammatoires non stéroïdiens, comme l’ibuprofène ou le kétoprofène, ne doivent pas être pris sans avis médical et sont contre-indiqués à partir du début du sixième mois."
         ]
       },
       {
-        title: "Comment reconnaître une mycose vaginale ?",
-        paragraphs: [
-          "Une mycose provoque souvent des démangeaisons importantes, une irritation et des pertes blanches épaisses ou grumeleuses.",
-          "Les pertes sont généralement peu odorantes.",
-          "Une brûlure peut être ressentie en urinant ou pendant les rapports.",
-          "Même si vous avez déjà eu une mycose, demandez conseil avant de vous traiter pendant la grossesse."
-        ]
-      },
-      {
-        title: "Qu’est-ce qu’une vaginose bactérienne ?",
-        paragraphs: [
-          "La vaginose correspond à un déséquilibre de la flore vaginale.",
-          "Elle peut provoquer des pertes fluides, grisâtres ou blanchâtres, avec une odeur forte souvent décrite comme une odeur de poisson.",
-          "Les démangeaisons sont parfois absentes.",
-          "Pendant la grossesse, des pertes inhabituelles ou malodorantes doivent être évaluées afin de proposer un traitement adapté si nécessaire."
-        ]
-      },
-      {
-        title: "Une infection sexuellement transmissible est-elle possible ?",
-        paragraphs: [
-          "Oui. Certaines infections sexuellement transmissibles peuvent provoquer des pertes anormales, une douleur pelvienne, des brûlures urinaires ou un saignement.",
-          "Elles peuvent aussi être présentes sans symptôme.",
-          "Un dépistage est proposé selon les facteurs de risque, les symptômes et les recommandations du professionnel.",
-          "Le ou les partenaires peuvent également avoir besoin d’un dépistage ou d’un traitement."
-        ]
-      },
-      {
-        title: "Comment différencier pertes vaginales et perte des eaux ?",
-        paragraphs: [
-          "Le liquide amniotique est généralement très fluide, clair ou légèrement rosé.",
-          "Il peut s’écouler soudainement en quantité importante ou sous forme de petites fuites répétées.",
-          "Contrairement à l’urine, il est souvent difficile à retenir en contractant le périnée.",
-          "À domicile, il n’est pas toujours possible de faire la différence avec certitude : toute suspicion doit conduire à contacter la maternité."
-        ]
-      },
-      {
-        title: "Que faire si l’écoulement est très liquide ?",
+        title: "Quels signes associés à la fièvre sont particulièrement préoccupants ?",
         bullets: [
-          "Mettre une serviette hygiénique ou une protection externe propre.",
-          "Noter l’heure de début.",
-          "Observer la couleur, l’odeur et la quantité.",
-          "Éviter les tampons et les rapports sexuels.",
-          "Contacter la maternité sans attendre si la fuite persiste.",
-          "Surveiller les mouvements du bébé."
+          "Des frissons intenses ou un état général très altéré.",
+          "Une difficulté à respirer.",
+          "Une douleur abdominale ou pelvienne.",
+          "Des brûlures urinaires ou une douleur dans le dos.",
+          "Des vomissements empêchant de boire.",
+          "Une éruption cutanée.",
+          "Des contractions, un saignement ou une perte de liquide.",
+          "Une diminution des mouvements du bébé."
         ],
         paragraphs: [
-          "Un liquide vert, brun, malodorant ou très teinté de sang nécessite une évaluation rapide.",
-          "Avant 37 semaines, toute suspicion de perte de liquide doit être signalée immédiatement."
+          "Une fièvre avec confusion, difficulté respiratoire importante, douleur thoracique ou malaise grave nécessite un appel au 15 ou au 112."
         ]
       },
       {
-        title: "Le bouchon muqueux peut-il être confondu avec des pertes ?",
+        title: "Quand une douleur abdominale doit-elle inquiéter ?",
         paragraphs: [
-          "Oui. Le bouchon muqueux ressemble à une glaire épaisse, transparente, rosée ou légèrement striée de sang.",
-          "Il peut être perdu en une seule fois ou par petites quantités.",
-          "Sa perte ne signifie pas forcément que le travail va commencer immédiatement.",
-          "Un saignement rouge ou abondant ne doit pas être assimilé au bouchon muqueux."
+          "De petites tensions ligamentaires ou des douleurs digestives peuvent être fréquentes.",
+          "Une douleur doit être évaluée rapidement lorsqu’elle est intense, brutale, persistante, localisée d’un seul côté ou associée à un saignement.",
+          "Au début de la grossesse, une douleur pelvienne avec saignement, malaise ou douleur à l’épaule peut évoquer une grossesse extra-utérine.",
+          "Plus tard, une douleur continue, des contractions régulières, un ventre très dur ou une diminution des mouvements du bébé nécessitent de contacter la maternité."
         ]
       },
       {
-        title: "Des pertes rosées ou brunes sont-elles normales ?",
-        paragraphs: [
-          "De petites traces rosées ou brunes peuvent parfois survenir après un rapport, un examen vaginal ou une irritation du col.",
-          "Elles doivent cependant être signalées, surtout si elles persistent ou s’accompagnent de douleur.",
-          "Un saignement rouge, abondant ou avec des caillots nécessite un avis rapide.",
-          "Au troisième trimestre, tout saignement doit être évalué par la maternité."
-        ]
-      },
-      {
-        title: "Quels gestes d’hygiène adopter ?",
+        title: "Quels signes peuvent évoquer une prééclampsie ?",
         bullets: [
-          "Laver la vulve une fois par jour avec de l’eau et, si besoin, un produit doux non parfumé.",
-          "Sécher délicatement sans frotter.",
-          "Porter des sous-vêtements respirants et les changer s’ils sont humides.",
-          "Éviter les protège-slips parfumés et les lingettes intimes.",
-          "S’essuyer d’avant en arrière après les toilettes.",
-          "Changer rapidement de maillot ou de vêtements mouillés."
+          "Des maux de tête importants ou inhabituels.",
+          "Des troubles visuels : points lumineux, vision floue ou baisse de la vision.",
+          "Une douleur sous les côtes, surtout à droite.",
+          "Des nausées ou vomissements inhabituels en deuxième partie de grossesse.",
+          "Un gonflement brutal du visage ou des mains.",
+          "Une prise de poids très rapide liée à une rétention d’eau.",
+          "Une tension artérielle élevée."
         ],
         paragraphs: [
-          "Le vagin se nettoie naturellement.",
-          "Les douches vaginales et produits antiseptiques répétés peuvent déséquilibrer la flore et aggraver les symptômes."
+          "Ces signes nécessitent un avis rapide, même s’ils ne sont pas tous présents.",
+          "Une prééclampsie peut apparaître après 20 semaines d’aménorrhée et nécessite une surveillance médicale."
         ]
       },
       {
-        title: "Peut-on utiliser un protège-slip ?",
+        title: "Quand un mal de tête doit-il faire consulter ?",
         paragraphs: [
-          "Oui, ponctuellement, s’il est non parfumé et changé régulièrement.",
-          "Un usage permanent peut favoriser l’humidité et les irritations chez certaines femmes.",
-          "Des sous-vêtements en coton et un changement plus fréquent sont parfois plus confortables.",
-          "N’utilisez pas de tampon pour absorber des pertes pendant la grossesse."
+          "Un mal de tête léger et ponctuel peut être lié à la fatigue, au stress, au manque de sommeil ou à la déshydratation.",
+          "Consultez rapidement s’il est brutal, très intense, persistant, différent de vos maux de tête habituels ou accompagné de troubles visuels.",
+          "Une raideur de la nuque, une fièvre, une confusion, une faiblesse d’un côté du corps ou des troubles de la parole constituent également des signes d’alerte.",
+          "Ne multipliez pas les antalgiques sans évaluation lorsque le mal de tête persiste."
         ]
       },
       {
-        title: "Peut-on se traiter seule avec un ovule ?",
+        title: "Quand un malaise est-il préoccupant ?",
         paragraphs: [
-          "Il est préférable de demander conseil avant tout traitement.",
-          "Une mycose, une vaginose et une infection sexuellement transmissible ne se traitent pas de la même façon.",
-          "Un traitement mal choisi peut masquer les symptômes et retarder le diagnostic.",
-          "Le professionnel choisit une substance compatible avec la grossesse et adaptée à la cause."
+          "Une sensation de faiblesse peut être liée à la chaleur, au fait de rester debout, à une baisse de tension ou à un manque d’alimentation.",
+          "Asseyez-vous ou allongez-vous sur le côté, desserrez les vêtements et demandez à quelqu’un de rester près de vous.",
+          "Un malaise avec perte de connaissance, douleur thoracique, essoufflement, palpitations persistantes, saignement ou douleur abdominale nécessite une évaluation urgente.",
+          "Des malaises répétés doivent être signalés afin de rechercher notamment une anémie, un trouble du rythme ou une autre cause."
         ]
       },
       {
-        title: "Les probiotiques vaginaux sont-ils utiles ?",
+        title: "Que faire en cas d’essoufflement ?",
         paragraphs: [
-          "Certains produits sont proposés pour restaurer la flore vaginale, mais leur intérêt dépend de la situation et des souches utilisées.",
-          "Ils ne remplacent pas un diagnostic ni un traitement d’infection.",
-          "Demandez conseil avant une utilisation régulière pendant la grossesse.",
-          "Évitez les produits dont la composition ou les indications sont imprécises."
+          "Un essoufflement léger à l’effort peut apparaître progressivement pendant la grossesse.",
+          "Il devient préoccupant s’il survient au repos, apparaît brutalement, s’aggrave rapidement ou empêche de parler normalement.",
+          "Une douleur thoracique, des lèvres bleutées, des palpitations, une toux avec du sang ou un malaise associé imposent d’appeler les urgences.",
+          "Une gêne respiratoire avec fièvre peut également nécessiter une prise en charge rapide."
         ]
       },
       {
-        title: "Les rapports sexuels sont-ils possibles en cas de pertes ?",
+        title: "Une douleur dans un mollet est-elle urgente ?",
         paragraphs: [
-          "Des pertes physiologiques sans douleur ni irritation n’empêchent généralement pas les rapports.",
-          "En cas d’infection, de douleur, de saignement ou de suspicion de perte des eaux, il est préférable de s’abstenir jusqu’à l’avis du professionnel.",
-          "Un préservatif peut être recommandé selon le risque d’infection sexuellement transmissible.",
-          "Une douleur pendant les rapports doit être signalée."
+          "Une crampe brève qui disparaît après un étirement est fréquente.",
+          "En revanche, une douleur persistante d’un seul mollet avec gonflement, chaleur, rougeur ou différence de volume peut évoquer une phlébite.",
+          "Ne massez pas la jambe et demandez un avis médical rapidement.",
+          "Si cette douleur s’accompagne d’un essoufflement brutal ou d’une douleur thoracique, appelez immédiatement le 15 ou le 112."
         ]
       },
       {
-        title: "Quels examens peuvent être réalisés ?",
+        title: "Quand des vomissements nécessitent-ils une consultation ?",
         paragraphs: [
-          "Le professionnel peut examiner la vulve et le vagin, puis réaliser un prélèvement vaginal.",
-          "Le prélèvement permet d’identifier une mycose, une vaginose ou certains germes.",
-          "En cas de suspicion de perte des eaux, un examen au spéculum et des tests spécifiques peuvent être proposés.",
-          "Une analyse d’urines ou un dépistage d’infection sexuellement transmissible peut compléter le bilan."
+          "Les nausées et vomissements sont fréquents au premier trimestre.",
+          "Consultez si vous ne parvenez plus à boire, si vous urinez très peu, si vous perdez du poids ou si vous êtes très faible.",
+          "Des vomissements accompagnés de fièvre, de douleur abdominale, de sang ou de maux de tête importants nécessitent aussi une évaluation.",
+          "En fin de grossesse, des vomissements inhabituels associés à une douleur sous les côtes ou des troubles visuels doivent être signalés rapidement."
         ]
       },
       {
-        title: "Quand faut-il contacter rapidement la maternité ?",
+        title: "Quand une douleur urinaire ou lombaire doit-elle alerter ?",
+        paragraphs: [
+          "Des brûlures urinaires, des envies fréquentes, une urine trouble ou malodorante peuvent évoquer une infection urinaire.",
+          "Pendant la grossesse, une infection urinaire doit être traitée afin d’éviter sa progression.",
+          "Une fièvre, des frissons, une douleur dans le dos ou sur le côté et des nausées peuvent évoquer une infection du rein.",
+          "Dans ce cas, contactez rapidement la maternité ou un médecin."
+        ]
+      },
+      {
+        title: "Quels signes obstétricaux imposent d’appeler la maternité ?",
         bullets: [
-          "Écoulement très liquide, continu ou difficile à retenir.",
-          "Liquide vert, brun, malodorant ou sanglant.",
-          "Saignement rouge ou abondant.",
-          "Fièvre, frissons ou malaise.",
-          "Douleur pelvienne ou abdominale importante.",
-          "Contractions régulières ou douloureuses.",
-          "Diminution des mouvements du bébé.",
-          "Pertes inhabituelles avant 37 semaines associées à une pression pelvienne ou des contractions."
+          "Un saignement vaginal.",
+          "Une perte de liquide ou une suspicion de perte des eaux.",
+          "Des contractions régulières ou douloureuses avant le terme.",
+          "Une douleur abdominale intense ou continue.",
+          "Une diminution nette des mouvements du bébé.",
+          "Une forte pression pelvienne ou une envie de pousser.",
+          "Un liquide amniotique vert, brun, malodorant ou sanglant."
         ],
         paragraphs: [
-          "En cas de doute sur une perte des eaux ou un saignement, ne restez pas seule à attendre que les symptômes disparaissent.",
-          "La maternité peut vous poser quelques questions et vous indiquer quand venir."
+          "Ces signes doivent être évalués même si vous ne ressentez pas de fièvre.",
+          "Avant 37 semaines, des contractions régulières, une pression pelvienne ou une perte de liquide peuvent évoquer une menace d’accouchement prématuré."
+        ]
+      },
+      {
+        title: "Comment évaluer les mouvements du bébé ?",
+        paragraphs: [
+          "Il n’existe pas un nombre identique de mouvements valable pour toutes les grossesses.",
+          "L’important est de connaître le rythme habituel de votre bébé.",
+          "Si vous le sentez nettement moins, installez-vous au calme et concentrez-vous quelques instants sur ses mouvements.",
+          "Si la diminution persiste ou vous inquiète, contactez la maternité sans attendre le lendemain."
+        ]
+      },
+      {
+        title: "Quand appeler le 15 ou le 112 ?",
+        bullets: [
+          "Difficulté respiratoire importante ou brutale.",
+          "Douleur thoracique.",
+          "Perte de connaissance.",
+          "Convulsions.",
+          "Saignement abondant avec malaise.",
+          "Faiblesse d’un côté du corps ou troubles de la parole.",
+          "Douleur abdominale insupportable.",
+          "Impression que l’accouchement est imminent sans possibilité de rejoindre la maternité en sécurité.",
+          "Réaction allergique avec gonflement du visage ou gêne respiratoire."
+        ],
+        paragraphs: [
+          "Ne conduisez pas vous-même dans ces situations.",
+          "Allongez-vous en sécurité et demandez à une personne de rester avec vous jusqu’à l’arrivée de l’aide."
+        ]
+      },
+      {
+        title: "Que préparer avant d’appeler ?",
+        bullets: [
+          "Le nombre de semaines d’aménorrhée.",
+          "L’heure de début des symptômes.",
+          "La température mesurée.",
+          "La localisation et l’intensité de la douleur.",
+          "La présence de saignement, perte de liquide ou contractions.",
+          "Les mouvements du bébé.",
+          "Les médicaments déjà pris.",
+          "Les antécédents et complications connues de la grossesse."
+        ],
+        paragraphs: [
+          "Ces informations permettent à l’équipe d’évaluer plus rapidement la situation.",
+          "N’attendez toutefois pas de tout noter si l’état est grave ou s’aggrave rapidement."
+        ]
+      },
+      {
+        title: "Quels médicaments éviter en automédication ?",
+        paragraphs: [
+          "N’utilisez pas d’anti-inflammatoire non stéroïdien comme l’ibuprofène, le kétoprofène ou le naproxène sans avis médical.",
+          "Évitez également les associations contre le rhume, les huiles essentielles et les médicaments déjà prescrits lors d’un épisode ancien.",
+          "Vérifiez toujours la substance active, car plusieurs marques peuvent contenir le même médicament.",
+          "Un traitement pris pour masquer les symptômes ne doit pas retarder une consultation."
+        ]
+      },
+      {
+        title: "Quand peut-on surveiller à domicile ?",
+        paragraphs: [
+          "Une gêne légère, connue et rapidement améliorée par le repos peut parfois être surveillée.",
+          "Vous devez pouvoir boire, manger, respirer normalement et poursuivre vos activités essentielles.",
+          "Les symptômes ne doivent pas s’aggraver ni s’accompagner d’un signe obstétrical.",
+          "En cas de doute, appelez tout de même la maternité : elle vous indiquera si une surveillance à domicile est adaptée."
         ]
       },
       {
         title: "À retenir",
         paragraphs: [
-          "Des pertes blanches ou transparentes, sans odeur forte ni irritation, sont fréquentes pendant la grossesse.",
-          "Une couleur inhabituelle, une mauvaise odeur, des démangeaisons ou une douleur doivent être évaluées.",
-          "Un écoulement très liquide peut correspondre à une perte des eaux et nécessite de contacter la maternité.",
-          "Évitez les douches vaginales et l’automédication par ovules ou produits antiseptiques.",
-          "Un saignement, de la fièvre, des contractions ou une diminution des mouvements du bébé nécessitent un avis rapide."
+          "Une fièvre à partir de 38 °C, une douleur importante ou un malaise inhabituel doivent être signalés pendant la grossesse.",
+          "Saignement, perte de liquide, contractions régulières ou diminution des mouvements du bébé imposent de contacter la maternité.",
+          "Maux de tête intenses, troubles visuels, douleur sous les côtes ou gonflement brutal peuvent évoquer une prééclampsie.",
+          "Douleur thoracique, détresse respiratoire, perte de connaissance ou convulsions nécessitent d’appeler le 15 ou le 112.",
+          "Ne retardez pas l’évaluation en essayant plusieurs médicaments en automédication."
         ]
       }
     ],
     sources: [
       {
-        label: "Assurance Maladie — Pertes vaginales, vaginite et vulvovaginite",
-        url: "https://www.ameli.fr/assure/sante/themes/vaginite"
+        label: "Assurance Maladie — Grossesse : suivi médical et signes nécessitant un avis",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
       },
       {
-        label: "Haute Autorité de santé — Suivi et information des femmes enceintes",
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes",
         url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Recommandations pour la pratique clinique",
-        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+        label: "Service Public — Numéros d’urgence",
+        url: "https://www.service-public.fr/particuliers/actualites/A15841"
       },
       {
-        label: "1000 premiers jours — Les petits maux de la grossesse",
+        label: "1000 premiers jours — Les petits maux et signes d’alerte pendant la grossesse",
         url: "https://www.1000-premiers-jours.fr/"
       }
     ]
