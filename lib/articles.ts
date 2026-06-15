@@ -11929,6 +11929,254 @@ export const articles: Article[] = [
         url: "https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale"
       }
     ]
+  },
+
+{
+    slug: "pertes-vaginales-pendant-la-grossesse-quand-sinquieter",
+    title: "Pertes vaginales pendant la grossesse : quand s’inquiéter ?",
+    description:
+      "Pertes blanches, démangeaisons, odeur, couleur inhabituelle ou fuite de liquide : les repères pour distinguer les pertes normales des signes qui nécessitent un avis médical.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "9 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Des pertes vaginales blanches ou transparentes, sans mauvaise odeur ni irritation, sont fréquentes pendant la grossesse.",
+          "Consultez si elles deviennent jaunes, vertes, grises, malodorantes, mousseuses ou accompagnées de démangeaisons, brûlures ou douleurs.",
+          "Un écoulement très liquide, continu ou difficile à retenir peut correspondre à une fissure ou une rupture de la poche des eaux.",
+          "Un saignement rouge, une fièvre, des douleurs importantes, des contractions ou une diminution des mouvements du bébé nécessitent un avis rapide.",
+          "Évitez les douches vaginales, les traitements antifongiques pris au hasard et les produits parfumés sans avis professionnel."
+        ],
+        quote:
+          "La couleur, l’odeur, la texture et les symptômes associés sont les meilleurs repères pour savoir si les pertes restent habituelles."
+      },
+      {
+        title: "Pourquoi les pertes augmentent-elles pendant la grossesse ?",
+        paragraphs: [
+          "Les hormones et l’augmentation de la circulation sanguine dans la région génitale stimulent les sécrétions vaginales.",
+          "Ces pertes physiologiques, appelées leucorrhées, contribuent à maintenir l’équilibre du vagin.",
+          "Elles peuvent être plus abondantes qu’avant la grossesse et nécessiter de changer plus souvent de sous-vêtements.",
+          "Une augmentation isolée, sans odeur inhabituelle, douleur ni irritation, est généralement rassurante."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Des pertes normales sont le plus souvent blanches ou transparentes et peu odorantes.",
+          "Des démangeaisons, une brûlure, une odeur forte ou une couleur inhabituelle orientent plutôt vers une infection.",
+          "Un liquide très fluide qui s’écoule de façon répétée doit faire contacter la maternité pour éliminer une perte des eaux."
+        ],
+        quote:
+          "En cas de doute, mettez une protection externe propre et observez l’aspect de l’écoulement sans rien introduire dans le vagin."
+      },
+      {
+        title: "À quoi ressemblent des pertes considérées comme normales ?",
+        paragraphs: [
+          "Elles sont généralement blanches, laiteuses ou transparentes.",
+          "Leur texture peut être fluide ou légèrement crémeuse.",
+          "Elles n’ont pas d’odeur forte et ne provoquent ni démangeaison, ni brûlure, ni douleur.",
+          "Leur quantité peut varier d’un jour à l’autre et augmenter à l’approche du terme."
+        ]
+      },
+      {
+        title: "Quels changements doivent faire consulter ?",
+        bullets: [
+          "Une couleur jaune, verte ou grise.",
+          "Une odeur forte, désagréable ou évoquant le poisson.",
+          "Une texture mousseuse ou très grumeleuse.",
+          "Des démangeaisons, brûlures ou rougeurs.",
+          "Une douleur pendant les rapports ou en urinant.",
+          "Une douleur pelvienne ou abdominale.",
+          "De la fièvre ou un malaise.",
+          "Un écoulement très liquide et continu."
+        ],
+        paragraphs: [
+          "Ces signes peuvent correspondre à une mycose, une vaginose bactérienne, une infection sexuellement transmissible ou une autre cause nécessitant un examen.",
+          "Le diagnostic repose sur les symptômes, l’examen clinique et parfois un prélèvement vaginal."
+        ]
+      },
+      {
+        title: "Comment reconnaître une mycose vaginale ?",
+        paragraphs: [
+          "Une mycose provoque souvent des démangeaisons importantes, une irritation et des pertes blanches épaisses ou grumeleuses.",
+          "Les pertes sont généralement peu odorantes.",
+          "Une brûlure peut être ressentie en urinant ou pendant les rapports.",
+          "Même si vous avez déjà eu une mycose, demandez conseil avant de vous traiter pendant la grossesse."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une vaginose bactérienne ?",
+        paragraphs: [
+          "La vaginose correspond à un déséquilibre de la flore vaginale.",
+          "Elle peut provoquer des pertes fluides, grisâtres ou blanchâtres, avec une odeur forte souvent décrite comme une odeur de poisson.",
+          "Les démangeaisons sont parfois absentes.",
+          "Pendant la grossesse, des pertes inhabituelles ou malodorantes doivent être évaluées afin de proposer un traitement adapté si nécessaire."
+        ]
+      },
+      {
+        title: "Une infection sexuellement transmissible est-elle possible ?",
+        paragraphs: [
+          "Oui. Certaines infections sexuellement transmissibles peuvent provoquer des pertes anormales, une douleur pelvienne, des brûlures urinaires ou un saignement.",
+          "Elles peuvent aussi être présentes sans symptôme.",
+          "Un dépistage est proposé selon les facteurs de risque, les symptômes et les recommandations du professionnel.",
+          "Le ou les partenaires peuvent également avoir besoin d’un dépistage ou d’un traitement."
+        ]
+      },
+      {
+        title: "Comment différencier pertes vaginales et perte des eaux ?",
+        paragraphs: [
+          "Le liquide amniotique est généralement très fluide, clair ou légèrement rosé.",
+          "Il peut s’écouler soudainement en quantité importante ou sous forme de petites fuites répétées.",
+          "Contrairement à l’urine, il est souvent difficile à retenir en contractant le périnée.",
+          "À domicile, il n’est pas toujours possible de faire la différence avec certitude : toute suspicion doit conduire à contacter la maternité."
+        ]
+      },
+      {
+        title: "Que faire si l’écoulement est très liquide ?",
+        bullets: [
+          "Mettre une serviette hygiénique ou une protection externe propre.",
+          "Noter l’heure de début.",
+          "Observer la couleur, l’odeur et la quantité.",
+          "Éviter les tampons et les rapports sexuels.",
+          "Contacter la maternité sans attendre si la fuite persiste.",
+          "Surveiller les mouvements du bébé."
+        ],
+        paragraphs: [
+          "Un liquide vert, brun, malodorant ou très teinté de sang nécessite une évaluation rapide.",
+          "Avant 37 semaines, toute suspicion de perte de liquide doit être signalée immédiatement."
+        ]
+      },
+      {
+        title: "Le bouchon muqueux peut-il être confondu avec des pertes ?",
+        paragraphs: [
+          "Oui. Le bouchon muqueux ressemble à une glaire épaisse, transparente, rosée ou légèrement striée de sang.",
+          "Il peut être perdu en une seule fois ou par petites quantités.",
+          "Sa perte ne signifie pas forcément que le travail va commencer immédiatement.",
+          "Un saignement rouge ou abondant ne doit pas être assimilé au bouchon muqueux."
+        ]
+      },
+      {
+        title: "Des pertes rosées ou brunes sont-elles normales ?",
+        paragraphs: [
+          "De petites traces rosées ou brunes peuvent parfois survenir après un rapport, un examen vaginal ou une irritation du col.",
+          "Elles doivent cependant être signalées, surtout si elles persistent ou s’accompagnent de douleur.",
+          "Un saignement rouge, abondant ou avec des caillots nécessite un avis rapide.",
+          "Au troisième trimestre, tout saignement doit être évalué par la maternité."
+        ]
+      },
+      {
+        title: "Quels gestes d’hygiène adopter ?",
+        bullets: [
+          "Laver la vulve une fois par jour avec de l’eau et, si besoin, un produit doux non parfumé.",
+          "Sécher délicatement sans frotter.",
+          "Porter des sous-vêtements respirants et les changer s’ils sont humides.",
+          "Éviter les protège-slips parfumés et les lingettes intimes.",
+          "S’essuyer d’avant en arrière après les toilettes.",
+          "Changer rapidement de maillot ou de vêtements mouillés."
+        ],
+        paragraphs: [
+          "Le vagin se nettoie naturellement.",
+          "Les douches vaginales et produits antiseptiques répétés peuvent déséquilibrer la flore et aggraver les symptômes."
+        ]
+      },
+      {
+        title: "Peut-on utiliser un protège-slip ?",
+        paragraphs: [
+          "Oui, ponctuellement, s’il est non parfumé et changé régulièrement.",
+          "Un usage permanent peut favoriser l’humidité et les irritations chez certaines femmes.",
+          "Des sous-vêtements en coton et un changement plus fréquent sont parfois plus confortables.",
+          "N’utilisez pas de tampon pour absorber des pertes pendant la grossesse."
+        ]
+      },
+      {
+        title: "Peut-on se traiter seule avec un ovule ?",
+        paragraphs: [
+          "Il est préférable de demander conseil avant tout traitement.",
+          "Une mycose, une vaginose et une infection sexuellement transmissible ne se traitent pas de la même façon.",
+          "Un traitement mal choisi peut masquer les symptômes et retarder le diagnostic.",
+          "Le professionnel choisit une substance compatible avec la grossesse et adaptée à la cause."
+        ]
+      },
+      {
+        title: "Les probiotiques vaginaux sont-ils utiles ?",
+        paragraphs: [
+          "Certains produits sont proposés pour restaurer la flore vaginale, mais leur intérêt dépend de la situation et des souches utilisées.",
+          "Ils ne remplacent pas un diagnostic ni un traitement d’infection.",
+          "Demandez conseil avant une utilisation régulière pendant la grossesse.",
+          "Évitez les produits dont la composition ou les indications sont imprécises."
+        ]
+      },
+      {
+        title: "Les rapports sexuels sont-ils possibles en cas de pertes ?",
+        paragraphs: [
+          "Des pertes physiologiques sans douleur ni irritation n’empêchent généralement pas les rapports.",
+          "En cas d’infection, de douleur, de saignement ou de suspicion de perte des eaux, il est préférable de s’abstenir jusqu’à l’avis du professionnel.",
+          "Un préservatif peut être recommandé selon le risque d’infection sexuellement transmissible.",
+          "Une douleur pendant les rapports doit être signalée."
+        ]
+      },
+      {
+        title: "Quels examens peuvent être réalisés ?",
+        paragraphs: [
+          "Le professionnel peut examiner la vulve et le vagin, puis réaliser un prélèvement vaginal.",
+          "Le prélèvement permet d’identifier une mycose, une vaginose ou certains germes.",
+          "En cas de suspicion de perte des eaux, un examen au spéculum et des tests spécifiques peuvent être proposés.",
+          "Une analyse d’urines ou un dépistage d’infection sexuellement transmissible peut compléter le bilan."
+        ]
+      },
+      {
+        title: "Quand faut-il contacter rapidement la maternité ?",
+        bullets: [
+          "Écoulement très liquide, continu ou difficile à retenir.",
+          "Liquide vert, brun, malodorant ou sanglant.",
+          "Saignement rouge ou abondant.",
+          "Fièvre, frissons ou malaise.",
+          "Douleur pelvienne ou abdominale importante.",
+          "Contractions régulières ou douloureuses.",
+          "Diminution des mouvements du bébé.",
+          "Pertes inhabituelles avant 37 semaines associées à une pression pelvienne ou des contractions."
+        ],
+        paragraphs: [
+          "En cas de doute sur une perte des eaux ou un saignement, ne restez pas seule à attendre que les symptômes disparaissent.",
+          "La maternité peut vous poser quelques questions et vous indiquer quand venir."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Des pertes blanches ou transparentes, sans odeur forte ni irritation, sont fréquentes pendant la grossesse.",
+          "Une couleur inhabituelle, une mauvaise odeur, des démangeaisons ou une douleur doivent être évaluées.",
+          "Un écoulement très liquide peut correspondre à une perte des eaux et nécessite de contacter la maternité.",
+          "Évitez les douches vaginales et l’automédication par ovules ou produits antiseptiques.",
+          "Un saignement, de la fièvre, des contractions ou une diminution des mouvements du bébé nécessitent un avis rapide."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Pertes vaginales, vaginite et vulvovaginite",
+        url: "https://www.ameli.fr/assure/sante/themes/vaginite"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et information des femmes enceintes",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
+      },
+      {
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
   }
 ];
 
