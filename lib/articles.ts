@@ -10234,6 +10234,305 @@ export const articles: Article[] = [
         url: "https://www.who.int/publications/i/item/9789241549912"
       }
     ]
+  },
+
+{
+    slug: "activite-physique-pendant-la-grossesse-que-peut-on-faire",
+    title: "Activité physique pendant la grossesse : que peut-on faire ?",
+    description:
+      "Marche, natation, renforcement musculaire, sports à éviter et signes d’alerte : les repères pour bouger en sécurité pendant la grossesse.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Symptômes et bien-être",
+    subcategorySlug: "symptomes-bien-etre",
+    readingTime: "10 min",
+    publishedAt: "2026-06-15",
+    updatedAt: "2026-06-15",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "En l’absence de contre-indication, une activité physique régulière et adaptée est recommandée pendant la grossesse.",
+          "La marche, la natation, le vélo d’appartement, le renforcement musculaire léger et les activités prénatales sont généralement de bonnes options.",
+          "L’objectif habituel est de progresser vers environ 150 minutes d’activité d’intensité modérée par semaine, réparties sur plusieurs jours.",
+          "Les sports avec risque de chute, de choc abdominal, de collision ou de plongée sous-marine sont à éviter.",
+          "Arrêtez l’effort et demandez un avis en cas de saignement, perte de liquide, contractions douloureuses, malaise, douleur thoracique ou diminution des mouvements du bébé."
+        ],
+        quote:
+          "Pendant la grossesse, l’objectif n’est pas la performance : il s’agit de rester active de façon régulière, confortable et adaptée à votre situation."
+      },
+      {
+        title: "Pourquoi bouger pendant la grossesse ?",
+        paragraphs: [
+          "L’activité physique aide à entretenir le cœur, les muscles, la mobilité et le bien-être psychologique.",
+          "Elle peut contribuer à limiter les douleurs du dos, la constipation, la prise de poids excessive et le risque de diabète gestationnel.",
+          "Elle favorise aussi le sommeil, l’humeur et la récupération après l’accouchement.",
+          "Ces bénéfices concernent surtout une pratique régulière, progressive et compatible avec le déroulement de la grossesse."
+        ]
+      },
+      {
+        title: "Les 3 repères les plus utiles",
+        paragraphs: [
+          "Choisissez une activité que vous pouvez pratiquer sans douleur et sans sensation d’épuisement.",
+          "Pendant un effort modéré, vous devez généralement pouvoir parler, même si votre respiration est un peu plus rapide.",
+          "Hydratez-vous, évitez la chaleur excessive et adaptez l’intensité au fil des trimestres."
+        ],
+        quote:
+          "Une séance courte compte aussi : plusieurs périodes de dix à quinze minutes peuvent être plus faciles à intégrer qu’une longue séance."
+      },
+      {
+        title: "Quelle quantité d’activité est recommandée ?",
+        paragraphs: [
+          "Pour une grossesse sans complication, les recommandations encouragent généralement environ 150 minutes d’activité d’intensité modérée par semaine.",
+          "Cette durée peut être répartie sur plusieurs jours, par exemple trente minutes cinq jours par semaine.",
+          "Si vous étiez peu active avant la grossesse, commencez par des séances courtes de dix à quinze minutes puis augmentez progressivement.",
+          "Si vous étiez déjà sportive, vous pouvez souvent poursuivre une partie de vos activités en les adaptant avec le professionnel qui suit la grossesse."
+        ]
+      },
+      {
+        title: "Comment reconnaître une intensité modérée ?",
+        paragraphs: [
+          "Une activité modérée accélère légèrement la respiration et le rythme cardiaque sans vous empêcher de parler.",
+          "Le test de la conversation est souvent plus utile qu’un objectif précis de fréquence cardiaque.",
+          "Vous devez pouvoir terminer la séance sans épuisement important et récupérer rapidement.",
+          "L’intensité ressentie peut varier selon le terme, la fatigue, la chaleur et les symptômes du jour."
+        ]
+      },
+      {
+        title: "Quelles activités sont généralement adaptées ?",
+        bullets: [
+          "La marche à un rythme confortable.",
+          "La natation et l’aquagym prénatale.",
+          "Le vélo d’appartement.",
+          "Le yoga ou le Pilates prénatal encadré.",
+          "Le renforcement musculaire léger à modéré.",
+          "Les exercices de mobilité et d’assouplissement doux.",
+          "La danse sans sauts ni risque de chute.",
+          "Les activités quotidiennes comme les déplacements à pied."
+        ],
+        paragraphs: [
+          "Le meilleur choix est une activité que vous appréciez et que vous pouvez pratiquer régulièrement.",
+          "Les cours destinés aux femmes enceintes doivent être encadrés par une personne formée et informée de votre terme."
+        ]
+      },
+      {
+        title: "La marche est-elle suffisante ?",
+        paragraphs: [
+          "Oui. La marche est accessible, facile à adapter et ne nécessite pas de matériel particulier.",
+          "Vous pouvez varier la durée et l’allure selon votre forme.",
+          "Des chaussures confortables, un terrain stable et une bonne hydratation sont recommandés.",
+          "En cas de douleurs pelviennes ou ligamentaires, réduisez la durée, ralentissez et demandez conseil si la gêne persiste."
+        ]
+      },
+      {
+        title: "Peut-on nager pendant la grossesse ?",
+        paragraphs: [
+          "La natation est généralement bien tolérée car l’eau soulage le poids du corps et limite les impacts.",
+          "Elle peut aider à réduire les sensations de jambes lourdes et certaines douleurs du dos.",
+          "Évitez les plongeons, les apnées prolongées et les mouvements qui provoquent une douleur.",
+          "Après une perte des eaux ou en cas de problème médical, demandez l’accord de la maternité avant d’aller à la piscine."
+        ]
+      },
+      {
+        title: "Peut-on faire du renforcement musculaire ?",
+        paragraphs: [
+          "Oui, un renforcement léger à modéré peut être poursuivi ou commencé progressivement en l’absence de contre-indication.",
+          "Privilégiez des mouvements contrôlés, une respiration régulière et des charges permettant de conserver une bonne technique.",
+          "Évitez de bloquer votre respiration, de pousser en force ou de rechercher des charges maximales.",
+          "Un professionnel formé peut vous aider à adapter les exercices au ventre, au périnée et aux changements d’équilibre."
+        ]
+      },
+      {
+        title: "Peut-on travailler les abdominaux ?",
+        paragraphs: [
+          "Certains exercices abdominaux peuvent être adaptés pendant la grossesse, notamment le travail respiratoire et le renforcement profond.",
+          "Les mouvements provoquant une douleur, une poussée importante vers le bas ou un bombement marqué au centre du ventre doivent être modifiés.",
+          "Les longues séries de relevés de buste classiques deviennent souvent inconfortables et peu adaptées.",
+          "Une sage-femme ou un kinésithérapeute formé à la périnatalité peut proposer des exercices appropriés."
+        ]
+      },
+      {
+        title: "Faut-il faire des exercices du périnée ?",
+        paragraphs: [
+          "Les exercices du plancher pelvien peuvent aider à mieux connaître et contrôler le périnée.",
+          "Ils peuvent contribuer à prévenir ou réduire certaines fuites urinaires.",
+          "Le périnée doit pouvoir se contracter mais aussi se relâcher correctement.",
+          "En cas de douleur pelvienne, de sensation de pesanteur ou de difficulté à identifier les muscles, demandez un accompagnement personnalisé."
+        ]
+      },
+      {
+        title: "Peut-on courir pendant la grossesse ?",
+        paragraphs: [
+          "Une femme qui courait régulièrement avant la grossesse peut parfois poursuivre en réduisant l’intensité et la durée.",
+          "Il est généralement déconseillé de commencer un programme de course intense pendant la grossesse si vous ne couriez pas auparavant.",
+          "Les douleurs pelviennes, les fuites urinaires, la sensation de lourdeur ou l’inconfort doivent conduire à adapter ou interrompre la course.",
+          "Privilégiez un terrain stable, évitez la chaleur et demandez un avis en cas de grossesse à risque."
+        ]
+      },
+      {
+        title: "Quels sports faut-il éviter ?",
+        bullets: [
+          "Les sports de combat et les activités avec risque de choc abdominal.",
+          "Les sports collectifs avec collisions fréquentes.",
+          "L’équitation, le ski alpin, l’escalade ou les activités présentant un risque important de chute.",
+          "La plongée sous-marine avec bouteilles.",
+          "Les activités en altitude élevée sans acclimatation ni avis médical.",
+          "Les exercices pratiqués dans une chaleur intense.",
+          "Les sports mécaniques ou les attractions provoquant des secousses importantes."
+        ],
+        paragraphs: [
+          "Le niveau de risque dépend aussi de votre expérience, du terme et des conditions de pratique.",
+          "Une activité auparavant maîtrisée peut devenir moins sûre lorsque l’équilibre et les articulations se modifient."
+        ]
+      },
+      {
+        title: "Pourquoi la plongée sous-marine est-elle déconseillée ?",
+        paragraphs: [
+          "La plongée avec bouteilles expose le bébé aux variations de pression et à un risque d’accident de décompression.",
+          "Elle est donc contre-indiquée pendant toute la grossesse.",
+          "La nage en surface reste généralement possible si la grossesse évolue normalement.",
+          "L’apnée intensive ou prolongée doit également être évitée."
+        ]
+      },
+      {
+        title: "Peut-on faire du vélo ?",
+        paragraphs: [
+          "Le vélo d’appartement est généralement une option stable et facile à contrôler.",
+          "Le vélo en extérieur peut devenir plus risqué à mesure que l’équilibre change et que le ventre s’arrondit.",
+          "Évitez les routes dangereuses, les terrains irréguliers et les situations avec risque de chute.",
+          "Adaptez la hauteur du guidon et de la selle pour conserver une position confortable."
+        ]
+      },
+      {
+        title: "Faut-il éviter de rester allongée sur le dos ?",
+        paragraphs: [
+          "À partir du deuxième trimestre, une position prolongée à plat sur le dos peut provoquer un malaise chez certaines femmes en comprimant de gros vaisseaux.",
+          "Si vous vous sentez étourdie, nauséeuse ou essoufflée, tournez-vous sur le côté et arrêtez l’exercice.",
+          "Pour les exercices au sol, utilisez une position inclinée ou latérale lorsque cela est plus confortable.",
+          "Il n’est pas nécessaire de s’inquiéter si vous vous réveillez brièvement sur le dos : changez simplement de position."
+        ]
+      },
+      {
+        title: "Comment adapter l’activité au premier trimestre ?",
+        paragraphs: [
+          "La fatigue, les nausées et les vertiges peuvent limiter l’activité au début de la grossesse.",
+          "Réduisez l’intensité les jours difficiles et privilégiez des séances courtes.",
+          "Évitez de vous entraîner à jeun si cela augmente les nausées ou les malaises.",
+          "Une baisse temporaire de l’activité n’annule pas les bénéfices d’une reprise progressive lorsque vous vous sentez mieux."
+        ]
+      },
+      {
+        title: "Comment l’adapter au deuxième trimestre ?",
+        paragraphs: [
+          "Le deuxième trimestre est souvent plus confortable, mais le centre de gravité commence à se modifier.",
+          "Privilégiez les activités stables et adaptez les exercices nécessitant beaucoup d’équilibre.",
+          "Soutenez le ventre si cela améliore le confort et choisissez une tenue qui ne comprime pas.",
+          "Réduisez les impacts si vous ressentez des douleurs ligamentaires, pelviennes ou des fuites urinaires."
+        ]
+      },
+      {
+        title: "Comment l’adapter au troisième trimestre ?",
+        paragraphs: [
+          "L’essoufflement, la fatigue, le poids du ventre et les troubles de l’équilibre peuvent nécessiter des séances plus courtes.",
+          "La marche, la natation, la mobilité douce et les exercices de respiration sont souvent bien tolérés.",
+          "Évitez les changements de direction rapides et les mouvements qui deviennent instables.",
+          "À l’approche du terme, restez proche d’un lieu où vous pouvez vous asseoir, boire et demander de l’aide si nécessaire."
+        ]
+      },
+      {
+        title: "Comment éviter la chaleur et la déshydratation ?",
+        bullets: [
+          "Buvez avant, pendant et après l’activité.",
+          "Évitez les heures les plus chaudes.",
+          "Portez des vêtements légers et respirants.",
+          "Préférez un lieu ventilé.",
+          "Réduisez l’intensité lorsqu’il fait chaud ou humide.",
+          "Arrêtez-vous en cas de vertige, faiblesse, crampes ou mal de tête."
+        ],
+        paragraphs: [
+          "Les séances dans une pièce surchauffée, le yoga chaud et les efforts prolongés par forte chaleur sont déconseillés."
+        ]
+      },
+      {
+        title: "Quand faut-il demander un avis avant de commencer ?",
+        bullets: [
+          "Vous avez une maladie cardiaque, respiratoire ou neurologique.",
+          "Vous présentez une hypertension, un diabète ou une anémie importante.",
+          "La grossesse est multiple ou fait l’objet d’une surveillance renforcée.",
+          "Vous avez un placenta bas, des saignements ou un risque d’accouchement prématuré.",
+          "Vous avez déjà eu des complications obstétricales.",
+          "Vous souhaitez reprendre un sport intense après une longue période d’inactivité."
+        ],
+        paragraphs: [
+          "Le professionnel peut autoriser l’activité, l’adapter ou recommander temporairement de l’éviter selon votre situation."
+        ]
+      },
+      {
+        title: "Quels signes imposent d’arrêter immédiatement ?",
+        bullets: [
+          "Saignement vaginal.",
+          "Perte de liquide.",
+          "Contractions régulières et douloureuses.",
+          "Essoufflement inhabituel avant même l’effort.",
+          "Douleur thoracique, malaise ou vertige important.",
+          "Mal de tête intense ou troubles visuels.",
+          "Douleur ou gonflement d’un mollet.",
+          "Faiblesse musculaire inhabituelle.",
+          "Diminution des mouvements du bébé à un terme où vous les ressentez habituellement."
+        ],
+        paragraphs: [
+          "Arrêtez l’activité, asseyez-vous ou allongez-vous sur le côté et contactez la maternité ou un professionnel selon l’intensité des symptômes.",
+          "En cas de douleur thoracique, difficulté respiratoire importante ou malaise grave, appelez le 15 ou le 112."
+        ]
+      },
+      {
+        title: "L’activité physique peut-elle déclencher l’accouchement ?",
+        paragraphs: [
+          "Une activité modérée adaptée ne déclenche pas habituellement un accouchement prématuré dans une grossesse sans complication.",
+          "Des contractions irrégulières peuvent parfois apparaître après un effort puis disparaître avec le repos et l’hydratation.",
+          "Des contractions régulières, douloureuses ou persistantes doivent être évaluées.",
+          "En cas de risque obstétrical particulier, suivez les consignes spécifiques de l’équipe."
+        ]
+      },
+      {
+        title: "Comment reprendre si l’on était sédentaire ?",
+        paragraphs: [
+          "Commencez par des activités simples comme dix minutes de marche à un rythme confortable.",
+          "Augmentez progressivement la durée avant d’augmenter l’intensité.",
+          "Alternez les jours actifs et les jours plus calmes si la fatigue est importante.",
+          "La régularité est plus utile qu’une séance intense et occasionnelle."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une activité physique régulière est recommandée pendant une grossesse sans complication.",
+          "La marche, la natation, le vélo d’appartement et le renforcement adapté sont généralement de bonnes options.",
+          "L’objectif habituel est d’approcher 150 minutes d’activité modérée par semaine, progressivement.",
+          "Les activités à risque de chute, de collision, de choc abdominal ou de décompression doivent être évitées.",
+          "Tout symptôme inhabituel pendant l’effort doit conduire à arrêter et, si nécessaire, à demander un avis médical."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Prescription d’activité physique et sportive pendant la grossesse et en post-partum",
+        url: "https://www.has-sante.fr/jcms/c_2859527/fr/prescription-d-activite-physique-et-sportive-pendant-la-grossesse-et-en-post-partum"
+      },
+      {
+        label: "Assurance Maladie — Activité physique et grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/activite-physique-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Bouger pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/bouger-pendant-la-grossesse"
+      },
+      {
+        label: "Ministère des Sports — Activité physique et grossesse",
+        url: "https://www.sports.gouv.fr/"
+      }
+    ]
   }
 ];
 
