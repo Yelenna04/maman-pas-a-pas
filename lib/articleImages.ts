@@ -22,6 +22,31 @@ export function getArticleImage(
     return "/images/projet-bebe-parler-partenaire.png";
   }
 
+
+  if (slug === "apres-arret-contraception-quand-cycle-revient") {
+    return "/images/fertilite-cycle-retour-cycle-apres-contraception.png";
+  }
+
+  if (slug === "combien-temps-moyenne-tomber-enceinte") {
+    return "/images/fertilite-cycle-combien-temps-tomber-enceinte.png";
+  }
+
+  if (slug === "tests-ovulation-utiliser-interpreter") {
+    return "/images/fertilite-cycle-tests-ovulation.png";
+  }
+
+  if (slug === "cycles-irreguliers-mieux-comprendre") {
+    return "/images/fertilite-cycle-cycles-irreguliers.png";
+  }
+
+  if (slug === "comment-reperer-ovulation-periode-fertile") {
+    return "/images/fertilite-cycle-reperer-ovulation.png";
+  }
+
+  if (slug === "periode-fertile-jours-plus-favorables") {
+    return "/images/fertilite-cycle-periode-fertile.png";
+  }
+
   if (slug === "nausees-vomissements-comment-les-soulager") {
     return "/images/article-a-la-une.png";
   }
