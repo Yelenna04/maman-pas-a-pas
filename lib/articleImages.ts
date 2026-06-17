@@ -92,7 +92,7 @@ export function getArticleImage(
     return "/images/deuxieme-trimestre-evolution-bebe-semaine-par-semaine.png";
   }
   if (slug === "evolution-bebe-semaine-par-semaine-troisieme-trimestre") {
-    return "/images/article-a-la-une.png";
+    return "/images/troisieme-trimestre-evolution-bebe-semaine-par-semaine.png";
   }
 
 
@@ -244,6 +244,27 @@ export function getArticleImage(
 
   if (slug === "sexualite-pendant-grossesse-que-faut-il-savoir") {
     return "/images/deuxieme-trimestre-sexualite.png";
+  }
+
+
+  if (slug === "contractions-differencier-travail-et-faux-travail") {
+    return "/images/troisieme-trimestre-contractions-travail-faux-travail.png";
+  }
+
+  if (slug === "essoufflement-reflux-jambes-lourdes-comment-se-soulager") {
+    return "/images/troisieme-trimestre-essoufflement-reflux-jambes-lourdes.png";
+  }
+
+  if (slug === "comment-preparer-sa-valise-de-maternite") {
+    return "/images/troisieme-trimestre-valise-maternite.png";
+  }
+
+  if (slug === "comment-reconnaitre-les-signes-de-debut-du-travail") {
+    return "/images/troisieme-trimestre-signes-debut-travail.png";
+  }
+
+  if (slug === "perte-des-eaux-que-faut-il-faire") {
+    return "/images/troisieme-trimestre-perte-des-eaux.png";
   }
 
   const images: Record<string, string> = {
