@@ -267,6 +267,43 @@ export function getArticleImage(
     return "/images/troisieme-trimestre-perte-des-eaux.png";
   }
 
+
+  if (slug === "premier-rendez-vous-de-grossesse-comment-se-deroule-t-il") {
+    return "/images/examens-suivi-premier-rendez-vous-grossesse.png";
+  }
+
+  if (slug === "premiere-echographie-quand-a-t-elle-lieu-et-que-verifie-t-elle") {
+    return "/images/examens-suivi-premiere-echographie.png";
+  }
+
+  if (slug === "quelles-prises-de-sang-et-analyses-sont-realisees-pendant-la-grossesse") {
+    return "/images/examens-suivi-prises-de-sang-analyses.png";
+  }
+
+  if (slug === "depistage-de-la-trisomie-21-comment-se-deroule-t-il") {
+    return "/images/examens-suivi-depistage-trisomie-21.png";
+  }
+
+  if (slug === "deuxieme-echographie-que-verifie-lechographie-morphologique") {
+    return "/images/examens-suivi-deuxieme-echographie.png";
+  }
+
+  if (slug === "test-du-diabete-gestationnel-qui-est-concerne-et-comment-se-passe-t-il") {
+    return "/images/examens-suivi-diabete-gestationnel.png";
+  }
+
+  if (slug === "troisieme-echographie-que-verifie-t-elle") {
+    return "/images/examens-suivi-troisieme-echographie.png";
+  }
+
+  if (slug === "consultations-prenatales-quel-est-le-calendrier-du-suivi") {
+    return "/images/examens-suivi-consultations-prenatales.png";
+  }
+
+  if (slug === "monitoring-du-bebe-quand-et-pourquoi-est-il-realise") {
+    return "/images/examens-suivi-monitoring-bebe.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
