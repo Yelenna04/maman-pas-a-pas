@@ -89,7 +89,7 @@ export function getArticleImage(
   }
 
   if (slug === "evolution-bebe-semaine-par-semaine-deuxieme-trimestre") {
-    return "/images/article-a-la-une.png";
+    return "/images/deuxieme-trimestre-evolution-bebe-semaine-par-semaine.png";
   }
   if (slug === "evolution-bebe-semaine-par-semaine-troisieme-trimestre") {
     return "/images/article-a-la-une.png";
@@ -225,6 +225,26 @@ export function getArticleImage(
   }
 
 
+
+  if (slug === "quand-commence-t-on-a-sentir-le-bebe-bouger") {
+    return "/images/deuxieme-trimestre-sentir-bebe-bouger.png";
+  }
+
+  if (slug === "ventre-qui-s-arrondit-quels-changements-attendre") {
+    return "/images/deuxieme-trimestre-ventre-qui-s-arrondit.png";
+  }
+
+  if (slug === "douleurs-ligamentaires-comment-les-reconnaitre-et-les-soulager") {
+    return "/images/deuxieme-trimestre-douleurs-ligamentaires.png";
+  }
+
+  if (slug === "sommeil-positions-mieux-dormir-deuxieme-trimestre") {
+    return "/images/deuxieme-trimestre-sommeil-positions.png";
+  }
+
+  if (slug === "sexualite-pendant-grossesse-que-faut-il-savoir") {
+    return "/images/deuxieme-trimestre-sexualite.png";
+  }
 
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
