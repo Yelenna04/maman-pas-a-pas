@@ -224,6 +224,32 @@ export function getArticleImage(
     return "/images/valise-maternite.png";
   }
 
+
+
+  if (slug === "comment-vivre-emotionnellement-parcours-pma") {
+    return "/images/pma-parcours-emotions.png";
+  }
+
+  if (slug === "comment-se-deroule-fiv-etape-par-etape") {
+    return "/images/pma-parcours-fiv-etapes.png";
+  }
+
+  if (slug === "fiv-classique-icsi-quelles-differences") {
+    return "/images/pma-parcours-fiv-icsi.png";
+  }
+
+  if (slug === "insemination-intra-uterine-iiu-comment-ca-se-passe") {
+    return "/images/pma-parcours-insemination-iiu.png";
+  }
+
+  if (slug === "pma-demarches-delais-prise-en-charge") {
+    return "/images/pma-parcours-demarches-delais.png";
+  }
+
+  if (slug === "pma-amp-definition-a-qui-adresse") {
+    return "/images/pma-parcours-definition-amp.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
