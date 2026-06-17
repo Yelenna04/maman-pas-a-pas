@@ -101,23 +101,23 @@ export function getArticleImage(
   }
 
   if (slug === "plantes-huiles-essentielles-complements-sans-risque") {
-    return "/images/article-a-la-une.png";
+    return "/images/vaccins-medicaments-plantes-complements.png";
   }
 
   if (slug === "automedication-avant-pendant-grossesse-reflexes") {
-    return "/images/article-a-la-une.png";
+    return "/images/vaccins-medicaments-automedication.png";
   }
 
   if (slug === "vitamine-b9-avant-grossesse-quand-comment-prendre") {
-    return "/images/article-a-la-une.png";
+    return "/images/vaccins-medicaments-vitamine-b9.png";
   }
 
   if (slug === "medicaments-projet-bebe-lesquels-signaler") {
-    return "/images/article-a-la-une.png";
+    return "/images/vaccins-medicaments-medicaments-projet-bebe.png";
   }
 
   if (slug === "quels-vaccins-verifier-avant-grossesse") {
-    return "/images/article-a-la-une.png";
+    return "/images/vaccins-medicaments-vaccins.png";
   }
 
   if (slug === "comment-vivre-emotionnellement-parcours-pma") {
