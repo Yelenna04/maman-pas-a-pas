@@ -304,6 +304,43 @@ export function getArticleImage(
     return "/images/examens-suivi-monitoring-bebe.png";
   }
 
+
+  if (slug === "alimentation-pendant-la-grossesse-quels-aliments-eviter-et-quelles-precautions-prendre") {
+    return "/images/symptomes-bien-etre-alimentation-grossesse.png";
+  }
+
+  if (slug === "prise-de-poids-pendant-la-grossesse-quels-reperes") {
+    return "/images/symptomes-bien-etre-prise-de-poids.png";
+  }
+
+  if (slug === "activite-physique-pendant-la-grossesse-que-peut-on-faire") {
+    return "/images/symptomes-bien-etre-activite-physique.png";
+  }
+
+  if (slug === "medicaments-pendant-la-grossesse-quels-reflexes-adopter") {
+    return "/images/symptomes-bien-etre-medicaments.png";
+  }
+
+  if (slug === "constipation-ballonnements-et-reflux-comment-les-soulager") {
+    return "/images/symptomes-bien-etre-constipation-ballonnements-reflux.png";
+  }
+
+  if (slug === "maux-de-dos-pendant-la-grossesse-que-faire") {
+    return "/images/symptomes-bien-etre-maux-de-dos.png";
+  }
+
+  if (slug === "troubles-du-sommeil-comment-mieux-dormir-enceinte") {
+    return "/images/symptomes-bien-etre-troubles-sommeil.png";
+  }
+
+  if (slug === "stress-anxiete-et-emotions-quand-demander-de-laide") {
+    return "/images/symptomes-bien-etre-stress-anxiete-emotions.png";
+  }
+
+  if (slug === "fievre-douleur-ou-malaise-quand-consulter-rapidement") {
+    return "/images/symptomes-bien-etre-fievre-douleur-malaise.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
