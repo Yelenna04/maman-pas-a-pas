@@ -47,6 +47,31 @@ export function getArticleImage(
     return "/images/fertilite-cycle-periode-fertile.png";
   }
 
+
+  if (slug === "sante-partenaire-points-verifier-avant-grossesse") {
+    return "/images/sante-rendez-vous-sante-partenaire.png";
+  }
+
+  if (slug === "antecedents-medicaux-que-signaler-avant-grossesse") {
+    return "/images/sante-rendez-vous-antecedents-medicaux.png";
+  }
+
+  if (slug === "quand-faire-bilan-fertilite") {
+    return "/images/sante-rendez-vous-bilan-fertilite.png";
+  }
+
+  if (slug === "quel-professionnel-consulter-avant-projet-bebe") {
+    return "/images/sante-rendez-vous-quel-professionnel-consulter.png";
+  }
+
+  if (slug === "quels-examens-faire-avant-grossesse") {
+    return "/images/sante-rendez-vous-quels-examens.png";
+  }
+
+  if (slug === "consultation-preconceptionnelle-pourquoi-quand-faire") {
+    return "/images/sante-rendez-vous-consultation-preconceptionnelle.png";
+  }
+
   if (slug === "nausees-vomissements-comment-les-soulager") {
     return "/images/article-a-la-une.png";
   }
