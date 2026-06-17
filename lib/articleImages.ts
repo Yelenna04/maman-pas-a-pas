@@ -145,27 +145,27 @@ export function getArticleImage(
   }
 
   if (slug === "produits-quotidien-environnement-que-limiter-avant-grossesse") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-produits-environnement.png";
   }
 
   if (slug === "alcool-projet-bebe-faut-il-arreter-avant-grossesse") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-alcool-projet-bebe.png";
   }
 
   if (slug === "tabac-projet-grossesse-pourquoi-comment-arreter") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-tabac-arreter.png";
   }
 
   if (slug === "sommeil-stress-projet-bebe-prendre-soin-de-soi") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-sommeil-stress.png";
   }
 
   if (slug === "activite-physique-avant-grossesse") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-activite-physique.png";
   }
 
   if (slug === "preparer-alimentation-avant-grossesse") {
-    return "/images/article-a-la-une.png";
+    return "/images/hygiene-vie-alimentation.png";
   }
 
   if (slug === "sante-partenaire-points-verifier-avant-grossesse") {
