@@ -3,11 +3,11 @@ export function getArticleImage(
   slug?: string
 ) {
   if (slug === "quand-annoncer-grossesse-proches-employeur") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-quand-annoncer-grossesse.png";
   }
 
   if (slug === "emotions-inquietudes-premier-trimestre-est-ce-normal") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-emotions-inquietudes.png";
   }
 
   if (slug === "que-faire-avant-essayer-avoir-bebe") {
@@ -73,19 +73,19 @@ export function getArticleImage(
   }
 
   if (slug === "nausees-vomissements-comment-les-soulager") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-nausees-vomissements.png";
   }
 
   if (slug === "fatigue-premier-trimestre-pourquoi-si-importante") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-fatigue.png";
   }
 
   if (slug === "douleurs-saignements-debut-grossesse-quand-consulter") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-douleurs-saignements.png";
   }
 
   if (slug === "evolution-bebe-semaine-par-semaine-premier-trimestre") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-evolution-bebe-semaine-par-semaine.png";
   }
 
   if (slug === "evolution-bebe-semaine-par-semaine-deuxieme-trimestre") {
@@ -97,7 +97,7 @@ export function getArticleImage(
 
 
   if (slug === "test-positif-premieres-demarches") {
-    return "/images/article-a-la-une.png";
+    return "/images/premier-trimestre-test-positif-demarches.png";
   }
 
   if (slug === "plantes-huiles-essentielles-complements-sans-risque") {
