@@ -7883,7 +7883,7 @@ export const articles: Article[] = [
     category: "Accouchement",
     categorySlug: "accouchement",
     subcategory: "Début du travail",
-    subcategorySlug: "debut-du-travail",
+    subcategorySlug: "debut-travail",
     readingTime: "9 min",
     publishedAt: "2026-06-14",
     updatedAt: "2026-06-14",
