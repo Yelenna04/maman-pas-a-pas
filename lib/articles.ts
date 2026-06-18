@@ -5370,6 +5370,213 @@ export const articles: Article[] = [
     ]
   },
 
+{
+    slug: "comment-choisir-sa-maternite",
+    title: "Comment choisir sa maternité ?",
+    description:
+      "Distance, niveau de maternité, suivi de grossesse, péridurale, projet de naissance, accompagnement et post-partum : les critères utiles pour choisir une maternité adaptée à sa situation.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Préparation",
+    subcategorySlug: "preparation",
+    readingTime: "10 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le choix de la maternité dépend surtout de votre situation médicale, de la distance, de vos besoins d’accompagnement et des pratiques proposées.",
+          "Les maternités sont organisées en niveaux selon les soins nécessaires pour le bébé, notamment en cas de prématurité ou de grossesse à risque.",
+          "Une maternité proche peut être rassurante, mais elle n’est pas toujours le seul critère à prendre en compte.",
+          "Renseignez-vous tôt, car certaines maternités demandent une inscription dès le début de la grossesse.",
+          "Le plus important est de choisir un lieu où vous vous sentez en sécurité, informée et respectée."
+        ],
+        quote:
+          "La meilleure maternité n’est pas forcément la plus connue : c’est celle qui correspond à votre grossesse, à vos besoins et à ce qui vous rassure."
+      },
+      {
+        title: "Pourquoi le choix de la maternité compte ?",
+        paragraphs: [
+          "La maternité est le lieu où se dérouleront souvent la fin du suivi, l’accouchement et les premiers jours avec le bébé.",
+          "Elle influence l’organisation pratique, le type d’accompagnement, les possibilités pendant le travail et les repères donnés après la naissance.",
+          "Toutes les maternités ont pour objectif la sécurité de la mère et du bébé, mais leur organisation, leur taille, leurs locaux et leurs habitudes peuvent varier.",
+          "Prendre le temps de comparer permet d’éviter de choisir uniquement par défaut ou dans l’urgence."
+        ]
+      },
+      {
+        title: "Commencer par sa situation médicale",
+        paragraphs: [
+          "Le premier critère est votre situation médicale et celle du bébé.",
+          "Certaines grossesses nécessitent un suivi plus spécialisé : antécédent important, grossesse multiple, hypertension, diabète compliqué, risque d’accouchement prématuré, pathologie maternelle ou anomalie repérée chez le bébé.",
+          "Dans ces situations, le professionnel qui suit la grossesse peut vous orienter vers une maternité adaptée.",
+          "Si la grossesse est simple, plusieurs options peuvent être possibles, ce qui laisse davantage de place aux critères personnels et pratiques."
+        ]
+      },
+      {
+        title: "Comprendre les niveaux de maternité",
+        paragraphs: [
+          "Les maternités sont classées par niveaux selon les soins disponibles pour les nouveau-nés.",
+          "Une maternité de niveau 1 prend en charge les grossesses et accouchements sans risque particulier, avec un bébé attendu à terme et en bonne santé.",
+          "Une maternité de niveau 2 dispose d’un service de néonatologie pour certains bébés nécessitant une surveillance ou des soins spécifiques.",
+          "Une maternité de niveau 3 dispose d’une réanimation néonatale et prend en charge les situations les plus complexes, notamment les très grands prématurés.",
+          "Ce classement ne signifie pas qu’un niveau 3 est toujours « mieux » : le niveau adapté dépend de la grossesse."
+        ],
+        quote:
+          "Une maternité de niveau 1 peut être parfaitement adaptée à une grossesse simple."
+      },
+      {
+        title: "La distance : un critère important mais pas unique",
+        paragraphs: [
+          "La proximité est un critère rassurant, surtout au moment du départ à la maternité.",
+          "Un trajet simple et connu peut diminuer le stress le jour J.",
+          "Mais la maternité la plus proche n’est pas toujours celle qui correspond le mieux à votre suivi, à vos besoins ou à votre projet.",
+          "Essayez d’évaluer le temps de trajet réel, les embouteillages possibles, les possibilités de stationnement et la facilité d’accès de nuit ou le week-end."
+        ]
+      },
+      {
+        title: "Se renseigner sur le suivi proposé",
+        paragraphs: [
+          "Certaines maternités assurent une partie importante du suivi de grossesse, tandis que d’autres travaillent en lien avec des sages-femmes libérales, des médecins ou des structures extérieures.",
+          "Demandez comment se passent les consultations, les échographies, les urgences obstétricales, les cours de préparation et le suivi de fin de grossesse.",
+          "Il peut être utile de savoir si vous verrez souvent les mêmes professionnels ou si le suivi est organisé par plusieurs membres de l’équipe.",
+          "Le bon choix dépend aussi de votre besoin de continuité et de repères."
+        ]
+      },
+      {
+        title: "Les pratiques pendant le travail",
+        bullets: [
+          "Peut-on bouger pendant le travail si la situation le permet ?",
+          "Y a-t-il des ballons, tapis, baignoires ou douches ?",
+          "Comment se passe le monitoring ?",
+          "La personne accompagnante peut-elle rester avec vous ?",
+          "Peut-on tamiser la lumière ou créer une ambiance calme ?",
+          "Comment l’équipe accompagne-t-elle les projets de naissance ?",
+          "Quelles sont les pratiques en cas de déclenchement ou de césarienne ?"
+        ],
+        paragraphs: [
+          "Ces questions ne garantissent pas que tout sera possible le jour J, mais elles permettent de comprendre l’approche générale de la maternité."
+        ]
+      },
+      {
+        title: "La péridurale et la gestion de la douleur",
+        paragraphs: [
+          "Si vous souhaitez une péridurale, renseignez-vous sur l’organisation de l’anesthésie dans la maternité.",
+          "Si vous hésitez ou si vous souhaitez d’abord essayer sans péridurale, demandez quels autres moyens sont proposés : mobilité, respiration, ballon, douche, accompagnement, positions ou autres outils selon les lieux.",
+          "Le plus important est de ne pas vous sentir enfermée dans un choix à l’avance.",
+          "Vous avez le droit de changer d’avis selon l’intensité du travail, votre fatigue et la situation médicale."
+        ]
+      },
+      {
+        title: "La place de la personne accompagnante",
+        paragraphs: [
+          "La présence de la personne accompagnante peut être un repère essentiel pendant l’accouchement.",
+          "Demandez si elle peut rester pendant le travail, la naissance, une césarienne programmée ou certaines situations particulières.",
+          "Renseignez-vous aussi sur les horaires de visite, la possibilité de rester après la naissance et les règles en chambre.",
+          "Ces détails pratiques peuvent avoir beaucoup d’importance pour votre vécu."
+        ]
+      },
+      {
+        title: "Le séjour après la naissance",
+        paragraphs: [
+          "Le séjour à la maternité permet de surveiller la mère et le bébé, de récupérer et de recevoir des conseils pour les premiers soins.",
+          "Renseignez-vous sur les chambres, la présence possible de l’accompagnant, l’aide à l’allaitement ou au biberon, le soutien pour les soins du bébé et l’accompagnement du retour à la maison.",
+          "Certaines maternités proposent des chambres individuelles selon les disponibilités ou les options administratives.",
+          "Il est utile de vérifier ce qui est inclus, ce qui est payant et ce qui dépend de votre mutuelle."
+        ]
+      },
+      {
+        title: "L’accompagnement de l’allaitement ou du biberon",
+        paragraphs: [
+          "Si vous souhaitez allaiter, demandez quel accompagnement est proposé les premiers jours.",
+          "Si vous préférez donner le biberon ou si vous hésitez, vous pouvez aussi demander comment l’équipe accompagne ce choix.",
+          "Une maternité soutenante ne devrait pas vous faire culpabiliser.",
+          "L’important est d’avoir des informations claires, une aide concrète et un respect de votre situation."
+        ]
+      },
+      {
+        title: "Les urgences et la sécurité",
+        paragraphs: [
+          "Avant de choisir, vérifiez comment joindre la maternité en cas de contractions, perte des eaux, fièvre, saignement, diminution des mouvements du bébé ou autre inquiétude.",
+          "Demandez où se trouvent les urgences obstétricales, comment se fait l’accueil et à partir de quel terme il faut appeler ou venir.",
+          "Ces informations évitent de chercher les consignes dans un moment stressant.",
+          "Gardez toujours le numéro de la maternité facilement accessible à la fin de la grossesse."
+        ]
+      },
+      {
+        title: "Maternité publique ou privée : que comparer ?",
+        paragraphs: [
+          "Le choix entre public et privé dépend de l’offre près de chez vous, de votre suivi, de vos préférences et des aspects financiers.",
+          "Comparez les frais éventuels, les dépassements d’honoraires, la prise en charge par l’Assurance Maladie, votre mutuelle, les chambres individuelles et les consultations.",
+          "Le coût ne doit pas être découvert trop tard.",
+          "Demandez un devis ou des informations écrites si vous avez un doute."
+        ]
+      },
+      {
+        title: "Faut-il visiter la maternité ?",
+        paragraphs: [
+          "Quand c’est possible, une visite peut aider à se projeter : accès, accueil, salle de naissance, chambres, fonctionnement général.",
+          "Certaines maternités organisent des réunions d’information ou des visites virtuelles.",
+          "Même sans visite, vous pouvez préparer une liste de questions à poser lors d’un rendez-vous ou par téléphone.",
+          "Voir ou comprendre les lieux permet souvent de diminuer l’inconnu."
+        ]
+      },
+      {
+        title: "Les questions utiles à poser",
+        bullets: [
+          "Quel est le niveau de la maternité ?",
+          "Dans quelles situations serais-je orientée vers une autre maternité ?",
+          "Quand faut-il s’inscrire ?",
+          "Comment se passe le suivi de fin de grossesse ?",
+          "Qui appeler en cas d’inquiétude ou de début du travail ?",
+          "La personne accompagnante peut-elle rester avec moi ?",
+          "Quelles sont les possibilités pour bouger, respirer ou gérer la douleur ?",
+          "Comment l’équipe accompagne-t-elle les projets de naissance ?",
+          "Comment se passent les premiers soins du bébé ?",
+          "Quel soutien est proposé pour l’allaitement, le biberon et le retour à la maison ?"
+        ]
+      },
+      {
+        title: "Et si la maternité choisie ne convient plus ?",
+        paragraphs: [
+          "Il peut arriver de changer d’avis après une visite, une consultation ou une évolution médicale.",
+          "Selon le terme, les places et votre situation, un changement peut parfois être possible.",
+          "Parlez-en rapidement au professionnel qui vous suit pour savoir comment procéder.",
+          "Évitez d’attendre les dernières semaines si vous avez un doute important."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Choisir sa maternité, c’est trouver un équilibre entre sécurité médicale, distance, organisation pratique et ressenti personnel.",
+          "Le niveau de maternité doit être adapté à votre grossesse, sans chercher automatiquement le niveau le plus élevé.",
+          "Les questions sur la douleur, la mobilité, l’accompagnant, le séjour et le post-partum sont importantes.",
+          "Renseignez-vous tôt sur les délais d’inscription et les modalités financières.",
+          "Vous avez le droit de choisir un lieu où vous vous sentez écoutée et en confiance."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Service Public — Déclaration de grossesse et prise en charge",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F968"
+      }
+    ]
+  },
+
   {
     slug: "evolution-bebe-semaine-par-semaine-deuxieme-trimestre",
     title: "L’évolution du bébé semaine par semaine pendant le deuxième trimestre",
