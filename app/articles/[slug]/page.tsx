@@ -1,4 +1,3 @@
-import Image from "next/image";
 import type { ReactNode } from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -26,7 +25,6 @@ import {
 } from "lucide-react";
 
 import { articles, getArticle } from "@/lib/articles";
-import { getArticleImage } from "@/lib/articleImages";
 
 type Props = { params: Promise<{ slug: string }> };
 type Article = NonNullable<ReturnType<typeof getArticle>>;
@@ -1416,67 +1414,9 @@ function UnifiedArticle({ article }: { article: Article }) {
       .reverse()
       .find((section) => section !== primary && section !== cardSection);
 
-  const candidateExtraSections = contentSections.filter(
+  const extraSections = contentSections.filter(
     (section) =>
-      section !== primary &&
-      section !== cardSection &&
-      section !== helpSection,
-  );
-
-  const estimateSectionHeight = (
-    section: Article["sections"][number] | undefined,
-    mode: "main" | "accordion" = "main",
-  ) => {
-    if (!section) return 0;
-
-    if (mode === "accordion") {
-      // Un accordéon fermé occupe surtout la hauteur de son titre.
-      return 1.35;
-    }
-
-    const paragraphUnits = (section.paragraphs ?? []).reduce(
-      (total, paragraph) => total + Math.max(1, paragraph.length / 150),
-      0,
-    );
-    const bulletUnits = (section.bullets ?? []).reduce(
-      (total, bullet) => total + Math.max(0.75, bullet.length / 170),
-      0,
-    );
-    const quoteUnits = section.quote ? Math.max(1, section.quote.length / 180) : 0;
-
-    return 2.2 + paragraphUnits + bulletUnits + quoteUnits;
-  };
-
-  const baseMainHeight =
-    estimateSectionHeight(primary) +
-    Math.min(5.5, estimateSectionHeight(cardSection)) +
-    estimateSectionHeight(helpSection);
-
-  const adviceHeight = cardSection?.quote || essentials?.quote ? 3.2 : 0;
-  let estimatedMainHeight = baseMainHeight;
-  let estimatedSidebarHeight =
-    candidateExtraSections.reduce(
-      (total, section) =>
-        total + estimateSectionHeight(section, "accordion"),
-      0,
-    ) + adviceHeight;
-
-  const promotedMainSections: typeof candidateExtraSections = [];
-
-  // Les sections sont déjà classées éditorialement du plus essentiel au plus
-  // complémentaire. On fait donc remonter les premières rubriques jusqu’à
-  // obtenir deux colonnes visuellement proches, sans supprimer d’information.
-  for (const section of candidateExtraSections) {
-    if (estimatedSidebarHeight <= estimatedMainHeight * 1.12) break;
-    if (promotedMainSections.length >= 5) break;
-
-    promotedMainSections.push(section);
-    estimatedMainHeight += estimateSectionHeight(section);
-    estimatedSidebarHeight -= estimateSectionHeight(section, "accordion");
-  }
-
-  const extraSections = candidateExtraSections.filter(
-    (section) => !promotedMainSections.includes(section),
+      section !== primary && section !== cardSection && section !== helpSection,
   );
 
   const config = articleDisplayConfig[article.slug] ?? {
@@ -1509,15 +1449,6 @@ function UnifiedArticle({ article }: { article: Article }) {
             </div>
           </div>
 
-          <div className="compact-hero-photo">
-            <Image
-              src={getArticleImage(article.categorySlug, article.slug)}
-              alt=""
-              fill
-              priority
-              sizes="(max-width: 900px) 100vw, 43vw"
-            />
-          </div>
         </section>
 
         {essentials?.bullets && essentials.bullets.length > 0 && (
@@ -1606,40 +1537,10 @@ function UnifiedArticle({ article }: { article: Article }) {
               </section>
             )}
 
-            {promotedMainSections.map((section, index) => (
-              <section className="compact-section" key={section.title}>
-                <h2>
-                  <span>{index + 3}</span>
-                  {section.title}
-                </h2>
-
-                {section.paragraphs?.map((paragraph) => (
-                  <p key={paragraph}>{renderRichText(paragraph)}</p>
-                ))}
-
-                {section.bullets && (
-                  <div className="medical-list">
-                    {section.bullets.map((bullet) => (
-                      <p key={bullet}>
-                        <Check size={18} />
-                        <span>{renderRichText(bullet)}</span>
-                      </p>
-                    ))}
-                  </div>
-                )}
-
-                {section.quote && (
-                  <div className="compact-note rose-note">
-                    <p>{renderRichText(section.quote)}</p>
-                  </div>
-                )}
-              </section>
-            ))}
-
             {helpSection && (
               <section className="compact-section medical-section">
                 <h2>
-                  <span>{promotedMainSections.length + 3}</span>
+                  <span>3</span>
                   {helpSection.title}
                 </h2>
 
