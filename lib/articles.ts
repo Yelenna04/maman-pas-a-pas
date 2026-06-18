@@ -5577,6 +5577,220 @@ export const articles: Article[] = [
     ]
   },
 
+{
+    slug: "quand-et-comment-sinscrire-a-la-maternite",
+    title: "Quand et comment s’inscrire à la maternité ?",
+    description:
+      "Délais, documents, choix de l’établissement, préinscription, confirmation et questions utiles : les étapes pour s’inscrire à la maternité sans stress.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Préparation",
+    subcategorySlug: "preparation",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il vaut mieux se renseigner tôt, idéalement dès le début de la grossesse, surtout si vous habitez dans une grande ville ou si la maternité souhaitée est très demandée.",
+          "Les démarches varient selon les maternités : certaines demandent une inscription rapide, d’autres plus tardive ou une préinscription en ligne.",
+          "L’inscription ne remplace pas la déclaration de grossesse ni le suivi médical obligatoire.",
+          "Préparez vos documents administratifs et médicaux : pièce d’identité, carte Vitale, mutuelle, déclaration ou justificatif de grossesse, examens déjà réalisés.",
+          "En cas de grossesse à risque, le professionnel qui vous suit peut vous orienter vers une maternité adaptée."
+        ],
+        quote:
+          "Le bon réflexe : appeler ou consulter le site de la maternité choisie dès que le choix est fait, car les délais varient beaucoup d’un établissement à l’autre."
+      },
+      {
+        title: "Pourquoi faut-il s’inscrire à la maternité ?",
+        paragraphs: [
+          "L’inscription permet à la maternité de préparer votre accueil, d’ouvrir ou de compléter votre dossier et d’organiser une partie du suivi de grossesse.",
+          "Elle permet aussi de vérifier que l’établissement est adapté à votre situation médicale, à votre terme et à vos besoins.",
+          "Selon les maternités, l’inscription peut donner accès aux rendez-vous de fin de grossesse, aux consultations d’anesthésie, aux cours de préparation à la naissance ou aux informations pratiques pour le jour J.",
+          "Ce n’est pas seulement une formalité administrative : c’est une étape qui aide à anticiper l’organisation de l’accouchement."
+        ]
+      },
+      {
+        title: "À quel moment s’inscrire ?",
+        paragraphs: [
+          "Il n’existe pas un délai unique valable pour toutes les maternités.",
+          "Dans certaines zones, il est conseillé de se renseigner très tôt, parfois dès le premier trimestre, car les places ou les rendez-vous peuvent être demandés rapidement.",
+          "Ailleurs, l’inscription peut se faire plus tard, selon l’organisation locale.",
+          "Le plus simple est de contacter la maternité choisie dès que vous avez une idée de l’établissement où vous souhaitez accoucher."
+        ]
+      },
+      {
+        title: "Ne pas confondre inscription et déclaration de grossesse",
+        paragraphs: [
+          "L’inscription à la maternité concerne l’établissement où vous souhaitez accoucher.",
+          "La déclaration de grossesse, elle, est une démarche administrative faite après le premier examen prénatal, pour informer l’Assurance Maladie et la CAF.",
+          "Ces deux démarches sont différentes, même si elles peuvent avoir lieu à des périodes proches.",
+          "Votre médecin ou votre sage-femme peut vous expliquer les démarches à réaliser selon votre situation."
+        ],
+        quote:
+          "S’inscrire à la maternité ne suffit pas : le suivi de grossesse et les démarches administratives restent à faire en parallèle."
+      },
+      {
+        title: "Comment choisir avant de s’inscrire ?",
+        paragraphs: [
+          "Avant de remplir un dossier, vérifiez que la maternité correspond à votre situation.",
+          "Prenez en compte la distance, le niveau de maternité, les possibilités de suivi, l’organisation des urgences, la place de l’accompagnant, les pratiques pendant le travail et le séjour après la naissance.",
+          "Si votre grossesse nécessite un suivi particulier, demandez d’abord l’avis du professionnel qui vous accompagne.",
+          "Il pourra vous orienter vers une maternité disposant des soins adaptés pour vous ou pour le bébé."
+        ]
+      },
+      {
+        title: "Comment se passe l’inscription concrètement ?",
+        paragraphs: [
+          "Selon les maternités, l’inscription peut se faire en ligne, par téléphone, sur place ou lors d’un rendez-vous.",
+          "Certaines demandent une préinscription administrative, puis une confirmation plus tard dans la grossesse.",
+          "D’autres organisent directement un premier rendez-vous avec une sage-femme, un médecin ou le secrétariat de maternité.",
+          "Lorsque vous contactez l’établissement, demandez clairement : « À quel moment faut-il s’inscrire et quels documents dois-je fournir ? »"
+        ]
+      },
+      {
+        title: "Les documents souvent demandés",
+        bullets: [
+          "Une pièce d’identité.",
+          "La carte Vitale ou une attestation de droits.",
+          "Les informations de mutuelle, si vous en avez une.",
+          "Un justificatif ou une déclaration de grossesse selon l’avancement des démarches.",
+          "Les comptes rendus d’échographies déjà réalisées.",
+          "Les résultats de prises de sang et examens importants.",
+          "Le nom du professionnel qui suit votre grossesse.",
+          "Vos coordonnées complètes et une personne à prévenir."
+        ],
+        paragraphs: [
+          "La liste peut varier selon les établissements.",
+          "Mieux vaut vérifier directement auprès de la maternité pour éviter un aller-retour inutile."
+        ]
+      },
+      {
+        title: "Et si on n’a pas encore choisi sa maternité ?",
+        paragraphs: [
+          "Si vous hésitez entre plusieurs établissements, commencez par appeler ou consulter leurs sites.",
+          "Regardez les délais d’inscription, les niveaux de maternité, les modalités de suivi, les possibilités de visite ou de réunion d’information.",
+          "Vous pouvez aussi en parler à votre sage-femme, votre médecin traitant ou votre gynécologue.",
+          "Si les délais sont courts, il vaut mieux ne pas attendre d’être totalement certaine pour vous renseigner."
+        ]
+      },
+      {
+        title: "Peut-on changer de maternité après inscription ?",
+        paragraphs: [
+          "Oui, un changement peut parfois être possible, mais il dépend du terme, des places, de votre dossier médical et de l’organisation des établissements.",
+          "Si vous souhaitez changer, prévenez rapidement la maternité initiale et contactez la nouvelle maternité pour connaître la procédure.",
+          "Si le changement est lié à une raison médicale, le professionnel qui vous suit peut vous aider à organiser le transfert du dossier.",
+          "Plus vous attendez, plus les démarches peuvent être compliquées."
+        ]
+      },
+      {
+        title: "Que faire si la maternité est complète ?",
+        paragraphs: [
+          "Dans certaines zones, des maternités peuvent limiter les inscriptions selon leurs capacités.",
+          "Si la maternité souhaitée ne peut pas vous inscrire, demandez quelles alternatives sont possibles.",
+          "Votre sage-femme, votre médecin ou la maternité contactée peuvent parfois vous orienter vers un autre établissement adapté.",
+          "En cas de situation médicale particulière, l’orientation doit tenir compte de la sécurité de la mère et du bébé."
+        ]
+      },
+      {
+        title: "Grossesse à risque : une inscription différente ?",
+        paragraphs: [
+          "En cas de grossesse multiple, antécédent important, hypertension, diabète compliqué, risque de prématurité ou pathologie suivie, le choix de la maternité doit être discuté avec un professionnel.",
+          "Vous pouvez être orientée vers une maternité de niveau adapté ou vers un établissement disposant d’une prise en charge spécifique.",
+          "Dans ce cas, l’inscription peut être accompagnée d’un transfert de dossier ou d’un rendez-vous spécialisé.",
+          "Ne prenez pas seule la décision de changer de niveau de maternité si un suivi particulier est recommandé."
+        ]
+      },
+      {
+        title: "Les rendez-vous qui peuvent suivre l’inscription",
+        bullets: [
+          "Un rendez-vous administratif ou médical d’ouverture de dossier.",
+          "Des consultations de suivi de grossesse.",
+          "La consultation d’anesthésie, généralement prévue au troisième trimestre.",
+          "Des séances de préparation à la naissance.",
+          "Une visite ou réunion d’information, si la maternité en propose.",
+          "Des consignes écrites sur le départ à la maternité et les urgences."
+        ],
+        paragraphs: [
+          "Toutes les maternités n’organisent pas les mêmes rendez-vous.",
+          "Demandez un calendrier approximatif pour savoir ce qui vous attend."
+        ]
+      },
+      {
+        title: "Ce qu’il faut demander au moment de l’inscription",
+        bullets: [
+          "Quel est le délai d’inscription ?",
+          "L’inscription se fait-elle en ligne, par téléphone ou sur place ?",
+          "Quels documents dois-je fournir ?",
+          "Qui assurera le suivi de fin de grossesse ?",
+          "Quand aura lieu la consultation d’anesthésie ?",
+          "Comment joindre les urgences maternité ?",
+          "À quel moment venir en cas de contractions ou de perte des eaux ?",
+          "La personne accompagnante peut-elle rester avec moi ?",
+          "Comment se passent les chambres, les visites et le séjour ?",
+          "Existe-t-il une réunion d’information ou une visite de la maternité ?"
+        ]
+      },
+      {
+        title: "Anticiper les aspects financiers",
+        paragraphs: [
+          "Selon le type d’établissement, certains frais peuvent varier : chambre individuelle, dépassements d’honoraires, prestations particulières ou frais non couverts.",
+          "Demandez ce qui est pris en charge, ce qui dépend de la mutuelle et ce qui peut rester à votre charge.",
+          "Cela évite les surprises au moment de l’admission ou après le séjour.",
+          "Si vous avez une mutuelle, vous pouvez aussi la contacter pour connaître vos garanties."
+        ]
+      },
+      {
+        title: "Préparer un petit dossier grossesse",
+        paragraphs: [
+          "Après l’inscription, regroupez vos documents importants dans une pochette ou un dossier facilement accessible.",
+          "Ajoutez les comptes rendus d’échographies, les résultats biologiques importants, les documents administratifs, la carte Vitale, la mutuelle et les coordonnées utiles.",
+          "Ce dossier pourra vous suivre aux rendez-vous et le jour du départ à la maternité.",
+          "Même si une partie du dossier est informatisée, avoir les documents essentiels avec vous reste pratique."
+        ]
+      },
+      {
+        title: "Et si on accouche ailleurs que prévu ?",
+        paragraphs: [
+          "Il peut arriver d’accoucher dans une autre maternité que celle choisie : déplacement, urgence, maternité temporairement indisponible ou situation médicale qui évolue.",
+          "Si cela arrive, l’équipe qui vous accueille prendra en charge la situation.",
+          "Avoir votre dossier de grossesse avec vous facilite la transmission des informations.",
+          "L’inscription aide à organiser le parcours prévu, mais la priorité reste toujours la sécurité."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Renseignez-vous tôt sur les modalités d’inscription de la maternité que vous souhaitez.",
+          "Les délais et les démarches varient beaucoup selon les établissements.",
+          "L’inscription à la maternité ne remplace pas la déclaration de grossesse ni le suivi médical.",
+          "Préparez vos documents administratifs et médicaux pour faciliter les démarches.",
+          "En cas de grossesse à risque ou de doute sur le choix de l’établissement, demandez conseil au professionnel qui vous suit."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Service Public — Déclaration de grossesse",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F968"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      }
+    ]
+  },
+
   {
     slug: "evolution-bebe-semaine-par-semaine-deuxieme-trimestre",
     title: "L’évolution du bébé semaine par semaine pendant le deuxième trimestre",
