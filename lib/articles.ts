@@ -4961,44 +4961,204 @@ export const articles: Article[] = [
     ]
   },
   {
-    slug: "projet-naissance-mode-emploi",
-    title: "Écrire un projet de naissance utile et souple",
-    description: "Comment formuler ses souhaits, dialoguer avec l’équipe et garder de la flexibilité le jour J.",
+    slug: "comment-preparer-son-projet-de-naissance",
+    title: "Comment préparer son projet de naissance ?",
+    description:
+      "Un guide simple pour rédiger un projet de naissance utile, clair et souple : ce qu’il peut contenir, comment le présenter à l’équipe et pourquoi il doit rester adaptable le jour de l’accouchement.",
     category: "Accouchement",
     categorySlug: "accouchement",
     subcategory: "Préparation",
     subcategorySlug: "preparation",
-    readingTime: "7 min",
-    publishedAt: "2026-04-18",
-    updatedAt: "2026-05-24",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
     tone: "sand",
     sections: [
       {
-        title: "Un support de dialogue",
-        paragraphs: [
-          "Le projet de naissance permet de partager vos préférences avec l’équipe qui vous accompagne. Il peut aborder l’environnement, la mobilité, le soulagement de la douleur, la présence de l’accompagnant ou les premiers soins.",
-          "Ce document n’est ni un contrat ni un examen à réussir."
-        ]
-      },
-      {
-        title: "Rester concret",
+        title: "L’essentiel en 30 secondes",
         bullets: [
-          "Présenter le document sur une ou deux pages.",
-          "Hiérarchiser les souhaits les plus importants.",
-          "Expliquer brièvement ce qui vous rassure ou vous inquiète.",
-          "En parler pendant la grossesse avec l’équipe."
+          "Un projet de naissance sert surtout à ouvrir le dialogue avec l’équipe qui vous accompagnera le jour de l’accouchement.",
+          "Il peut préciser vos souhaits pour l’ambiance, la mobilité, la gestion de la douleur, la présence de l’accompagnant, la naissance et les premiers moments avec le bébé.",
+          "Il doit rester court, clair et réaliste : une page suffit souvent.",
+          "Le projet n’est pas un contrat : certaines décisions peuvent changer selon votre état, celui du bébé ou l’évolution du travail.",
+          "Le plus utile est d’en parler avant le jour J avec une sage-femme, un médecin ou l’équipe de la maternité."
+        ],
+        quote:
+          "Un bon projet de naissance n’est pas une liste figée : c’est un support pour expliquer ce qui compte pour vous."
+      },
+      {
+        title: "À quoi sert un projet de naissance ?",
+        paragraphs: [
+          "Le projet de naissance permet de mettre par écrit vos souhaits, vos priorités et vos questions pour l’accouchement.",
+          "Il aide aussi l’équipe à mieux comprendre ce qui vous rassure, ce qui vous inquiète et ce que vous aimeriez éviter lorsque c’est possible.",
+          "Il peut être très simple : quelques phrases suffisent parfois pour exprimer l’ambiance souhaitée, la place de l’accompagnant ou vos préférences concernant les premiers soins du bébé.",
+          "L’objectif n’est pas de tout contrôler, mais de préparer un échange plus serein avec les professionnels."
         ]
       },
       {
-        title: "Prévoir les adaptations",
+        title: "À quel moment le préparer ?",
         paragraphs: [
-          "La situation médicale peut nécessiter des changements. Vous pouvez demander que chaque décision vous soit expliquée autant que possible.",
-          "Un projet souple aide à préserver vos valeurs même lorsque le scénario change."
+          "Vous pouvez commencer à y réfléchir au deuxième trimestre, puis le préciser au troisième trimestre.",
+          "Il est utile d’attendre d’avoir quelques informations sur votre maternité, les possibilités proposées sur place et votre situation médicale.",
+          "L’idéal est d’en parler pendant une consultation, un rendez-vous avec une sage-femme ou une séance de préparation à la naissance.",
+          "Évitez de le découvrir ou de le transmettre pour la première fois le jour de l’accouchement, sauf si vous n’avez pas pu faire autrement."
+        ]
+      },
+      {
+        title: "Les 3 questions à se poser avant d’écrire",
+        paragraphs: [
+          "Qu’est-ce qui me rassure pendant un moment intense : silence, explications, présence de mon partenaire, lumière douce, mobilité ?",
+          "Qu’est-ce que je souhaite comprendre ou anticiper : péridurale, déclenchement, césarienne, monitoring, épisiotomie, premiers soins ?",
+          "Quelles sont mes priorités si tout ne se passe pas comme prévu : être informée, avoir mon accompagnant près de moi, garder un contact avec le bébé dès que possible ?"
+        ],
+        quote:
+          "Le projet devient plus utile quand il parle de vos priorités, pas seulement d’une situation idéale."
+      },
+      {
+        title: "Que peut-on mettre dans un projet de naissance ?",
+        bullets: [
+          "Vos souhaits concernant l’ambiance : lumière, bruit, musique, intimité.",
+          "Votre besoin d’explications avant les gestes médicaux, lorsque la situation le permet.",
+          "La place de la personne accompagnante.",
+          "Votre souhait de bouger, changer de position ou utiliser un ballon si c’est possible.",
+          "Vos préférences pour la gestion de la douleur.",
+          "Vos souhaits pour la poussée et les positions d’accouchement.",
+          "Vos préférences pour le peau à peau, le clampage du cordon ou les premiers soins du bébé.",
+          "Vos souhaits en cas de césarienne ou de séparation temporaire avec le bébé."
+        ],
+        paragraphs: [
+          "Tout ne sera pas forcément possible partout, ni dans toutes les situations.",
+          "Mais écrire ces points permet de poser les bonnes questions avant l’accouchement."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter",
+        bullets: [
+          "Un document trop long que l’équipe n’aura pas le temps de lire.",
+          "Des formulations très fermées qui ne laissent aucune place à l’imprévu.",
+          "Des demandes qui ne tiennent pas compte de la sécurité de la mère ou du bébé.",
+          "Des informations trouvées en ligne sans les confronter aux pratiques de votre maternité.",
+          "Une liste de refus sans expliquer ce qui vous rassurerait à la place."
+        ],
+        paragraphs: [
+          "Un ton simple et ouvert facilite le dialogue.",
+          "Vous pouvez écrire vos souhaits fermement tout en laissant de la place aux explications médicales si la situation change."
+        ]
+      },
+      {
+        title: "Comment formuler ses souhaits simplement ?",
+        paragraphs: [
+          "Privilégiez les phrases courtes.",
+          "Par exemple : « J’aimerais être informée avant les gestes médicaux, lorsque l’urgence le permet. »",
+          "Ou encore : « Si une césarienne est nécessaire, j’aimerais que mon accompagnant puisse rester avec moi si l’organisation et la sécurité le permettent. »",
+          "Les formulations comme « si possible », « si la situation le permet » ou « j’aimerais en discuter » rendent le document plus souple sans enlever vos préférences."
+        ]
+      },
+      {
+        title: "Parler de la douleur sans se mettre de pression",
+        paragraphs: [
+          "Vous pouvez indiquer si vous souhaitez essayer des méthodes non médicamenteuses : respiration, mobilité, ballon, bain ou douche si la maternité le permet.",
+          "Vous pouvez aussi écrire que vous souhaitez une péridurale, ou que vous aimeriez garder la possibilité de changer d’avis.",
+          "Il n’y a pas de bonne façon unique d’accoucher.",
+          "Le plus important est de connaître vos options et de vous sentir respectée dans les limites de la sécurité médicale."
+        ]
+      },
+      {
+        title: "Prévoir le rôle de la personne accompagnante",
+        paragraphs: [
+          "Le projet de naissance peut préciser la place que vous souhaitez donner à votre accompagnant.",
+          "Cette personne peut vous aider à respirer, vous masser, vous encourager, poser une question ou rappeler vos préférences si vous êtes très concentrée.",
+          "Elle peut aussi être le lien avec l’équipe si vous avez besoin d’explications.",
+          "Il est utile d’en parler ensemble avant le jour J pour éviter qu’elle découvre son rôle au dernier moment."
+        ]
+      },
+      {
+        title: "Et si l’accouchement ne se passe pas comme prévu ?",
+        paragraphs: [
+          "Un accouchement peut évoluer différemment de ce qui était imaginé : travail très rapide, fatigue importante, déclenchement, besoin d’un geste médical, césarienne ou surveillance renforcée.",
+          "Votre projet peut donc inclure une phrase sur vos priorités en cas d’imprévu.",
+          "Par exemple : « Si la situation change, j’aimerais que l’on m’explique ce qui se passe et que mon accompagnant soit associé autant que possible. »",
+          "Cette partie est souvent l’une des plus utiles, car elle aide à préserver un sentiment de participation même lorsque le plan initial change."
+        ]
+      },
+      {
+        title: "Peut-on parler de césarienne dans le projet ?",
+        paragraphs: [
+          "Oui, même si vous prévoyez un accouchement par voie basse.",
+          "Vous pouvez exprimer vos souhaits si une césarienne devient nécessaire : présence de l’accompagnant, informations pendant l’intervention, peau à peau dès que possible, premier contact avec le bébé ou relais avec l’autre parent.",
+          "Certaines demandes dépendent de l’urgence, du bloc opératoire, de l’anesthésie et de l’état de santé du bébé.",
+          "Les aborder en amont permet de mieux comprendre ce qui est possible dans votre maternité."
+        ]
+      },
+      {
+        title: "Les premiers moments avec le bébé",
+        paragraphs: [
+          "Vous pouvez préciser vos souhaits pour le peau à peau, la première tétée ou le premier biberon, le moment des soins et la présence de l’accompagnant.",
+          "Là encore, la priorité reste l’état de santé de la mère et du bébé.",
+          "Si des soins rapides sont nécessaires, l’équipe peut vous expliquer ce qui se passe et favoriser le contact dès que possible.",
+          "Cette partie peut être courte mais importante, car elle concerne souvent un moment très attendu."
+        ]
+      },
+      {
+        title: "Faut-il l’imprimer ou l’envoyer avant ?",
+        paragraphs: [
+          "Vous pouvez en garder une version papier dans votre dossier de maternité.",
+          "Certaines maternités acceptent de le lire pendant une consultation ou de le noter dans le dossier, mais cela dépend de l’organisation locale.",
+          "Le jour de l’accouchement, donnez-le simplement à la sage-femme qui vous accueille.",
+          "Une page lisible, avec les points essentiels en haut, sera plus facile à utiliser qu’un document très détaillé."
+        ]
+      },
+      {
+        title: "Comment en parler sans avoir peur de déranger ?",
+        paragraphs: [
+          "Le projet de naissance peut parfois donner l’impression de « demander trop ».",
+          "En réalité, il s’agit surtout d’un outil de communication.",
+          "Vous pouvez le présenter ainsi : « J’ai noté quelques souhaits et questions pour mieux me préparer, est-ce qu’on peut les regarder ensemble ? »",
+          "Cette approche ouvre la discussion et permet à l’équipe de vous dire ce qui est possible, habituel ou à adapter."
+        ]
+      },
+      {
+        title: "Exemple de structure simple",
+        bullets: [
+          "Mes priorités : être informée, me sentir respectée, garder mon accompagnant près de moi.",
+          "Pendant le travail : pouvoir bouger si possible, avoir une ambiance calme, recevoir des explications.",
+          "Pour la douleur : connaître mes options et pouvoir changer d’avis.",
+          "Au moment de la naissance : favoriser le peau à peau si l’état du bébé le permet.",
+          "En cas d’imprévu : être informée clairement et garder un contact avec mon bébé dès que possible."
+        ],
+        paragraphs: [
+          "Ce modèle peut être adapté selon vos souhaits, votre maternité et votre situation médicale.",
+          "Il n’a pas besoin d’être parfait pour être utile."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un projet de naissance sert à préparer le dialogue, pas à figer l’accouchement.",
+          "Il doit rester court, clair et souple.",
+          "Les sujets les plus utiles sont l’ambiance, les explications, la douleur, la place de l’accompagnant, les premiers moments avec le bébé et les imprévus.",
+          "Il est préférable de le relire avec une sage-femme ou un professionnel de la maternité avant le jour J.",
+          "Même si tout ne se passe pas comme prévu, vos besoins d’information, de respect et d’accompagnement restent importants."
         ]
       }
     ],
     sources: [
-      { label: "Haute Autorité de Santé", url: "https://www.has-sante.fr/" }
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
     ]
   },
 
