@@ -341,6 +341,52 @@ export function getArticleImage(
     return "/images/symptomes-bien-etre-fievre-douleur-malaise.png";
   }
 
+
+  if (
+    slug === "projet-naissance-mode-emploi" ||
+    slug === "comment-preparer-son-projet-de-naissance" ||
+    slug === "comment-preparer-projet-naissance"
+  ) {
+    return "/images/accouchement-preparation-projet-naissance.png";
+  }
+
+  if (
+    slug === "preparation-a-la-naissance-quelles-methodes-choisir" ||
+    slug === "preparation-naissance-quelles-methodes-choisir"
+  ) {
+    return "/images/accouchement-preparation-methodes-naissance.png";
+  }
+
+  if (
+    slug === "comment-choisir-sa-maternite" ||
+    slug === "choisir-sa-maternite"
+  ) {
+    return "/images/accouchement-preparation-choisir-maternite.png";
+  }
+
+  if (
+    slug === "quand-et-comment-sinscrire-a-la-maternite" ||
+    slug === "quand-et-comment-s-inscrire-a-la-maternite" ||
+    slug === "inscription-maternite-quand-comment"
+  ) {
+    return "/images/accouchement-preparation-inscription-maternite.png";
+  }
+
+  if (
+    slug === "preparer-valise-maternite" ||
+    slug === "comment-preparer-sa-valise-de-maternite"
+  ) {
+    return "/images/accouchement-preparation-valise-maternite.png";
+  }
+
+  if (
+    slug === "quel-role-pour-la-personne-accompagnante-pendant-laccouchement" ||
+    slug === "quel-role-pour-la-personne-accompagnante-pendant-l-accouchement" ||
+    slug === "role-personne-accompagnante-pendant-accouchement"
+  ) {
+    return "/images/accouchement-preparation-personne-accompagnante.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
