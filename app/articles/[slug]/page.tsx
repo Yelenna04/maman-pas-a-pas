@@ -1430,9 +1430,27 @@ function UnifiedArticle({ article }: { article: Article }) {
   return (
     <main className="compact-article">
       <div className="article-shell">
-        <section className="compact-article-hero">
-          <div className="compact-hero-copy">
-            <div className="breadcrumbs compact-breadcrumbs">
+        <section
+          className="compact-article-hero"
+          style={{
+            gridTemplateColumns: "1fr",
+            justifyItems: "center",
+            textAlign: "center",
+            minHeight: "auto",
+          }}
+        >
+          <div
+            className="compact-hero-copy"
+            style={{
+              width: "100%",
+              maxWidth: "820px",
+              margin: "0 auto",
+            }}
+          >
+            <div
+              className="breadcrumbs compact-breadcrumbs"
+              style={{ justifyContent: "center" }}
+            >
               <Link href="/">Accueil</Link>
               <span>›</span>
               <Link href={`/${article.categorySlug}`}>{article.category}</Link>
@@ -1441,9 +1459,18 @@ function UnifiedArticle({ article }: { article: Article }) {
             </div>
 
             <h1>{article.title}</h1>
-            <p className="lead">{article.description}</p>
+            <p
+              className="lead"
+              style={{
+                maxWidth: "720px",
+                marginLeft: "auto",
+                marginRight: "auto",
+              }}
+            >
+              {article.description}
+            </p>
 
-            <div className="verified-pill">
+            <div className="verified-pill" style={{ marginLeft: "auto", marginRight: "auto" }}>
               <ShieldCheck size={18} />
               Informations vérifiées
             </div>
