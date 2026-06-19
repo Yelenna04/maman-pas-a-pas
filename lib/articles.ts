@@ -8439,6 +8439,214 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "que-faire-pendant-le-debut-du-travail-a-la-maison",
+    title: "Que faire pendant le début du travail à la maison ?",
+    description:
+      "Respirer, bouger, se reposer, manger léger, chronométrer les contractions et savoir quand appeler : les bons réflexes pour vivre le début du travail à la maison plus sereinement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Début du travail",
+    subcategorySlug: "debut-travail",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Au tout début du travail, si tout va bien et que la maternité ne vous a pas donné d’autre consigne, vous pouvez souvent rester encore un peu à la maison.",
+          "L’objectif est de garder de l’énergie : alternez repos, respiration, positions confortables, hydratation et petits repas légers si vous en avez envie.",
+          "Chronométrez les contractions sans rester fixée sur l’application : observez surtout si elles deviennent régulières, plus longues, plus rapprochées et plus intenses.",
+          "Appelez la maternité en cas de doute, perte des eaux, saignement, bébé qui bouge moins, fièvre, malaise, douleur inhabituelle ou contractions difficiles à gérer.",
+          "Préparez tranquillement le départ : dossier, valise, sac de salle de naissance, téléphone chargé et personne accompagnante prévenue."
+        ],
+        quote:
+          "Le début du travail est souvent un moment d’attente : le but n’est pas de tout accélérer, mais de traverser cette phase avec calme et sécurité."
+      },
+      {
+        title: "Reconnaître cette phase de début de travail",
+        paragraphs: [
+          "Le début du travail peut commencer doucement, avec des contractions irrégulières ou modérées.",
+          "Elles peuvent ressembler à des douleurs de règles, à une tension du ventre ou à une sensation qui vient par vagues.",
+          "Au fil du temps, les contractions de travail ont tendance à devenir plus régulières, plus rapprochées, plus longues et plus intenses.",
+          "Cette phase peut durer plusieurs heures, surtout pour un premier bébé. Cela peut être fatigant, mais c’est fréquent."
+        ]
+      },
+      {
+        title: "Commencer par appeler si quelque chose vous inquiète",
+        paragraphs: [
+          "Si vous avez un doute, appelez la maternité avant de décider de rester à la maison ou de partir.",
+          "L’équipe pourra vous demander votre terme, la fréquence des contractions, leur durée, la présence ou non d’une perte des eaux, de saignements, de fièvre, et les mouvements du bébé.",
+          "Cet appel ne vous engage pas forcément à partir tout de suite.",
+          "Il permet surtout d’avoir une consigne adaptée à votre situation."
+        ],
+        quote:
+          "En cas de doute, appeler la maternité est toujours un bon réflexe."
+      },
+      {
+        title: "Se mettre dans une ambiance calme",
+        paragraphs: [
+          "Essayez de créer une ambiance simple et rassurante : lumière douce, téléphone pas trop envahissant, pièce chaude, vêtements confortables.",
+          "Vous pouvez mettre une musique calme, vous isoler un peu ou demander à votre accompagnant de limiter les sollicitations.",
+          "Il n’est pas nécessaire de prévenir tout le monde immédiatement.",
+          "Moins il y a de pression autour de vous, plus il peut être facile de rester concentrée sur vos sensations."
+        ]
+      },
+      {
+        title: "Respirer sans chercher la perfection",
+        paragraphs: [
+          "La respiration peut aider à traverser les contractions, même si elle n’enlève pas forcément la douleur.",
+          "Essayez de relâcher les épaules, la mâchoire et les mains pendant la contraction.",
+          "Inspirez doucement, puis soufflez longuement, comme si vous vouliez accompagner la vague jusqu’à ce qu’elle redescende.",
+          "Vous n’avez pas besoin de suivre une technique parfaite : une respiration lente, régulière et adaptée à vous peut déjà aider."
+        ]
+      },
+      {
+        title: "Bouger si cela vous soulage",
+        bullets: [
+          "Marcher doucement dans la maison.",
+          "S’appuyer sur un meuble ou sur la personne accompagnante pendant une contraction.",
+          "S’asseoir sur un ballon si vous en avez un et si vous êtes à l’aise.",
+          "Se mettre à quatre pattes ou sur le côté.",
+          "Balancer doucement le bassin.",
+          "Changer de position régulièrement.",
+          "S’allonger entre les contractions si vous avez besoin de récupérer."
+        ],
+        paragraphs: [
+          "Il n’y a pas une position idéale pour tout le monde.",
+          "Gardez ce qui vous soulage et changez si une position ne vous convient plus."
+        ]
+      },
+      {
+        title: "Se reposer dès que possible",
+        paragraphs: [
+          "Le début du travail peut donner envie de tout préparer, ranger, marcher ou chronométrer sans arrêt.",
+          "Pourtant, si les contractions sont encore supportables, le repos est souvent précieux.",
+          "Essayez de vous allonger sur le côté, de fermer les yeux, de faire une micro-sieste ou simplement de rester dans le calme.",
+          "Même si vous ne dormez pas vraiment, économiser vos forces peut vous aider pour la suite."
+        ]
+      },
+      {
+        title: "Prendre une douche ou un bain si c’est autorisé",
+        paragraphs: [
+          "Une douche tiède peut aider à détendre le corps, soulager certaines tensions et accompagner les contractions.",
+          "Certaines femmes apprécient l’eau chaude sur le bas du dos ou le ventre.",
+          "Si vous avez perdu les eaux, demandez à la maternité ce qui est recommandé avant de prendre un bain.",
+          "Évitez l’eau trop chaude, surtout si vous vous sentez faible, étourdie ou fatiguée."
+        ]
+      },
+      {
+        title: "Manger léger et s’hydrater",
+        paragraphs: [
+          "Au début du travail, vous pouvez avoir faim, ou au contraire ne rien vouloir avaler.",
+          "Si vous mangez, privilégiez quelque chose de simple et facile à digérer : compote, yaourt, pain, fruit, soupe, petites portions.",
+          "Buvez régulièrement de petites gorgées d’eau.",
+          "Une fois à la maternité, les consignes sur l’alimentation peuvent varier selon la situation, la péridurale, le risque de césarienne ou l’organisation de l’établissement."
+        ]
+      },
+      {
+        title: "Chronométrer les contractions sans se bloquer dessus",
+        paragraphs: [
+          "Chronométrer peut aider à voir si les contractions deviennent régulières.",
+          "Notez l’heure de début d’une contraction, sa durée et l’intervalle avec la suivante.",
+          "Mais évitez de regarder l’application toutes les trente secondes, car cela peut augmenter le stress.",
+          "Observez aussi l’intensité : devez-vous arrêter de parler ? Avez-vous besoin de respirer vraiment ? Les contractions se rapprochent-elles malgré le repos ?"
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante à la maison",
+        paragraphs: [
+          "La personne accompagnante peut être très utile dès le début du travail.",
+          "Elle peut noter les contractions, proposer de l’eau, préparer les affaires, masser le dos, aider à respirer ou simplement rester présente.",
+          "Elle peut aussi appeler la maternité si vous êtes trop concentrée pour parler.",
+          "Le plus important est qu’elle reste calme et qu’elle s’adapte à vos besoins du moment."
+        ]
+      },
+      {
+        title: "Préparer le départ sans précipitation",
+        bullets: [
+          "Mettre le dossier de grossesse près de la porte.",
+          "Vérifier la carte Vitale, la mutuelle et la pièce d’identité.",
+          "Préparer le sac de salle de naissance.",
+          "Charger le téléphone.",
+          "Prévenir la personne accompagnante si elle n’est pas encore là.",
+          "Organiser la garde des aînés si besoin.",
+          "Prévoir le trajet, les clés, le stationnement ou le taxi si nécessaire."
+        ],
+        paragraphs: [
+          "Faire ces gestes calmement permet d’éviter une montée de stress au moment du départ."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter",
+        bullets: [
+          "Rester debout ou active en continu si vous êtes déjà fatiguée.",
+          "Multiplier les appels et les messages si cela vous stresse.",
+          "Se comparer aux récits d’accouchement des autres.",
+          "Attendre trop longtemps si vous avez une consigne médicale particulière.",
+          "Prendre la route seule si les contractions sont douloureuses.",
+          "Ignorer une perte des eaux, un saignement, une fièvre, un malaise ou un bébé qui bouge moins."
+        ]
+      },
+      {
+        title: "Quand appeler ou partir sans attendre ?",
+        bullets: [
+          "Perte des eaux, surtout si le liquide est vert, brun, sanglant ou malodorant.",
+          "Saignement rouge ou abondant.",
+          "Bébé qui bouge moins que d’habitude.",
+          "Fièvre, frissons, malaise ou sensation de ne pas être bien.",
+          "Douleur continue ou inhabituelle entre les contractions.",
+          "Contractions très rapprochées ou envie de pousser.",
+          "Grossesse à risque ou consignes particulières données par la maternité.",
+          "Doute important ou inquiétude persistante."
+        ],
+        paragraphs: [
+          "Dans ces situations, ne restez pas seule à attendre que cela passe.",
+          "Appelez la maternité ou les secours selon l’urgence."
+        ]
+      },
+      {
+        title: "Et si c’est un faux travail ?",
+        paragraphs: [
+          "Il peut arriver que les contractions ralentissent, s’espacent ou disparaissent.",
+          "Cela peut être frustrant, mais cela ne signifie pas que vous avez fait quelque chose de mal.",
+          "Le corps peut se préparer progressivement avant que le travail ne s’installe vraiment.",
+          "Profitez de ce temps pour récupérer, manger un peu, boire et vous reposer."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pendant le début du travail à la maison, l’objectif principal est de préserver votre énergie et de rester attentive aux signes importants.",
+          "Respiration, mouvement doux, repos, douche tiède, hydratation et ambiance calme peuvent aider.",
+          "Chronométrez les contractions, mais fiez-vous aussi à leur intensité et à votre ressenti.",
+          "Appelez la maternité en cas de doute, de perte des eaux, de saignement, de fièvre, de malaise, de douleur inhabituelle ou si le bébé bouge moins.",
+          "Le départ à la maternité se prépare étape par étape : vous n’avez pas besoin de tout gérer seule."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
