@@ -9063,6 +9063,210 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "comment-se-deroule-lexamen-du-col",
+    title: "Comment se déroule l’examen du col ?",
+    description:
+      "À quoi sert l’examen du col pendant la grossesse ou le travail, comment il se passe, ce que la sage-femme vérifie et comment mieux le vivre si l’on appréhende ce geste.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’examen du col permet d’évaluer si le col de l’utérus se modifie : ouverture, longueur, position, tonicité et progression du travail.",
+          "Il peut être proposé à l’arrivée à la maternité, pendant le travail, ou dans certaines situations médicales, mais il n’est pas forcément nécessaire à chaque consultation.",
+          "Le geste se fait avec deux doigts gantés, après explication, dans le respect de votre accord et de votre confort autant que possible.",
+          "Il peut être désagréable ou sensible, surtout pendant les contractions, mais il ne devrait pas être fait sans que vous soyez prévenue.",
+          "Vous pouvez poser des questions, demander à attendre entre deux contractions, respirer, changer légèrement de position ou demander une pause."
+        ],
+        quote:
+          "L’examen du col est un outil d’évaluation, pas un passage obligé à subir sans explication."
+      },
+      {
+        title: "À quoi sert l’examen du col ?",
+        paragraphs: [
+          "L’examen du col aide les professionnels à savoir si le col de l’utérus commence à se modifier et où en est le travail.",
+          "Il permet notamment d’évaluer l’ouverture du col, sa longueur, sa position, sa consistance et parfois la hauteur de la tête du bébé.",
+          "Ces informations sont utiles pour décider de la suite : attendre, surveiller, installer en salle de naissance, proposer un soulagement de la douleur ou réévaluer plus tard.",
+          "L’examen du col ne prédit pas toujours exactement la durée restante avant la naissance, car le travail peut évoluer très différemment d’une femme à l’autre."
+        ]
+      },
+      {
+        title: "Quand peut-il être proposé ?",
+        paragraphs: [
+          "L’examen du col peut être proposé lorsque vous arrivez à la maternité avec des contractions, une perte des eaux, des douleurs ou un doute sur le début du travail.",
+          "Il peut aussi être réalisé pendant le travail pour suivre l’évolution, ou avant un déclenchement pour voir si le col est favorable.",
+          "Dans certaines situations de grossesse, il peut être discuté en cas de contractions avant terme, de douleurs ou de symptômes particuliers.",
+          "En dehors de ces situations, il n’est pas nécessaire à chaque rendez-vous de grossesse si tout va bien."
+        ]
+      },
+      {
+        title: "Comment se passe concrètement l’examen ?",
+        paragraphs: [
+          "Le professionnel vous explique le geste, puis vous propose de vous installer allongée, souvent sur le dos, les genoux pliés ou les jambes posées sur des supports selon les lieux.",
+          "Il met des gants, utilise parfois un peu de gel lubrifiant, puis introduit doucement deux doigts dans le vagin pour atteindre le col.",
+          "Le geste dure généralement peu de temps.",
+          "Il peut être plus difficile si le col est très postérieur, si vous êtes tendue, si vous avez mal ou si une contraction arrive pendant l’examen."
+        ],
+        quote:
+          "Vous pouvez demander à être prévenue avant chaque étape du geste."
+      },
+      {
+        title: "Ce que la sage-femme ou le médecin vérifie",
+        bullets: [
+          "La dilatation : le col est-il fermé, ouvert à 1, 2, 3 centimètres ou plus ?",
+          "L’effacement ou la longueur : le col est-il encore long ou raccourci ?",
+          "La position : le col est-il plutôt en arrière, centré ou en avant ?",
+          "La consistance : le col est-il ferme, moyen ou plus souple ?",
+          "La présentation : la tête du bébé est-elle basse ou encore haute ?",
+          "La poche des eaux : est-elle intacte ou rompue ?",
+          "L’évolution depuis le précédent examen, si un contrôle a déjà été fait."
+        ],
+        paragraphs: [
+          "Ces éléments sont interprétés ensemble.",
+          "Un col peu ouvert ne signifie pas que rien ne se passe : il peut se modifier progressivement, parfois lentement au début puis plus vite ensuite."
+        ]
+      },
+      {
+        title: "Est-ce douloureux ?",
+        paragraphs: [
+          "L’examen du col peut être simplement gênant, mais il peut aussi être douloureux pour certaines femmes.",
+          "La douleur dépend de plusieurs facteurs : sensibilité personnelle, position du col, tension du corps, présence de contractions, fatigue ou antécédents d’examens difficiles.",
+          "Si vous appréhendez, dites-le avant le geste.",
+          "Le professionnel peut prendre plus de temps, attendre la fin d’une contraction, expliquer ce qu’il fait et interrompre l’examen si nécessaire."
+        ]
+      },
+      {
+        title: "Comment mieux le vivre ?",
+        bullets: [
+          "Demander que l’on vous explique pourquoi l’examen est proposé.",
+          "Respirer lentement et relâcher la mâchoire, les épaules et les jambes.",
+          "Demander à attendre la fin d’une contraction.",
+          "Garder la personne accompagnante près de vous si cela vous rassure et si c’est possible.",
+          "Demander une pause si vous avez trop mal.",
+          "Dire clairement si vous avez besoin que le geste s’arrête.",
+          "Éviter de vous excuser : votre confort compte."
+        ],
+        paragraphs: [
+          "Le fait d’être informée et actrice du geste peut déjà changer le vécu de l’examen."
+        ]
+      },
+      {
+        title: "Peut-on refuser un examen du col ?",
+        paragraphs: [
+          "Vous avez le droit de recevoir une explication et de donner ou non votre accord pour un examen.",
+          "Si vous ne comprenez pas pourquoi il est proposé, demandez : « Qu’est-ce que cet examen va changer dans la prise en charge ? »",
+          "Dans certaines situations, l’examen apporte une information importante pour la sécurité ou la décision médicale.",
+          "Si vous refusez ou souhaitez attendre, l’équipe peut vous expliquer les bénéfices, les limites et les alternatives possibles selon le contexte."
+        ]
+      },
+      {
+        title: "Faut-il faire des examens du col très souvent ?",
+        paragraphs: [
+          "Pendant le travail, les examens du col peuvent être espacés selon l’évolution, les contractions, la douleur, la perte des eaux et la situation du bébé.",
+          "Les répéter trop souvent n’est pas toujours utile et peut être inconfortable.",
+          "La fréquence dépend de l’organisation de la maternité, du stade du travail et des signes à surveiller.",
+          "Vous pouvez demander quand le prochain examen est prévu et pourquoi."
+        ]
+      },
+      {
+        title: "Après une perte des eaux",
+        paragraphs: [
+          "Après une perte des eaux, les examens vaginaux peuvent parfois être limités pour réduire le risque d’infection, selon les situations et les protocoles.",
+          "Cela dépend du terme, de la durée depuis la rupture, des contractions, de la température et de l’état du bébé.",
+          "Si un examen du col est proposé après une perte des eaux, vous pouvez demander pourquoi il est nécessaire à ce moment-là.",
+          "Signalez toujours l’heure de la perte des eaux, la couleur du liquide et toute fièvre ou sensation de malaise."
+        ]
+      },
+      {
+        title: "Examen du col et déclenchement",
+        paragraphs: [
+          "Avant un déclenchement, l’examen du col aide à savoir si le col est favorable.",
+          "Un col favorable est souvent plus souple, plus raccourci, plus ouvert ou plus accessible.",
+          "Si le col n’est pas favorable, une maturation du col peut être proposée avant de déclencher les contractions.",
+          "L’équipe vous expliquera la méthode envisagée selon votre situation, votre terme et les pratiques de la maternité."
+        ]
+      },
+      {
+        title: "Examen du col et faux travail",
+        paragraphs: [
+          "Lorsqu’une femme arrive avec des contractions, l’examen du col peut aider à distinguer un début de travail d’un faux travail ou d’un travail encore très précoce.",
+          "Si le col ne se modifie pas et que le bébé va bien, il est possible que l’équipe propose de rentrer à la maison avec des consignes.",
+          "Cela ne veut pas dire que vous êtes venue pour rien.",
+          "Le contrôle permet de vérifier que tout est rassurant et de savoir quand revenir."
+        ]
+      },
+      {
+        title: "Les mots que l’on peut entendre",
+        bullets: [
+          "« Col long » : le col n’est pas encore beaucoup raccourci.",
+          "« Col raccourci » ou « effacé » : il se prépare ou se modifie.",
+          "« Col postérieur » : il est encore plutôt vers l’arrière.",
+          "« Col centré » : il devient plus accessible.",
+          "« Col ouvert à 2 » : la dilatation est estimée à environ 2 centimètres.",
+          "« Présentation haute » : la tête du bébé n’est pas encore très basse.",
+          "« Col favorable » : le col semble plus prêt pour un travail ou un déclenchement."
+        ],
+        paragraphs: [
+          "N’hésitez pas à demander une traduction simple si les termes utilisés ne sont pas clairs."
+        ]
+      },
+      {
+        title: "Quand l’examen est difficile émotionnellement",
+        paragraphs: [
+          "Certaines femmes vivent l’examen du col comme très intrusif, surtout en cas de pudeur, de peur, de douleur, de mauvais souvenir médical ou de traumatisme.",
+          "Vous pouvez le dire à l’équipe sans avoir à vous justifier en détail.",
+          "Il est possible de demander une explication calme, une présence rassurante, une pause, ou que le geste soit réalisé par une personne avec qui vous vous sentez plus à l’aise si l’organisation le permet.",
+          "Votre vécu compte autant que l’information médicale recherchée."
+        ]
+      },
+      {
+        title: "Ce qui doit vous alerter après un examen",
+        paragraphs: [
+          "Un léger inconfort ou de petites traces rosées peuvent parfois survenir après un examen du col, surtout si le col est sensible.",
+          "En revanche, un saignement rouge abondant, une douleur importante persistante, une fièvre, une perte de liquide inhabituelle ou un bébé qui bouge moins doivent faire contacter la maternité.",
+          "Ne restez pas seule avec un symptôme qui vous inquiète.",
+          "Appelez l’équipe pour savoir si un contrôle est nécessaire."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’examen du col permet d’évaluer l’évolution du col et l’avancement du travail.",
+          "Il peut être utile à l’arrivée à la maternité, pendant le travail ou avant un déclenchement, mais il n’est pas forcément nécessaire à chaque rendez-vous.",
+          "Le geste doit être expliqué et réalisé avec votre accord.",
+          "Il peut être inconfortable : vous pouvez demander une pause, une explication ou attendre la fin d’une contraction.",
+          "Si l’examen est difficile pour vous, dites-le : des adaptations sont souvent possibles."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
