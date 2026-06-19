@@ -8228,6 +8228,217 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "quand-partir-a-la-maternite",
+    title: "Quand partir à la maternité ?",
+    description:
+      "Contractions, perte des eaux, saignements, diminution des mouvements du bébé ou simple doute : les repères pour savoir quand appeler ou se rendre à la maternité.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Début du travail",
+    subcategorySlug: "debut-travail",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le bon moment pour partir dépend de votre terme, de vos contractions, de la perte éventuelle des eaux, de votre distance avec la maternité et de votre situation médicale.",
+          "Si les contractions deviennent régulières, rapprochées, de plus en plus longues et difficiles à parler pendant, il est temps d’appeler la maternité.",
+          "En cas de perte des eaux, de saignement, de fièvre, de douleur inhabituelle, de diminution des mouvements du bébé ou de malaise, appelez sans attendre.",
+          "Si vous avez une grossesse à risque, un bébé en siège, des jumeaux, un antécédent de césarienne ou des consignes particulières, suivez les indications données par votre maternité.",
+          "En cas de doute, il vaut toujours mieux appeler la maternité plutôt que rester seule à hésiter."
+        ],
+        quote:
+          "Le départ à la maternité ne dépend pas seulement du nombre de contractions : il dépend aussi de votre situation et de ce que vous ressentez."
+      },
+      {
+        title: "Pourquoi il n’y a pas une règle unique",
+        paragraphs: [
+          "Beaucoup de futures mamans aimeraient avoir une règle simple et universelle pour savoir quand partir à la maternité.",
+          "En réalité, le bon moment dépend de plusieurs facteurs : premier bébé ou non, distance avec la maternité, intensité des contractions, perte des eaux, terme de la grossesse et consignes médicales.",
+          "Certaines femmes ont un travail long et progressif, d’autres un travail plus rapide.",
+          "L’objectif est de ne pas partir trop tôt si tout va bien, mais surtout de ne pas attendre lorsqu’un signe nécessite un avis médical."
+        ]
+      },
+      {
+        title: "Le premier réflexe : appeler la maternité",
+        paragraphs: [
+          "Avant de partir, il est souvent conseillé d’appeler la maternité ou les urgences obstétricales, sauf urgence évidente.",
+          "La sage-femme ou l’équipe vous posera des questions : fréquence des contractions, durée, intensité, perte des eaux, couleur du liquide, saignements, mouvements du bébé, terme de la grossesse et distance du trajet.",
+          "Cet appel permet de décider si vous devez venir tout de suite, attendre encore un peu à la maison ou surveiller certains signes.",
+          "Gardez le numéro de la maternité dans votre téléphone et dans votre dossier de grossesse."
+        ],
+        quote:
+          "Un appel peut suffire à vous rassurer ou à confirmer qu’il est temps de venir."
+      },
+      {
+        title: "Quand les contractions indiquent que le travail avance",
+        paragraphs: [
+          "Les contractions de travail ont tendance à devenir régulières, plus rapprochées, plus longues et plus intenses.",
+          "Elles ne disparaissent généralement pas avec le repos, une douche tiède ou un changement de position.",
+          "Elles demandent souvent de s’arrêter, de respirer et rendent la conversation plus difficile pendant la contraction.",
+          "Si vous sentez que les contractions prennent un rythme net et que vous devez vraiment vous concentrer, appelez la maternité pour savoir si c’est le bon moment de partir."
+        ]
+      },
+      {
+        title: "Premier bébé : faut-il attendre plus longtemps ?",
+        paragraphs: [
+          "Lors d’un premier accouchement, le début du travail peut être long.",
+          "Il arrive que les premières contractions régulières durent plusieurs heures avant que le col ne se modifie vraiment.",
+          "Cela ne veut pas dire qu’il faut souffrir longtemps seule à la maison.",
+          "Si les contractions sont très douloureuses, si vous êtes inquiète, si vous habitez loin ou si vous avez besoin d’un avis, appelez la maternité."
+        ]
+      },
+      {
+        title: "Deuxième bébé ou plus : attention au travail plus rapide",
+        paragraphs: [
+          "Lorsqu’on a déjà accouché, le travail peut parfois aller plus vite.",
+          "Il peut être conseillé de contacter la maternité plus tôt, surtout si votre précédent accouchement a été rapide.",
+          "Mentionnez toujours à l’équipe que ce n’est pas votre premier bébé et expliquez comment s’est passé l’accouchement précédent.",
+          "Si vous sentez que les contractions s’intensifient rapidement, n’attendez pas d’être au même stade que lors d’un premier accouchement."
+        ]
+      },
+      {
+        title: "Perte des eaux : faut-il partir tout de suite ?",
+        paragraphs: [
+          "En cas de perte des eaux, appelez la maternité pour connaître la conduite à tenir.",
+          "Il peut s’agir d’un grand écoulement ou d’un liquide qui coule petit à petit.",
+          "La couleur, l’odeur, le terme de la grossesse, les contractions et les mouvements du bébé sont des informations importantes à donner au téléphone.",
+          "Si le liquide est vert, brun, sanglant, malodorant, ou si vous avez de la fièvre ou que le bébé bouge moins, il faut contacter la maternité sans attendre."
+        ]
+      },
+      {
+        title: "Saignements : quand consulter rapidement ?",
+        paragraphs: [
+          "Un léger filet rosé ou brunâtre peut parfois accompagner la modification du col ou la perte du bouchon muqueux.",
+          "En revanche, un saignement rouge, abondant, avec caillots, douleur importante ou malaise nécessite un avis urgent.",
+          "Ne cherchez pas à interpréter seule un saignement pendant la grossesse ou au début du travail.",
+          "Appelez la maternité, ou les urgences si vous vous sentez mal."
+        ]
+      },
+      {
+        title: "Diminution des mouvements du bébé",
+        paragraphs: [
+          "Si vous avez l’impression que votre bébé bouge beaucoup moins que d’habitude, il faut contacter la maternité, même si vous n’avez pas de contractions.",
+          "Ce signe ne doit pas être mis de côté en pensant seulement au début du travail.",
+          "L’équipe pourra vous demander de venir pour vérifier le bien-être du bébé.",
+          "Fiez-vous à votre ressenti : vous connaissez les habitudes de mouvement de votre bébé."
+        ]
+      },
+      {
+        title: "Fièvre, malaise ou douleur inhabituelle",
+        paragraphs: [
+          "Une fièvre, un malaise, une douleur très différente des contractions habituelles, une douleur persistante entre les contractions ou une sensation que quelque chose ne va pas doivent faire appeler la maternité.",
+          "Ces signes peuvent nécessiter une évaluation médicale, même si le travail n’est pas encore commencé.",
+          "La douleur de contraction arrive par vagues avec des pauses.",
+          "Une douleur continue, très localisée ou associée à un malaise doit être signalée."
+        ]
+      },
+      {
+        title: "Si vous habitez loin de la maternité",
+        paragraphs: [
+          "Le temps de trajet change beaucoup la décision de départ.",
+          "Si vous habitez loin, si la route est difficile, s’il y a souvent des embouteillages ou si vous devez organiser la garde d’un aîné, anticipez davantage.",
+          "Parlez-en pendant la fin de grossesse avec la maternité pour connaître leurs conseils.",
+          "Le jour J, mentionnez toujours votre distance lorsque vous appelez."
+        ]
+      },
+      {
+        title: "Les situations où il faut suivre des consignes personnalisées",
+        bullets: [
+          "Grossesse multiple.",
+          "Bébé en siège ou présentation particulière.",
+          "Antécédent de césarienne ou utérus cicatriciel.",
+          "Risque d’accouchement prématuré.",
+          "Placenta bas inséré ou autre surveillance particulière.",
+          "Hypertension, prééclampsie, diabète compliqué ou pathologie suivie.",
+          "Déclenchement prévu ou surveillance rapprochée de fin de grossesse.",
+          "Accouchement précédent très rapide."
+        ],
+        paragraphs: [
+          "Dans ces situations, les conseils généraux peuvent ne pas suffire.",
+          "Les consignes données par votre maternité ou votre professionnel de santé passent en priorité."
+        ]
+      },
+      {
+        title: "Ce que vous pouvez faire avant de partir",
+        bullets: [
+          "Appeler la maternité si la situation n’est pas une urgence évidente.",
+          "Noter l’heure du début des contractions et leur rythme.",
+          "Observer s’il y a perte des eaux, saignement ou changement des mouvements du bébé.",
+          "Prendre votre dossier de grossesse, carte Vitale, mutuelle et pièce d’identité.",
+          "Prendre la valise de maternité et le sac de salle de naissance.",
+          "Prévenir la personne accompagnante.",
+          "Organiser la garde des autres enfants si besoin.",
+          "Éviter de conduire vous-même si les contractions sont douloureuses."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter",
+        bullets: [
+          "Attendre malgré une perte des eaux inhabituelle, un saignement ou une diminution des mouvements du bébé.",
+          "Se fier uniquement à une application de contractions sans écouter son ressenti.",
+          "Rester seule si vous êtes inquiète ou douloureuse.",
+          "Prendre la route sans appeler si vous avez des consignes particulières.",
+          "Minimiser des symptômes parce que ce n’est « peut-être pas encore le vrai travail »."
+        ],
+        paragraphs: [
+          "Le faux départ à la maternité n’est pas un échec.",
+          "Il vaut mieux être rassurée après un contrôle que rester dans le doute à la maison."
+        ]
+      },
+      {
+        title: "Et si on arrive trop tôt ?",
+        paragraphs: [
+          "Il peut arriver d’arriver à la maternité alors que le travail n’est pas encore assez avancé.",
+          "L’équipe peut vous examiner, vérifier le rythme du bébé, écouter vos symptômes et vous proposer de rentrer à la maison si tout va bien.",
+          "Cela peut être frustrant, mais c’est fréquent.",
+          "Vous repartirez avec des consignes plus claires sur le moment où revenir."
+        ]
+      },
+      {
+        title: "Et si le travail avance vite ?",
+        paragraphs: [
+          "Si les contractions deviennent très rapprochées, si vous ressentez une envie de pousser, une pression très forte vers le bas ou si vous avez l’impression que le bébé arrive, appelez immédiatement la maternité ou les secours.",
+          "Ne prenez pas de risque sur la route si la naissance semble imminente.",
+          "La personne accompagnante peut vous aider à rester en lien avec les professionnels par téléphone.",
+          "Dans ce type de situation, suivez les consignes données par les secours ou l’équipe médicale."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le départ à la maternité dépend des contractions, mais aussi de la perte des eaux, des saignements, des mouvements du bébé, du terme, du trajet et de votre situation médicale.",
+          "Appelez la maternité dès que vous avez un doute ou lorsque les contractions deviennent régulières et de plus en plus difficiles à gérer.",
+          "Ne tardez pas en cas de perte des eaux inhabituelle, saignement, fièvre, malaise, douleur continue ou bébé qui bouge moins.",
+          "Si vous avez des consignes personnalisées, suivez-les en priorité.",
+          "Il n’y a aucune honte à venir pour vérifier : la sécurité et la sérénité passent avant tout."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
