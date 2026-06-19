@@ -10347,6 +10347,222 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "accouchement-par-voie-basse-comment-se-deroule-t-il",
+    title: "Accouchement par voie basse : comment se déroule-t-il ?",
+    description:
+      "Travail, dilatation du col, descente du bébé, poussée, naissance, délivrance du placenta et surveillance : comprendre les grandes étapes d’un accouchement par voie basse.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Un accouchement par voie basse se déroule en plusieurs étapes : début du travail, dilatation du col, descente du bébé, poussée, naissance puis délivrance du placenta.",
+          "Le travail peut être long, surtout pour un premier bébé, et son rythme varie beaucoup d’une femme à l’autre.",
+          "La sage-femme surveille le bébé, les contractions, l’évolution du col et accompagne la mère dans les positions, la douleur et la poussée.",
+          "Une péridurale peut être demandée si elle est souhaitée et possible selon le stade du travail et la situation médicale.",
+          "Même lors d’un accouchement par voie basse, l’équipe peut adapter la prise en charge si le bébé ou la mère a besoin d’une surveillance ou d’un geste médical."
+        ],
+        quote:
+          "La voie basse n’est pas un scénario unique : c’est un déroulement qui s’adapte au rythme du travail, au bébé et à la mère."
+      },
+      {
+        title: "Qu’appelle-t-on un accouchement par voie basse ?",
+        paragraphs: [
+          "Un accouchement par voie basse signifie que le bébé naît par le vagin, après le travail et l’ouverture progressive du col de l’utérus.",
+          "Il peut se dérouler spontanément, après un déclenchement ou avec une aide médicale selon les situations.",
+          "La voie basse peut avoir lieu avec ou sans péridurale, dans différentes positions, et parfois avec des gestes complémentaires si la naissance doit être aidée.",
+          "L’objectif est toujours le même : accompagner la naissance en assurant la sécurité de la mère et du bébé."
+        ]
+      },
+      {
+        title: "Le début du travail",
+        paragraphs: [
+          "Le travail commence généralement avec des contractions qui deviennent progressivement régulières, plus rapprochées, plus longues et plus intenses.",
+          "Elles permettent au col de l’utérus de se modifier : il se raccourcit, se centre puis s’ouvre.",
+          "Le début peut être lent et irrégulier, surtout lors d’un premier accouchement.",
+          "Lorsque les contractions deviennent difficiles à gérer, qu’elles prennent un rythme net ou qu’un signe particulier apparaît, il est conseillé d’appeler la maternité."
+        ]
+      },
+      {
+        title: "L’arrivée à la maternité",
+        paragraphs: [
+          "À votre arrivée, l’équipe vérifie votre dossier, votre terme, vos symptômes et l’état du bébé.",
+          "Une sage-femme peut poser un monitoring pour surveiller le rythme cardiaque du bébé et les contractions.",
+          "Un examen du col peut être proposé pour savoir où en est le travail.",
+          "Selon les résultats, vous pouvez être installée en salle de naissance, rester en observation ou parfois rentrer à la maison si le travail n’est pas encore assez avancé et que tout est rassurant."
+        ]
+      },
+      {
+        title: "La dilatation du col",
+        paragraphs: [
+          "Pendant la phase de dilatation, le col s’ouvre progressivement pour laisser passer le bébé.",
+          "Cette étape peut prendre plusieurs heures.",
+          "La progression n’est pas toujours régulière : il peut y avoir des moments plus lents, puis une accélération.",
+          "L’équipe surveille votre état, les contractions, le rythme du bébé et l’évolution du col pour adapter l’accompagnement."
+        ],
+        quote:
+          "La dilatation n’avance pas toujours de façon linéaire : chaque travail a son propre rythme."
+      },
+      {
+        title: "Les contractions : à quoi servent-elles ?",
+        paragraphs: [
+          "Les contractions sont le moteur du travail.",
+          "Elles aident le col à s’ouvrir et le bébé à descendre dans le bassin.",
+          "Entre les contractions, le corps peut récupérer quelques instants.",
+          "La douleur, l’intensité et la fréquence varient selon les femmes, le stade du travail, la position du bébé, la fatigue et les moyens de soulagement utilisés."
+        ]
+      },
+      {
+        title: "La gestion de la douleur",
+        paragraphs: [
+          "Plusieurs moyens peuvent aider à traverser les contractions : respiration, mouvement, ballon, massage, chaleur, douche si disponible, soutien verbal, positions et péridurale si elle est souhaitée et possible.",
+          "Vous pouvez changer d’avis pendant le travail.",
+          "Demander une péridurale, ne pas en vouloir ou hésiter sont des choix possibles.",
+          "L’équipe peut vous expliquer les options adaptées à votre situation et au stade de l’accouchement."
+        ]
+      },
+      {
+        title: "La descente du bébé",
+        paragraphs: [
+          "Pendant que le col s’ouvre, le bébé descend progressivement dans le bassin.",
+          "Sa position, l’intensité des contractions, la forme du bassin, la mobilité de la mère et le stade du travail peuvent influencer cette descente.",
+          "La sage-femme peut proposer certaines positions pour favoriser le confort ou aider la progression.",
+          "Cette étape peut être ressentie comme une pression dans le bassin, le bas du dos ou le rectum."
+        ]
+      },
+      {
+        title: "La phase de transition",
+        paragraphs: [
+          "La fin de la dilatation peut être très intense.",
+          "Certaines femmes se sentent découragées, tremblent, ont chaud, froid, envie de vomir ou disent qu’elles n’y arriveront pas.",
+          "Ces sensations peuvent surprendre, mais elles sont fréquentes à ce stade.",
+          "La sage-femme aide à remettre des repères, à respirer, à trouver une position et à vérifier que le bébé tolère bien le travail."
+        ]
+      },
+      {
+        title: "Le moment de pousser",
+        paragraphs: [
+          "Lorsque le col est complètement ouvert et que le bébé est suffisamment descendu, la poussée peut commencer.",
+          "Certaines femmes ressentent une envie très forte de pousser, d’autres moins, notamment avec une péridurale.",
+          "La sage-femme guide la poussée selon vos sensations, le rythme des contractions et l’état du bébé.",
+          "La poussée peut durer plus ou moins longtemps selon le premier accouchement ou non, la position du bébé, la péridurale, la fatigue et la progression."
+        ]
+      },
+      {
+        title: "Les positions pour accoucher",
+        paragraphs: [
+          "Selon la maternité, la péridurale, le monitoring et la situation du bébé, différentes positions peuvent être possibles.",
+          "Certaines femmes accouchent semi-assises, d’autres sur le côté, accroupies, à quatre pattes ou dans une autre position adaptée.",
+          "La position peut changer pendant le travail et même pendant la poussée.",
+          "L’équipe vous guidera selon votre confort, la progression et la sécurité."
+        ]
+      },
+      {
+        title: "La naissance du bébé",
+        paragraphs: [
+          "Au moment où la tête du bébé apparaît, la sage-femme accompagne la sortie progressivement.",
+          "Elle surveille le rythme du bébé, la progression et le périnée.",
+          "Une fois le bébé né, il peut être posé sur vous en peau à peau si son état et le vôtre le permettent.",
+          "L’équipe vérifie rapidement sa respiration, son tonus, sa couleur et son adaptation à la naissance."
+        ]
+      },
+      {
+        title: "Le cordon et les premiers instants",
+        paragraphs: [
+          "Le cordon est clampé puis coupé selon la situation, les pratiques de la maternité et l’état du bébé.",
+          "Dans de nombreux cas, le peau à peau est proposé rapidement.",
+          "La première tétée ou le premier biberon peut être accompagné si vous le souhaitez.",
+          "Si le bébé a besoin de soins immédiats, l’équipe vous explique ce qui se passe et favorise le contact dès que possible."
+        ]
+      },
+      {
+        title: "La délivrance du placenta",
+        paragraphs: [
+          "Après la naissance du bébé, il reste une étape : la délivrance du placenta.",
+          "L’utérus se contracte à nouveau pour permettre au placenta de se décoller et d’être expulsé.",
+          "L’équipe surveille les saignements et vérifie que le placenta est complet.",
+          "Cette étape est importante pour limiter le risque d’hémorragie et vérifier que l’utérus se contracte bien."
+        ]
+      },
+      {
+        title: "Les soins du périnée",
+        paragraphs: [
+          "Après l’accouchement, la sage-femme ou le médecin vérifie le périnée.",
+          "S’il y a une déchirure ou une épisiotomie, des points peuvent être nécessaires.",
+          "Les soins sont réalisés avec une anesthésie adaptée si besoin.",
+          "L’équipe vous expliquera ensuite comment prendre soin de la zone, soulager la douleur et reconnaître les signes qui doivent faire consulter."
+        ]
+      },
+      {
+        title: "Quand une aide médicale est nécessaire",
+        paragraphs: [
+          "Même lors d’un accouchement par voie basse, un geste médical peut parfois être nécessaire.",
+          "Cela peut être une perfusion d’ocytocine, une rupture artificielle de la poche des eaux, une extraction instrumentale avec ventouse, forceps ou spatules, ou une décision de césarienne si la voie basse n’est plus la solution la plus sûre.",
+          "Ces situations dépendent de l’état du bébé, de la progression du travail, de la fatigue maternelle ou d’un événement imprévu.",
+          "L’équipe doit vous expliquer pourquoi un geste est proposé et ce qui va se passer."
+        ]
+      },
+      {
+        title: "La surveillance après la naissance",
+        paragraphs: [
+          "Après la naissance, la mère et le bébé restent surveillés en salle de naissance pendant un temps variable selon les maternités.",
+          "L’équipe vérifie les saignements, la tension, la douleur, la contraction de l’utérus, le périnée et l’état général.",
+          "Le bébé est observé : respiration, température, couleur, tonus, alimentation et adaptation.",
+          "Si tout va bien, vous serez ensuite transférée dans le service de suites de couches."
+        ]
+      },
+      {
+        title: "Ce que vous pouvez demander pendant l’accouchement",
+        bullets: [
+          "Où en est le travail ?",
+          "Le bébé va-t-il bien ?",
+          "Puis-je changer de position ?",
+          "Quelles options ai-je pour soulager la douleur ?",
+          "Puis-je boire ou me reposer un peu ?",
+          "Pourquoi proposez-vous cet examen ou ce geste ?",
+          "Est-ce que mon accompagnant peut rester près de moi ?",
+          "Que va-t-il se passer après la naissance ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un accouchement par voie basse suit plusieurs grandes étapes : travail, dilatation, descente, poussée, naissance, délivrance et surveillance.",
+          "Le rythme varie beaucoup d’une femme à l’autre.",
+          "La sage-femme surveille la mère, le bébé et l’avancement du travail, tout en accompagnant la douleur, les positions et les émotions.",
+          "La voie basse peut se dérouler avec ou sans péridurale, spontanément ou après déclenchement.",
+          "Des adaptations ou gestes médicaux peuvent être nécessaires si la situation l’exige, toujours dans l’objectif de protéger la mère et le bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
