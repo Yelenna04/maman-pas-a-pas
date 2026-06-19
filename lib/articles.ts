@@ -8647,6 +8647,212 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "que-se-passe-t-il-si-le-terme-est-depasse",
+    title: "Que se passe-t-il si le terme est dépassé ?",
+    description:
+      "Surveillance, monitoring, échographie, mouvements du bébé, déclenchement et signes qui doivent faire consulter : les repères pour comprendre ce qui se passe quand la date prévue d’accouchement est dépassée.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Début du travail",
+    subcategorySlug: "debut-travail",
+    readingTime: "10 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Dépasser la date prévue d’accouchement est fréquent : la date du terme reste une estimation, pas un rendez-vous exact.",
+          "Quand le terme approche ou est dépassé, la maternité met en place une surveillance adaptée : monitoring, examen, parfois échographie et contrôle du liquide amniotique.",
+          "L’objectif est de vérifier que le bébé va bien, que le placenta remplit encore son rôle et que la grossesse peut se poursuivre quelques jours en sécurité.",
+          "Un déclenchement peut être proposé si la grossesse se prolonge, si la surveillance devient moins rassurante ou s’il existe une raison médicale.",
+          "En cas de bébé qui bouge moins, perte des eaux, saignement, fièvre, malaise ou douleur inhabituelle, il faut appeler la maternité sans attendre."
+        ],
+        quote:
+          "Le terme dépassé ne signifie pas forcément urgence, mais il nécessite une surveillance plus rapprochée."
+      },
+      {
+        title: "Que veut dire « terme dépassé » ?",
+        paragraphs: [
+          "La date prévue d’accouchement est calculée à partir du début de grossesse estimé, souvent confirmé ou ajusté par l’échographie du premier trimestre.",
+          "Cette date donne un repère, mais très peu de bébés naissent exactement ce jour-là.",
+          "Quand la date prévue est dépassée, on parle souvent de grossesse prolongée ou de dépassement du terme selon le nombre de jours et les habitudes de suivi.",
+          "Ce vocabulaire peut varier selon les professionnels, mais l’idée est la même : la grossesse continue au-delà de la date prévue et demande une surveillance organisée."
+        ]
+      },
+      {
+        title: "Est-ce fréquent ?",
+        paragraphs: [
+          "Oui, dépasser la date prévue d’accouchement arrive souvent.",
+          "La fin de grossesse peut donner l’impression d’attendre chaque signe, surtout quand l’entourage demande souvent si le bébé est arrivé.",
+          "Cette attente peut être fatigante physiquement et émotionnellement.",
+          "Le plus important est de ne pas rester seule avec vos inquiétudes et de suivre les consignes de la maternité."
+        ]
+      },
+      {
+        title: "Pourquoi surveille-t-on davantage ?",
+        paragraphs: [
+          "En fin de grossesse, l’équipe vérifie que le bébé continue à bien supporter la poursuite de la grossesse.",
+          "La surveillance permet notamment d’évaluer son rythme cardiaque, ses mouvements, la quantité de liquide amniotique et parfois l’état du col.",
+          "Elle aide aussi à décider s’il est raisonnable d’attendre encore ou s’il vaut mieux proposer un déclenchement.",
+          "Cette surveillance n’est pas là pour vous inquiéter, mais pour éviter de laisser passer un signe qui nécessiterait une prise en charge."
+        ],
+        quote:
+          "La surveillance du terme dépassé sert à choisir entre attendre encore et déclencher, en fonction de votre situation et du bien-être du bébé."
+      },
+      {
+        title: "Comment se passe la surveillance ?",
+        paragraphs: [
+          "Les modalités peuvent varier selon les maternités.",
+          "On peut vous proposer un rendez-vous à la maternité avec un monitoring pour écouter le rythme cardiaque du bébé et observer les contractions éventuelles.",
+          "Une échographie peut parfois être réalisée pour vérifier la quantité de liquide amniotique, la position du bébé ou d’autres éléments selon votre dossier.",
+          "Un examen du col peut aussi être proposé pour savoir s’il est favorable à un déclenchement ou si le travail semble proche."
+        ]
+      },
+      {
+        title: "Le monitoring : à quoi sert-il ?",
+        paragraphs: [
+          "Le monitoring enregistre le rythme cardiaque du bébé et les contractions de l’utérus.",
+          "Il permet de voir comment le bébé se porte au moment de l’examen.",
+          "Si le tracé est rassurant et que vous n’avez pas d’autre signe inquiétant, l’équipe peut parfois proposer de continuer la surveillance.",
+          "Si le tracé nécessite un avis ou une surveillance supplémentaire, l’équipe vous expliquera la suite."
+        ]
+      },
+      {
+        title: "L’échographie et le liquide amniotique",
+        paragraphs: [
+          "Une échographie peut être utilisée pour regarder certains repères de fin de grossesse.",
+          "La quantité de liquide amniotique fait partie des éléments parfois surveillés lorsque le terme est dépassé.",
+          "Si le liquide semble diminué ou si un autre élément inquiète, l’équipe peut recommander une surveillance plus rapprochée ou un déclenchement.",
+          "Les décisions se prennent toujours avec l’ensemble du contexte : terme, mouvements du bébé, monitoring, état du col et situation médicale."
+        ]
+      },
+      {
+        title: "Les mouvements du bébé restent essentiels",
+        paragraphs: [
+          "Même si vous êtes suivie pour terme dépassé, continuez à être attentive aux mouvements de votre bébé.",
+          "Si vous avez l’impression qu’il bouge nettement moins que d’habitude, appelez la maternité sans attendre.",
+          "Ne vous dites pas que c’est normal parce que le bébé aurait moins de place.",
+          "Une diminution des mouvements mérite toujours un avis, même si un contrôle récent était rassurant."
+        ]
+      },
+      {
+        title: "Faut-il attendre que le travail commence seul ?",
+        paragraphs: [
+          "Dans certaines situations, si tout est rassurant, l’équipe peut proposer d’attendre encore un peu avec une surveillance régulière.",
+          "Cela peut permettre au travail de se déclencher spontanément.",
+          "Mais cette attente doit être encadrée et adaptée à votre situation.",
+          "Si les contrôles deviennent moins rassurants, si le terme avance ou si vous avez une raison médicale particulière, un déclenchement peut être discuté."
+        ]
+      },
+      {
+        title: "Quand propose-t-on un déclenchement ?",
+        paragraphs: [
+          "Un déclenchement peut être proposé lorsque la grossesse se prolonge au-delà du terme recommandé par l’équipe, ou plus tôt s’il existe une raison médicale.",
+          "Il peut aussi être discuté si le liquide amniotique diminue, si le monitoring n’est pas totalement rassurant, si la mère présente une pathologie ou si le bébé nécessite une surveillance particulière.",
+          "La décision dépend de la balance entre les bénéfices d’attendre et les bénéfices de faire naître le bébé.",
+          "Vous pouvez demander pourquoi le déclenchement est proposé, quels sont les bénéfices, les risques et les alternatives possibles."
+        ]
+      },
+      {
+        title: "Comment se passe un déclenchement ?",
+        paragraphs: [
+          "La méthode dépend surtout de l’état du col, de votre situation médicale et des pratiques de la maternité.",
+          "Si le col n’est pas encore favorable, l’équipe peut proposer une maturation du col avec des méthodes médicamenteuses ou mécaniques selon les cas.",
+          "Si le col est favorable, d’autres méthodes peuvent être envisagées, comme la rupture artificielle de la poche des eaux ou une perfusion d’ocytocine.",
+          "Le déclenchement peut prendre du temps. Il ne signifie pas toujours que le bébé naîtra rapidement."
+        ]
+      },
+      {
+        title: "Est-ce plus douloureux ?",
+        paragraphs: [
+          "Certaines femmes ressentent les contractions de déclenchement comme plus intenses ou plus rapprochées, mais cela dépend des méthodes utilisées et de la réaction du corps.",
+          "Vous pouvez discuter à l’avance de la gestion de la douleur, de la péridurale, de la mobilité possible et des pauses éventuelles selon la situation.",
+          "Si vous avez peur du déclenchement, dites-le à l’équipe.",
+          "Comprendre les étapes aide souvent à réduire l’inquiétude."
+        ]
+      },
+      {
+        title: "Peut-on refuser ou demander un temps de réflexion ?",
+        paragraphs: [
+          "Vous avez le droit de recevoir des explications claires et de poser vos questions.",
+          "Si la situation n’est pas urgente, vous pouvez demander un temps pour comprendre la proposition, appeler votre accompagnant ou relire les informations.",
+          "En revanche, si un signe médical impose d’agir rapidement pour la sécurité de la mère ou du bébé, l’équipe vous expliquera pourquoi la marge d’attente est limitée.",
+          "Le dialogue reste important, même quand la décision doit être prise vite."
+        ]
+      },
+      {
+        title: "Ce qui doit faire appeler sans attendre",
+        bullets: [
+          "Bébé qui bouge moins que d’habitude.",
+          "Perte des eaux, surtout si le liquide est vert, brun, sanglant ou malodorant.",
+          "Saignement rouge ou abondant.",
+          "Fièvre, frissons ou malaise.",
+          "Douleur continue ou inhabituelle.",
+          "Maux de tête importants, troubles visuels, douleur en haut du ventre ou gonflement soudain.",
+          "Contractions très rapprochées ou envie de pousser.",
+          "Sensation que quelque chose ne va pas."
+        ],
+        paragraphs: [
+          "N’attendez pas le prochain rendez-vous de surveillance si l’un de ces signes apparaît.",
+          "Appelez la maternité ou les urgences selon les consignes qui vous ont été données."
+        ]
+      },
+      {
+        title: "Comment vivre l’attente après le terme ?",
+        paragraphs: [
+          "Les jours après la date prévue peuvent sembler très longs.",
+          "Essayez de limiter la pression extérieure : vous pouvez prévenir vos proches que vous donnerez des nouvelles quand il y en aura.",
+          "Reposez-vous autant que possible, mangez simplement, préparez les affaires sans vous épuiser et gardez votre téléphone chargé.",
+          "Si l’attente devient très anxiogène, parlez-en à une sage-femme ou à l’équipe de la maternité."
+        ]
+      },
+      {
+        title: "Questions utiles à poser à la maternité",
+        bullets: [
+          "À partir de quand commence la surveillance du terme dans votre maternité ?",
+          "À quelle fréquence auront lieu les contrôles ?",
+          "Que vérifiez-vous pendant ces rendez-vous ?",
+          "À quel moment proposez-vous un déclenchement ?",
+          "Quels signes doivent me faire venir sans attendre ?",
+          "Quel numéro dois-je appeler jour et nuit ?",
+          "Quelle méthode de déclenchement serait envisagée si mon col est favorable ou non ?",
+          "Puis-je être accompagnée pendant les contrôles et le déclenchement ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La date prévue d’accouchement est une estimation : la dépasser ne signifie pas automatiquement qu’il y a un problème.",
+          "En revanche, une grossesse qui se prolonge demande une surveillance plus rapprochée.",
+          "Monitoring, échographie, contrôle du liquide amniotique et examen du col peuvent aider à décider si l’on attend encore ou si l’on déclenche.",
+          "Un déclenchement peut être proposé si la poursuite de la grossesse semble moins favorable ou selon les protocoles de la maternité.",
+          "Bébé qui bouge moins, perte des eaux inhabituelle, saignement, fièvre, malaise ou douleur continue doivent faire appeler sans attendre."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Déclenchement artificiel du travail à partir de 37 semaines d’aménorrhée",
+        url: "https://www.has-sante.fr/jcms/c_666473/fr/declenchement-artificiel-du-travail-a-partir-de-37-semaines-d-amenorrhee"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
