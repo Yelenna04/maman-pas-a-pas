@@ -9267,6 +9267,224 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "monitoring-pendant-le-travail-a-quoi-sert-il",
+    title: "Monitoring pendant le travail : à quoi sert-il ?",
+    description:
+      "Rythme cardiaque du bébé, contractions, surveillance continue ou intermittente, mobilité et résultats du tracé : comprendre à quoi sert le monitoring pendant l’accouchement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "10 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le monitoring pendant le travail sert à surveiller le rythme cardiaque du bébé et les contractions de l’utérus.",
+          "Il aide l’équipe à vérifier comment le bébé supporte les contractions et à repérer les situations qui demandent une surveillance plus rapprochée.",
+          "Il peut être ponctuel, répété ou continu selon votre situation, votre terme, la perte des eaux, la péridurale, un déclenchement ou certains facteurs de risque.",
+          "Le monitoring ne veut pas forcément dire qu’il y a un problème : il fait partie de la surveillance habituelle dans beaucoup de maternités.",
+          "Si vous ne comprenez pas pourquoi il est posé ou combien de temps il doit durer, vous pouvez demander une explication simple à l’équipe."
+        ],
+        quote:
+          "Le monitoring ne surveille pas seulement les contractions : il permet surtout de voir comment le bébé les tolère."
+      },
+      {
+        title: "Qu’est-ce que le monitoring ?",
+        paragraphs: [
+          "Le monitoring, aussi appelé cardiotocographie, est un enregistrement du rythme cardiaque du bébé et des contractions de l’utérus.",
+          "Il se fait le plus souvent avec deux capteurs posés sur le ventre et maintenus par des bandes élastiques.",
+          "Un capteur suit le rythme cardiaque du bébé, l’autre repère l’activité des contractions.",
+          "Le résultat apparaît sous forme de tracé sur un écran ou sur papier, que l’équipe interprète en fonction de votre situation."
+        ]
+      },
+      {
+        title: "À quoi sert-il pendant le travail ?",
+        paragraphs: [
+          "Pendant chaque contraction, l’utérus se contracte et le bébé peut être temporairement moins bien oxygéné.",
+          "La plupart du temps, il le supporte très bien.",
+          "Le monitoring permet de vérifier que son rythme cardiaque reste rassurant avant, pendant et après les contractions.",
+          "Il aide aussi à repérer si les contractions sont trop rapprochées, trop intenses ou si le bébé montre des signes de fatigue."
+        ]
+      },
+      {
+        title: "Comment se passe la pose ?",
+        paragraphs: [
+          "Vous êtes installée sur un lit, un fauteuil ou parfois dans une position adaptée selon la maternité.",
+          "La sage-femme place les capteurs sur votre ventre après avoir cherché la meilleure zone pour entendre le cœur du bébé.",
+          "Les capteurs sont maintenus par deux bandes souples.",
+          "Le geste n’est pas douloureux, mais il peut être inconfortable si les bandes serrent trop, si vous avez besoin de bouger ou si les capteurs se déplacent."
+        ],
+        quote:
+          "Si une bande vous gêne ou vous serre, dites-le : elle peut souvent être ajustée."
+      },
+      {
+        title: "Que mesure le tracé ?",
+        bullets: [
+          "Le rythme cardiaque de base du bébé.",
+          "Les variations naturelles du rythme cardiaque.",
+          "Les accélérations du rythme, souvent rassurantes.",
+          "Les ralentissements éventuels, à interpréter selon leur moment et leur répétition.",
+          "La fréquence des contractions.",
+          "La régularité des contractions.",
+          "La façon dont le bébé récupère après chaque contraction."
+        ],
+        paragraphs: [
+          "Un tracé ne s’interprète jamais tout seul.",
+          "L’équipe tient compte du terme, de la douleur, de la perte des eaux, du col, de la position du bébé, des médicaments éventuels et de l’évolution du travail."
+        ]
+      },
+      {
+        title: "Monitoring ponctuel ou continu : quelle différence ?",
+        paragraphs: [
+          "Un monitoring ponctuel est réalisé pendant une durée limitée, par exemple à l’arrivée à la maternité ou à certains moments du travail.",
+          "Un monitoring continu reste en place plus longtemps, parfois pendant tout le travail.",
+          "La surveillance continue peut être proposée en cas de péridurale, de déclenchement, de grossesse à risque, de liquide teinté, de fièvre, d’anomalie du rythme du bébé ou d’autre situation nécessitant une attention rapprochée.",
+          "Les pratiques varient selon les maternités et selon votre situation médicale."
+        ]
+      },
+      {
+        title: "Est-ce obligatoire ?",
+        paragraphs: [
+          "Le monitoring peut être fortement recommandé selon le contexte, surtout lorsqu’il existe un élément à surveiller pour la sécurité du bébé ou de la mère.",
+          "Dans certaines situations simples, une surveillance intermittente peut parfois être envisagée selon les protocoles de la maternité.",
+          "Vous pouvez demander pourquoi le monitoring est proposé, s’il doit être continu ou ponctuel, et ce que l’équipe recherche.",
+          "Le dialogue permet de mieux comprendre l’intérêt de la surveillance, même lorsque celle-ci est nécessaire."
+        ]
+      },
+      {
+        title: "Peut-on bouger avec le monitoring ?",
+        paragraphs: [
+          "Cela dépend du matériel disponible et de la situation.",
+          "Avec des capteurs classiques reliés à l’appareil, les mouvements peuvent être limités, surtout si le signal se perd dès que vous changez de position.",
+          "Certaines maternités disposent de dispositifs permettant davantage de mobilité, mais ce n’est pas systématique.",
+          "Même avec un monitoring, il est parfois possible de changer de côté, s’asseoir, se redresser ou adopter une position plus confortable, en accord avec l’équipe."
+        ]
+      },
+      {
+        title: "Pourquoi le signal se perd parfois ?",
+        paragraphs: [
+          "Le capteur du rythme cardiaque doit rester bien placé sur la zone où le cœur du bébé est le mieux capté.",
+          "Si le bébé bouge, si vous changez de position ou si le ventre se contracte fortement, le signal peut devenir moins net.",
+          "La sage-femme peut alors replacer le capteur.",
+          "Cela ne signifie pas forcément qu’il y a un problème : parfois, c’est simplement une question de position."
+        ]
+      },
+      {
+        title: "Que se passe-t-il si le tracé inquiète l’équipe ?",
+        paragraphs: [
+          "Si le tracé montre un élément moins rassurant, l’équipe peut commencer par vérifier le capteur, vous faire changer de position, contrôler votre tension, observer les contractions ou prolonger la surveillance.",
+          "Selon la situation, d’autres mesures peuvent être proposées : hydratation, arrêt ou adaptation d’un médicament, avis médical, examen du col ou surveillance plus rapprochée.",
+          "Dans certains cas, si le bébé semble mal tolérer le travail, l’équipe peut discuter d’une accélération de la naissance.",
+          "Chaque décision dépend du tracé, de l’évolution du travail et de votre état."
+        ]
+      },
+      {
+        title: "Monitoring et péridurale",
+        paragraphs: [
+          "Lorsqu’une péridurale est posée, la surveillance peut être renforcée selon les protocoles de la maternité.",
+          "Le monitoring permet de suivre le rythme du bébé et les contractions pendant que la douleur est diminuée.",
+          "Il peut aussi aider l’équipe à repérer si les contractions deviennent trop rapprochées ou si le bébé réagit différemment.",
+          "Même sous péridurale, vous pouvez demander à être aidée pour changer de position si cela est possible."
+        ]
+      },
+      {
+        title: "Monitoring et déclenchement",
+        paragraphs: [
+          "Lors d’un déclenchement, le monitoring est souvent utilisé pour surveiller les contractions provoquées ou renforcées et vérifier que le bébé les tolère bien.",
+          "Selon la méthode utilisée, il peut être ponctuel ou continu.",
+          "Si les contractions deviennent trop rapprochées, l’équipe peut adapter la prise en charge.",
+          "Le monitoring fait alors partie de la sécurité du déclenchement."
+        ]
+      },
+      {
+        title: "Monitoring et perte des eaux",
+        paragraphs: [
+          "Après une perte des eaux, le monitoring peut être proposé pour vérifier le bien-être du bébé, surtout si les contractions commencent, si le liquide est teinté ou si d’autres signes sont présents.",
+          "L’équipe tient aussi compte de la couleur du liquide, de l’heure de la rupture, de votre température et de votre terme.",
+          "Si le liquide est vert, brun, sanglant ou malodorant, signalez-le immédiatement.",
+          "Ces informations peuvent modifier la surveillance proposée."
+        ]
+      },
+      {
+        title: "Le monitoring peut-il se tromper ?",
+        paragraphs: [
+          "Le monitoring est un outil utile, mais il doit être interprété par des professionnels et replacé dans le contexte.",
+          "Un tracé peut parfois paraître moins net parce que le capteur bouge ou parce que la position rend l’enregistrement difficile.",
+          "À l’inverse, un tracé rassurant à un moment donné ne remplace pas l’attention aux autres signes : douleur inhabituelle, fièvre, saignement, perte de liquide ou diminution des mouvements du bébé avant l’arrivée.",
+          "C’est pour cela que l’équipe associe toujours le monitoring à l’examen clinique et à ce que vous décrivez."
+        ]
+      },
+      {
+        title: "Ce que vous pouvez demander",
+        bullets: [
+          "Pourquoi le monitoring est-il posé maintenant ?",
+          "Combien de temps doit-il durer ?",
+          "Le tracé est-il rassurant ?",
+          "Puis-je changer de position ?",
+          "Puis-je me lever ou bouger un peu ?",
+          "Est-ce que la surveillance doit être continue ou peut-elle être interrompue par moments ?",
+          "Que regarde exactement l’équipe sur le tracé ?",
+          "Que se passera-t-il si le rythme du bébé change ?"
+        ],
+        paragraphs: [
+          "Ces questions sont légitimes.",
+          "Comprendre ce qui est surveillé peut rendre le monitoring moins impressionnant."
+        ]
+      },
+      {
+        title: "Si le monitoring vous gêne",
+        paragraphs: [
+          "Le monitoring peut donner l’impression d’être attachée, surveillée ou limitée dans ses mouvements.",
+          "Si cela vous gêne, dites-le à l’équipe.",
+          "Parfois, il est possible d’ajuster les bandes, de changer de côté, de se redresser ou de trouver une position plus confortable tout en gardant un tracé correct.",
+          "Si la surveillance doit rester continue pour une raison médicale, l’équipe peut vous expliquer pourquoi."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut aider à gérer ce moment en restant près de vous, en vous aidant à respirer ou en demandant une explication si vous ne comprenez pas le tracé.",
+          "Elle peut aussi vous aider à changer doucement de position avec l’accord de l’équipe.",
+          "Il vaut mieux éviter qu’elle interprète elle-même l’écran, car les courbes peuvent être difficiles à comprendre.",
+          "Son rôle est surtout de vous soutenir et de faire le lien si vous êtes concentrée sur les contractions."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le monitoring pendant le travail surveille le rythme cardiaque du bébé et les contractions.",
+          "Il aide à vérifier comment le bébé supporte le travail et à repérer les situations qui demandent une surveillance plus rapprochée.",
+          "Il peut être ponctuel ou continu selon votre situation et les pratiques de la maternité.",
+          "Même avec un monitoring, des adaptations de position ou de confort sont parfois possibles.",
+          "Si vous avez une question sur le tracé ou la durée de surveillance, demandez une explication simple à l’équipe."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
