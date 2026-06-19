@@ -7559,14 +7559,14 @@ export const articles: Article[] = [
     title: "Contractions : comment différencier travail et faux travail ?",
     description:
       "Braxton Hicks ou début du travail ? Découvrez les repères utiles pour reconnaître l’évolution des contractions et savoir quand contacter la maternité.",
-    category: "Pendant la grossesse",
-    categorySlug: "pendant-grossesse",
-    subcategory: "Troisième trimestre",
-    subcategorySlug: "troisieme-trimestre",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Début du travail",
+    subcategorySlug: "debut-travail",
     readingTime: "8 min",
     publishedAt: "2026-06-14",
     updatedAt: "2026-06-14",
-    tone: "sage",
+    tone: "sand",
     sections: [
       {
         title: "L’essentiel en 30 secondes",
