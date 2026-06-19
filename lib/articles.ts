@@ -10777,6 +10777,216 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "poussee-pendant-laccouchement-comment-cela-se-passe-t-il",
+    title: "Poussée pendant l’accouchement : comment cela se passe-t-il ?",
+    description:
+      "Envie de pousser, dilatation complète, positions, respiration, péridurale, durée et accompagnement de la sage-femme : comprendre simplement la phase de poussée pendant l’accouchement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La poussée correspond à la phase où le bébé descend puis naît, lorsque le col est complètement ouvert et que l’équipe estime que le moment est adapté.",
+          "Certaines femmes ressentent une envie très forte de pousser, d’autres moins, notamment avec une péridurale.",
+          "La sage-femme guide la poussée selon vos sensations, les contractions, la descente du bébé et le rythme cardiaque du bébé.",
+          "Il existe plusieurs façons de pousser : spontanément avec l’envie du corps, ou de manière guidée si la situation le nécessite.",
+          "La durée de la poussée varie beaucoup selon le premier bébé ou non, la position du bébé, la péridurale, la fatigue et la progression."
+        ],
+        quote:
+          "La poussée n’est pas seulement une question de force : c’est une coordination entre les contractions, le souffle, la position, le bébé et l’accompagnement."
+      },
+      {
+        title: "Quand commence la phase de poussée ?",
+        paragraphs: [
+          "La poussée commence généralement lorsque le col de l’utérus est complètement dilaté, c’est-à-dire ouvert à environ 10 centimètres.",
+          "Mais cela ne signifie pas toujours qu’il faut pousser immédiatement.",
+          "Parfois, l’équipe attend que le bébé descende davantage dans le bassin, surtout si la mère n’a pas encore une envie forte de pousser.",
+          "La sage-femme évalue le bon moment en tenant compte du col, de la descente du bébé, des contractions, du rythme du bébé et de votre état."
+        ]
+      },
+      {
+        title: "À quoi ressemble l’envie de pousser ?",
+        paragraphs: [
+          "L’envie de pousser peut ressembler à une pression très forte vers le bas, parfois comparable à une envie d’aller à la selle.",
+          "Elle peut apparaître pendant les contractions et devenir de plus en plus difficile à retenir.",
+          "Certaines femmes ressentent une envie très instinctive, presque impossible à contrôler.",
+          "D’autres la sentent peu ou pas du tout, notamment avec une péridurale ou lorsque le bébé n’est pas encore assez descendu."
+        ]
+      },
+      {
+        title: "Et si je n’ai pas envie de pousser ?",
+        paragraphs: [
+          "Ne pas ressentir l’envie de pousser ne veut pas dire que vous faites mal les choses.",
+          "Avec une péridurale, les sensations peuvent être diminuées ou différentes.",
+          "La sage-femme peut alors vous guider en observant les contractions sur le monitoring, votre respiration, la descente du bébé et vos sensations de pression.",
+          "Elle peut aussi proposer d’attendre un peu, de changer de position ou d’adapter le dosage de la péridurale selon les possibilités et l’avis de l’équipe."
+        ]
+      },
+      {
+        title: "Poussée spontanée ou poussée guidée",
+        paragraphs: [
+          "La poussée spontanée consiste à suivre l’envie du corps, souvent en poussant quand la contraction donne une forte pression vers le bas.",
+          "La poussée guidée consiste à recevoir des indications plus précises : quand inspirer, quand pousser, combien de temps et comment récupérer.",
+          "Les deux approches peuvent être utiles selon les situations.",
+          "L’équipe adapte ses conseils à votre ressenti, à la progression du bébé et à la surveillance."
+        ],
+        quote:
+          "Il n’y a pas une seule façon de pousser : l’important est d’adapter la poussée à votre corps et à la situation."
+      },
+      {
+        title: "Comment respirer pendant la poussée ?",
+        paragraphs: [
+          "La respiration peut aider à coordonner l’effort et à récupérer entre les contractions.",
+          "Certaines femmes poussent en bloquant brièvement le souffle, d’autres en soufflant pendant l’effort.",
+          "La sage-femme peut vous guider selon ce qui est le plus efficace et le plus confortable pour vous.",
+          "Entre les contractions, l’objectif est de relâcher le visage, les épaules, les mains et de reprendre de l’air pour récupérer."
+        ]
+      },
+      {
+        title: "Les positions possibles pour pousser",
+        paragraphs: [
+          "La poussée peut se faire dans plusieurs positions selon votre mobilité, la péridurale, le monitoring, le lit, la position du bébé et les habitudes de la maternité.",
+          "Certaines femmes poussent semi-assises, d’autres sur le côté, à quatre pattes, accroupies ou dans une position avec appui.",
+          "Une position peut être changée si elle ne vous aide pas ou si la progression ralentit.",
+          "La sage-femme peut proposer des ajustements pour améliorer le confort, aider la descente ou protéger le périnée."
+        ],
+        bullets: [
+          "Semi-assise : fréquente, simple à installer, souvent compatible avec la péridurale.",
+          "Sur le côté : reposante, parfois utile pour protéger le périnée.",
+          "À quatre pattes : peut soulager le dos et aider certains bébés à mieux se positionner.",
+          "Accroupie ou avec appui : utilise davantage la gravité, mais demande de l’énergie.",
+          "Allongée avec jambes soutenues : parfois utile si un geste médical est nécessaire."
+        ]
+      },
+      {
+        title: "Combien de temps dure la poussée ?",
+        paragraphs: [
+          "La durée varie beaucoup.",
+          "Pour un premier bébé, la phase de poussée peut être plus longue que pour un deuxième ou un troisième accouchement.",
+          "Elle dépend aussi de la position du bébé, de la péridurale, de la force des contractions, de la fatigue maternelle et de la progression.",
+          "L’équipe surveille la durée, mais aussi l’efficacité de chaque poussée et la tolérance du bébé."
+        ]
+      },
+      {
+        title: "Que fait la sage-femme pendant cette phase ?",
+        paragraphs: [
+          "La sage-femme observe la progression du bébé, le rythme des contractions, votre respiration, votre fatigue et le rythme cardiaque du bébé.",
+          "Elle vous guide pour pousser au bon moment, vous aide à récupérer entre les contractions et peut proposer de changer de position.",
+          "Elle surveille aussi le périnée et accompagne la sortie de la tête du bébé de façon progressive lorsque c’est possible.",
+          "Si elle repère une difficulté ou un besoin d’avis médical, elle appelle le médecin."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut vous aider à rester ancrée : tenir votre main, soutenir une jambe si l’équipe le propose, vous encourager calmement ou vous aider à respirer.",
+          "Elle peut aussi vous rappeler de relâcher les épaules et de récupérer entre les contractions.",
+          "Son rôle n’est pas de donner des consignes contradictoires avec l’équipe.",
+          "Une présence calme et rassurante peut être très aidante pendant cette phase intense."
+        ]
+      },
+      {
+        title: "Avec une péridurale, comment cela se passe ?",
+        paragraphs: [
+          "Avec une péridurale, la douleur peut être fortement diminuée, mais la sensation de pression peut rester présente.",
+          "Si vous sentez bien les contractions, vous pourrez parfois pousser en suivant vos sensations.",
+          "Si vous les sentez peu, l’équipe peut vous guider grâce au monitoring et à l’observation de la progression.",
+          "Parfois, un ajustement de position ou de dosage peut être discuté si les sensations sont trop faibles ou si la poussée est difficile."
+        ]
+      },
+      {
+        title: "Quand le bébé commence à sortir",
+        paragraphs: [
+          "Lorsque la tête du bébé descend très bas, vous pouvez ressentir une pression intense, une sensation d’étirement ou de brûlure au niveau du périnée.",
+          "La sage-femme peut vous demander de pousser, de souffler doucement ou de ralentir selon le moment.",
+          "Le but est d’accompagner la sortie progressivement lorsque c’est possible.",
+          "Une fois la tête sortie, le reste du corps naît généralement rapidement, avec l’aide de l’équipe."
+        ]
+      },
+      {
+        title: "Et si la poussée n’avance pas ?",
+        paragraphs: [
+          "Si la poussée n’est pas efficace ou si le bébé ne descend pas suffisamment, l’équipe recherche la cause possible.",
+          "Elle peut proposer de changer de position, de laisser du temps si le bébé va bien, d’adapter la péridurale, de vérifier le col ou la position du bébé.",
+          "Si la mère est très fatiguée ou si le bébé tolère moins bien la situation, un avis médical peut être demandé.",
+          "Selon le contexte, une extraction instrumentale ou une césarienne peut parfois être discutée."
+        ]
+      },
+      {
+        title: "Faut-il avoir peur de faire “mal” ?",
+        paragraphs: [
+          "Beaucoup de femmes craignent de ne pas savoir pousser correctement.",
+          "En réalité, le corps donne souvent des repères, et l’équipe est là pour guider.",
+          "Il peut y avoir plusieurs essais, des ajustements, des pauses et des changements de position.",
+          "Vous n’avez pas besoin d’être parfaite : vous avancez contraction après contraction."
+        ],
+        quote:
+          "La poussée s’apprend parfois en direct, avec les sensations du moment et l’aide de la sage-femme."
+      },
+      {
+        title: "Ce qui peut aider pendant la poussée",
+        bullets: [
+          "Écouter une consigne à la fois.",
+          "Relâcher le visage, la mâchoire et les épaules entre les contractions.",
+          "Trouver une position où vous vous sentez stable.",
+          "Demander à changer de position si vous êtes mal installée.",
+          "Récupérer dès que la contraction redescend.",
+          "Demander des encouragements calmes plutôt que trop de bruit si vous en avez besoin.",
+          "Dire si vous ne comprenez pas ce qu’on vous demande."
+        ]
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "Est-ce que le bébé descend bien ?",
+          "Est-ce le bon moment pour pousser ?",
+          "Puis-je changer de position ?",
+          "Est-ce que je dois pousser maintenant ou attendre l’envie ?",
+          "Comment puis-je respirer pendant la poussée ?",
+          "Est-ce que le bébé tolère bien les contractions ?",
+          "Que se passe-t-il si la poussée dure longtemps ?",
+          "Pouvez-vous me guider plus simplement, une consigne à la fois ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La poussée commence lorsque le col est complètement ouvert et que le bébé est suffisamment engagé ou prêt à descendre.",
+          "L’envie de pousser peut être très forte, différente ou absente, surtout avec une péridurale.",
+          "La sage-femme guide la poussée, surveille le bébé et adapte les positions selon la progression.",
+          "La durée varie beaucoup et dépend de nombreux facteurs.",
+          "Vous n’avez pas besoin de savoir tout faire parfaitement : l’équipe vous accompagne contraction après contraction."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège National des Sages-Femmes de France",
+        url: "https://www.cnsf.asso.fr/"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
