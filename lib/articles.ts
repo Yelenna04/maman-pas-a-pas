@@ -10563,6 +10563,220 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "les-differentes-positions-pour-accoucher",
+    title: "Les différentes positions pour accoucher",
+    description:
+      "Semi-assise, sur le côté, à quatre pattes, accroupie ou en suspension : comprendre les principales positions possibles pour accoucher, leurs avantages et dans quels cas elles peuvent être proposées.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe pas une seule bonne position pour accoucher : la meilleure est souvent celle qui vous aide à pousser, à gérer la douleur et à favoriser la descente du bébé.",
+          "Selon votre état, la position du bébé, la présence d’une péridurale et les habitudes de la maternité, plusieurs positions peuvent être possibles.",
+          "Certaines positions ouvrent davantage le bassin, d’autres soulagent le dos, permettent de mieux respirer ou aident à se reposer entre les contractions.",
+          "Même avec une péridurale, il est parfois possible de changer de position dans le lit avec l’aide de l’équipe.",
+          "La sage-femme peut vous guider et adapter les positions au fur et à mesure du travail."
+        ],
+        quote:
+          "Changer de position pendant le travail ou au moment de pousser n’est pas un détail : cela peut réellement modifier le confort et la progression."
+      },
+      {
+        title: "Pourquoi la position compte-t-elle ?",
+        paragraphs: [
+          "La position influence le confort, la respiration, la manière de vivre les contractions et parfois la progression du bébé dans le bassin.",
+          "Certaines femmes ont spontanément besoin de bouger, de se pencher en avant, de s’allonger sur le côté ou de se redresser.",
+          "Il n’est pas obligatoire d’accoucher sur le dos si une autre position est plus confortable et possible dans votre situation.",
+          "L’important est de trouver une position compatible avec votre sécurité, celle du bébé et les conditions de surveillance."
+        ]
+      },
+      {
+        title: "Ce qui peut influencer les positions possibles",
+        bullets: [
+          "La présence ou non d’une péridurale.",
+          "Le monitoring et la qualité du tracé du bébé.",
+          "Le stade du travail.",
+          "Votre fatigue et votre confort.",
+          "La position du bébé.",
+          "La mobilité de vos jambes.",
+          "L’espace et le matériel disponibles dans la salle de naissance.",
+          "Les habitudes et recommandations de l’équipe."
+        ],
+        paragraphs: [
+          "Il est donc normal que les positions possibles ne soient pas exactement les mêmes pour toutes les femmes."
+        ]
+      },
+      {
+        title: "La position semi-assise",
+        paragraphs: [
+          "C’est une position très fréquente en salle de naissance.",
+          "La mère est installée sur le lit, le buste relevé, avec les jambes plus ou moins fléchies.",
+          "Elle permet un bon accès pour l’équipe, facilite parfois la poussée et reste souvent possible avec une péridurale.",
+          "En revanche, certaines femmes la trouvent moins confortable si elles ont mal au dos ou si elles ressentent une forte pression au niveau du sacrum."
+        ],
+        bullets: [
+          "Avantages : position courante, simple à mettre en place, compatible avec de nombreuses situations.",
+          "Limites : peut être fatigante, moins mobile, parfois moins confortable pour le dos."
+        ]
+      },
+      {
+        title: "La position sur le côté",
+        paragraphs: [
+          "La mère est allongée sur le côté, souvent avec un coussin entre les jambes ou sous la jambe supérieure.",
+          "Cette position peut être très utile pour se reposer, mieux respirer et diminuer certaines tensions.",
+          "Elle est souvent possible avec une péridurale.",
+          "Elle peut aussi être intéressante lorsque l’équipe souhaite ralentir un peu la sortie du bébé ou protéger davantage le périnée."
+        ],
+        bullets: [
+          "Avantages : reposante, douce, souvent compatible avec la péridurale, peut soulager le dos.",
+          "Limites : certaines femmes sentent moins bien leur poussée ou se sentent moins actives."
+        ]
+      },
+      {
+        title: "La position à quatre pattes",
+        paragraphs: [
+          "Cette position consiste à se mettre à genoux, appuyée sur les mains, les avant-bras ou le haut du lit.",
+          "Elle peut être particulièrement appréciée en cas de douleurs lombaires ou de sensation de bébé “dans le dos”.",
+          "Elle aide certaines femmes à mieux vivre les contractions et peut favoriser certains changements de position du bébé.",
+          "Elle demande cependant de la force et n’est pas toujours facile à tenir longtemps."
+        ],
+        bullets: [
+          "Avantages : soulage souvent le dos, libère le bassin, peut aider certains bébés à mieux se positionner.",
+          "Limites : fatigue plus rapide, moins simple avec une péridurale importante ou un monitoring contraignant."
+        ]
+      },
+      {
+        title: "La position accroupie",
+        paragraphs: [
+          "La position accroupie peut se faire complètement accroupie ou en appui, par exemple à l’aide d’un support, d’un tabouret ou de la personne accompagnante.",
+          "Elle utilise la gravité et peut aider à ouvrir le bassin.",
+          "Certaines femmes la trouvent très efficace au moment de pousser.",
+          "Elle peut toutefois être physique, fatigante et difficile à maintenir longtemps."
+        ],
+        bullets: [
+          "Avantages : favorise l’action de la gravité, peut aider à pousser, ouvre le bassin.",
+          "Limites : demande de l’énergie, peut fatiguer les jambes, moins facile avec une péridurale."
+        ]
+      },
+      {
+        title: "La position debout ou en suspension",
+        paragraphs: [
+          "Certaines femmes aiment rester debout, marcher ou s’appuyer sur un support pendant les contractions.",
+          "Elles peuvent aussi se suspendre au cou de la personne accompagnante ou à une barre si la salle est équipée.",
+          "Cette position permet parfois de mieux respirer et de vivre activement les contractions.",
+          "Elle est surtout utilisée pendant le travail, avant la phase finale de poussée."
+        ],
+        bullets: [
+          "Avantages : mobilité, sensation d’être active, peut favoriser la descente du bébé.",
+          "Limites : fatigue, moins simple si les contractions sont très intenses ou si une surveillance continue est nécessaire."
+        ]
+      },
+      {
+        title: "La position assise ou sur ballon",
+        paragraphs: [
+          "S’asseoir sur un ballon ou sur le bord du lit peut aider à relâcher le bassin et à mieux supporter les contractions.",
+          "Certaines femmes aiment se balancer doucement ou faire de petits mouvements circulaires.",
+          "Cette position est surtout utile pendant le travail, moins souvent au moment précis de la naissance.",
+          "Elle peut être très confortable en début ou milieu de travail si la situation le permet."
+        ],
+        bullets: [
+          "Avantages : aide à bouger, favorise la détente du bassin, souvent agréable au début du travail.",
+          "Limites : nécessite un bon équilibre et n’est pas toujours adaptée en fin de travail."
+        ]
+      },
+      {
+        title: "La position gynécologique",
+        paragraphs: [
+          "La position gynécologique correspond à une femme allongée sur le dos, jambes fléchies et écartées, souvent avec les pieds en appui.",
+          "Elle reste fréquente car elle facilite certains gestes médicaux, l’examen clinique ou la surveillance.",
+          "Elle n’est cependant pas toujours la plus confortable pour la mère.",
+          "Certaines femmes y accouchent sans difficulté, d’autres préfèrent des positions plus libres si cela est possible."
+        ],
+        bullets: [
+          "Avantages : pratique pour l’équipe, utile si un geste médical est nécessaire.",
+          "Limites : peut être moins confortable, moins mobile, et parfois moins favorable au ressenti de certaines femmes."
+        ]
+      },
+      {
+        title: "Avec une péridurale : quelles positions sont souvent possibles ?",
+        paragraphs: [
+          "Avec une péridurale, tout dépend du dosage et de la force restante dans les jambes.",
+          "Même si marcher n’est généralement pas possible, on peut souvent changer de côté, redresser le buste, se mettre semi-assise, sur le côté ou parfois à quatre pattes avec beaucoup d’aide selon les situations.",
+          "L’équipe peut utiliser des coussins ou des supports pour maintenir certaines positions.",
+          "Ne vous levez jamais seule si vous avez une péridurale."
+        ]
+      },
+      {
+        title: "Peut-on changer de position pendant la poussée ?",
+        paragraphs: [
+          "Oui, c’est souvent possible, selon votre état et celui du bébé.",
+          "Si une position ne vous aide pas, si vous êtes trop inconfortable ou si la poussée semble peu efficace, la sage-femme peut proposer autre chose.",
+          "Certaines femmes commencent dans une position puis en changent une ou plusieurs fois.",
+          "Le moment de l’accouchement n’a pas besoin d’être figé."
+        ],
+        quote:
+          "Une position peut être excellente pendant les contractions, puis moins utile pour pousser : le corps évolue, les besoins aussi."
+      },
+      {
+        title: "Comment savoir quelle position vous convient ?",
+        paragraphs: [
+          "Il n’y a pas de test parfait à l’avance.",
+          "Pendant la grossesse, vous pouvez découvrir plusieurs positions en préparation à la naissance pour mieux les connaître.",
+          "Le jour J, écoutez vos sensations : besoin de bouger, de vous pencher en avant, de vous reposer sur le côté ou de vous redresser.",
+          "La sage-femme peut vous aider à tester, ajuster et adapter les positions à ce que vous ressentez."
+        ]
+      },
+      {
+        title: "Questions utiles à poser à l’équipe",
+        bullets: [
+          "Puis-je changer de position ?",
+          "Quelles positions sont possibles avec le monitoring ?",
+          "Quelles positions sont possibles avec la péridurale ?",
+          "Est-ce que cette position peut soulager mon dos ?",
+          "Pouvez-vous m’aider à trouver une position plus efficace pour pousser ?",
+          "Puis-je utiliser un ballon ou un coussin ?",
+          "Puis-je me mettre sur le côté ou à quatre pattes ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Il existe plusieurs positions possibles pour accoucher, et aucune n’est idéale pour tout le monde.",
+          "La bonne position est celle qui vous aide le mieux à vivre les contractions, à pousser et à rester en sécurité.",
+          "Certaines positions favorisent la gravité, d’autres le repos ou le soulagement du dos.",
+          "La péridurale, le monitoring et la situation du bébé peuvent limiter ou orienter certains choix.",
+          "La sage-femme peut vous aider à adapter les positions selon votre confort, la progression du travail et la sécurité du bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Collège National des Sages-Femmes de France",
+        url: "https://www.cnsf.asso.fr/"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
