@@ -11663,6 +11663,235 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "cesarienne-en-urgence-a-quoi-sattendre",
+    title: "Césarienne en urgence : à quoi s’attendre ?",
+    description:
+      "Pourquoi une césarienne peut être décidée en urgence, comment cela se passe au bloc, quel type d’anesthésie peut être utilisé, et comment vivre les premières heures après la naissance.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une césarienne en urgence peut être décidée pendant la grossesse, le travail ou l’accouchement si la voie basse n’est plus la solution la plus sûre pour la mère ou le bébé.",
+          "Les raisons possibles sont nombreuses : rythme du bébé moins rassurant, travail qui n’avance pas, saignement, présentation du bébé, complication maternelle ou autre situation imprévue.",
+          "Selon le degré d’urgence, l’équipe peut avoir le temps d’expliquer calmement, ou devoir agir très vite.",
+          "L’anesthésie peut être une péridurale renforcée, une rachianesthésie ou parfois une anesthésie générale si la situation l’impose.",
+          "Après la naissance, la mère et le bébé sont surveillés, et une explication de ce qui s’est passé peut être demandée à l’équipe."
+        ],
+        quote:
+          "Une césarienne en urgence peut être très impressionnante, mais elle est décidée pour sécuriser la naissance quand la situation change."
+      },
+      {
+        title: "Qu’est-ce qu’une césarienne en urgence ?",
+        paragraphs: [
+          "Une césarienne en urgence est une césarienne décidée sans avoir été planifiée à l’avance.",
+          "Elle peut être décidée avant le début du travail, pendant le travail ou au moment de la naissance.",
+          "Elle ne signifie pas toujours une urgence vitale immédiate : le niveau d’urgence peut varier.",
+          "Parfois, l’équipe doit agir très rapidement ; parfois, il y a davantage de temps pour expliquer, préparer et accompagner la décision."
+        ]
+      },
+      {
+        title: "Pourquoi peut-elle être décidée ?",
+        paragraphs: [
+          "Une césarienne en urgence peut être proposée lorsque l’accouchement par voie basse n’est plus considéré comme la meilleure option.",
+          "Cela peut arriver si le rythme cardiaque du bébé devient moins rassurant, si le travail n’avance pas malgré les contractions, si le bébé ne descend pas, ou si une complication apparaît.",
+          "Elle peut aussi être décidée en cas de saignement important, de fièvre ou infection suspectée, de problème de tension, de cordon, de placenta ou de présentation du bébé.",
+          "Chaque situation est différente, et l’équipe prend la décision en fonction de la sécurité de la mère et du bébé."
+        ]
+      },
+      {
+        title: "Les différents degrés d’urgence",
+        paragraphs: [
+          "Toutes les césariennes dites “en urgence” ne se déroulent pas avec la même rapidité.",
+          "Dans certaines situations, l’équipe souhaite faire naître le bébé rapidement, mais il reste le temps d’expliquer et de préparer.",
+          "Dans d’autres, chaque minute compte davantage, et les gestes peuvent s’enchaîner très vite.",
+          "Si tout va très rapidement, vous pourrez demander après coup que l’on vous réexplique les raisons et les étapes."
+        ],
+        quote:
+          "Le mot “urgence” peut désigner une situation à surveiller rapidement ou une situation où il faut agir immédiatement."
+      },
+      {
+        title: "Comment la décision est-elle annoncée ?",
+        paragraphs: [
+          "Lorsque la césarienne devient nécessaire, la sage-femme, le médecin ou l’équipe vous explique la raison de la décision.",
+          "Si le temps le permet, on vous précise ce qui inquiète, pourquoi la voie basse n’est plus recommandée et comment va se dérouler la suite.",
+          "Si la situation est très urgente, l’explication peut être courte, car l’équipe doit préparer l’intervention.",
+          "Même dans ce cas, vous avez le droit de demander ensuite un temps pour comprendre ce qui s’est passé."
+        ]
+      },
+      {
+        title: "La préparation avant le bloc",
+        paragraphs: [
+          "Selon l’urgence, certaines étapes peuvent être réalisées très rapidement.",
+          "L’équipe vérifie votre identité, votre dossier, votre perfusion, votre anesthésie éventuelle, le monitoring et les informations importantes.",
+          "On peut vous poser une sonde urinaire, préparer la peau, vous installer pour le transfert et prévenir l’équipe du bloc.",
+          "Si vous avez une personne accompagnante, l’équipe lui expliquera si elle peut venir ou si elle doit attendre à l’extérieur."
+        ]
+      },
+      {
+        title: "La personne accompagnante peut-elle être présente ?",
+        paragraphs: [
+          "La présence de la personne accompagnante dépend de la situation, du type d’anesthésie, du niveau d’urgence et des règles de la maternité.",
+          "Si la césarienne se déroule sous anesthésie locorégionale et que la situation est stable, elle peut parfois être autorisée.",
+          "En cas d’urgence importante ou d’anesthésie générale, elle ne pourra généralement pas être présente au bloc.",
+          "Même si elle n’entre pas, elle peut souvent être informée et rejoindre le bébé dès que possible selon l’organisation."
+        ]
+      },
+      {
+        title: "Quelle anesthésie est utilisée ?",
+        paragraphs: [
+          "Si vous avez déjà une péridurale efficace, l’anesthésiste peut parfois l’utiliser et la renforcer pour la césarienne.",
+          "Si vous n’avez pas de péridurale et que la situation le permet, une rachianesthésie peut être réalisée pour endormir le bas du corps rapidement.",
+          "Si l’urgence est très importante ou si une anesthésie locorégionale n’est pas possible, une anesthésie générale peut être nécessaire.",
+          "Le choix dépend du temps disponible, de votre état, de celui du bébé et des conditions médicales."
+        ]
+      },
+      {
+        title: "Que se passe-t-il au bloc opératoire ?",
+        paragraphs: [
+          "Au bloc, plusieurs professionnels peuvent être présents : obstétricien, anesthésiste, sage-femme, infirmiers, auxiliaires et parfois pédiatre.",
+          "L’équipe vous installe, vérifie l’anesthésie, pose les champs stériles et surveille vos constantes.",
+          "Si vous êtes réveillée, vous ne voyez généralement pas le geste chirurgical grâce à un champ opératoire.",
+          "Vous pouvez ressentir des pressions, des mouvements ou des tractions, mais vous ne devez pas ressentir de douleur vive."
+        ]
+      },
+      {
+        title: "Combien de temps cela prend-il ?",
+        paragraphs: [
+          "Quand la décision est prise, la préparation peut aller très vite.",
+          "La naissance du bébé survient souvent peu de temps après le début de l’intervention, mais la fermeture et la surveillance prennent ensuite plus de temps.",
+          "Dans les situations très urgentes, l’équipe agit avec une organisation très précise pour limiter les délais.",
+          "Après la naissance, vous restez surveillée pendant que l’intervention se termine."
+        ]
+      },
+      {
+        title: "La naissance du bébé",
+        paragraphs: [
+          "Le bébé est sorti par l’incision réalisée au niveau de l’utérus.",
+          "Il est immédiatement évalué par l’équipe : respiration, tonus, couleur et adaptation à la naissance.",
+          "Si tout va bien, un contact avec vous est favorisé dès que possible selon l’organisation du bloc et votre état.",
+          "Si le bébé a besoin de soins, l’équipe pédiatrique s’en occupe rapidement et vous donnera des nouvelles dès que possible."
+        ]
+      },
+      {
+        title: "Et si je ne vois pas mon bébé tout de suite ?",
+        paragraphs: [
+          "Il peut arriver que le bébé soit emmené quelques minutes pour être examiné, aidé à respirer ou réchauffé.",
+          "Cela peut être très difficile émotionnellement, surtout si tout est allé vite.",
+          "La personne accompagnante peut parfois rester avec le bébé ou le rejoindre selon les règles du service.",
+          "Vous pouvez demander à l’équipe de vous expliquer où est votre bébé, comment il va et quand vous pourrez le voir."
+        ]
+      },
+      {
+        title: "Après l’intervention",
+        paragraphs: [
+          "Après la césarienne, vous êtes surveillée en salle de réveil ou dans un espace adapté.",
+          "L’équipe contrôle la tension, les saignements, la douleur, la cicatrice, l’utérus et la récupération de l’anesthésie.",
+          "Vous pouvez avoir une perfusion, une sonde urinaire, un pansement et des médicaments contre la douleur.",
+          "Le bébé vous rejoint dès que possible selon votre état, le sien et l’organisation de la maternité."
+        ]
+      },
+      {
+        title: "La douleur après une césarienne en urgence",
+        paragraphs: [
+          "La césarienne est une chirurgie, donc une douleur au niveau de la cicatrice et du ventre est fréquente après l’intervention.",
+          "L’équipe prévoit des antalgiques adaptés et surveille leur efficacité.",
+          "N’attendez pas d’avoir très mal pour le signaler.",
+          "Une bonne prise en charge de la douleur aide à respirer, bouger progressivement, s’occuper du bébé et récupérer."
+        ]
+      },
+      {
+        title: "Les premières émotions",
+        paragraphs: [
+          "Une césarienne en urgence peut laisser un sentiment de choc, de peur, de frustration ou d’incompréhension.",
+          "Certaines femmes se sentent soulagées que le bébé soit né, mais aussi tristes que la naissance ne se soit pas passée comme prévu.",
+          "Ces émotions peuvent coexister et elles sont légitimes.",
+          "Si l’intervention a été rapide ou difficile à vivre, demander un débriefing avec une sage-femme ou un médecin peut aider à remettre du sens."
+        ],
+        quote:
+          "Comprendre ce qui s’est passé après coup peut aider à apaiser le vécu de la naissance."
+      },
+      {
+        title: "Demander un débriefing",
+        paragraphs: [
+          "Après une césarienne en urgence, vous pouvez demander à l’équipe de vous réexpliquer les raisons de la décision.",
+          "Vous pouvez poser des questions sur le monitoring, la progression du travail, l’état du bébé, l’anesthésie ou les gestes réalisés.",
+          "Ce temps peut se faire pendant le séjour ou lors d’une consultation après la naissance.",
+          "Il peut être important pour le vécu émotionnel et pour comprendre les implications pour une future grossesse."
+        ]
+      },
+      {
+        title: "Quelles conséquences pour une prochaine grossesse ?",
+        paragraphs: [
+          "Après une césarienne, il est utile de demander quelle incision a été réalisée et ce que cela implique pour une future grossesse.",
+          "Dans certains cas, un accouchement par voie basse après césarienne peut être possible, selon le dossier et l’avis médical.",
+          "Dans d’autres situations, une nouvelle césarienne pourra être recommandée.",
+          "Ces questions seront reprises lors du suivi postnatal ou d’une prochaine grossesse."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut se sentir impuissante si tout s’accélère.",
+          "Son rôle peut être d’écouter les explications, de suivre le bébé si c’est possible, de vous rassurer au retour du bloc et de vous aider à demander des informations.",
+          "Elle peut aussi avoir besoin de parler de ce qu’elle a vécu.",
+          "Une césarienne en urgence peut être impressionnante pour toute la famille."
+        ]
+      },
+      {
+        title: "Questions utiles à poser après",
+        bullets: [
+          "Pourquoi la césarienne a-t-elle été décidée ?",
+          "Quel était le niveau d’urgence ?",
+          "Comment allait le bébé avant la décision ?",
+          "Comment s’est passée l’intervention ?",
+          "Quel type d’anesthésie ai-je reçu ?",
+          "Y a-t-il eu une complication ?",
+          "Comment va mon bébé maintenant ?",
+          "Quels soins dois-je faire pour la cicatrice ?",
+          "Quand dois-je consulter après le retour à la maison ?",
+          "Qu’est-ce que cela implique pour une future grossesse ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une césarienne en urgence est décidée lorsque la situation impose de faire naître le bébé par voie chirurgicale sans que cela ait été prévu à l’avance.",
+          "Le degré d’urgence varie : parfois l’équipe peut expliquer calmement, parfois elle doit agir très vite.",
+          "L’anesthésie peut être une péridurale renforcée, une rachianesthésie ou une anesthésie générale selon le contexte.",
+          "Après la naissance, la mère et le bébé sont surveillés, et la rencontre est favorisée dès que possible.",
+          "Si vous avez mal vécu cette naissance, vous pouvez demander un débriefing : votre ressenti compte aussi."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
+        url: "https://sfar.org/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
