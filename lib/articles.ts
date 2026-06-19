@@ -11443,6 +11443,226 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "cesarienne-programmee-comment-se-deroule-t-elle",
+    title: "Césarienne programmée : comment se déroule-t-elle ?",
+    description:
+      "Pourquoi une césarienne peut être programmée, comment se préparer, que se passe-t-il au bloc, quel type d’anesthésie est utilisé et comment se passent les premières heures après la naissance.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une césarienne programmée est une naissance par intervention chirurgicale prévue à l’avance, lorsque la voie basse n’est pas recommandée ou nécessite trop de risques.",
+          "Elle peut être proposée pour un placenta mal positionné, certains antécédents, une présentation du bébé, une grossesse multiple, une pathologie maternelle ou une autre raison médicale.",
+          "Avant l’intervention, vous rencontrez généralement l’équipe, l’anesthésiste, et vous recevez des consignes de jeûne, d’arrivée et de préparation.",
+          "La césarienne se déroule au bloc opératoire, le plus souvent sous anesthésie locorégionale, ce qui permet d’être réveillée pendant la naissance.",
+          "Après la naissance, la mère et le bébé sont surveillés, puis le contact peau à peau ou la rencontre avec le bébé est favorisé dès que possible selon l’état de chacun."
+        ],
+        quote:
+          "Une césarienne programmée reste une naissance : même si elle est chirurgicale, elle mérite d’être expliquée, préparée et accompagnée avec douceur."
+      },
+      {
+        title: "Qu’est-ce qu’une césarienne programmée ?",
+        paragraphs: [
+          "Une césarienne programmée est une intervention prévue avant le début du travail, ou avant qu’une urgence ne se présente.",
+          "Elle consiste à faire naître le bébé par une incision au niveau du ventre et de l’utérus.",
+          "Contrairement à une césarienne en urgence, elle est organisée à l’avance, ce qui permet de préparer le dossier, l’anesthésie, l’équipe et l’accueil du bébé.",
+          "Elle peut être vécue avec soulagement, inquiétude, déception ou un mélange de tout cela : toutes ces réactions sont possibles."
+        ]
+      },
+      {
+        title: "Pourquoi peut-elle être programmée ?",
+        paragraphs: [
+          "Une césarienne programmée peut être proposée lorsque l’équipe estime que l’accouchement par voie basse serait plus risqué pour la mère, le bébé ou les deux.",
+          "Les raisons peuvent être très différentes d’une grossesse à l’autre.",
+          "Il peut s’agir d’un placenta recouvrant le col, de certains antécédents de césarienne ou de chirurgie utérine, d’une présentation du bébé, d’une grossesse multiple, d’une pathologie maternelle ou d’une situation particulière du bébé.",
+          "La décision doit être expliquée avec les bénéfices, les risques et les alternatives possibles lorsqu’elles existent."
+        ]
+      },
+      {
+        title: "À quel moment est-elle prévue ?",
+        paragraphs: [
+          "La date dépend de la raison de la césarienne, du terme, de l’état de la mère, de celui du bébé et de l’organisation de la maternité.",
+          "Elle est généralement programmée suffisamment près du terme pour limiter le risque de prématurité, tout en évitant que le travail ne commence avant l’intervention lorsque cela doit être évité.",
+          "L’équipe vous donnera une date ou une période probable, puis les consignes pratiques d’arrivée.",
+          "Si vous avez des contractions, une perte des eaux, des saignements ou un bébé qui bouge moins avant la date prévue, il faut appeler la maternité sans attendre."
+        ]
+      },
+      {
+        title: "La consultation d’anesthésie",
+        paragraphs: [
+          "Avant une césarienne programmée, la consultation d’anesthésie est indispensable.",
+          "L’anesthésiste vérifie vos antécédents, vos traitements, vos allergies, vos examens sanguins et les éléments qui peuvent influencer l’anesthésie.",
+          "Dans la plupart des cas, une anesthésie locorégionale est proposée : rachianesthésie ou péridurale selon la situation.",
+          "Cela permet de ne pas sentir la douleur tout en restant réveillée pendant la naissance."
+        ],
+        quote:
+          "L’anesthésie est préparée avant l’intervention pour que la naissance se déroule dans les meilleures conditions de sécurité."
+      },
+      {
+        title: "Les consignes avant le jour J",
+        paragraphs: [
+          "La maternité vous donne des consignes précises : heure d’arrivée, jeûne, douche, retrait de bijoux, vernis, lentilles ou objets personnels selon les règles du service.",
+          "On peut aussi vous demander d’apporter votre dossier, vos examens, votre carte de groupe sanguin si elle vous a été remise, vos papiers administratifs et la valise de maternité.",
+          "Respectez les consignes de jeûne, car elles sont importantes pour l’anesthésie.",
+          "Si vous prenez un traitement, demandez clairement ce que vous devez prendre ou arrêter avant l’intervention."
+        ]
+      },
+      {
+        title: "L’arrivée à la maternité",
+        paragraphs: [
+          "Le jour de la césarienne, vous êtes accueillie dans le service ou dans une unité dédiée selon l’organisation.",
+          "L’équipe vérifie votre identité, votre dossier, les examens nécessaires et l’état du bébé.",
+          "Un monitoring peut être réalisé avant l’intervention pour contrôler le rythme cardiaque du bébé.",
+          "Vous êtes ensuite préparée pour le bloc : tenue adaptée, perfusion, contrôle de la tension et derniers échanges avec l’équipe."
+        ]
+      },
+      {
+        title: "La personne accompagnante peut-elle être présente ?",
+        paragraphs: [
+          "La présence de la personne accompagnante dépend de la maternité, du type d’anesthésie, de la situation médicale et de l’organisation du bloc.",
+          "Dans de nombreuses situations programmées et stables, elle peut être autorisée à entrer au bloc ou à rejoindre la mère au moment de la naissance, mais ce n’est pas systématique.",
+          "Demandez les règles de votre maternité avant le jour J pour éviter les surprises.",
+          "Si la personne accompagnante ne peut pas être présente au bloc, elle peut souvent attendre dans un espace prévu et rencontrer le bébé dès que possible."
+        ]
+      },
+      {
+        title: "Que se passe-t-il au bloc opératoire ?",
+        paragraphs: [
+          "Au bloc, l’équipe vous installe, vérifie une dernière fois votre identité, la raison de l’intervention et le dossier.",
+          "L’anesthésie est réalisée, puis son efficacité est contrôlée avant de commencer.",
+          "Un champ opératoire est installé pour préserver la stérilité : vous ne voyez généralement pas le geste chirurgical.",
+          "L’équipe surveille votre tension, votre respiration, vos sensations et le rythme de l’intervention."
+        ]
+      },
+      {
+        title: "Est-ce qu’on sent quelque chose ?",
+        paragraphs: [
+          "Avec une anesthésie locorégionale efficace, vous ne devez pas sentir de douleur.",
+          "En revanche, vous pouvez ressentir des pressions, des mouvements, des tractions ou une sensation que l’on pousse sur le ventre.",
+          "Ces sensations peuvent surprendre, mais elles sont fréquentes.",
+          "Si vous sentez une douleur vive ou une gêne importante, dites-le immédiatement à l’anesthésiste ou à l’équipe."
+        ]
+      },
+      {
+        title: "La naissance du bébé",
+        paragraphs: [
+          "Une fois l’incision réalisée, le bébé est sorti de l’utérus par l’équipe médicale.",
+          "La naissance peut être assez rapide après le début de l’intervention, même si la préparation avant le geste prend plus de temps.",
+          "Le bébé est rapidement évalué : respiration, tonus, couleur et adaptation à la naissance.",
+          "Si son état le permet, l’équipe favorise une rencontre rapide, un contact près de vous ou un peau à peau selon les possibilités du bloc et de la maternité."
+        ]
+      },
+      {
+        title: "Et si le bébé a besoin de soins ?",
+        paragraphs: [
+          "Certains bébés ont besoin d’une aide à l’adaptation après la naissance, surtout s’ils sont nés avant le terme ou s’il existe une raison médicale particulière.",
+          "Dans ce cas, l’équipe pédiatrique peut l’examiner ou réaliser des soins avant le peau à peau.",
+          "La personne accompagnante peut parfois rester avec le bébé selon les règles du service.",
+          "L’équipe vous expliquera ce qui se passe dès que possible."
+        ]
+      },
+      {
+        title: "Après la naissance : la fin de l’intervention",
+        paragraphs: [
+          "Après la sortie du bébé, l’équipe retire le placenta, vérifie l’utérus et réalise les sutures.",
+          "Cette partie peut prendre plus de temps que la naissance elle-même.",
+          "Vous êtes toujours surveillée par l’équipe d’anesthésie et l’équipe chirurgicale.",
+          "Une fois l’intervention terminée, vous êtes transférée en salle de réveil ou dans un espace de surveillance adapté."
+        ]
+      },
+      {
+        title: "Les premières heures après la césarienne",
+        paragraphs: [
+          "Après l’intervention, votre tension, votre douleur, vos saignements, la cicatrice, l’utérus et la récupération de la sensibilité des jambes sont surveillés.",
+          "Vous pouvez avoir une perfusion, une sonde urinaire et un pansement au niveau de la cicatrice.",
+          "La douleur est prise en charge avec des médicaments adaptés.",
+          "Selon l’organisation, le bébé peut vous rejoindre rapidement, ou rester avec l’accompagnant et l’équipe le temps que vous soyez surveillée."
+        ]
+      },
+      {
+        title: "Allaitement ou biberon après une césarienne",
+        paragraphs: [
+          "Une césarienne n’empêche pas d’allaiter si vous le souhaitez.",
+          "La première mise au sein peut parfois nécessiter un peu d’aide pour trouver une position confortable qui ne tire pas sur la cicatrice.",
+          "Si vous choisissez le biberon, l’équipe peut aussi accompagner les premiers gestes.",
+          "L’important est que vous soyez soutenue dans votre choix et installée avec le moins de douleur possible."
+        ]
+      },
+      {
+        title: "La récupération",
+        paragraphs: [
+          "La césarienne est une chirurgie : la récupération peut demander du temps.",
+          "Les premiers levers sont accompagnés, souvent après plusieurs heures selon l’anesthésie, la douleur et les protocoles du service.",
+          "Il est normal de ressentir des tiraillements, une fatigue importante et une douleur au niveau de la cicatrice.",
+          "L’équipe vous donnera des consignes pour bouger progressivement, protéger la cicatrice et reconnaître les signes qui doivent faire consulter."
+        ]
+      },
+      {
+        title: "Les émotions autour d’une césarienne programmée",
+        paragraphs: [
+          "Certaines femmes vivent la césarienne programmée avec soulagement, car elle permet d’éviter un risque connu.",
+          "D’autres peuvent ressentir de la tristesse, une impression de ne pas accoucher comme prévu, de la peur ou une frustration.",
+          "Ces émotions sont légitimes.",
+          "En parler avec une sage-femme, l’équipe ou la personne accompagnante peut aider à préparer une naissance plus sereine."
+        ],
+        quote:
+          "Une naissance par césarienne reste une naissance à part entière, même si elle ne ressemble pas au scénario imaginé."
+      },
+      {
+        title: "Questions utiles à poser avant une césarienne programmée",
+        bullets: [
+          "Pourquoi la césarienne est-elle recommandée dans mon cas ?",
+          "Y a-t-il une alternative possible à la voie basse ou non ?",
+          "À quel terme sera-t-elle prévue ?",
+          "Quel type d’anesthésie est envisagé ?",
+          "La personne accompagnante pourra-t-elle être présente ?",
+          "Le peau à peau sera-t-il possible ?",
+          "Que se passe-t-il si le travail commence avant la date prévue ?",
+          "Comment sera prise en charge la douleur après l’intervention ?",
+          "Combien de temps vais-je rester à la maternité ?",
+          "Quels soins prévoir pour la cicatrice ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une césarienne programmée est une intervention prévue à l’avance lorsque la voie basse n’est pas recommandée ou lorsque la naissance chirurgicale est jugée plus sûre.",
+          "Elle se prépare avec l’équipe obstétricale et l’anesthésiste.",
+          "Elle se déroule au bloc opératoire, le plus souvent sous anesthésie locorégionale, ce qui permet d’être réveillée pendant la naissance.",
+          "Après la naissance, la mère et le bébé sont surveillés, et le contact est favorisé dès que possible.",
+          "La récupération demande du temps, et les émotions liées à une césarienne méritent d’être entendues."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
+        url: "https://sfar.org/"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
