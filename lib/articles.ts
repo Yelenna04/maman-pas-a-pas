@@ -9725,6 +9725,196 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "peut-on-manger-boire-et-bouger-pendant-le-travail",
+    title: "Peut-on manger, boire et bouger pendant le travail ?",
+    description:
+      "Boire, manger léger, marcher, changer de position, utiliser un ballon ou rester au lit : ce qui est possible pendant le travail dépend du stade, de la maternité et de la situation médicale.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Pendant le début du travail, boire régulièrement et manger léger peut aider à garder de l’énergie, si la maternité ne vous a pas donné de consigne contraire.",
+          "Les règles peuvent changer une fois à la maternité, surtout en cas de péridurale, déclenchement, risque de césarienne, nausées, surveillance particulière ou complication.",
+          "Bouger pendant le travail peut aider certaines femmes à mieux gérer les contractions et à trouver des positions plus confortables.",
+          "La mobilité dépend du monitoring, de la péridurale, de la perfusion, de la perte des eaux, du stade du travail et de l’état du bébé.",
+          "Le plus simple est de demander à l’équipe ce qui est possible pour vous, à ce moment précis."
+        ],
+        quote:
+          "Manger, boire ou bouger pendant le travail n’est pas une règle unique : tout dépend de votre situation et des consignes de la maternité."
+      },
+      {
+        title: "Pourquoi cette question revient souvent ?",
+        paragraphs: [
+          "Pendant longtemps, beaucoup de femmes ont entendu qu’il ne fallait ni manger ni boire pendant le travail.",
+          "Aujourd’hui, les pratiques peuvent varier selon les maternités, le stade de l’accouchement et la situation médicale.",
+          "Certaines femmes peuvent boire ou prendre de petites quantités d’aliments légers au début du travail, tandis que d’autres doivent respecter des consignes plus strictes.",
+          "L’objectif est de trouver un équilibre entre confort, énergie et sécurité."
+        ]
+      },
+      {
+        title: "Boire pendant le travail",
+        paragraphs: [
+          "Boire de petites gorgées peut aider à éviter la sensation de bouche sèche et à mieux supporter l’effort.",
+          "L’eau reste le plus simple.",
+          "Selon la maternité, des boissons claires peuvent parfois être autorisées, mais les consignes peuvent varier.",
+          "Si vous avez une péridurale, un déclenchement, des nausées importantes ou un risque médical particulier, demandez toujours ce qui est permis."
+        ]
+      },
+      {
+        title: "Manger pendant le début du travail",
+        paragraphs: [
+          "Au début du travail, certaines femmes ont faim et apprécient de prendre quelque chose de léger avant de partir ou au début de l’arrivée.",
+          "D’autres n’ont aucune envie de manger, surtout si les contractions deviennent intenses.",
+          "Si vous mangez, privilégiez des aliments simples et faciles à digérer : compote, yaourt, pain, fruit, soupe, petite portion de féculents ou encas doux.",
+          "Évitez les repas lourds, gras ou très copieux, qui peuvent être plus difficiles à digérer."
+        ],
+        quote:
+          "L’idée n’est pas de faire un vrai repas, mais de garder un peu d’énergie si votre corps en a besoin."
+      },
+      {
+        title: "Pourquoi peut-on vous demander de ne plus manger ?",
+        paragraphs: [
+          "À certains moments, l’équipe peut recommander de ne plus manger.",
+          "Cela peut être lié à une péridurale, un risque de césarienne, une surveillance renforcée, un déclenchement, des vomissements ou une situation médicale particulière.",
+          "Ces consignes visent surtout la sécurité si une anesthésie ou une intervention devient nécessaire.",
+          "Si vous ne comprenez pas la consigne, demandez simplement : « Est-ce que je peux boire ? Est-ce que je dois rester à jeun ? Pourquoi ? »"
+        ]
+      },
+      {
+        title: "Et si vous avez soif mais qu’on vous limite ?",
+        paragraphs: [
+          "Si l’équipe vous demande de limiter les boissons ou l’alimentation, dites-le si vous avez très soif ou la bouche sèche.",
+          "Selon la situation, elle peut parfois proposer de petites gorgées, des soins de bouche, un brumisateur ou une autre solution.",
+          "Ne prenez pas d’aliment ou de boisson en cachette si une consigne médicale vous a été donnée.",
+          "Mieux vaut demander ce qui est possible dans votre cas."
+        ]
+      },
+      {
+        title: "Bouger pendant le travail : pourquoi cela peut aider",
+        paragraphs: [
+          "Bouger peut aider à mieux vivre les contractions, à relâcher certaines tensions et à trouver une position plus confortable.",
+          "Certaines femmes préfèrent marcher, se pencher en avant, s’asseoir sur un ballon, se mettre à quatre pattes ou se tourner sur le côté.",
+          "D’autres ont surtout besoin de rester allongées ou immobiles pour récupérer.",
+          "Il n’y a pas une bonne façon de faire : la bonne position est celle qui vous aide à traverser les contractions en sécurité."
+        ]
+      },
+      {
+        title: "Les positions possibles",
+        bullets: [
+          "Marcher doucement si l’équipe l’autorise.",
+          "Se balancer sur un ballon.",
+          "S’appuyer sur le lit, un mur ou la personne accompagnante.",
+          "Se mettre sur le côté avec un coussin entre les jambes.",
+          "Se pencher en avant pendant les contractions.",
+          "Se mettre à quatre pattes si cela soulage le dos.",
+          "S’asseoir ou se redresser dans le lit.",
+          "Changer régulièrement de position si vous en ressentez le besoin."
+        ],
+        paragraphs: [
+          "Certaines positions peuvent être limitées par le monitoring, la perfusion, la péridurale ou l’état du bébé.",
+          "Demandez à la sage-femme ce qui est possible sans compromettre la surveillance."
+        ]
+      },
+      {
+        title: "Avec le monitoring, peut-on bouger ?",
+        paragraphs: [
+          "Le monitoring peut parfois limiter les déplacements, surtout si les capteurs perdent le signal quand vous bougez.",
+          "Mais cela ne signifie pas toujours que vous devez rester parfaitement immobile.",
+          "Selon le matériel et le tracé, il peut être possible de changer de côté, s’asseoir, se redresser ou bouger doucement.",
+          "Si vous vous sentez coincée, dites-le : l’équipe peut parfois replacer les capteurs ou chercher une position plus confortable."
+        ]
+      },
+      {
+        title: "Avec une péridurale, peut-on encore bouger ?",
+        paragraphs: [
+          "Avec une péridurale, la mobilité dépend du dosage, de vos sensations dans les jambes et des règles de la maternité.",
+          "Même si vous ne pouvez pas marcher, vous pouvez parfois changer de position dans le lit avec l’aide de l’équipe.",
+          "Se mettre sur le côté, utiliser un coussin, redresser le dossier ou alterner les appuis peut améliorer le confort.",
+          "Ne vous levez jamais seule après une péridurale, car les jambes peuvent être lourdes ou moins stables."
+        ]
+      },
+      {
+        title: "Et si le bébé doit être surveillé de près ?",
+        paragraphs: [
+          "Si le rythme du bébé nécessite une surveillance continue, la priorité peut être de garder un tracé fiable.",
+          "Cela peut limiter certains déplacements ou certaines positions.",
+          "L’équipe peut vous expliquer pourquoi une position est préférable à une autre.",
+          "Même dans ce cas, il existe souvent de petits ajustements possibles pour améliorer votre confort."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut vous aider à changer de position, vous proposer de l’eau si c’est autorisé, vous rappeler de respirer ou vous soutenir physiquement pendant une contraction.",
+          "Elle peut aussi demander à l’équipe ce qui est possible si vous êtes trop concentrée pour parler.",
+          "Son rôle n’est pas de vous pousser à bouger à tout prix.",
+          "Elle peut simplement vous aider à écouter ce qui vous soulage."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter",
+        bullets: [
+          "Manger un repas lourd lorsque le travail est déjà bien installé.",
+          "Boire ou manger en cachette malgré une consigne médicale.",
+          "Se lever seule avec une péridurale ou des jambes engourdies.",
+          "Bouger malgré une consigne de surveillance stricte sans prévenir l’équipe.",
+          "Se forcer à marcher si vous êtes épuisée.",
+          "Rester immobile par peur de déranger alors qu’une position vous fait mal."
+        ]
+      },
+      {
+        title: "Questions utiles à poser à l’équipe",
+        bullets: [
+          "Est-ce que je peux boire ?",
+          "Est-ce que je peux manger quelque chose de léger ?",
+          "Est-ce que je dois rester à jeun ? Pourquoi ?",
+          "Puis-je marcher ou changer de position ?",
+          "Puis-je utiliser un ballon, une douche ou un fauteuil ?",
+          "Le monitoring doit-il rester en continu ?",
+          "Avec la péridurale, quelles positions sont possibles ?",
+          "Pouvez-vous m’aider à trouver une position plus confortable ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Boire, manger et bouger pendant le travail peuvent être possibles, mais les consignes dépendent de votre situation et de la maternité.",
+          "Au début du travail, une hydratation régulière et des aliments légers peuvent aider certaines femmes.",
+          "La mobilité peut soulager les contractions, mais elle dépend du monitoring, de la péridurale, de la perfusion, de la perte des eaux et de l’état du bébé.",
+          "Si une consigne vous limite, demandez pourquoi et quelles alternatives sont possibles.",
+          "Votre confort compte, mais il doit toujours être adapté à la sécurité de la mère et du bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
