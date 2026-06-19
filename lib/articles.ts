@@ -10144,6 +10144,209 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "quel-est-le-role-de-la-sage-femme-pendant-laccouchement",
+    title: "Quel est le rôle de la sage-femme pendant l’accouchement ?",
+    description:
+      "Accueil, surveillance du bébé, contractions, col, douleur, positions, communication avec l’équipe et premiers soins : comprendre le rôle central de la sage-femme le jour de l’accouchement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "10 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La sage-femme accompagne la mère pendant le travail, surveille le bébé, évalue l’avancement de l’accouchement et guide les décisions avec l’équipe médicale si besoin.",
+          "Elle peut poser le monitoring, examiner le col, suivre les contractions, aider à trouver des positions et accompagner la gestion de la douleur.",
+          "Elle explique les étapes, répond aux questions, rassure et fait le lien avec les autres professionnels : anesthésiste, gynécologue-obstétricien, pédiatre ou auxiliaires.",
+          "Si tout se passe bien, la sage-femme peut accompagner l’accouchement par voie basse et les premiers soins immédiats.",
+          "Son rôle n’est pas seulement médical : elle soutient aussi le vécu émotionnel, l’intimité et la sécurité de la naissance."
+        ],
+        quote:
+          "Pendant l’accouchement, la sage-femme est souvent le repère principal : elle surveille, explique, accompagne et adapte les soins à la situation."
+      },
+      {
+        title: "Une présence centrale pendant le travail",
+        paragraphs: [
+          "La sage-femme est souvent la professionnelle que vous voyez le plus pendant le travail.",
+          "Elle vous accueille, écoute ce que vous ressentez, vérifie les signes du début du travail et suit l’évolution de l’accouchement.",
+          "Elle travaille en lien avec l’ensemble de l’équipe de maternité, mais elle reste souvent le premier interlocuteur de la mère et de la personne accompagnante.",
+          "Son rôle est à la fois clinique, pratique, relationnel et émotionnel."
+        ]
+      },
+      {
+        title: "À l’arrivée à la maternité",
+        paragraphs: [
+          "À votre arrivée, la sage-femme peut vous poser des questions sur les contractions, la perte des eaux, les saignements, les mouvements du bébé, votre terme et vos antécédents.",
+          "Elle consulte votre dossier, vérifie les informations importantes et évalue si le travail a commencé.",
+          "Elle peut proposer un monitoring, un examen du col ou d’autres vérifications selon votre situation.",
+          "À partir de ces éléments, elle vous explique la suite : rentrer à la maison, rester en observation, être installée ou être prise en charge plus rapidement."
+        ]
+      },
+      {
+        title: "Surveiller le bien-être du bébé",
+        paragraphs: [
+          "Pendant le travail, la sage-femme surveille le rythme cardiaque du bébé, souvent grâce au monitoring.",
+          "Elle observe comment le bébé réagit aux contractions et si le tracé est rassurant.",
+          "Si le signal se perd, elle peut replacer les capteurs ou chercher une meilleure position.",
+          "Si quelque chose nécessite un avis médical, elle alerte le gynécologue-obstétricien ou l’équipe concernée."
+        ],
+        quote:
+          "La surveillance du bébé permet de repérer rapidement si le travail est bien toléré ou si une adaptation est nécessaire."
+      },
+      {
+        title: "Évaluer l’avancement du travail",
+        paragraphs: [
+          "La sage-femme évalue la progression du travail grâce à plusieurs éléments : contractions, comportement de la mère, rythme du bébé, examen du col et descente du bébé.",
+          "Elle peut examiner le col pour voir s’il s’ouvre, se raccourcit, se centre et devient plus favorable.",
+          "Elle observe aussi l’intensité des contractions, leur rythme et la manière dont vous les vivez.",
+          "Ces informations aident à décider s’il faut attendre, accompagner, soulager, modifier une position ou demander un avis médical."
+        ]
+      },
+      {
+        title: "Accompagner la douleur",
+        paragraphs: [
+          "La sage-femme peut proposer des moyens pour mieux traverser les contractions : respiration, changement de position, ballon, douche si disponible, massage, chaleur, soutien verbal ou ambiance plus calme.",
+          "Elle peut aussi vous aider à formuler une demande de péridurale si vous la souhaitez.",
+          "Elle ne décide pas à votre place de ce que vous devez supporter.",
+          "Son rôle est de vous aider à trouver ce qui est possible et adapté à votre situation."
+        ]
+      },
+      {
+        title: "Aider à bouger et à trouver des positions",
+        paragraphs: [
+          "Quand la situation le permet, la sage-femme peut vous aider à changer de position pendant le travail.",
+          "Elle peut proposer de marcher, de vous asseoir, de vous mettre sur le côté, à quatre pattes, semi-assise ou de vous appuyer sur la personne accompagnante.",
+          "Certaines positions peuvent soulager le dos, favoriser la descente du bébé ou améliorer le confort.",
+          "Les possibilités dépendent du monitoring, de la péridurale, du stade du travail et de l’état du bébé."
+        ]
+      },
+      {
+        title: "Faire le lien avec l’anesthésiste",
+        paragraphs: [
+          "Si vous demandez une péridurale, la sage-femme vérifie généralement certains éléments avant d’appeler l’anesthésiste : avancement du travail, dossier, résultats, perfusion, monitoring et disponibilité de l’équipe.",
+          "Elle vous aide à vous installer pour la pose et reste souvent présente pour vous guider.",
+          "Après la péridurale, elle surveille la tension, les sensations, les contractions et le rythme du bébé selon les protocoles de la maternité.",
+          "Si la péridurale soulage mal ou d’un seul côté, elle peut transmettre l’information pour adapter la prise en charge."
+        ]
+      },
+      {
+        title: "Informer et expliquer",
+        paragraphs: [
+          "Une partie importante du rôle de la sage-femme est d’expliquer ce qui se passe.",
+          "Elle peut vous dire où en est le travail, pourquoi un examen est proposé, à quoi sert le monitoring ou ce que signifie une modification du col.",
+          "Elle peut aussi reformuler les décisions médicales ou vous aider à poser vos questions.",
+          "Si vous ne comprenez pas une étape, vous pouvez lui demander une explication simple."
+        ]
+      },
+      {
+        title: "Respecter le projet de naissance quand c’est possible",
+        paragraphs: [
+          "Si vous avez un projet de naissance, la sage-femme peut en prendre connaissance et essayer de respecter vos souhaits lorsque la situation le permet.",
+          "Cela peut concerner l’ambiance, les positions, les explications, la présence de l’accompagnant, le peau à peau ou les premiers soins.",
+          "Certaines demandes doivent être adaptées à la sécurité de la mère ou du bébé.",
+          "La sage-femme peut vous expliquer ce qui est possible, ce qui ne l’est pas et pourquoi."
+        ]
+      },
+      {
+        title: "Quand appelle-t-elle le médecin ?",
+        paragraphs: [
+          "La sage-femme travaille de façon autonome dans de nombreuses situations normales, mais elle appelle le médecin lorsqu’un avis ou une intervention est nécessaire.",
+          "Cela peut arriver si le rythme du bébé devient moins rassurant, si le travail n’avance pas comme prévu, si une césarienne est envisagée, si une extraction instrumentale peut être nécessaire ou si une complication apparaît.",
+          "Elle peut aussi demander l’intervention de l’anesthésiste, du pédiatre ou d’autres professionnels selon la situation.",
+          "Appeler un médecin ne signifie pas toujours qu’il y a une urgence grave : c’est parfois simplement une étape de sécurité."
+        ]
+      },
+      {
+        title: "Pendant la naissance",
+        paragraphs: [
+          "Si l’accouchement par voie basse se déroule normalement, la sage-femme peut accompagner la naissance du bébé.",
+          "Elle vous guide pendant la phase de poussée, observe la descente du bébé, protège autant que possible le périnée et vérifie l’évolution.",
+          "Elle peut vous proposer de changer de position ou d’adapter les poussées selon vos sensations et la situation.",
+          "Au moment de la naissance, elle accueille le bébé et vérifie rapidement son état."
+        ]
+      },
+      {
+        title: "Après la naissance du bébé",
+        paragraphs: [
+          "La sage-femme participe aux premiers instants : installation du bébé, peau à peau si possible, surveillance de la mère, délivrance du placenta et vérification des saignements.",
+          "Elle contrôle aussi l’état du périnée et peut réaliser ou faire réaliser les soins nécessaires en cas de déchirure ou d’épisiotomie.",
+          "Elle surveille les constantes, la douleur, les saignements et l’utérus dans les heures qui suivent.",
+          "Elle peut aussi aider pour la première mise au sein ou le premier biberon selon vos choix et l’organisation de la maternité."
+        ]
+      },
+      {
+        title: "Son rôle auprès de la personne accompagnante",
+        paragraphs: [
+          "La sage-femme peut également guider la personne accompagnante.",
+          "Elle peut lui indiquer comment aider : tenir une main, proposer de l’eau, masser le dos, accompagner la respiration ou simplement rester présente.",
+          "Elle peut aussi lui expliquer ce qui se passe si la mère est trop concentrée ou fatiguée pour tout entendre.",
+          "La personne accompagnante reste un soutien affectif, tandis que la sage-femme garde la responsabilité du suivi médical."
+        ]
+      },
+      {
+        title: "Soutenir aussi les émotions",
+        paragraphs: [
+          "L’accouchement peut faire surgir de la peur, de la fatigue, du découragement, de la colère, de l’émotion ou un sentiment de perte de contrôle.",
+          "La sage-femme peut aider à remettre des repères : une contraction à la fois, une étape après l’autre, ce qui va bien, ce qui est surveillé.",
+          "Elle peut proposer un temps de pause, une explication ou un changement de position quand c’est possible.",
+          "Son attitude peut beaucoup influencer le sentiment de sécurité."
+        ]
+      },
+      {
+        title: "Ce que vous pouvez lui demander",
+        bullets: [
+          "Où en est le travail ?",
+          "Est-ce que le bébé va bien au monitoring ?",
+          "Pourquoi proposez-vous cet examen ou ce geste ?",
+          "Puis-je changer de position ?",
+          "Puis-je boire ou bouger ?",
+          "Quand puis-je demander une péridurale ?",
+          "Est-ce que mon projet de naissance est compatible avec la situation ?",
+          "Que puis-je faire pendant les prochaines contractions ?",
+          "Pouvez-vous m’expliquer ce qui va se passer maintenant ?"
+        ],
+        paragraphs: [
+          "Ces questions sont légitimes.",
+          "Vous n’avez pas besoin d’attendre d’être en difficulté pour demander une explication."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La sage-femme a un rôle central pendant l’accouchement : elle surveille, accompagne, explique et adapte les soins.",
+          "Elle suit le bien-être du bébé, l’évolution du travail, les contractions, le col et les besoins de la mère.",
+          "Elle peut accompagner un accouchement par voie basse lorsque tout se déroule normalement.",
+          "Elle travaille avec l’obstétricien, l’anesthésiste, le pédiatre et l’équipe de maternité si la situation le nécessite.",
+          "Son rôle est aussi humain : rassurer, soutenir et préserver autant que possible un climat de confiance."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Ordre des sages-femmes — Les compétences de la sage-femme",
+        url: "https://www.ordre-sages-femmes.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
