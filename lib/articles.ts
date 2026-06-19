@@ -8853,6 +8853,216 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "que-se-passe-t-il-a-l-arrivee-a-la-maternite",
+    title: "Que se passe-t-il à l’arrivée à la maternité ?",
+    description:
+      "Accueil, dossier, questions de la sage-femme, monitoring, examen du col, salle de naissance ou retour à la maison : les étapes possibles quand on arrive à la maternité.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "9 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "À l’arrivée à la maternité, l’équipe vérifie d’abord votre identité, votre dossier, votre terme et la raison de votre venue.",
+          "Une sage-femme vous pose des questions sur les contractions, la perte des eaux, les saignements, la douleur, les mouvements du bébé et votre situation médicale.",
+          "Un monitoring peut être posé pour surveiller le rythme cardiaque du bébé et les contractions.",
+          "Un examen du col peut être proposé pour savoir si le travail a commencé ou s’il avance.",
+          "Selon les résultats, vous pouvez être installée en salle de naissance, rester en observation, être hospitalisée ou parfois rentrer à la maison avec des consignes."
+        ],
+        quote:
+          "L’arrivée à la maternité sert à vérifier deux choses essentielles : comment va le bébé et où en est le travail."
+      },
+      {
+        title: "Arriver sans paniquer",
+        paragraphs: [
+          "L’arrivée à la maternité peut être impressionnante, surtout si c’est un premier accouchement.",
+          "Il peut y avoir de l’attente, des questions, des examens et parfois l’impression que tout va vite.",
+          "L’équipe est là pour évaluer la situation et décider de la suite la plus adaptée.",
+          "Même si vous avez mal ou que vous êtes inquiète, vous pouvez demander que l’on vous explique ce qui va se passer étape par étape."
+        ]
+      },
+      {
+        title: "Où faut-il aller en arrivant ?",
+        paragraphs: [
+          "Selon les maternités, l’accueil se fait aux urgences obstétricales, en salle de naissance, dans un service dédié ou par un secrétariat d’admission.",
+          "Les consignes exactes sont souvent données pendant la grossesse ou lors de l’inscription.",
+          "Si vous arrivez de nuit, le week-end ou en urgence, l’accès peut être différent de l’entrée principale.",
+          "Gardez l’adresse, le numéro de téléphone et les consignes d’accès dans votre téléphone et dans votre dossier de grossesse."
+        ]
+      },
+      {
+        title: "Les documents à avoir avec soi",
+        bullets: [
+          "Pièce d’identité.",
+          "Carte Vitale ou attestation de droits.",
+          "Carte de mutuelle si vous en avez une.",
+          "Dossier de grossesse.",
+          "Comptes rendus d’échographies.",
+          "Résultats de prises de sang importants.",
+          "Carte de groupe sanguin si elle vous a été remise.",
+          "Projet de naissance si vous en avez préparé un.",
+          "Documents demandés par la maternité lors de l’inscription."
+        ],
+        paragraphs: [
+          "Même si une partie du dossier est informatisée, avoir les documents essentiels avec vous facilite l’accueil.",
+          "La personne accompagnante peut s’occuper de les sortir pendant que vous vous concentrez sur les contractions."
+        ]
+      },
+      {
+        title: "Les premières questions de la sage-femme",
+        paragraphs: [
+          "Une sage-femme ou un membre de l’équipe vous demandera pourquoi vous venez : contractions, perte des eaux, saignement, bébé qui bouge moins, terme dépassé ou autre inquiétude.",
+          "On vous demandera probablement la fréquence des contractions, leur durée, l’heure du début, la couleur d’un éventuel liquide, votre terme et vos antécédents.",
+          "Ces questions permettent de repérer rapidement ce qui est urgent et ce qui doit être surveillé.",
+          "Si vous avez une consigne particulière, dites-le dès votre arrivée."
+        ],
+        quote:
+          "Même si vous avez déjà expliqué la situation au téléphone, l’équipe peut reposer les questions pour vérifier les informations."
+      },
+      {
+        title: "La surveillance du bébé",
+        paragraphs: [
+          "Un monitoring peut être posé pour enregistrer le rythme cardiaque du bébé et les contractions.",
+          "Il permet de voir comment le bébé se porte au moment de votre arrivée.",
+          "La durée du monitoring dépend de la situation, des habitudes de la maternité et des résultats observés.",
+          "Si un élément nécessite une surveillance plus longue, l’équipe vous l’expliquera."
+        ]
+      },
+      {
+        title: "L’examen du col",
+        paragraphs: [
+          "Un examen du col peut être proposé pour évaluer s’il est ouvert, raccourci, centré ou encore fermé.",
+          "Cet examen aide à savoir si le travail est bien lancé et à quel stade vous vous trouvez.",
+          "Il peut être inconfortable, surtout pendant les contractions.",
+          "Vous pouvez demander pourquoi il est nécessaire, être prévenue avant le geste et demander une pause si vous en avez besoin."
+        ]
+      },
+      {
+        title: "Si vous avez perdu les eaux",
+        paragraphs: [
+          "Si vous avez perdu les eaux, l’équipe voudra connaître l’heure de la perte, la couleur du liquide, son odeur, la présence ou non de contractions et les mouvements du bébé.",
+          "Un examen peut être réalisé pour confirmer la rupture de la poche des eaux si ce n’est pas évident.",
+          "Selon le terme, la couleur du liquide, la surveillance du bébé et les contractions, la conduite à tenir peut varier.",
+          "Il est important de signaler tout liquide vert, brun, sanglant ou malodorant."
+        ]
+      },
+      {
+        title: "Si vous avez des saignements",
+        paragraphs: [
+          "Un saignement rouge, abondant ou associé à une douleur, un malaise ou une diminution des mouvements du bébé doit être signalé immédiatement.",
+          "L’équipe évaluera la situation en priorité pour vérifier votre état et celui du bébé.",
+          "Tous les saignements n’ont pas la même signification, mais ils ne doivent pas être banalisés à l’arrivée.",
+          "Décrivez la quantité, la couleur et le moment où cela a commencé."
+        ]
+      },
+      {
+        title: "Si les contractions ne sont pas encore suffisantes",
+        paragraphs: [
+          "Il peut arriver d’arriver à la maternité trop tôt, lorsque le travail n’est pas encore assez avancé.",
+          "Dans ce cas, si tout est rassurant, l’équipe peut vous proposer de rentrer à la maison avec des consignes claires.",
+          "Cela peut être décevant, mais ce n’est pas un échec.",
+          "Le début du travail peut être long, et revenir plus tard permet parfois de mieux vivre la suite."
+        ]
+      },
+      {
+        title: "Si le travail est bien lancé",
+        paragraphs: [
+          "Si les contractions sont régulières, que le col se modifie et que la surveillance est rassurante, vous pouvez être installée en salle de naissance ou dans un espace d’attente selon l’organisation.",
+          "L’équipe vous expliquera la suite : surveillance, gestion de la douleur, possibilité de bouger, présence de l’accompagnant et examens éventuels.",
+          "Si vous souhaitez une péridurale, la demande sera prise en compte selon le stade du travail, votre dossier et la disponibilité de l’anesthésiste.",
+          "Si vous avez un projet de naissance, c’est le moment de le transmettre ou de rappeler vos souhaits principaux."
+        ]
+      },
+      {
+        title: "Salle d’examen, salle de prétravail ou salle de naissance ?",
+        paragraphs: [
+          "Selon les maternités, vous pouvez passer par une salle d’examen, une salle de prétravail, une chambre ou directement une salle de naissance.",
+          "Le lieu dépend du stade du travail, de l’affluence, de votre état, de celui du bébé et de l’organisation du service.",
+          "Être installée d’abord en observation ne signifie pas que quelque chose va mal.",
+          "Cela permet souvent de confirmer l’évolution avant de passer à l’étape suivante."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut aider dès l’arrivée : porter les sacs, sortir les documents, répondre à certaines questions pratiques, rappeler les consignes ou vous aider à respirer.",
+          "Elle peut aussi écouter les explications de l’équipe et poser des questions si vous êtes trop concentrée.",
+          "Selon les règles de la maternité, elle peut rester avec vous pendant l’accueil, les examens ou l’installation.",
+          "Si elle doit sortir à certains moments, l’équipe vous le précisera."
+        ]
+      },
+      {
+        title: "Et si une décision doit être prise rapidement ?",
+        paragraphs: [
+          "Parfois, l’arrivée à la maternité révèle une situation qui nécessite d’agir vite : bébé à surveiller, liquide teinté, saignement, tension élevée, travail très avancé ou autre signe médical.",
+          "Dans ce cas, l’équipe peut accélérer les examens ou proposer une prise en charge immédiate.",
+          "Vous pouvez demander une explication simple : ce qui se passe, pourquoi on agit, ce qui est prévu maintenant.",
+          "Même dans l’urgence, comprendre les grandes étapes peut aider à se sentir moins perdue."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter à l’arrivée",
+        bullets: [
+          "Laisser les documents importants au fond d’une valise difficile à ouvrir.",
+          "Minimiser un saignement, une fièvre ou un bébé qui bouge moins.",
+          "Oublier de signaler une consigne médicale particulière.",
+          "Attendre trop longtemps avant de dire que la douleur devient difficile à gérer.",
+          "Penser qu’un retour à la maison signifie que vous avez dérangé l’équipe.",
+          "Rester avec une question importante sans oser la poser."
+        ]
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "Où en est le travail ?",
+          "Le monitoring est-il rassurant ?",
+          "Est-ce que le col a commencé à se modifier ?",
+          "Est-ce que je reste ici ou est-ce que je peux rentrer à la maison ?",
+          "Quels signes doivent me faire revenir rapidement ?",
+          "Puis-je bouger, marcher, boire ou manger ?",
+          "Quand puis-je demander la péridurale si je la souhaite ?",
+          "La personne accompagnante peut-elle rester avec moi ?",
+          "À qui dois-je m’adresser si la douleur augmente ou si j’ai peur ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’arrivée à la maternité permet d’évaluer votre état, celui du bébé et l’avancement du travail.",
+          "Les premières étapes peuvent inclure des questions, un monitoring, un examen du col et la vérification du dossier.",
+          "Selon la situation, vous pouvez être installée, surveillée, hospitalisée ou parfois rentrer à la maison avec des consignes.",
+          "Signalez immédiatement une perte des eaux inhabituelle, un saignement, une fièvre, un malaise ou un bébé qui bouge moins.",
+          "Vous avez le droit de poser des questions et de demander des explications simples à chaque étape."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
