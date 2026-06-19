@@ -9915,6 +9915,235 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "declenchement-de-laccouchement-pourquoi-et-comment",
+    title: "Déclenchement de l’accouchement : pourquoi et comment ?",
+    description:
+      "Terme dépassé, perte des eaux, raison médicale, col favorable ou non : comprendre pourquoi un déclenchement peut être proposé et comment il se déroule à la maternité.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "11 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le déclenchement consiste à provoquer le début du travail lorsque l’accouchement ne démarre pas spontanément ou lorsqu’il vaut mieux ne pas attendre davantage.",
+          "Il peut être proposé pour un terme dépassé, une perte des eaux sans contractions, certaines situations médicales de la mère ou du bébé, ou plus rarement pour des raisons d’organisation discutées avec l’équipe.",
+          "Avant de déclencher, l’équipe évalue souvent le col : s’il est favorable, le déclenchement peut être plus direct ; s’il ne l’est pas, une maturation du col peut être nécessaire.",
+          "Les méthodes peuvent inclure une maturation du col, un ballonnet, une rupture artificielle de la poche des eaux ou une perfusion d’ocytocine selon la situation.",
+          "Un déclenchement peut prendre du temps : il peut durer quelques heures, mais parfois aussi s’étaler sur une ou plusieurs journées."
+        ],
+        quote:
+          "Le déclenchement n’est pas une seule méthode : c’est une décision médicale puis une stratégie adaptée à votre col, à votre bébé et à votre situation."
+      },
+      {
+        title: "Qu’est-ce qu’un déclenchement de l’accouchement ?",
+        paragraphs: [
+          "Le déclenchement de l’accouchement consiste à aider le travail à démarrer au lieu d’attendre qu’il commence spontanément.",
+          "Il peut être proposé lorsque poursuivre la grossesse semble moins favorable que faire naître le bébé, ou lorsque certaines conditions sont réunies pour programmer la naissance.",
+          "Le déclenchement ne signifie pas forcément que tout va aller très vite.",
+          "Le corps doit parfois d’abord préparer le col avant que les contractions deviennent efficaces."
+        ]
+      },
+      {
+        title: "Pourquoi peut-on proposer un déclenchement ?",
+        paragraphs: [
+          "Les raisons les plus fréquentes sont liées à la sécurité de la mère, du bébé ou des deux.",
+          "Il peut s’agir d’un terme dépassé, d’une perte des eaux sans début de travail, d’une hypertension, d’un diabète compliqué, d’un retard de croissance, d’une diminution du liquide amniotique, d’une surveillance du bébé moins rassurante ou d’une autre situation médicale.",
+          "Chaque indication doit être expliquée clairement par l’équipe.",
+          "Vous pouvez demander quel est le bénéfice d’un déclenchement maintenant et quel serait le risque d’attendre."
+        ]
+      },
+      {
+        title: "Le déclenchement pour terme dépassé",
+        paragraphs: [
+          "Quand la grossesse se prolonge au-delà du terme prévu, la maternité met en place une surveillance plus rapprochée.",
+          "Si les contrôles sont rassurants, il peut parfois être possible d’attendre encore un peu selon les protocoles.",
+          "Mais au bout d’un certain délai, ou si un élément devient moins rassurant, un déclenchement peut être proposé.",
+          "L’objectif est d’éviter que le bébé soit exposé trop longtemps à une situation qui pourrait devenir moins favorable."
+        ]
+      },
+      {
+        title: "Le déclenchement après une perte des eaux",
+        paragraphs: [
+          "Après une perte des eaux, le travail peut démarrer spontanément dans les heures qui suivent.",
+          "Mais si les contractions ne commencent pas, l’équipe peut proposer une surveillance puis un déclenchement selon le terme, la durée depuis la rupture, la couleur du liquide, votre température et l’état du bébé.",
+          "La raison principale est de limiter le risque infectieux lorsque la poche des eaux est rompue depuis un certain temps.",
+          "Les délais et les pratiques varient selon les maternités et les situations."
+        ],
+        quote:
+          "Après une perte des eaux, l’heure de la rupture, la couleur du liquide et votre température sont des informations importantes."
+      },
+      {
+        title: "Le déclenchement de convenance : de quoi parle-t-on ?",
+        paragraphs: [
+          "Un déclenchement peut parfois être discuté alors qu’il n’y a pas de raison médicale urgente, par exemple pour une situation organisationnelle ou personnelle.",
+          "On parle alors parfois de déclenchement de convenance.",
+          "Il ne doit pas être décidé à la légère : il nécessite une information claire, un terme suffisant, un col favorable selon les pratiques, et une discussion sur les bénéfices et les limites.",
+          "Vous avez le droit de poser des questions et de ne pas accepter une programmation que vous ne comprenez pas."
+        ]
+      },
+      {
+        title: "Avant de déclencher : l’évaluation du col",
+        paragraphs: [
+          "Avant un déclenchement, l’équipe examine souvent le col pour savoir s’il est favorable.",
+          "Elle regarde s’il est ouvert, raccourci, souple, centré, et si la tête du bébé est suffisamment descendue.",
+          "Un col favorable signifie que le corps semble déjà prêt à entrer en travail.",
+          "Un col peu favorable ne rend pas le déclenchement impossible, mais il peut nécessiter une étape de maturation et prendre plus de temps."
+        ]
+      },
+      {
+        title: "La maturation du col",
+        paragraphs: [
+          "Si le col n’est pas encore favorable, la première étape peut être de le préparer.",
+          "Cette maturation peut se faire avec des médicaments, comme des prostaglandines selon les situations, ou avec une méthode mécanique comme un ballonnet.",
+          "Le but est de rendre le col plus souple, plus raccourci ou plus ouvert avant de provoquer des contractions efficaces.",
+          "Cette étape peut durer plusieurs heures et nécessite une surveillance adaptée."
+        ]
+      },
+      {
+        title: "Le ballonnet",
+        paragraphs: [
+          "Le ballonnet est une méthode mécanique : un petit dispositif est placé au niveau du col puis gonflé avec du liquide.",
+          "Il exerce une pression douce pour aider le col à se modifier.",
+          "La pose peut être inconfortable, mais elle ne provoque pas toujours immédiatement des contractions fortes.",
+          "Selon les protocoles, il peut rester en place plusieurs heures, avec une surveillance de votre état et de celui du bébé."
+        ]
+      },
+      {
+        title: "Les prostaglandines",
+        paragraphs: [
+          "Les prostaglandines sont des médicaments utilisés dans certaines situations pour aider le col à mûrir et parfois déclencher des contractions.",
+          "Elles peuvent être proposées sous différentes formes selon les maternités et les indications.",
+          "Après leur administration, l’équipe surveille les contractions et le rythme du bébé.",
+          "Si les contractions deviennent trop rapprochées ou si le bébé tolère moins bien la situation, la prise en charge peut être adaptée."
+        ]
+      },
+      {
+        title: "La rupture artificielle de la poche des eaux",
+        paragraphs: [
+          "Lorsque le col est favorable et accessible, l’équipe peut parfois proposer de rompre artificiellement la poche des eaux.",
+          "Ce geste peut aider le travail à s’intensifier ou à avancer.",
+          "Il est réalisé par un professionnel avec un instrument adapté, généralement pendant un examen vaginal.",
+          "Il ne peut être proposé que dans certaines conditions, notamment selon la position du bébé, l’état du col et la situation médicale."
+        ]
+      },
+      {
+        title: "L’ocytocine en perfusion",
+        paragraphs: [
+          "L’ocytocine est un médicament qui stimule les contractions de l’utérus.",
+          "Elle est administrée par perfusion, avec un dosage ajusté progressivement selon la réponse de votre corps.",
+          "Pendant une perfusion d’ocytocine, le monitoring est souvent utilisé pour surveiller les contractions et le rythme du bébé.",
+          "L’équipe adapte la dose si les contractions sont insuffisantes, trop rapprochées ou mal tolérées."
+        ]
+      },
+      {
+        title: "Combien de temps dure un déclenchement ?",
+        paragraphs: [
+          "La durée est très variable.",
+          "Si le col est déjà favorable, le travail peut démarrer assez rapidement.",
+          "Si le col est fermé ou peu favorable, la maturation peut prendre du temps, parfois une journée ou plus.",
+          "Il est important de se préparer mentalement à une attente possible, avec des phases de surveillance, de repos et de réévaluation."
+        ],
+        quote:
+          "Un déclenchement long ne signifie pas forcément que quelque chose se passe mal : parfois, le col a simplement besoin de temps."
+      },
+      {
+        title: "Est-ce plus douloureux qu’un travail spontané ?",
+        paragraphs: [
+          "Certaines femmes trouvent les contractions déclenchées plus intenses ou plus rapprochées, surtout avec certaines méthodes.",
+          "D’autres les vivent de manière comparable à un travail spontané.",
+          "Le ressenti dépend de la méthode utilisée, du dosage, de votre fatigue, du stade du travail et de votre sensibilité.",
+          "Vous pouvez parler avec l’équipe des options de soulagement : respiration, positions, ballon si possible, bain ou douche selon les lieux, médicaments, péridurale."
+        ]
+      },
+      {
+        title: "Peut-on bouger pendant un déclenchement ?",
+        paragraphs: [
+          "Cela dépend de la méthode, de la surveillance nécessaire et du matériel utilisé.",
+          "Avec un ballonnet ou une maturation, certaines maternités permettent de bouger dans certaines limites.",
+          "Avec une perfusion d’ocytocine ou une surveillance continue, la mobilité peut être plus limitée, mais des changements de position sont souvent possibles.",
+          "Demandez ce que vous pouvez faire : marcher, vous asseoir, changer de côté, utiliser un ballon ou vous lever avec aide."
+        ]
+      },
+      {
+        title: "Quels sont les risques ou limites ?",
+        paragraphs: [
+          "Comme toute intervention médicale, le déclenchement a des bénéfices, des limites et des risques possibles.",
+          "Il peut entraîner un travail plus long, des contractions trop rapprochées, une surveillance plus importante, un besoin accru de soulagement de la douleur ou parfois un échec du déclenchement.",
+          "Si le bébé tolère moins bien les contractions ou si le travail n’avance pas malgré les méthodes utilisées, une autre décision peut être discutée, parfois une césarienne.",
+          "L’équipe doit vous expliquer ce qui motive la proposition et les alternatives possibles quand elles existent."
+        ]
+      },
+      {
+        title: "Peut-on refuser un déclenchement ?",
+        paragraphs: [
+          "Vous avez le droit de recevoir une information claire, de poser des questions et de participer à la décision.",
+          "Si la situation n’est pas urgente, vous pouvez demander un temps de réflexion, une nouvelle explication ou l’avis du professionnel qui vous suit.",
+          "En revanche, si le déclenchement est proposé parce que poursuivre la grossesse expose la mère ou le bébé à un risque important, l’équipe vous expliquera pourquoi il est préférable d’agir.",
+          "Le consentement se construit avec des informations compréhensibles, pas avec de la pression."
+        ]
+      },
+      {
+        title: "Les questions à poser avant un déclenchement",
+        bullets: [
+          "Pourquoi me propose-t-on un déclenchement ?",
+          "Est-ce urgent ou peut-on attendre encore ?",
+          "Comment va le bébé selon les derniers contrôles ?",
+          "Mon col est-il favorable ?",
+          "Quelle méthode est envisagée en premier ?",
+          "Combien de temps cela peut-il prendre ?",
+          "Quelle surveillance sera nécessaire ?",
+          "Pourrai-je bouger, manger ou boire ?",
+          "Quelles options de soulagement de la douleur seront possibles ?",
+          "Que se passera-t-il si le déclenchement ne fonctionne pas ?"
+        ]
+      },
+      {
+        title: "Comment se préparer le jour J ?",
+        paragraphs: [
+          "Prévoyez que le déclenchement peut être long.",
+          "Apportez votre dossier, votre valise, de quoi vous occuper calmement, un chargeur, des vêtements confortables et ce qui vous aide à vous détendre.",
+          "Si la personne accompagnante peut rester avec vous, discutez ensemble de son rôle pendant l’attente et les contractions.",
+          "Essayez de voir cette journée comme un processus par étapes, avec des temps de surveillance, de repos et d’adaptation."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un déclenchement de l’accouchement consiste à provoquer le travail lorsque l’attente n’est plus la meilleure option ou lorsqu’une programmation est décidée dans des conditions précises.",
+          "Les raisons peuvent être médicales ou, plus rarement, organisationnelles après discussion.",
+          "La méthode dépend surtout de l’état du col, du terme, du bébé et de votre situation médicale.",
+          "Le déclenchement peut être rapide, mais il peut aussi prendre beaucoup de temps.",
+          "Vous pouvez poser des questions, demander des explications et parler de vos préférences pour la douleur, la mobilité et la présence de l’accompagnant."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Déclenchement artificiel du travail à partir de 37 semaines d’aménorrhée",
+        url: "https://www.has-sante.fr/jcms/c_666473/fr/declenchement-artificiel-du-travail-a-partir-de-37-semaines-d-amenorrhee"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
