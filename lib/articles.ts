@@ -11892,6 +11892,226 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "accouchement-en-siege-quelles-sont-les-possibilites",
+    title: "Accouchement en siège : quelles sont les possibilités ?",
+    description:
+      "Bébé en siège complet ou décomplété, version par manœuvre externe, césarienne programmée ou voie basse encadrée : comprendre les options possibles quand bébé n’a pas la tête en bas.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "On parle de présentation en siège lorsque le bébé se présente par les fesses ou les pieds, au lieu de se présenter tête en bas.",
+          "En fin de grossesse, plusieurs options peuvent être discutées : attendre un retournement spontané, tenter une version par manœuvre externe, programmer une césarienne ou envisager une voie basse très encadrée.",
+          "La voie basse en siège n’est possible que dans certaines conditions précises, selon le bébé, le bassin, le terme, l’équipe et l’organisation de la maternité.",
+          "La césarienne programmée est souvent proposée lorsque les conditions de sécurité pour une voie basse ne sont pas réunies ou lorsque c’est l’option jugée la plus adaptée.",
+          "La décision doit être personnalisée et expliquée : vous pouvez demander les bénéfices, les risques, les alternatives et l’expérience de votre maternité."
+        ],
+        quote:
+          "Un bébé en siège ne signifie pas forcément une seule issue, mais les options doivent être discutées avec une équipe habituée à ce type de situation."
+      },
+      {
+        title: "Qu’est-ce qu’un bébé en siège ?",
+        paragraphs: [
+          "Un bébé est en siège lorsque ce ne sont pas sa tête, mais ses fesses ou ses pieds, qui se présentent vers le bas de l’utérus.",
+          "Cette position est différente de la présentation céphalique, dans laquelle le bébé a la tête en bas.",
+          "Avant la fin de grossesse, de nombreux bébés changent encore de position.",
+          "Lorsque le siège persiste à l’approche du terme, l’équipe discute avec vous des possibilités pour la naissance."
+        ]
+      },
+      {
+        title: "Les différents types de siège",
+        paragraphs: [
+          "Il existe plusieurs présentations en siège.",
+          "Dans le siège décomplété, les fesses sont en bas et les jambes sont souvent remontées vers le haut.",
+          "Dans le siège complet, les fesses sont en bas avec les jambes repliées.",
+          "Dans certaines situations, un ou deux pieds peuvent se présenter en premier : cela peut modifier les options possibles pour l’accouchement."
+        ]
+      },
+      {
+        title: "Comment sait-on que bébé est en siège ?",
+        paragraphs: [
+          "La position du bébé peut être suspectée à l’examen clinique, lorsque la sage-femme ou le médecin palpe le ventre.",
+          "Elle est généralement confirmée par une échographie.",
+          "L’échographie permet de préciser la présentation, la position de la tête, la quantité de liquide amniotique, la localisation du placenta et parfois l’estimation du poids.",
+          "Ces informations sont importantes pour discuter des options."
+        ]
+      },
+      {
+        title: "Bébé peut-il encore se retourner ?",
+        paragraphs: [
+          "Oui, certains bébés se retournent spontanément avant le terme.",
+          "Plus la grossesse avance, moins il y a de place, mais un retournement reste parfois possible.",
+          "L’équipe peut proposer de recontrôler la position avant de prendre une décision définitive.",
+          "Si le bébé reste en siège, une version par manœuvre externe peut être discutée dans certaines situations."
+        ]
+      },
+      {
+        title: "La version par manœuvre externe",
+        paragraphs: [
+          "La version par manœuvre externe, souvent appelée VME, est une tentative de retourner le bébé depuis l’extérieur du ventre.",
+          "Elle est réalisée par un professionnel entraîné, en exerçant des pressions contrôlées sur l’abdomen pour essayer d’amener le bébé tête en bas.",
+          "Elle se pratique généralement en fin de grossesse, dans un cadre surveillé, avec contrôle du rythme cardiaque du bébé avant et après.",
+          "Elle n’est pas toujours possible, ne réussit pas toujours, et peut être arrêtée si elle est trop douloureuse ou si la surveillance le nécessite."
+        ],
+        quote:
+          "La VME peut parfois éviter une naissance en siège, mais elle se décide au cas par cas."
+      },
+      {
+        title: "Dans quels cas la VME peut-elle être proposée ?",
+        paragraphs: [
+          "La VME peut être discutée lorsque le bébé est en siège, que la grossesse est suffisamment avancée et qu’il n’existe pas de contre-indication évidente.",
+          "L’équipe vérifie notamment le placenta, le liquide amniotique, le rythme du bébé, les antécédents et la situation médicale de la mère.",
+          "Elle peut être déconseillée en cas de certaines complications, de saignement, d’anomalie du placenta, de grossesse multiple selon les cas, ou d’autre situation qui rendrait la manœuvre moins sûre.",
+          "La décision revient à l’équipe avec votre accord après explication."
+        ]
+      },
+      {
+        title: "Si la VME réussit",
+        paragraphs: [
+          "Si le bébé se retourne tête en bas, la suite de la grossesse peut généralement être surveillée comme une présentation céphalique, selon votre dossier.",
+          "L’équipe vérifie que le bébé reste bien positionné.",
+          "Un accouchement par voie basse classique peut alors être envisagé si aucune autre raison médicale ne l’empêche.",
+          "Il peut toutefois arriver qu’un bébé se remette en siège, même si ce n’est pas systématique."
+        ]
+      },
+      {
+        title: "Si la VME ne réussit pas",
+        paragraphs: [
+          "Si la VME ne fonctionne pas ou n’est pas possible, deux grandes options peuvent être discutées : la césarienne programmée ou l’accouchement par voie basse en siège.",
+          "Le choix dépend de votre situation, du bébé, de la maternité, de l’expérience de l’équipe et des conditions de sécurité.",
+          "Certaines maternités ne proposent pas la voie basse en siège, ou seulement dans des conditions très précises.",
+          "Vous pouvez demander à être informée clairement des possibilités réelles dans votre maternité."
+        ]
+      },
+      {
+        title: "La césarienne programmée",
+        paragraphs: [
+          "La césarienne programmée est souvent proposée lorsque le bébé reste en siège et que la voie basse n’est pas recommandée ou n’est pas possible dans de bonnes conditions.",
+          "Elle permet d’organiser la naissance avant le début du travail, avec l’équipe obstétricale et l’anesthésiste.",
+          "Elle peut être recommandée selon la position du bébé, son poids estimé, la position de sa tête, vos antécédents ou les pratiques de la maternité.",
+          "Même programmée, elle reste une naissance et peut faire l’objet d’un accompagnement personnalisé autant que possible."
+        ]
+      },
+      {
+        title: "La voie basse en siège : est-ce possible ?",
+        paragraphs: [
+          "Dans certaines situations, un accouchement par voie basse en siège peut être envisagé.",
+          "Il nécessite une évaluation précise et une équipe formée à ce type d’accouchement.",
+          "Les critères peuvent inclure un bébé ni trop petit ni trop gros selon l’estimation, une tête bien fléchie, un bassin jugé compatible, un travail qui se déroule bien et une surveillance rapprochée.",
+          "Si un élément devient moins favorable pendant le travail, une césarienne peut être décidée."
+        ],
+        quote:
+          "La voie basse en siège est une possibilité dans certains cas, mais elle doit être très encadrée."
+      },
+      {
+        title: "Quels examens peuvent être proposés avant de décider ?",
+        paragraphs: [
+          "Pour discuter d’une voie basse en siège, l’équipe peut demander une échographie pour préciser la position du bébé et son poids estimé.",
+          "Une évaluation du bassin peut parfois être discutée selon les pratiques.",
+          "Le dossier obstétrical, les antécédents, la croissance du bébé, la position de la tête et le terme sont pris en compte.",
+          "Ces éléments permettent d’évaluer si les conditions sont favorables ou non."
+        ]
+      },
+      {
+        title: "Comment se passe un travail avec bébé en siège ?",
+        paragraphs: [
+          "Si une voie basse est envisagée, le travail est surveillé de près.",
+          "Le monitoring permet de suivre le rythme cardiaque du bébé.",
+          "L’équipe observe la progression du travail, la dilatation du col, la descente du bébé et la tolérance des contractions.",
+          "La présence d’une équipe capable d’intervenir rapidement est importante."
+        ]
+      },
+      {
+        title: "La phase de naissance en siège",
+        paragraphs: [
+          "Lors d’un accouchement en siège par voie basse, les fesses ou les pieds du bébé apparaissent avant la tête.",
+          "La naissance demande une surveillance attentive, car la tête sort en dernier.",
+          "L’équipe évite généralement de tirer inutilement et accompagne les différentes étapes avec des gestes précis si nécessaire.",
+          "Si la progression n’est pas satisfaisante ou si le bébé tolère moins bien la situation, une intervention peut être décidée."
+        ]
+      },
+      {
+        title: "Péridurale et accouchement en siège",
+        paragraphs: [
+          "La péridurale peut être discutée dans un accouchement en siège, selon les pratiques de la maternité et votre situation.",
+          "Elle peut aider à gérer la douleur, mais l’équipe tient aussi compte de la nécessité de sentir ou non certaines sensations au moment de la poussée.",
+          "Les recommandations peuvent varier selon les maternités.",
+          "Parlez-en en amont avec l’équipe si une voie basse en siège est envisagée."
+        ]
+      },
+      {
+        title: "Et si le travail commence avant la date prévue ?",
+        paragraphs: [
+          "Si une césarienne était programmée pour un bébé en siège et que vous avez des contractions, une perte des eaux ou des saignements avant la date, appelez la maternité sans attendre.",
+          "L’équipe évaluera la situation : stade du travail, état du bébé, présentation, terme et possibilité de maintenir ou non la voie prévue.",
+          "Selon l’avancement du travail et les conditions, une césarienne peut être réalisée plus tôt ou une autre conduite peut être discutée.",
+          "Ne restez pas à la maison avec un bébé en siège si le travail semble commencer sans consigne claire."
+        ]
+      },
+      {
+        title: "Comment choisir entre les options ?",
+        paragraphs: [
+          "Le choix dépend d’abord des conditions médicales, mais aussi de l’organisation de la maternité et de l’expérience de l’équipe.",
+          "Vous pouvez demander les bénéfices et les risques de chaque option : VME, césarienne programmée ou voie basse en siège.",
+          "Il est utile de savoir ce que votre maternité propose réellement, ce qui est recommandé dans votre cas et ce qui se passerait si la situation changeait.",
+          "La décision doit être partagée autant que possible, avec une information claire et un temps de questions."
+        ]
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "Quel type de siège présente mon bébé ?",
+          "Est-ce qu’une version par manœuvre externe est possible dans mon cas ?",
+          "Quels sont les bénéfices et les limites de la VME ?",
+          "Si la VME échoue, quelles options proposez-vous ?",
+          "La voie basse en siège est-elle possible dans ma maternité ?",
+          "Quels critères doivent être réunis pour tenter une voie basse ?",
+          "Dans quels cas une césarienne serait-elle recommandée ?",
+          "Que dois-je faire si le travail commence avant la date prévue ?",
+          "Qui sera présent le jour de l’accouchement ?",
+          "Pourrai-je avoir un débriefing après la naissance ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un bébé en siège se présente par les fesses ou les pieds au lieu de se présenter tête en bas.",
+          "En fin de grossesse, une version par manœuvre externe peut parfois être proposée pour tenter de le retourner.",
+          "Si le bébé reste en siège, les options principales sont la césarienne programmée ou, dans certains cas très encadrés, la voie basse.",
+          "La voie basse en siège dépend de critères précis et de l’expérience de l’équipe.",
+          "La décision doit être personnalisée, expliquée et adaptée à votre situation médicale comme à l’organisation de votre maternité."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Présentation du siège et accouchement",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Breech baby at the end of pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/breech-baby-at-the-end-of-pregnancy/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
