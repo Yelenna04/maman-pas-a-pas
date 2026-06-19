@@ -9485,6 +9485,246 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "peridurale-comment-se-deroule-la-pose",
+    title: "Péridurale : comment se déroule la pose ?",
+    description:
+      "Consultation d’anesthésie, moment de la demande, installation, pose du cathéter, délai d’action, surveillance et effets possibles : comprendre simplement comment se passe la péridurale pendant l’accouchement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Maternité",
+    subcategorySlug: "maternite",
+    readingTime: "10 min",
+    publishedAt: "2026-06-18",
+    updatedAt: "2026-06-18",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La péridurale est une technique d’anesthésie qui permet de diminuer fortement la douleur des contractions pendant le travail.",
+          "Elle est posée par un anesthésiste, généralement dans le bas du dos, après désinfection et anesthésie locale de la peau.",
+          "Un petit cathéter souple est laissé en place pour diffuser le produit antidouleur pendant le travail.",
+          "La pose demande de rester immobile quelques minutes, souvent assise ou allongée sur le côté, en faisant le dos rond.",
+          "Elle nécessite une surveillance : tension, sensations dans les jambes, efficacité de l’analgésie, contractions et rythme du bébé."
+        ],
+        quote:
+          "Demander une péridurale n’est pas un échec : c’est une option de soulagement de la douleur, à adapter à votre situation et à votre choix."
+      },
+      {
+        title: "À quoi sert la péridurale ?",
+        paragraphs: [
+          "La péridurale sert à diminuer la douleur des contractions pendant l’accouchement.",
+          "Elle agit au niveau des nerfs qui transmettent les sensations douloureuses venant de l’utérus et du bassin.",
+          "Selon le dosage et la réaction de chacune, elle peut soulager très fortement tout en laissant parfois certaines sensations de pression.",
+          "L’objectif n’est pas forcément de ne plus rien sentir, mais de rendre le travail plus supportable et de permettre à la mère de récupérer."
+        ]
+      },
+      {
+        title: "Faut-il l’avoir décidée à l’avance ?",
+        paragraphs: [
+          "Vous pouvez avoir un avis avant l’accouchement, puis changer d’idée le jour J.",
+          "Certaines femmes savent qu’elles souhaitent une péridurale, d’autres préfèrent attendre de voir comment elles vivent les contractions.",
+          "Aucune option n’est supérieure à l’autre.",
+          "Le plus important est d’avoir reçu les informations nécessaires et de pouvoir en parler avec l’équipe selon votre situation."
+        ]
+      },
+      {
+        title: "La consultation d’anesthésie avant l’accouchement",
+        paragraphs: [
+          "La consultation d’anesthésie est généralement prévue pendant la grossesse, souvent au troisième trimestre.",
+          "Elle permet de faire le point sur vos antécédents, vos traitements, vos allergies, vos examens sanguins et les éventuelles contre-indications.",
+          "Même si vous ne souhaitez pas de péridurale, cette consultation reste importante, car une anesthésie peut être nécessaire en cas de césarienne ou de geste imprévu.",
+          "C’est aussi le moment de poser vos questions sur la pose, les effets possibles et les alternatives."
+        ],
+        quote:
+          "La consultation d’anesthésie ne vous oblige pas à demander une péridurale : elle prépare surtout la sécurité si une anesthésie devient nécessaire."
+      },
+      {
+        title: "À quel moment peut-on la demander ?",
+        paragraphs: [
+          "La péridurale peut être demandée pendant le travail, lorsque la douleur devient difficile à gérer ou lorsque vous le souhaitez.",
+          "Le moment dépend de l’avancement du travail, de votre état, de la disponibilité de l’anesthésiste, du monitoring et de votre dossier médical.",
+          "Il n’est pas toujours nécessaire d’attendre une dilatation précise, mais l’équipe évaluera si le moment est adapté.",
+          "Si le travail avance très vite, il peut parfois être trop tard pour la poser dans de bonnes conditions."
+        ]
+      },
+      {
+        title: "Comment se préparer juste avant la pose ?",
+        paragraphs: [
+          "Avant la pose, l’équipe vérifie généralement votre dossier, votre tension, vos résultats sanguins et le rythme du bébé.",
+          "Une perfusion peut être posée ou vérifiée.",
+          "On vous explique comment vous installer et l’importance de rester immobile pendant quelques minutes.",
+          "La personne accompagnante peut parfois rester, mais cela dépend des règles de la maternité et de l’organisation de l’équipe."
+        ]
+      },
+      {
+        title: "Quelle position pendant la pose ?",
+        paragraphs: [
+          "La pose se fait souvent assise, les pieds posés, les épaules relâchées et le dos arrondi.",
+          "Elle peut aussi être réalisée allongée sur le côté, selon votre état, les contractions ou les habitudes de l’équipe.",
+          "Faire le dos rond permet d’ouvrir l’espace entre les vertèbres et de faciliter le geste.",
+          "La sage-femme ou l’équipe vous guide pour trouver la position la plus stable possible."
+        ]
+      },
+      {
+        title: "Les étapes de la pose",
+        bullets: [
+          "Installation dans la bonne position.",
+          "Désinfection soigneuse du bas du dos.",
+          "Pose de champs stériles autour de la zone.",
+          "Petite anesthésie locale de la peau.",
+          "Introduction de l’aiguille jusqu’à l’espace péridural.",
+          "Mise en place d’un cathéter très fin et souple.",
+          "Retrait de l’aiguille : seul le cathéter reste en place.",
+          "Fixation du cathéter avec un pansement dans le dos.",
+          "Injection ou diffusion du produit antidouleur."
+        ],
+        paragraphs: [
+          "L’aiguille ne reste pas dans le dos.",
+          "C’est le petit cathéter souple qui permet de poursuivre l’analgésie pendant le travail."
+        ]
+      },
+      {
+        title: "Est-ce douloureux ?",
+        paragraphs: [
+          "La pose peut être impressionnante, mais elle n’est pas forcément douloureuse.",
+          "L’anesthésie locale peut piquer ou brûler quelques secondes.",
+          "Ensuite, vous pouvez sentir une pression, une gêne ou une sensation étrange dans le dos, mais l’objectif est d’éviter une douleur importante.",
+          "Le plus difficile est parfois de rester immobile pendant les contractions."
+        ]
+      },
+      {
+        title: "Combien de temps faut-il pour qu’elle agisse ?",
+        paragraphs: [
+          "Après l’injection, le soulagement n’est pas toujours immédiat.",
+          "Il faut souvent attendre quelques minutes pour ressentir l’effet, parfois plus selon les produits, le dosage et votre réaction.",
+          "La douleur diminue progressivement.",
+          "Si un côté reste plus douloureux que l’autre ou si le soulagement est insuffisant, dites-le à l’équipe : des ajustements sont parfois possibles."
+        ]
+      },
+      {
+        title: "Que ressent-on après la pose ?",
+        paragraphs: [
+          "Vous pouvez ressentir une chaleur, des fourmillements, une diminution de la douleur ou une sensation de jambes lourdes.",
+          "Certaines femmes sentent encore la pression des contractions, ce qui peut être utile au moment de pousser.",
+          "Les sensations varient selon le dosage et la technique utilisée.",
+          "L’équipe vérifie régulièrement que la péridurale soulage suffisamment sans vous gêner excessivement."
+        ]
+      },
+      {
+        title: "La surveillance après la péridurale",
+        paragraphs: [
+          "Après la pose, votre tension est surveillée, car elle peut parfois baisser.",
+          "Le rythme du bébé et les contractions sont également surveillés selon les protocoles de la maternité.",
+          "L’équipe vérifie aussi vos sensations, la mobilité de vos jambes, la douleur restante et l’efficacité de la péridurale.",
+          "Si vous vous sentez mal, si vous avez des démangeaisons importantes, des vertiges, une douleur inhabituelle ou une gêne respiratoire, signalez-le immédiatement."
+        ]
+      },
+      {
+        title: "Peut-on bouger avec une péridurale ?",
+        paragraphs: [
+          "Cela dépend du type de péridurale, du dosage, de vos sensations et des règles de la maternité.",
+          "Même si vous ne pouvez pas marcher, il est souvent possible de changer de position dans le lit avec de l’aide.",
+          "Changer de côté, se redresser ou utiliser certains appuis peut aider le travail et le confort.",
+          "Demandez toujours à l’équipe avant de vous lever ou de modifier une position si vos jambes sont engourdies."
+        ]
+      },
+      {
+        title: "Peut-on encore sentir la poussée ?",
+        paragraphs: [
+          "La péridurale diminue la douleur, mais elle peut laisser des sensations de pression ou d’envie de pousser.",
+          "Selon le dosage, certaines femmes sentent bien la descente du bébé, d’autres moins.",
+          "L’équipe peut vous guider au moment de pousser, en tenant compte de vos sensations et du monitoring.",
+          "Si vous avez l’impression de ne rien sentir, dites-le : l’équipe adaptera ses indications."
+        ]
+      },
+      {
+        title: "Quels effets secondaires sont possibles ?",
+        bullets: [
+          "Baisse de tension, généralement surveillée et prise en charge.",
+          "Jambes lourdes ou engourdies.",
+          "Démangeaisons selon les produits utilisés.",
+          "Frissons ou tremblements, fréquents pendant le travail même sans péridurale.",
+          "Difficulté à uriner, parfois avec besoin d’une sonde urinaire.",
+          "Soulagement incomplet ou asymétrique nécessitant un ajustement.",
+          "Maux de tête dans de rares situations, à signaler après l’accouchement."
+        ],
+        paragraphs: [
+          "Les complications graves sont rares, mais l’équipe surveille justement pour repérer rapidement tout effet inhabituel."
+        ]
+      },
+      {
+        title: "Y a-t-il des contre-indications ?",
+        paragraphs: [
+          "Certaines situations peuvent empêcher ou retarder la pose d’une péridurale : trouble important de la coagulation, infection au point de ponction, fièvre ou infection non évaluée, certains traitements anticoagulants, ou situation d’urgence où il n’y a pas le temps.",
+          "C’est pour cela que la consultation d’anesthésie et les examens sanguins sont importants.",
+          "Si vous avez un doute sur vos antécédents ou vos traitements, parlez-en avant le jour J.",
+          "L’anesthésiste évaluera toujours la balance bénéfices-risques dans votre situation."
+        ]
+      },
+      {
+        title: "Et si la péridurale ne fonctionne pas bien ?",
+        paragraphs: [
+          "Il peut arriver qu’une péridurale soulage d’un côté plus que de l’autre, ou qu’elle soit insuffisante.",
+          "Dans ce cas, l’équipe peut vous faire changer de position, ajuster le produit, vérifier le cathéter ou discuter d’une nouvelle pose selon la situation.",
+          "Ne restez pas en silence si vous avez encore très mal.",
+          "Dire ce que vous ressentez permet à l’équipe d’adapter la prise en charge."
+        ]
+      },
+      {
+        title: "Péridurale et césarienne",
+        paragraphs: [
+          "Si une césarienne devient nécessaire et que la péridurale fonctionne bien, elle peut parfois être utilisée ou renforcée pour l’intervention.",
+          "Selon l’urgence et la situation, une autre anesthésie peut être nécessaire.",
+          "L’anesthésiste vous expliquera ce qui est prévu et ce que vous pouvez ressentir.",
+          "L’objectif est toujours d’assurer une anesthésie efficace et sûre."
+        ]
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "À quel moment puis-je demander la péridurale ?",
+          "Est-ce que mes examens permettent de la poser ?",
+          "La personne accompagnante peut-elle rester pendant la pose ?",
+          "Combien de temps faut-il pour qu’elle agisse ?",
+          "Pourrai-je bouger ou changer de position ?",
+          "Que faire si elle ne soulage pas assez ?",
+          "Quels effets secondaires dois-je signaler ?",
+          "Que se passe-t-il si une césarienne est nécessaire ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La péridurale est une méthode efficace pour soulager la douleur du travail.",
+          "Elle est posée par un anesthésiste dans le bas du dos, avec un cathéter souple laissé en place.",
+          "La pose demande de rester immobile quelques minutes, souvent en faisant le dos rond.",
+          "Après la pose, la mère et le bébé sont surveillés régulièrement.",
+          "Vous pouvez poser des questions, signaler une douleur persistante et demander des ajustements si le soulagement est insuffisant."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
+        url: "https://sfar.org/"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
