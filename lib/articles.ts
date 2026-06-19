@@ -10987,6 +10987,229 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "episiotomie-quand-est-elle-pratiquee",
+    title: "Épisiotomie : quand est-elle pratiquée ?",
+    description:
+      "Définition, indications possibles, geste, suture, douleur, cicatrisation et consentement : comprendre dans quelles situations une épisiotomie peut être pratiquée pendant l’accouchement.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’épisiotomie est une incision du périnée réalisée au moment de la naissance, lorsque l’équipe estime qu’elle est nécessaire.",
+          "Elle ne doit pas être systématique : elle est décidée au cas par cas, selon la situation de la mère, du bébé et le déroulement de la naissance.",
+          "Elle peut être envisagée si le bébé doit naître rapidement, si une extraction instrumentale est nécessaire ou si le périnée risque de se déchirer sévèrement selon l’évaluation de l’équipe.",
+          "Le geste est réalisé au moment où le bébé est très bas, généralement sous péridurale ou avec une anesthésie locale si possible.",
+          "Après la naissance, l’épisiotomie est suturée, puis surveillée pendant les suites de couches et à la maison."
+        ],
+        quote:
+          "L’épisiotomie n’est pas un geste automatique : elle doit répondre à une situation précise et être expliquée autant que possible."
+      },
+      {
+        title: "Qu’est-ce qu’une épisiotomie ?",
+        paragraphs: [
+          "L’épisiotomie est une incision réalisée au niveau du périnée, la zone située entre l’entrée du vagin et l’anus.",
+          "Elle est pratiquée au moment de l’expulsion, lorsque la tête ou le corps du bébé est sur le point de naître.",
+          "Son objectif est d’agrandir l’ouverture vaginale dans une situation où l’équipe estime que cela peut faciliter ou accélérer la naissance.",
+          "Après l’accouchement, l’incision est refermée par des points de suture."
+        ]
+      },
+      {
+        title: "Est-elle systématique ?",
+        paragraphs: [
+          "Non. L’épisiotomie systématique n’est plus recommandée.",
+          "Aujourd’hui, elle est censée être pratiquée de manière restrictive, seulement lorsqu’une situation le justifie.",
+          "Le fait d’accoucher pour la première fois ne suffit pas, à lui seul, à justifier une épisiotomie.",
+          "La décision dépend de l’évolution de la naissance, de l’état du bébé, du périnée, de la nécessité éventuelle d’un geste instrumental et de l’évaluation de l’équipe."
+        ],
+        quote:
+          "Une épisiotomie peut parfois être utile, mais elle n’est pas un passage obligé de l’accouchement par voie basse."
+      },
+      {
+        title: "Dans quelles situations peut-elle être pratiquée ?",
+        paragraphs: [
+          "Une épisiotomie peut être envisagée lorsque l’équipe pense qu’il faut faciliter ou accélérer la naissance.",
+          "Cela peut arriver si le rythme cardiaque du bébé devient moins rassurant et que la naissance doit se faire plus rapidement.",
+          "Elle peut aussi être discutée lors d’une extraction instrumentale, par ventouse, forceps ou spatules, selon la situation.",
+          "Elle peut également être envisagée si le professionnel estime qu’il existe un risque de déchirure importante, mais cette évaluation se fait au moment de la naissance."
+        ]
+      },
+      {
+        title: "Épisiotomie et extraction instrumentale",
+        paragraphs: [
+          "Lorsqu’une ventouse, des forceps ou des spatules sont utilisés, l’équipe peut parfois proposer une épisiotomie pour faciliter le passage du bébé et du matériel.",
+          "Elle n’est pas forcément automatique même dans ce contexte.",
+          "La décision dépend de la position du bébé, de l’urgence, de la souplesse du périnée et de la manière dont la tête progresse.",
+          "Si la situation le permet, l’équipe doit expliquer le geste et pourquoi il semble nécessaire."
+        ]
+      },
+      {
+        title: "Épisiotomie et souffrance du bébé",
+        paragraphs: [
+          "Si le monitoring montre que le bébé tolère moins bien la fin du travail, l’équipe peut chercher à accélérer la naissance.",
+          "Dans ce contexte, une épisiotomie peut parfois être pratiquée pour gagner du temps au moment de la sortie.",
+          "Ce n’est pas le seul geste possible : la conduite dépend de l’avancement de la naissance, de la position du bébé et de l’urgence.",
+          "L’objectif est de faire naître le bébé dans les meilleures conditions possibles."
+        ]
+      },
+      {
+        title: "Comment le geste se déroule-t-il ?",
+        paragraphs: [
+          "L’épisiotomie est réalisée pendant une contraction ou au moment où les tissus sont très tendus par la tête du bébé.",
+          "Le professionnel fait une incision avec des ciseaux chirurgicaux adaptés.",
+          "En France, l’incision est généralement médio-latérale, c’est-à-dire dirigée sur le côté plutôt que tout droit vers l’anus.",
+          "Le geste est rapide, mais il peut être impressionnant à entendre ou à imaginer."
+        ]
+      },
+      {
+        title: "Est-ce douloureux sur le moment ?",
+        paragraphs: [
+          "Si vous avez une péridurale efficace, vous pouvez ne pas sentir le geste ou le ressentir comme une pression.",
+          "Sans péridurale, une anesthésie locale peut être réalisée si le temps et la situation le permettent.",
+          "Dans une situation très urgente, l’équipe peut devoir agir rapidement, mais la douleur doit être prise en compte autant que possible.",
+          "Vous pouvez demander une anesthésie ou signaler si vous sentez une douleur pendant la suture."
+        ]
+      },
+      {
+        title: "Et après la naissance : la suture",
+        paragraphs: [
+          "Après la naissance du bébé et la délivrance du placenta, l’équipe examine le périnée.",
+          "Si une épisiotomie a été faite, elle est suturée avec des fils généralement résorbables.",
+          "La suture peut prendre plusieurs minutes et se fait avec une anesthésie adaptée si nécessaire.",
+          "Vous pouvez ressentir des tiraillements ou une pression, mais vous ne devriez pas avoir mal sans que cela soit pris en charge."
+        ]
+      },
+      {
+        title: "Épisiotomie ou déchirure : quelle différence ?",
+        paragraphs: [
+          "Une épisiotomie est une incision volontaire et contrôlée.",
+          "Une déchirure est une lésion spontanée des tissus pendant la naissance.",
+          "Les déchirures peuvent être superficielles ou plus profondes, et certaines nécessitent aussi des points.",
+          "L’épisiotomie n’empêche pas toujours les déchirures, et elle n’est pas utilisée pour éviter systématiquement toute lésion du périnée."
+        ]
+      },
+      {
+        title: "Peut-on la refuser ?",
+        paragraphs: [
+          "Vous avez le droit d’être informée et de participer aux décisions concernant votre accouchement.",
+          "Vous pouvez indiquer dans votre projet de naissance que vous ne souhaitez pas d’épisiotomie systématique et que vous voulez être prévenue si ce geste est envisagé.",
+          "Dans une situation urgente, l’équipe peut devoir expliquer très rapidement pourquoi elle propose le geste.",
+          "Le dialogue en amont avec la sage-femme ou l’équipe de maternité peut aider à clarifier vos souhaits."
+        ],
+        quote:
+          "Vous pouvez demander : « Dans quelles situations pratiqueriez-vous une épisiotomie ? » avant le jour de l’accouchement."
+      },
+      {
+        title: "Peut-on réduire le risque d’épisiotomie ?",
+        paragraphs: [
+          "On ne peut pas tout contrôler, car la décision dépend aussi du déroulement de la naissance.",
+          "Certaines mesures peuvent toutefois aider à favoriser un accouchement respectueux du périnée : positions adaptées, poussée guidée avec douceur, écoute des sensations, accompagnement de la sortie de la tête, application de chaleur selon les pratiques et rythme de poussée adapté.",
+          "La préparation périnéale en fin de grossesse peut être abordée avec une sage-femme, même si elle ne garantit pas l’absence de déchirure ou d’épisiotomie.",
+          "Le plus important est que l’équipe adapte les gestes à la situation réelle."
+        ]
+      },
+      {
+        title: "La cicatrisation après une épisiotomie",
+        paragraphs: [
+          "Après une épisiotomie, il est fréquent de ressentir une douleur, une gêne en position assise, des tiraillements ou une sensibilité pendant plusieurs jours.",
+          "La cicatrisation se fait progressivement.",
+          "Les points sont généralement résorbables et tombent ou se dissolvent seuls.",
+          "L’équipe vous expliquera comment nettoyer la zone, soulager la douleur et surveiller les signes inhabituels."
+        ]
+      },
+      {
+        title: "Soulager la douleur après l’accouchement",
+        bullets: [
+          "Demander un traitement antidouleur compatible avec votre situation.",
+          "Éviter de rester trop longtemps dans une position douloureuse.",
+          "S’asseoir sur le côté ou utiliser un coussin adapté si cela soulage.",
+          "Rincer à l’eau claire après le passage aux toilettes si cela vous aide.",
+          "Sécher doucement sans frotter.",
+          "Signaler une douleur qui augmente au lieu de diminuer.",
+          "Demander un avis si vous avez peur de regarder ou toucher la cicatrice."
+        ],
+        paragraphs: [
+          "La douleur ne doit pas être minimisée : si vous avez mal, dites-le à l’équipe."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        bullets: [
+          "Douleur de plus en plus forte.",
+          "Rougeur importante, gonflement ou chaleur autour de la cicatrice.",
+          "Écoulement malodorant ou aspect inquiétant.",
+          "Fièvre ou malaise.",
+          "Saignement important ou inhabituel.",
+          "Point qui semble lâcher avec ouverture de la plaie.",
+          "Difficulté importante à uriner ou à aller à la selle.",
+          "Douleur qui empêche de s’occuper du bébé ou de marcher normalement."
+        ],
+        paragraphs: [
+          "En cas de doute, contactez la maternité, une sage-femme ou un professionnel de santé."
+        ]
+      },
+      {
+        title: "Et la reprise des rapports sexuels ?",
+        paragraphs: [
+          "La reprise des rapports après une épisiotomie dépend de la cicatrisation, de la douleur, de la fatigue, du désir et du vécu de l’accouchement.",
+          "Il n’y a pas d’obligation de reprendre rapidement.",
+          "Si vous ressentez une douleur persistante, une gêne, une appréhension ou une sensation de cicatrice qui tire, parlez-en à une sage-femme, un médecin ou un kinésithérapeute spécialisé en périnée.",
+          "La rééducation périnéale peut aussi aider à retrouver de bonnes sensations et de la confiance."
+        ]
+      },
+      {
+        title: "Questions utiles à poser avant ou après",
+        bullets: [
+          "Dans quelles situations pratiquez-vous une épisiotomie ?",
+          "Est-ce que vous la réalisez systématiquement ou seulement si nécessaire ?",
+          "Est-ce que vous me préviendrez avant le geste si la situation le permet ?",
+          "Quel type d’incision pratiquez-vous généralement ?",
+          "Comment sera faite l’anesthésie si j’en ai besoin ?",
+          "Comment se passent les points ?",
+          "Quels soins dois-je faire à la maison ?",
+          "Quels signes doivent m’inquiéter ?",
+          "Quand demander un avis si la douleur persiste ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’épisiotomie est une incision du périnée réalisée au moment de la naissance dans certaines situations précises.",
+          "Elle ne doit pas être systématique et doit être décidée selon le déroulement de l’accouchement.",
+          "Elle peut être pratiquée si la naissance doit être accélérée, si un geste instrumental est nécessaire ou si l’équipe estime qu’elle est utile dans le contexte.",
+          "La suture se fait après la naissance, avec une prise en charge de la douleur.",
+          "Après l’accouchement, la douleur, la cicatrisation et le vécu émotionnel doivent être pris au sérieux."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
