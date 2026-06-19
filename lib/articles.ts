@@ -11210,6 +11210,239 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "forceps-ventouse-ou-spatules-pourquoi-sont-ils-utilises",
+    title: "Forceps, ventouse ou spatules : pourquoi sont-ils utilisés ?",
+    description:
+      "Forceps, ventouse, spatules : comprendre pourquoi ces instruments peuvent être utilisés pendant un accouchement par voie basse, comment se déroule le geste et ce qui est surveillé après la naissance.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les forceps, la ventouse ou les spatules peuvent être utilisés pour aider la naissance par voie basse lorsque le bébé est déjà engagé mais que la naissance doit être facilitée ou accélérée.",
+          "Ils peuvent être proposés si le bébé tolère moins bien la fin du travail, si la poussée n’avance pas, si la mère est très fatiguée ou si une situation médicale nécessite de raccourcir l’expulsion.",
+          "Le choix de l’instrument dépend de la position du bébé, de sa hauteur dans le bassin, de l’urgence, de l’expérience du médecin et de la situation maternelle.",
+          "Le geste est réalisé par un médecin, avec surveillance du bébé et prise en charge de la douleur autant que possible.",
+          "Après la naissance, le bébé et le périnée de la mère sont examinés, car ces gestes peuvent laisser des marques temporaires ou nécessiter des soins."
+        ],
+        quote:
+          "Une extraction instrumentale n’est pas un échec : c’est une aide médicale proposée quand la naissance par voie basse a besoin d’être accompagnée."
+      },
+      {
+        title: "De quoi parle-t-on exactement ?",
+        paragraphs: [
+          "Les forceps, la ventouse et les spatules sont des instruments utilisés pour aider le bébé à naître par voie basse.",
+          "On parle souvent d’extraction instrumentale ou d’accouchement instrumental.",
+          "Ces instruments ne sont pas utilisés dès le début du travail : ils concernent surtout la fin de l’accouchement, lorsque le col est complètement dilaté et que le bébé est déjà descendu dans le bassin.",
+          "Ils peuvent permettre d’éviter que la situation se prolonge trop longtemps ou d’accélérer la naissance si cela devient nécessaire."
+        ]
+      },
+      {
+        title: "Dans quelles situations peuvent-ils être proposés ?",
+        paragraphs: [
+          "Une extraction instrumentale peut être proposée lorsque la poussée n’avance pas suffisamment malgré les contractions et les efforts.",
+          "Elle peut aussi être envisagée si la mère est épuisée, si elle ne peut pas pousser longtemps pour une raison médicale, ou si le rythme du bébé devient moins rassurant.",
+          "Dans certains cas, elle permet de terminer rapidement un accouchement par voie basse alors que le bébé est suffisamment bas.",
+          "La décision dépend toujours de plusieurs éléments : position du bébé, hauteur de la tête, état du bébé, état de la mère et possibilité ou non de réaliser le geste en sécurité."
+        ]
+      },
+      {
+        title: "Quelles conditions doivent être réunies ?",
+        paragraphs: [
+          "Avant d’utiliser un instrument, l’équipe vérifie que le col est complètement ouvert, que la poche des eaux est rompue, que la tête du bébé est engagée et que sa position est connue.",
+          "Le bassin, la progression, le rythme cardiaque du bébé et l’état de la mère sont également pris en compte.",
+          "Si les conditions ne sont pas réunies, une extraction instrumentale peut ne pas être possible ou ne pas être la meilleure option.",
+          "Dans certaines situations, une césarienne peut alors être discutée."
+        ]
+      },
+      {
+        title: "La ventouse : comment fonctionne-t-elle ?",
+        paragraphs: [
+          "La ventouse est un petit instrument en forme de cupule, posé sur la tête du bébé.",
+          "Elle adhère grâce à une aspiration contrôlée.",
+          "Pendant les contractions et la poussée, le médecin exerce une traction douce et orientée pour accompagner la descente et la sortie du bébé.",
+          "La ventouse laisse parfois une bosse ou une marque sur la tête du bébé, généralement temporaire."
+        ],
+        bullets: [
+          "Elle est souvent utilisée lorsque le bébé est assez bas et que la progression doit être aidée.",
+          "Elle nécessite que la mère puisse généralement participer à la poussée.",
+          "Elle n’est pas adaptée à toutes les positions de bébé ni à toutes les situations."
+        ]
+      },
+      {
+        title: "Les forceps : à quoi servent-ils ?",
+        paragraphs: [
+          "Les forceps sont deux branches métalliques arrondies qui entourent doucement la tête du bébé.",
+          "Ils permettent au médecin de guider la tête pendant la contraction et la poussée.",
+          "Ils peuvent être utilisés lorsque la naissance doit être accélérée ou lorsque la ventouse n’est pas adaptée.",
+          "Le geste demande une bonne connaissance de la position du bébé et une technique précise."
+        ],
+        bullets: [
+          "Ils peuvent aider à orienter et accompagner la tête du bébé.",
+          "Ils sont parfois utilisés en cas d’urgence ou de besoin d’aide plus ferme.",
+          "Ils peuvent laisser de petites marques sur le visage ou la tête du bébé, généralement surveillées après la naissance."
+        ]
+      },
+      {
+        title: "Les spatules : quelle différence ?",
+        paragraphs: [
+          "Les spatules ressemblent à deux branches qui guident la tête du bébé, mais elles ne la prennent pas de la même façon que les forceps.",
+          "Elles servent surtout à orienter et accompagner la sortie, sans traction identique à celle des forceps.",
+          "Elles sont utilisées dans certaines maternités selon les habitudes et l’expérience des équipes.",
+          "Comme les autres instruments, elles ne sont proposées que si les conditions de sécurité sont réunies."
+        ]
+      },
+      {
+        title: "Qui décide de l’instrument utilisé ?",
+        paragraphs: [
+          "Le médecin choisit l’instrument le plus adapté en fonction de la situation.",
+          "Il tient compte de la position de la tête du bébé, de sa hauteur, de l’urgence, de la nécessité de guider ou de tracter, de la présence d’une péridurale et de l’état de la mère.",
+          "Les pratiques peuvent varier selon les maternités et les professionnels.",
+          "Si la situation le permet, l’équipe doit vous expliquer pourquoi tel instrument est proposé."
+        ],
+        quote:
+          "Le choix entre ventouse, forceps ou spatules dépend surtout de la situation au moment précis de la naissance."
+      },
+      {
+        title: "Comment se déroule le geste ?",
+        paragraphs: [
+          "L’équipe vous explique ce qui va se passer, parfois rapidement si la situation est urgente.",
+          "Vous êtes installée dans une position permettant au médecin de réaliser le geste et à l’équipe de surveiller le bébé.",
+          "La douleur est prise en charge autant que possible, par la péridurale si elle est déjà posée ou par une anesthésie locale selon les cas.",
+          "Le médecin place l’instrument, puis accompagne la naissance pendant une ou plusieurs contractions, souvent avec votre participation à la poussée."
+        ]
+      },
+      {
+        title: "Est-ce que cela fait mal ?",
+        paragraphs: [
+          "La sensation dépend de la présence ou non d’une péridurale, de son efficacité, de l’urgence et de votre sensibilité.",
+          "Avec une péridurale efficace, vous pouvez ressentir surtout de la pression, des tiraillements ou une sensation intense au niveau du bassin.",
+          "Sans péridurale, une anesthésie locale peut être proposée si le temps et la situation le permettent.",
+          "Si vous sentez une douleur importante, dites-le à l’équipe."
+        ]
+      },
+      {
+        title: "Une épisiotomie est-elle toujours nécessaire ?",
+        paragraphs: [
+          "Non, elle n’est pas toujours nécessaire.",
+          "Cependant, lors d’une extraction instrumentale, une épisiotomie peut parfois être pratiquée pour faciliter la sortie du bébé ou limiter certains risques selon la situation.",
+          "La décision dépend de l’instrument utilisé, de la souplesse du périnée, de l’urgence, de la taille estimée du bébé et de la progression.",
+          "Si la situation le permet, l’équipe doit expliquer pourquoi elle est proposée."
+        ]
+      },
+      {
+        title: "Quels effets possibles pour le bébé ?",
+        paragraphs: [
+          "Après une extraction instrumentale, le bébé peut avoir des marques temporaires sur la tête ou le visage.",
+          "Après une ventouse, on peut observer une bosse au point de contact.",
+          "Après des forceps ou des spatules, il peut y avoir de petites marques, rougeurs ou bleus.",
+          "L’équipe examine le bébé après la naissance pour vérifier son adaptation, son tonus, sa respiration et l’aspect des marques éventuelles."
+        ]
+      },
+      {
+        title: "Quels effets possibles pour la mère ?",
+        paragraphs: [
+          "Pour la mère, une extraction instrumentale peut augmenter le risque de douleurs périnéales, de déchirure, d’épisiotomie ou de gêne dans les jours qui suivent.",
+          "Après la naissance, l’équipe examine le périnée et réalise les points nécessaires si besoin.",
+          "La douleur, les saignements, la cicatrisation et la reprise de la mobilité sont surveillés.",
+          "Une rééducation périnéale peut être particulièrement importante après ce type d’accouchement."
+        ]
+      },
+      {
+        title: "Et si l’instrument ne suffit pas ?",
+        paragraphs: [
+          "Parfois, malgré l’aide instrumentale, la naissance ne progresse pas comme prévu.",
+          "Le médecin peut alors interrompre la tentative si elle n’est pas efficace ou si elle n’est plus considérée comme sûre.",
+          "Selon la situation, une césarienne peut être décidée.",
+          "L’objectif reste d’adapter rapidement la prise en charge à l’état de la mère et du bébé."
+        ]
+      },
+      {
+        title: "Comment vivre ce moment si cela arrive ?",
+        paragraphs: [
+          "L’annonce d’une ventouse, de forceps ou de spatules peut être impressionnante, surtout si vous ne vous y attendiez pas.",
+          "Essayez de demander une explication simple : pourquoi, maintenant, avec quel instrument et ce que l’on attend de vous.",
+          "Il est possible que l’équipe vous demande de pousser au moment précis où elle accompagne la sortie.",
+          "Après la naissance, vous pouvez demander que l’on vous réexplique ce qui s’est passé si tout est allé très vite."
+        ]
+      },
+      {
+        title: "Le rôle de la personne accompagnante",
+        paragraphs: [
+          "La personne accompagnante peut vous aider à rester concentrée, à respirer et à écouter les consignes de l’équipe.",
+          "Elle peut aussi entendre les explications données rapidement et vous les redire ensuite si vous en avez besoin.",
+          "Elle ne doit pas essayer d’intervenir dans le geste, mais sa présence calme peut être très rassurante.",
+          "Après la naissance, elle peut vous aider à poser des questions sur le déroulement et les suites."
+        ]
+      },
+      {
+        title: "Après l’accouchement : que surveille-t-on ?",
+        bullets: [
+          "L’état général du bébé et son adaptation à la naissance.",
+          "Les éventuelles marques sur la tête ou le visage.",
+          "Les saignements de la mère.",
+          "Le périnée, les déchirures ou l’épisiotomie éventuelle.",
+          "La douleur et la cicatrisation.",
+          "La capacité à uriner et à se mobiliser.",
+          "Le vécu émotionnel, surtout si le geste a été rapide ou impressionnant."
+        ],
+        paragraphs: [
+          "Si vous ressentez une douleur importante, une gêne persistante ou un choc émotionnel après l’accouchement, parlez-en à l’équipe."
+        ]
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "Pourquoi proposez-vous une ventouse, des forceps ou des spatules ?",
+          "Est-ce urgent ?",
+          "Le bébé est-il suffisamment bas ?",
+          "Quel instrument allez-vous utiliser et pourquoi ?",
+          "Est-ce que je dois pousser pendant le geste ?",
+          "Est-ce qu’une épisiotomie est nécessaire ?",
+          "Quels effets peut-il y avoir pour le bébé ?",
+          "Quels soins seront nécessaires pour mon périnée ?",
+          "Pourrez-vous me réexpliquer après la naissance ce qui s’est passé ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les forceps, la ventouse ou les spatules peuvent aider un bébé à naître par voie basse lorsque la naissance doit être facilitée ou accélérée.",
+          "Ils sont utilisés uniquement lorsque certaines conditions sont réunies, notamment un col complètement ouvert et un bébé suffisamment engagé.",
+          "Le choix de l’instrument dépend de la position du bébé, de l’urgence et de l’expérience de l’équipe.",
+          "Le geste peut être impressionnant, mais il vise à sécuriser la naissance lorsque la poussée seule ne suffit pas ou lorsque le bébé doit naître rapidement.",
+          "Après l’accouchement, la mère et le bébé sont surveillés, et vous pouvez demander une explication sur ce qui s’est passé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Recommandations en obstétrique",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
+      },
+      {
+        label: "Assurance Maladie — Suivi médical de la grossesse",
+        url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
