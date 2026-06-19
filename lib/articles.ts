@@ -12112,6 +12112,214 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "accouchement-vaginal-apres-une-cesarienne-est-ce-possible",
+    title: "Accouchement vaginal après une césarienne : est-ce possible ?",
+    description:
+      "Après une précédente césarienne, un accouchement par voie basse peut parfois être envisagé. Conditions, surveillance, bénéfices, risques et décision partagée : les repères pour comprendre l’AVAC.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Voies d’accouchement",
+    subcategorySlug: "voies-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après une césarienne, un accouchement vaginal peut parfois être possible : on parle d’AVAC, pour accouchement vaginal après césarienne.",
+          "La possibilité dépend notamment du type de cicatrice utérine, de la raison de la première césarienne, du déroulement de cette grossesse et de l’organisation de la maternité.",
+          "Un AVAC nécessite une surveillance adaptée, car il existe un risque rare mais sérieux de rupture de la cicatrice utérine.",
+          "Une césarienne programmée peut aussi être recommandée si les conditions ne sont pas favorables ou si c’est l’option la plus sûre.",
+          "La décision doit être discutée avec l’équipe, en tenant compte des bénéfices, des risques, de vos souhaits et de votre dossier médical."
+        ],
+        quote:
+          "Avoir eu une césarienne ne signifie pas automatiquement que tous les accouchements suivants devront se faire par césarienne."
+      },
+      {
+        title: "Qu’est-ce qu’un AVAC ?",
+        paragraphs: [
+          "AVAC signifie accouchement vaginal après césarienne.",
+          "Cela désigne un accouchement par voie basse chez une femme qui a déjà eu une césarienne lors d’une grossesse précédente.",
+          "On parle aussi parfois de tentative de voie basse après césarienne lorsqu’on envisage la voie basse, tout en sachant qu’une césarienne peut devenir nécessaire pendant le travail.",
+          "L’objectif est d’évaluer si la voie basse peut être tentée dans de bonnes conditions de sécurité."
+        ]
+      },
+      {
+        title: "Est-ce vraiment possible après une césarienne ?",
+        paragraphs: [
+          "Oui, dans certains cas.",
+          "La possibilité dépend de plusieurs critères médicaux et de l’organisation de la maternité.",
+          "Certaines femmes peuvent accoucher par voie basse après une césarienne, tandis que d’autres auront une recommandation de césarienne programmée.",
+          "Il n’y a donc pas une réponse unique : il faut analyser votre dossier avec l’équipe qui vous suit."
+        ]
+      },
+      {
+        title: "Pourquoi une césarienne précédente change la surveillance ?",
+        paragraphs: [
+          "Après une césarienne, il existe une cicatrice sur l’utérus.",
+          "Pendant un travail ultérieur, cette cicatrice est soumise aux contractions.",
+          "Dans de rares situations, elle peut se fragiliser ou se rompre : c’est ce qu’on appelle une rupture utérine.",
+          "Ce risque est rare, mais sérieux, ce qui explique la surveillance plus attentive pendant une tentative d’AVAC."
+        ],
+        quote:
+          "La question n’est pas seulement “voie basse ou césarienne”, mais “dans quelles conditions la voie basse peut-elle être tentée en sécurité ?”."
+      },
+      {
+        title: "Les éléments qui rendent l’AVAC plus favorable",
+        bullets: [
+          "Une seule césarienne antérieure avec une incision utérine habituelle et bien documentée.",
+          "Une raison de première césarienne qui ne se répète pas forcément cette fois-ci.",
+          "Un bébé en présentation tête en bas.",
+          "Une grossesse sans complication particulière.",
+          "Un travail qui commence spontanément.",
+          "Une maternité capable de surveiller le travail et de réaliser une césarienne si nécessaire.",
+          "Une information claire et une décision partagée avec l’équipe."
+        ],
+        paragraphs: [
+          "Ces éléments ne garantissent pas la réussite d’un AVAC, mais ils peuvent rendre la tentative plus envisageable."
+        ]
+      },
+      {
+        title: "Les situations où la césarienne programmée peut être recommandée",
+        paragraphs: [
+          "Une césarienne programmée peut être recommandée si l’équipe estime que la voie basse expose à trop de risques.",
+          "Cela peut dépendre du type de cicatrice utérine, du nombre de césariennes précédentes, d’un placenta mal positionné, d’une présentation du bébé, d’une complication maternelle ou fœtale, ou d’un antécédent particulier.",
+          "La décision peut aussi dépendre des capacités de surveillance et d’intervention de la maternité.",
+          "Dans ces situations, l’équipe doit vous expliquer pourquoi la césarienne est conseillée."
+        ]
+      },
+      {
+        title: "Le rôle du compte rendu opératoire",
+        paragraphs: [
+          "Le compte rendu de la précédente césarienne est très important.",
+          "Il précise le type d’incision réalisée sur l’utérus, les raisons de l’intervention et les éventuelles difficultés rencontrées.",
+          "Ces informations aident l’équipe à évaluer si un AVAC est envisageable.",
+          "Si vous avez changé de maternité ou de région, essayez de récupérer ce document avant la consultation de fin de grossesse."
+        ]
+      },
+      {
+        title: "Comment se prend la décision ?",
+        paragraphs: [
+          "La décision se prend généralement pendant la grossesse, après discussion avec la sage-femme, le gynécologue-obstétricien ou l’équipe de la maternité.",
+          "On évalue les bénéfices et les risques d’une tentative de voie basse et ceux d’une césarienne programmée.",
+          "Vos souhaits comptent, mais ils doivent être mis en balance avec les éléments médicaux.",
+          "Vous pouvez demander un temps de réflexion si la situation n’est pas urgente."
+        ]
+      },
+      {
+        title: "Quels sont les bénéfices possibles d’un AVAC ?",
+        paragraphs: [
+          "Lorsqu’il réussit, un AVAC permet d’éviter une nouvelle chirurgie.",
+          "La récupération peut parfois être plus rapide qu’après une césarienne, avec moins de douleur abdominale et une mobilité plus précoce.",
+          "Il peut aussi réduire certains risques liés aux césariennes répétées lors de futures grossesses.",
+          "Certaines femmes y tiennent aussi pour des raisons personnelles ou émotionnelles, notamment si elles ont mal vécu leur précédente césarienne."
+        ]
+      },
+      {
+        title: "Quels sont les risques à connaître ?",
+        paragraphs: [
+          "Le principal risque spécifique à l’AVAC est la rupture utérine, rare mais grave.",
+          "Il existe aussi la possibilité que le travail n’avance pas ou que le bébé tolère moins bien le travail, ce qui peut conduire à une césarienne en cours de travail.",
+          "Une césarienne décidée pendant le travail peut être plus urgente et parfois plus difficile à vivre qu’une césarienne programmée.",
+          "Ces risques doivent être expliqués clairement avant la décision."
+        ]
+      },
+      {
+        title: "Comment est surveillé le travail ?",
+        paragraphs: [
+          "Lors d’une tentative d’AVAC, le travail est généralement surveillé de près.",
+          "Le monitoring permet de suivre le rythme cardiaque du bébé et les contractions.",
+          "L’équipe observe aussi la douleur, la progression du col, les saignements, l’état général de la mère et les signes qui pourraient faire suspecter un problème au niveau de la cicatrice.",
+          "Une équipe capable d’intervenir rapidement doit pouvoir être disponible si la situation change."
+        ]
+      },
+      {
+        title: "Déclenchement et AVAC",
+        paragraphs: [
+          "Le déclenchement après une césarienne demande une réflexion particulière.",
+          "Certaines méthodes peuvent augmenter les contraintes sur l’utérus ou ne pas être recommandées selon les situations.",
+          "Si un déclenchement est envisagé, l’équipe doit expliquer la méthode, les bénéfices, les risques et les alternatives possibles.",
+          "Un travail spontané est souvent considéré comme plus favorable pour une tentative d’AVAC, mais chaque dossier doit être discuté individuellement."
+        ]
+      },
+      {
+        title: "Péridurale et AVAC",
+        paragraphs: [
+          "La péridurale peut être possible pendant une tentative d’AVAC.",
+          "Elle n’empêche pas forcément la surveillance des signes importants, mais l’équipe reste attentive à l’évolution de la douleur, du travail et du rythme du bébé.",
+          "Elle peut aussi être utile si une césarienne devient nécessaire, car elle peut parfois être renforcée pour l’intervention.",
+          "Le choix de la péridurale se discute comme pour les autres accouchements, en tenant compte de votre situation."
+        ]
+      },
+      {
+        title: "Et si une césarienne devient nécessaire pendant le travail ?",
+        paragraphs: [
+          "Même si une voie basse est envisagée, il peut être nécessaire de réaliser une césarienne pendant le travail.",
+          "Cela peut arriver si le col ne se dilate pas, si le bébé ne descend pas, si le monitoring devient moins rassurant ou si l’équipe suspecte un problème.",
+          "Cette possibilité fait partie de la tentative d’AVAC et doit être expliquée en amont.",
+          "Prévoir cette éventualité ne signifie pas que l’AVAC va échouer, mais cela permet de mieux comprendre le déroulement possible."
+        ]
+      },
+      {
+        title: "Le vécu émotionnel après une première césarienne",
+        paragraphs: [
+          "Le choix d’un AVAC peut être très chargé émotionnellement.",
+          "Certaines femmes souhaitent vivre une voie basse après une césarienne difficile, d’autres préfèrent une césarienne programmée pour se sentir plus en sécurité.",
+          "Il n’y a pas de bonne ou de mauvaise réaction.",
+          "L’essentiel est que votre vécu soit entendu et que la décision ne repose pas uniquement sur la peur ou la pression."
+        ],
+        quote:
+          "Votre histoire précédente compte : elle fait partie de la discussion, au même titre que les critères médicaux."
+      },
+      {
+        title: "Questions utiles à poser",
+        bullets: [
+          "Dans mon cas, un AVAC est-il envisageable ?",
+          "Quel type de cicatrice utérine ai-je eu lors de ma précédente césarienne ?",
+          "Pourquoi ai-je eu une césarienne la première fois ?",
+          "Quels éléments rendent la voie basse favorable ou non dans mon dossier ?",
+          "Quels sont les risques d’un AVAC dans ma situation ?",
+          "Quels sont les risques d’une césarienne programmée ?",
+          "Comment le travail sera-t-il surveillé ?",
+          "Que se passera-t-il si le travail ne progresse pas ?",
+          "Le déclenchement est-il possible dans mon cas ?",
+          "La maternité est-elle organisée pour une césarienne rapide si nécessaire ?"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Un accouchement vaginal après une césarienne peut être possible dans certaines situations.",
+          "La décision dépend du dossier médical, du type de cicatrice, de la raison de la première césarienne, de cette grossesse et de l’organisation de la maternité.",
+          "L’AVAC nécessite une surveillance adaptée pendant le travail, notamment à cause du risque rare mais sérieux de rupture utérine.",
+          "Une césarienne programmée peut être recommandée si les conditions ne sont pas favorables.",
+          "La meilleure décision est celle qui est expliquée, personnalisée et prise avec une équipe qui connaît votre dossier."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne et accouchement après césarienne",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Birth after previous caesarean",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/birth-after-previous-caesarean/"
+      },
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
