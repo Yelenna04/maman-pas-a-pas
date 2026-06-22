@@ -13337,6 +13337,215 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "les-premieres-heures-apres-une-cesarienne",
+    title: "Les premières heures après une césarienne",
+    description:
+      "Après une césarienne, les premières heures sont consacrées à la surveillance, à la prise en charge de la douleur, au retour des sensations, à la rencontre avec bébé et aux premiers levers.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après une césarienne, la maman est surveillée de près : tension, saignements, douleur, cicatrice, utérus et récupération de l’anesthésie.",
+          "Il est fréquent d’avoir une perfusion, une sonde urinaire, un pansement et des médicaments contre la douleur.",
+          "Le bébé peut parfois être installé en peau à peau rapidement, ou rejoindre l’autre parent selon l’état de chacun et l’organisation de la maternité.",
+          "Les sensations dans les jambes reviennent progressivement si l’intervention a eu lieu sous anesthésie locorégionale.",
+          "Le premier lever est accompagné par l’équipe, généralement après plusieurs heures, quand la récupération le permet."
+        ],
+        quote:
+          "Après une césarienne, le corps a besoin d’être surveillé, soulagé et accompagné avec douceur : c’est une naissance, mais aussi une chirurgie."
+      },
+      {
+        title: "Juste après l’intervention",
+        paragraphs: [
+          "Une fois la césarienne terminée, vous êtes transférée en salle de réveil ou dans un espace de surveillance adapté.",
+          "L’équipe vérifie régulièrement votre tension, votre pouls, vos saignements, votre douleur et votre état général.",
+          "Le pansement, l’utérus et la cicatrice sont aussi surveillés.",
+          "Cette surveillance rapprochée permet de repérer rapidement un saignement anormal, une douleur insuffisamment soulagée ou une difficulté liée à l’anesthésie."
+        ]
+      },
+      {
+        title: "La salle de réveil",
+        paragraphs: [
+          "Après une césarienne, le passage en salle de réveil est fréquent, même si vous êtes réveillée.",
+          "C’est un temps de surveillance médicale après l’anesthésie et l’intervention.",
+          "Selon l’organisation de la maternité, le bébé peut vous rejoindre rapidement, rester avec l’autre parent ou être surveillé quelques instants par l’équipe.",
+          "Si vous ne voyez pas votre bébé tout de suite, vous pouvez demander comment il va et quand il pourra vous rejoindre."
+        ]
+      },
+      {
+        title: "Le retour des sensations",
+        paragraphs: [
+          "Si vous avez eu une rachianesthésie ou une péridurale renforcée, le bas du corps reste engourdi pendant un certain temps.",
+          "Les sensations reviennent progressivement dans les jambes.",
+          "Vous pouvez ressentir des fourmillements, une lourdeur ou une impression de ne pas encore bien contrôler vos mouvements.",
+          "Il ne faut pas essayer de se lever seule tant que l’équipe n’a pas vérifié que vous êtes prête."
+        ]
+      },
+      {
+        title: "La douleur après une césarienne",
+        paragraphs: [
+          "La césarienne est une intervention chirurgicale, il est donc normal d’avoir mal au niveau du ventre et de la cicatrice.",
+          "La douleur peut augmenter lorsque vous toussez, riez, bougez, vous redressez ou prenez votre bébé.",
+          "Des antalgiques sont prévus pour vous soulager.",
+          "Si la douleur reste forte malgré les médicaments, dites-le rapidement : elle doit être prise au sérieux."
+        ],
+        quote:
+          "Bien soulager la douleur aide à respirer, bouger, se lever et s’occuper de son bébé plus sereinement."
+      },
+      {
+        title: "La perfusion, la sonde et le pansement",
+        paragraphs: [
+          "Dans les premières heures, vous pouvez avoir une perfusion pour recevoir des médicaments ou des liquides.",
+          "Une sonde urinaire est souvent posée pendant l’intervention et gardée un certain temps après, le temps que la mobilité et les sensations reviennent.",
+          "Un pansement protège la cicatrice.",
+          "L’équipe vous expliquera quand ces éléments seront retirés selon votre récupération et les protocoles de la maternité."
+        ]
+      },
+      {
+        title: "Les saignements après une césarienne",
+        paragraphs: [
+          "Même après une césarienne, il est normal d’avoir des saignements vaginaux.",
+          "Ils viennent de l’utérus, qui cicatrise à l’endroit où le placenta était attaché.",
+          "L’équipe surveille leur quantité et vérifie que l’utérus se contracte bien.",
+          "Si les saignements deviennent très abondants, si vous avez des caillots importants ou un malaise, il faut le signaler immédiatement."
+        ]
+      },
+      {
+        title: "Les contractions de l’utérus",
+        paragraphs: [
+          "Après la naissance, l’utérus continue à se contracter pour diminuer de taille et limiter les saignements.",
+          "Ces contractions, appelées tranchées, peuvent être douloureuses.",
+          "Elles peuvent être ressenties après une césarienne comme après une voie basse.",
+          "Elles sont parfois plus marquées pendant l’allaitement, car la succion stimule les contractions de l’utérus."
+        ]
+      },
+      {
+        title: "La rencontre avec le bébé",
+        paragraphs: [
+          "Selon votre état, celui du bébé et l’organisation de la maternité, le bébé peut être installé près de vous rapidement.",
+          "Le peau à peau peut parfois être proposé au bloc, en salle de réveil ou plus tard dans la chambre.",
+          "Si vous êtes trop fatiguée, tremblante ou douloureuse, l’autre parent peut parfois prendre le relais.",
+          "Le lien avec le bébé peut se faire immédiatement ou progressivement : il n’y a pas une seule façon de vivre ce moment."
+        ]
+      },
+      {
+        title: "Allaitement ou biberon après une césarienne",
+        paragraphs: [
+          "Si vous souhaitez allaiter, une césarienne n’empêche pas de commencer l’allaitement.",
+          "Vous aurez peut-être besoin d’aide pour trouver une position confortable qui ne tire pas sur la cicatrice.",
+          "Si vous donnez le biberon, l’équipe peut aussi vous accompagner pour les premiers gestes.",
+          "Dans tous les cas, l’objectif est que vous soyez installée avec le moins de douleur possible."
+        ]
+      },
+      {
+        title: "Les tremblements, nausées ou démangeaisons",
+        paragraphs: [
+          "Après l’intervention ou l’anesthésie, certaines femmes ont des tremblements, des nausées, des démangeaisons ou une sensation de froid.",
+          "Ces réactions peuvent être impressionnantes, mais elles sont souvent transitoires.",
+          "L’équipe peut proposer des médicaments ou des mesures de confort selon les symptômes.",
+          "Signalez toujours ce que vous ressentez, même si cela vous semble secondaire."
+        ]
+      },
+      {
+        title: "Le premier lever",
+        paragraphs: [
+          "Le premier lever se fait toujours avec l’aide de l’équipe.",
+          "Il peut avoir lieu après plusieurs heures, lorsque la tension, la douleur, les sensations et la mobilité le permettent.",
+          "Se lever tôt, mais progressivement, aide à récupérer, à relancer la circulation et à limiter certains risques liés à l’immobilité.",
+          "Il est normal de se sentir fragile, courbée ou impressionnée la première fois."
+        ]
+      },
+      {
+        title: "Bouger sans se faire trop mal",
+        paragraphs: [
+          "Les premiers mouvements peuvent être difficiles.",
+          "Pour vous redresser, l’équipe peut vous montrer comment vous tourner sur le côté puis pousser avec les bras plutôt que forcer sur le ventre.",
+          "Quand vous toussez, riez ou vous levez, maintenir doucement un coussin ou vos mains contre le ventre peut parfois soulager.",
+          "Demandez de l’aide pour porter le bébé si vous avez mal."
+        ]
+      },
+      {
+        title: "La cicatrice dans les premières heures",
+        paragraphs: [
+          "La cicatrice est protégée par un pansement et surveillée par l’équipe.",
+          "Il peut y avoir une sensation de tiraillement, de brûlure ou d’engourdissement autour de la zone.",
+          "Dans les premières heures, vous n’avez pas besoin de vous occuper seule de la cicatrice.",
+          "L’équipe vous expliquera ensuite les soins, les signes à surveiller et les gestes à éviter."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire appeler l’équipe",
+        paragraphs: [
+          "Dans les premières heures, certains signes doivent être signalés rapidement à l’équipe.",
+          "Une douleur très forte ou qui ne diminue pas malgré les médicaments.",
+          "Des saignements très abondants, des gros caillots ou une sensation de malaise.",
+          "Des difficultés à respirer, une douleur dans la poitrine ou une sensation inhabituelle.",
+          "Des vertiges importants, une grande faiblesse ou des palpitations.",
+          "Une fièvre, des frissons intenses ou une sensation de malaise général.",
+          "Une douleur importante dans un mollet ou une jambe très gonflée.",
+          "Une cicatrice qui saigne beaucoup ou un pansement très imbibé."
+        ]
+      },
+      {
+        title: "Le vécu émotionnel",
+        paragraphs: [
+          "Après une césarienne, les émotions peuvent être très différentes d’une femme à l’autre.",
+          "Certaines se sentent soulagées, d’autres déçues, sonnées, heureuses, inquiètes ou frustrées.",
+          "Si la césarienne a été décidée rapidement, vous pouvez avoir besoin qu’on vous réexplique ce qui s’est passé.",
+          "Votre vécu compte autant que la récupération physique."
+        ],
+        quote:
+          "Une césarienne peut être bien vécue ou difficile à digérer : dans les deux cas, vous avez le droit d’être accompagnée."
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander comment s’est déroulée l’intervention et si tout s’est passé comme prévu.",
+          "Vous pouvez demander quand la sonde, la perfusion ou le pansement seront retirés.",
+          "Vous pouvez aussi demander de l’aide pour installer le bébé, allaiter, donner le biberon ou vous lever.",
+          "Si vous avez mal ou si vous vous sentez dépassée, dites-le : les premières heures ne sont pas un moment où il faut tout gérer seule."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après une césarienne, les premières heures sont consacrées à la surveillance, à la douleur, au retour des sensations et à la rencontre avec le bébé.",
+          "La perfusion, la sonde urinaire et le pansement sont fréquents au début.",
+          "Les saignements vaginaux sont normaux, même après une césarienne, mais leur quantité est surveillée.",
+          "Le premier lever doit être accompagné par l’équipe.",
+          "Douleur intense, malaise, saignements abondants, fièvre ou difficulté respiratoire doivent être signalés rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
+        url: "https://sfar.org/"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
