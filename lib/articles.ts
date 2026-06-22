@@ -218,7 +218,7 @@ export const articles: Article[] = [
         url: "https://www.santepubliquefrance.fr/"
       }
     ]
-  }
+  },
 
 {
     slug: "douleurs-fatigue-saignements-ce-qui-est-normal-apres-la-naissance",
