@@ -12567,6 +12567,191 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "les-premiers-soins-et-examens-du-nouveau-ne",
+    title: "Les premiers soins et examens du nouveau-né",
+    description:
+      "À la naissance, le bébé est observé, réchauffé, pesé, examiné et surveillé. Voici les premiers soins du nouveau-né, ceux qui peuvent attendre et ceux qui sont faits rapidement si nécessaire.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Juste après la naissance, l’équipe vérifie que le bébé respire bien, qu’il a un bon tonus, une bonne couleur et qu’il s’adapte correctement.",
+          "Si le bébé va bien, certains soins peuvent être différés pour favoriser le peau à peau et la rencontre avec les parents.",
+          "Les premiers soins peuvent inclure le séchage, le maintien au chaud, la surveillance, la pesée, l’examen clinique et certains gestes de prévention.",
+          "Le score d’Apgar aide l’équipe à évaluer rapidement l’adaptation du bébé à une minute puis à cinq minutes de vie.",
+          "Si le bébé a besoin d’aide, l’équipe intervient rapidement, puis favorise le retour auprès des parents dès que possible."
+        ],
+        quote:
+          "Les premiers soins du nouveau-né servent d’abord à vérifier qu’il s’adapte bien, tout en préservant autant que possible la rencontre avec ses parents."
+      },
+      {
+        title: "Les premiers gestes juste après la naissance",
+        paragraphs: [
+          "Dès la naissance, l’équipe observe le bébé et vérifie son adaptation.",
+          "Elle regarde s’il respire, s’il pleure ou commence à respirer seul, s’il bouge, s’il a un bon tonus et une couleur rassurante.",
+          "Le bébé est rapidement séché pour éviter qu’il ne se refroidisse.",
+          "Si tout va bien, il peut être installé en peau à peau contre sa mère ou contre l’autre parent selon la situation."
+        ]
+      },
+      {
+        title: "Le maintien au chaud",
+        paragraphs: [
+          "Le nouveau-né peut perdre de la chaleur très rapidement après la naissance.",
+          "C’est pourquoi l’équipe le sèche, le couvre et vérifie qu’il reste bien au chaud.",
+          "Le peau à peau aide beaucoup à maintenir sa température, surtout lorsqu’il est bien couvert sur le dos.",
+          "Si le bébé a froid ou doit être surveillé, il peut être installé sous une source de chaleur adaptée."
+        ]
+      },
+      {
+        title: "Le score d’Apgar",
+        paragraphs: [
+          "Le score d’Apgar est une évaluation rapide de l’état du bébé après la naissance.",
+          "Il prend en compte la respiration, le rythme cardiaque, le tonus, la réactivité et la couleur.",
+          "Il est généralement noté à une minute, puis à cinq minutes de vie.",
+          "Ce score ne résume pas la santé future du bébé : il sert surtout à savoir s’il s’adapte bien ou s’il a besoin d’aide immédiatement."
+        ]
+      },
+      {
+        title: "L’examen clinique du bébé",
+        paragraphs: [
+          "Un professionnel examine le bébé pour vérifier son état général.",
+          "Il observe sa respiration, sa couleur, son tonus, ses mouvements, son cœur, son ventre, ses hanches, ses organes génitaux, son dos, sa bouche et ses réflexes.",
+          "Cet examen peut être fait rapidement si nécessaire ou un peu plus tard si le bébé va bien et reste en peau à peau.",
+          "L’objectif est de repérer une difficulté d’adaptation ou une particularité nécessitant une surveillance."
+        ]
+      },
+      {
+        title: "La pesée et les mesures",
+        paragraphs: [
+          "Le bébé est généralement pesé dans les premières heures après la naissance.",
+          "La taille et le périmètre crânien peuvent aussi être mesurés selon les pratiques de la maternité.",
+          "Ces mesures permettent de situer le bébé par rapport au terme de la grossesse et de suivre son évolution ensuite.",
+          "Si le bébé va bien, ces gestes peuvent souvent attendre un peu pour préserver le peau à peau."
+        ]
+      },
+      {
+        title: "Le bracelet d’identification",
+        paragraphs: [
+          "Un bracelet d’identification est posé au bébé peu après la naissance.",
+          "Il permet de sécuriser son identité pendant tout le séjour à la maternité.",
+          "Selon les établissements, un bracelet peut aussi être posé à la mère ou à l’autre parent.",
+          "L’équipe vérifie les informations pour éviter toute erreur."
+        ]
+      },
+      {
+        title: "Le cordon ombilical",
+        paragraphs: [
+          "Après la naissance, le cordon est clampé puis coupé.",
+          "Le moment du clampage dépend de l’état du bébé, de la situation médicale et des pratiques de la maternité.",
+          "Le cordon est ensuite surveillé pendant le séjour.",
+          "À la maison, il faudra continuer les soins selon les consignes données par l’équipe."
+        ]
+      },
+      {
+        title: "Les soins des yeux et les gestes de prévention",
+        paragraphs: [
+          "Selon les protocoles de la maternité et la situation, certains gestes de prévention peuvent être proposés au nouveau-né.",
+          "Ils peuvent concerner les yeux, la vitamine K ou d’autres soins recommandés selon le contexte.",
+          "L’équipe doit vous expliquer ce qui est fait et pourquoi.",
+          "Si vous avez une question ou une inquiétude, vous pouvez demander une explication avant ou après le soin."
+        ]
+      },
+      {
+        title: "La vitamine K",
+        paragraphs: [
+          "La vitamine K est souvent proposée aux nouveau-nés pour prévenir un risque rare de saignement lié à une carence.",
+          "Elle peut être donnée selon les recommandations et les protocoles de la maternité.",
+          "L’équipe vous explique le mode d’administration et la suite éventuelle selon le choix retenu.",
+          "Ce geste fait partie des soins préventifs fréquemment abordés après la naissance."
+        ]
+      },
+      {
+        title: "Le premier bain : pas forcément tout de suite",
+        paragraphs: [
+          "Le premier bain n’est généralement pas indispensable immédiatement après la naissance.",
+          "Le bébé peut garder sur sa peau le vernix, cette matière blanchâtre parfois présente, qui aide à protéger sa peau.",
+          "Dans de nombreuses maternités, le bain est différé pour éviter de refroidir le bébé et favoriser le peau à peau.",
+          "L’équipe vous montrera ensuite comment le laver en toute sécurité."
+        ]
+      },
+      {
+        title: "Si le bébé a besoin d’aide",
+        paragraphs: [
+          "Certains bébés ont besoin d’être stimulés, réchauffés, aspirés, aidés à respirer ou surveillés plus attentivement.",
+          "Dans ce cas, l’équipe peut l’emmener sur une table de soins équipée.",
+          "Cela peut être impressionnant, mais l’objectif est d’aider le bébé à s’adapter le plus vite possible.",
+          "Dès que son état le permet, l’équipe favorise le retour auprès de ses parents."
+        ],
+        quote:
+          "Quand un soin urgent est nécessaire, la priorité est d’aider le bébé, puis de permettre la rencontre dès que possible."
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, les premiers soins du bébé sont similaires, mais l’organisation peut être différente.",
+          "Le bébé est examiné, séché, réchauffé et surveillé.",
+          "Si la mère est réveillée et que le bébé va bien, un contact peut parfois être proposé rapidement selon l’organisation du bloc.",
+          "Si ce n’est pas possible, l’autre parent peut parfois faire du peau à peau en attendant que la mère puisse retrouver le bébé."
+        ]
+      },
+      {
+        title: "Ce qui peut attendre si bébé va bien",
+        paragraphs: [
+          "Lorsque le bébé respire bien, qu’il a un bon tonus et que son état est rassurant, certains soins peuvent être différés.",
+          "La pesée, certaines mesures ou un examen plus complet peuvent parfois attendre un moment.",
+          "Cela permet de préserver le peau à peau, la première rencontre et éventuellement la première mise au sein.",
+          "L’équipe adapte l’ordre des soins à l’état du bébé et à la sécurité."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander quels soins sont nécessaires tout de suite et lesquels peuvent attendre.",
+          "Vous pouvez aussi demander à rester près du bébé si un examen est réalisé, lorsque c’est possible.",
+          "Si le bébé doit être emmené, vous pouvez demander où il va, qui l’accompagne et quand il reviendra.",
+          "L’objectif est que vous puissiez comprendre ce qui se passe, même si tout va vite."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les premiers soins du nouveau-né servent à vérifier son adaptation, le maintenir au chaud et repérer rapidement s’il a besoin d’aide.",
+          "Si le bébé va bien, certains soins peuvent être différés pour favoriser le peau à peau et la rencontre.",
+          "Le score d’Apgar, l’examen clinique, la pesée, l’identification et certains gestes de prévention font partie des soins fréquents.",
+          "Après une césarienne, les soins sont proches, mais l’organisation peut être différente.",
+          "Vous pouvez demander à l’équipe ce qui est fait, pourquoi, et ce qui peut attendre si votre bébé va bien."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
