@@ -219,6 +219,196 @@ export const articles: Article[] = [
       }
     ]
   }
+
+{
+    slug: "douleurs-fatigue-saignements-ce-qui-est-normal-apres-la-naissance",
+    title: "Douleurs, fatigue, saignements : ce qui est normal après la naissance",
+    description:
+      "Après l’accouchement, douleurs, fatigue et saignements sont fréquents. Voici ce qui peut être normal, ce qui doit diminuer avec le temps et les signes qui doivent faire consulter.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, il est fréquent d’avoir des douleurs, des saignements, une grande fatigue et des contractions de l’utérus.",
+          "Les saignements, appelés lochies, sont souvent plus abondants les premiers jours puis diminuent progressivement.",
+          "La douleur doit être prise en charge : elle peut être fréquente, mais elle ne doit pas être ignorée.",
+          "La fatigue peut être très intense, surtout avec le manque de sommeil et les soins au bébé.",
+          "Fièvre, saignements très abondants, gros caillots, malaise, douleur qui s’aggrave ou idées noires doivent faire demander un avis rapidement."
+        ],
+        quote:
+          "Après la naissance, le corps récupère d’un événement majeur : normal ne veut pas dire qu’il faut tout supporter en silence."
+      },
+      {
+        title: "Un corps qui récupère d’un grand effort",
+        paragraphs: [
+          "Après l’accouchement, le corps ne revient pas immédiatement à son état d’avant.",
+          "L’utérus doit se rétracter, les tissus doivent cicatriser, les hormones changent rapidement et le sommeil devient souvent très fragmenté.",
+          "Les premiers jours peuvent donc être marqués par des douleurs, des pertes de sang, une fatigue profonde et des émotions intenses.",
+          "L’objectif n’est pas de reprendre vite, mais de récupérer progressivement."
+        ]
+      },
+      {
+        title: "Les saignements après la naissance",
+        paragraphs: [
+          "Après l’accouchement, il est normal d’avoir des saignements appelés lochies.",
+          "Ils sont liés à la cicatrisation de l’utérus, notamment à l’endroit où le placenta était attaché.",
+          "Ils peuvent être assez abondants les premiers jours, puis diminuer petit à petit.",
+          "Ils peuvent survenir après une voie basse comme après une césarienne."
+        ]
+      },
+      {
+        title: "Comment les saignements évoluent-ils ?",
+        paragraphs: [
+          "Au début, les pertes sont souvent rouge vif, comme des règles abondantes.",
+          "Elles deviennent ensuite plus foncées, brunâtres, rosées puis plus claires.",
+          "La quantité doit globalement diminuer avec les jours, même si une petite reprise peut arriver après un effort ou une journée fatigante.",
+          "Si les saignements redeviennent très abondants ou rouges vifs après avoir diminué, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Les caillots : quand s’inquiéter ?",
+        paragraphs: [
+          "De petits caillots peuvent apparaître, surtout dans les premiers jours.",
+          "Ils peuvent être liés à du sang accumulé lorsque vous êtes restée allongée ou assise.",
+          "En revanche, des caillots gros, répétés ou associés à un saignement abondant doivent faire contacter rapidement un professionnel.",
+          "Un malaise, des vertiges ou une grande faiblesse avec des saignements doivent être pris au sérieux."
+        ]
+      },
+      {
+        title: "Les douleurs après une voie basse",
+        paragraphs: [
+          "Après une voie basse, le périnée peut être douloureux, sensible, gonflé ou tirailler.",
+          "La gêne peut être plus forte s’il y a eu une déchirure, une épisiotomie ou des points.",
+          "Il peut aussi y avoir une sensation de pesanteur ou de brûlure en urinant.",
+          "La douleur doit progressivement diminuer et peut être soulagée par des médicaments adaptés, le repos et des soins doux."
+        ]
+      },
+      {
+        title: "Les douleurs après une césarienne",
+        paragraphs: [
+          "Après une césarienne, la douleur se situe souvent au niveau du ventre et de la cicatrice.",
+          "Elle peut augmenter en se levant, en toussant, en riant, en portant le bébé ou en changeant de position.",
+          "C’est une chirurgie : il est normal d’avoir besoin d’antalgiques et d’aide pour les premiers mouvements.",
+          "Une douleur très forte, qui augmente ou s’accompagne de fièvre, d’un écoulement ou d’une rougeur importante doit être signalée."
+        ]
+      },
+      {
+        title: "Les tranchées",
+        paragraphs: [
+          "Les tranchées sont des contractions de l’utérus après l’accouchement.",
+          "Elles aident l’utérus à reprendre progressivement sa taille et à limiter les saignements.",
+          "Elles peuvent être douloureuses, surtout pendant l’allaitement ou après un deuxième bébé ou plus.",
+          "Même si elles sont fréquentes, elles doivent pouvoir être soulagées si elles deviennent difficiles à supporter."
+        ]
+      },
+      {
+        title: "La fatigue post-partum",
+        paragraphs: [
+          "La fatigue après la naissance peut être très intense.",
+          "Elle vient de l’accouchement, du manque de sommeil, de la douleur, des saignements, des hormones et de l’attention constante portée au bébé.",
+          "Il est possible de se sentir épuisée même si tout va bien médicalement.",
+          "Cette fatigue mérite d’être prise au sérieux, surtout si elle s’accompagne de malaise, de grande tristesse ou d’anxiété importante."
+        ],
+        quote:
+          "La fatigue du post-partum n’est pas une faiblesse : c’est un signal que le corps a besoin de soutien."
+      },
+      {
+        title: "Pourquoi le repos est difficile",
+        paragraphs: [
+          "Se reposer avec un nouveau-né n’est pas toujours simple.",
+          "Le bébé se réveille souvent, les repas sont fréquents, les douleurs peuvent gêner le sommeil et les visites peuvent ajouter de la fatigue.",
+          "Le repos peut donc se faire par petites périodes plutôt que par longues nuits.",
+          "L’aide de l’entourage est précieuse pour protéger ces temps de récupération."
+        ]
+      },
+      {
+        title: "Les émotions et la fatigue",
+        paragraphs: [
+          "La fatigue peut rendre les émotions plus fortes.",
+          "On peut pleurer plus facilement, s’irriter, se sentir dépassée ou avoir l’impression de ne pas y arriver.",
+          "Le baby blues est fréquent les premiers jours, mais il doit rester transitoire.",
+          "Si la tristesse, l’angoisse ou les idées noires s’installent, il faut demander de l’aide."
+        ]
+      },
+      {
+        title: "Quand la douleur n’est plus “normale”",
+        paragraphs: [
+          "Une douleur peut être fréquente après la naissance, mais elle ne doit pas s’aggraver jour après jour.",
+          "Une douleur très forte malgré les médicaments, une douleur localisée qui augmente, une douleur avec fièvre ou un malaise doivent faire consulter.",
+          "Une douleur dans la poitrine, une difficulté à respirer ou une jambe rouge, gonflée et douloureuse nécessitent un avis urgent.",
+          "Il vaut mieux demander un avis trop tôt que rester seule avec un symptôme inquiétant."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire contacter rapidement une sage-femme, la maternité, un médecin ou les urgences.",
+          "Des saignements très abondants ou qui remplissent une protection en peu de temps.",
+          "Des gros caillots, surtout s’ils sont répétés ou associés à un malaise.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Une douleur qui augmente au lieu de diminuer.",
+          "Une mauvaise odeur des pertes.",
+          "Une cicatrice rouge, gonflée, très douloureuse ou avec un écoulement.",
+          "Des vertiges, une grande faiblesse, des palpitations ou un malaise.",
+          "Des idées noires, une peur de faire du mal ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce qui peut aider à récupérer",
+        paragraphs: [
+          "La récupération passe d’abord par des gestes simples : dormir dès que possible, boire, manger, prendre les traitements prescrits et limiter les efforts.",
+          "Il est utile d’accepter une aide concrète : repas, courses, ménage, lessives, aînés, trajets.",
+          "Limiter les visites peut aussi aider à réduire la fatigue.",
+          "Après une naissance, le repos n’est pas un luxe : c’est une partie du soin."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut soutenir la récupération en évitant de demander à la mère d’accueillir, ranger ou justifier ses choix.",
+          "Les aides concrètes sont souvent les plus utiles : préparer un repas, apporter des courses, tenir le bébé pendant une douche ou un repos, gérer une lessive.",
+          "Il peut aussi être attentif aux signes de fatigue extrême ou de détresse émotionnelle.",
+          "Un soutien calme, respectueux et sans jugement peut changer les premiers jours."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Douleurs, fatigue et saignements sont fréquents après la naissance, mais ils doivent évoluer dans le bon sens.",
+          "Les saignements doivent diminuer progressivement.",
+          "La douleur doit être soulagée et ne doit pas s’aggraver.",
+          "La fatigue peut être très intense et nécessite du repos et de l’aide.",
+          "Fièvre, malaise, saignement très abondant, douleur inquiétante ou idées noires doivent faire demander un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
 ,
   {
     slug: "parler-projet-bebe-avec-partenaire",
