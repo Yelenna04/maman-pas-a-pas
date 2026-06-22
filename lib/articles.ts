@@ -47,7 +47,7 @@ export const articles: Article[] = [
           "Fièvre, saignements très abondants, douleur qui s’aggrave, malaise, idées noires ou bébé très somnolent doivent faire demander un avis rapidement."
         ],
         quote:
-          "Les premiers jours après la naissance ne sont pas faits pour être parfaite : ils sont faits pour récupérer, apprendre et être entourée."
+          "Les premiers jours après la naissance ne sont pas faits pour viser la perfection : ils sont faits pour récupérer, apprendre et être entourée."
       },
       {
         title: "Une période de transition intense",
