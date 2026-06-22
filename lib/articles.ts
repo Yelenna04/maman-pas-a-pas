@@ -13136,6 +13136,207 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "douleurs-points-et-cicatrisation-apres-une-voie-basse",
+    title: "Douleurs, points et cicatrisation après une voie basse",
+    description:
+      "Après un accouchement par voie basse, le périnée peut être douloureux, avec ou sans points. Comprendre la cicatrisation, les soins, les douleurs normales et les signes qui doivent faire consulter.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après une voie basse, il est fréquent d’avoir des douleurs, des tiraillements, une sensation de pesanteur ou une gêne au niveau du périnée.",
+          "Des points peuvent être nécessaires en cas de déchirure ou d’épisiotomie, avec des fils généralement résorbables.",
+          "La cicatrisation se fait progressivement, mais la douleur doit diminuer avec le temps.",
+          "Une bonne hygiène douce, le repos, les antalgiques adaptés et les conseils de l’équipe aident à récupérer.",
+          "Une douleur qui augmente, une mauvaise odeur, de la fièvre, un gonflement important ou une plaie qui s’ouvre doivent faire consulter."
+        ],
+        quote:
+          "Avoir mal après une voie basse peut être normal, mais une douleur forte ou qui s’aggrave ne doit pas être banalisée."
+      },
+      {
+        title: "Pourquoi peut-on avoir mal après une voie basse ?",
+        paragraphs: [
+          "Pendant l’accouchement, le périnée, le vagin et les tissus autour de la vulve sont fortement étirés.",
+          "Même sans déchirure importante, cette zone peut rester sensible pendant plusieurs jours.",
+          "Il peut aussi y avoir des petites éraillures, des gonflements, des hématomes, une déchirure ou une épisiotomie.",
+          "La douleur dépend du déroulement de l’accouchement, de la poussée, du passage du bébé, des gestes réalisés et de la sensibilité de chacune."
+        ]
+      },
+      {
+        title: "Les douleurs fréquentes les premiers jours",
+        paragraphs: [
+          "Les premiers jours, il est fréquent de ressentir des tiraillements, une sensation de brûlure, une gêne pour s’asseoir ou une impression de pesanteur.",
+          "La douleur peut être plus marquée en urinant, en allant à la selle, en marchant ou en changeant de position.",
+          "Une sensation de gonflement ou de lourdeur peut aussi apparaître, surtout après un accouchement long ou une poussée intense.",
+          "Ces sensations doivent progressivement s’améliorer."
+        ]
+      },
+      {
+        title: "Déchirure, épisiotomie ou petites lésions",
+        paragraphs: [
+          "Après la naissance, la sage-femme ou le médecin examine le périnée.",
+          "S’il existe une déchirure ou une épisiotomie, des points peuvent être réalisés avec une anesthésie adaptée.",
+          "Certaines petites lésions ne nécessitent pas forcément de points.",
+          "L’équipe vous explique normalement ce qui a été observé et quels soins seront nécessaires."
+        ]
+      },
+      {
+        title: "Les points de suture",
+        paragraphs: [
+          "Les points réalisés après une voie basse sont généralement faits avec des fils résorbables.",
+          "Cela signifie qu’ils se dissolvent ou tombent seuls progressivement.",
+          "Il n’est donc pas toujours nécessaire de les retirer.",
+          "Vous pouvez ressentir des tiraillements, une gêne ou une sensation de points qui piquent pendant la cicatrisation."
+        ],
+        quote:
+          "Les points peuvent gêner, mais ils ne doivent pas provoquer une douleur insupportable ou qui empire jour après jour."
+      },
+      {
+        title: "Combien de temps dure la cicatrisation ?",
+        paragraphs: [
+          "La cicatrisation varie selon la profondeur de la déchirure, la présence d’une épisiotomie, l’état général, la fatigue et les soins.",
+          "Les douleurs les plus fortes diminuent souvent au fil des premiers jours.",
+          "Une sensibilité peut persister plus longtemps, notamment en position assise ou lors des mouvements.",
+          "Si la douleur reste très importante, augmente ou empêche les gestes du quotidien, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Comment soulager la douleur ?",
+        paragraphs: [
+          "Des antalgiques compatibles avec votre situation peuvent être proposés par l’équipe.",
+          "Il est important de ne pas attendre d’être à bout pour signaler la douleur.",
+          "Le repos, les changements de position, une installation confortable et l’aide pour porter le bébé peuvent aussi soulager.",
+          "Certaines maternités proposent des conseils spécifiques comme l’application de froid, selon les situations et les protocoles."
+        ]
+      },
+      {
+        title: "S’asseoir plus confortablement",
+        paragraphs: [
+          "Après une voie basse, la position assise peut être inconfortable.",
+          "Vous pouvez essayer de vous installer légèrement sur le côté ou de varier régulièrement les positions.",
+          "Un coussin peut aider certaines femmes, mais il ne convient pas à tout le monde.",
+          "Le plus important est de ne pas rester longtemps dans une position qui augmente la douleur."
+        ]
+      },
+      {
+        title: "Aller aux toilettes après l’accouchement",
+        paragraphs: [
+          "Uriner peut provoquer une sensation de brûlure si la zone est irritée.",
+          "Rincer doucement à l’eau claire pendant ou après le passage aux toilettes peut soulager certaines femmes.",
+          "Pour les selles, la peur d’avoir mal ou de tirer sur les points est fréquente.",
+          "Boire suffisamment, manger des fibres et demander de l’aide en cas de constipation peut éviter de forcer."
+        ]
+      },
+      {
+        title: "Les soins d’hygiène",
+        paragraphs: [
+          "Une hygiène douce suffit généralement.",
+          "Il est conseillé de rincer à l’eau claire ou de faire une toilette douce selon les consignes de la maternité.",
+          "Séchez délicatement sans frotter, en tamponnant avec une serviette propre ou une compresse.",
+          "Changez régulièrement de protection et lavez-vous les mains avant et après les soins."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter au début",
+        paragraphs: [
+          "Évitez de frotter la cicatrice, d’utiliser des produits irritants ou de multiplier les soins non recommandés.",
+          "Les tampons et coupes menstruelles sont généralement déconseillés juste après l’accouchement.",
+          "Les bains, la piscine ou les rapports sexuels doivent attendre les consignes de l’équipe et votre confort.",
+          "Si vous avez un doute sur ce que vous pouvez faire, demandez à une sage-femme."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes peuvent indiquer une infection, un hématome, une cicatrisation difficile ou une complication qui nécessite un avis médical.",
+          "Une douleur qui augmente au lieu de diminuer.",
+          "Une douleur très forte malgré les antalgiques.",
+          "Une rougeur importante, un gonflement ou une chaleur autour de la cicatrice.",
+          "Un écoulement malodorant ou un aspect inquiétant de la plaie.",
+          "De la fièvre, des frissons ou une sensation de malaise.",
+          "Un point qui semble lâcher ou une plaie qui s’ouvre.",
+          "Une boule très douloureuse ou une sensation de tension importante.",
+          "Une difficulté importante à uriner ou à aller à la selle."
+        ],
+        quote:
+          "Après la naissance, il vaut mieux demander un avis tôt plutôt que rester seule avec une douleur inquiétante."
+      },
+      {
+        title: "La rééducation périnéale",
+        paragraphs: [
+          "La rééducation périnéale est souvent proposée après l’accouchement.",
+          "Elle permet d’évaluer le périnée, de retrouver progressivement du confort, du tonus et de meilleures sensations.",
+          "Elle peut être utile même si vous n’avez pas eu de déchirure importante.",
+          "Elle ne doit pas commencer dans la précipitation : le professionnel vérifie d’abord la cicatrisation et votre confort."
+        ]
+      },
+      {
+        title: "Et la reprise des rapports sexuels ?",
+        paragraphs: [
+          "La reprise des rapports dépend de la cicatrisation, de la douleur, de la fatigue, du désir et du vécu de l’accouchement.",
+          "Il n’y a aucune obligation de reprendre rapidement.",
+          "Si vous ressentez une douleur, une appréhension ou une sensation de cicatrice qui tire, parlez-en à une sage-femme ou à un médecin.",
+          "Un accompagnement adapté peut aider à reprendre confiance progressivement."
+        ]
+      },
+      {
+        title: "Le vécu émotionnel",
+        paragraphs: [
+          "Une déchirure, une épisiotomie, des points ou une douleur importante peuvent marquer le vécu de l’accouchement.",
+          "Certaines femmes ont du mal à regarder ou toucher la zone, ou ressentent une peur de la cicatrice.",
+          "Ces réactions sont compréhensibles.",
+          "Vous pouvez demander à ce qu’on vous explique ce qui a été fait, ou à être accompagnée pour regarder la cicatrice si vous en ressentez le besoin."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander quel type de déchirure ou de suture a été réalisé.",
+          "Vous pouvez aussi demander quels soins faire, quels antalgiques prendre et quels signes doivent faire consulter.",
+          "Si la douleur vous inquiète, demandez un examen avant la sortie ou lors d’un passage de sage-femme.",
+          "Il est important de repartir avec des repères clairs, surtout si vous avez eu des points."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après une voie basse, des douleurs, tiraillements et gênes au niveau du périnée sont fréquents.",
+          "Les points sont généralement résorbables et la cicatrisation se fait progressivement.",
+          "La douleur doit diminuer avec le temps, pas s’aggraver.",
+          "Une hygiène douce, le repos, des antalgiques adaptés et un bon accompagnement aident à récupérer.",
+          "Fièvre, mauvaise odeur, douleur qui augmente, plaie qui s’ouvre ou gonflement important doivent faire consulter."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
