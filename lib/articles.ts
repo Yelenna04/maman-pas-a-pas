@@ -21,7 +21,7 @@ export type Article = {
   sources: { label: string; url: string }[];
 };
 
-export const articles: Article[,
+export const articles: Article[] = [
 
 {
     slug: "les-premiers-jours-apres-laccouchement-a-quoi-sattendre",
