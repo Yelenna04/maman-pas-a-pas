@@ -13546,6 +13546,202 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "premiere-mise-au-sein-ou-premier-biberon-comment-cela-se-passe-t-il",
+    title: "Première mise au sein ou premier biberon : comment cela se passe-t-il ?",
+    description:
+      "Après la naissance, le premier repas du bébé peut se faire au sein ou au biberon. Peau à peau, signes d’éveil, accompagnement, rythme du bébé et choix des parents : voici comment cela se passe.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le premier repas du bébé peut avoir lieu dans les premières heures après la naissance, selon son état, son éveil et le choix des parents.",
+          "Si la mère souhaite allaiter, la première mise au sein peut être proposée pendant le peau à peau, sans forcément forcer le bébé.",
+          "Si les parents choisissent le biberon, l’équipe peut accompagner les premiers gestes et aider à respecter le rythme du bébé.",
+          "Certains bébés tètent ou boivent rapidement, d’autres ont besoin de temps, de calme et d’aide.",
+          "Le plus important est que le choix des parents soit respecté et que le bébé soit surveillé, réchauffé et accompagné."
+        ],
+        quote:
+          "Le premier repas n’a pas besoin d’être parfait : il doit surtout respecter le bébé, la maman et le choix des parents."
+      },
+      {
+        title: "Un premier repas, mais aussi une première rencontre",
+        paragraphs: [
+          "Après la naissance, le premier repas du bébé est souvent un moment très attendu.",
+          "Il peut être doux, évident, hésitant, rapide ou un peu maladroit.",
+          "Certains bébés cherchent vite à téter ou à boire, tandis que d’autres dorment, observent ou ont besoin d’être stimulés doucement.",
+          "Il ne faut pas voir ce premier moment comme un test à réussir : c’est surtout une étape de découverte."
+        ]
+      },
+      {
+        title: "Quand a lieu la première mise au sein ou le premier biberon ?",
+        paragraphs: [
+          "Le moment dépend de l’état du bébé, de celui de la mère, de la naissance et de l’organisation de la maternité.",
+          "Si le bébé va bien, le premier repas peut être proposé pendant les premières heures, souvent pendant ou après le peau à peau.",
+          "Si le bébé a besoin de soins, s’il est très fatigué ou s’il doit être surveillé, ce moment peut être décalé.",
+          "L’équipe vous accompagne pour trouver le bon moment, sans précipitation inutile."
+        ]
+      },
+      {
+        title: "Si vous souhaitez allaiter",
+        paragraphs: [
+          "Si vous souhaitez allaiter, la première mise au sein peut être proposée pendant le peau à peau.",
+          "Le bébé peut montrer des signes de recherche : il bouge la tête, ouvre la bouche, tire la langue, porte ses mains vers sa bouche ou rampe doucement vers le sein.",
+          "L’équipe peut vous aider à l’installer, à soutenir son corps et à vérifier que la prise du sein est confortable.",
+          "Il n’est pas toujours nécessaire de forcer : certains bébés ont besoin d’observer et de se réveiller progressivement."
+        ],
+        quote:
+          "Une première mise au sein peut prendre du temps : le bébé découvre, la mère aussi."
+      },
+      {
+        title: "Le colostrum : les premières gouttes",
+        paragraphs: [
+          "Le colostrum est le premier lait produit après la naissance.",
+          "Il est souvent présent en petite quantité, mais il est très concentré et adapté aux besoins du nouveau-né.",
+          "Il peut être jaune, épais ou transparent selon les femmes.",
+          "Même quelques gouttes peuvent être précieuses pour le bébé."
+        ]
+      },
+      {
+        title: "Si bébé ne prend pas le sein tout de suite",
+        paragraphs: [
+          "Un bébé qui ne tète pas immédiatement ne signifie pas que l’allaitement est compromis.",
+          "Il peut être fatigué par la naissance, somnolent, avoir besoin de chaleur ou de temps.",
+          "L’équipe peut proposer de poursuivre le peau à peau, d’aider à l’installation ou d’exprimer quelques gouttes de colostrum si nécessaire.",
+          "L’important est de rester accompagnée et de ne pas rester seule avec l’impression que quelque chose ne va pas."
+        ]
+      },
+      {
+        title: "Si vous choisissez le biberon",
+        paragraphs: [
+          "Si vous choisissez de donner le biberon, l’équipe peut vous accompagner pour le premier repas.",
+          "Le bébé est installé dans une position confortable, semi-assise, contre vous ou contre l’autre parent.",
+          "On lui propose doucement la tétine, sans le forcer à boire plus qu’il ne peut.",
+          "Les quantités des premiers biberons sont souvent petites, car l’estomac du nouveau-né est encore très petit."
+        ]
+      },
+      {
+        title: "Respecter le rythme du bébé",
+        paragraphs: [
+          "Que le bébé soit au sein ou au biberon, son rythme est important.",
+          "Il peut faire des pauses, s’endormir, reprendre, chercher ou refuser temporairement.",
+          "L’équipe vérifie qu’il s’adapte bien, qu’il garde une bonne couleur, une bonne respiration et qu’il ne montre pas de signe de difficulté.",
+          "Le premier repas peut donc être court, fractionné ou simplement préparatoire."
+        ]
+      },
+      {
+        title: "Le rôle du peau à peau",
+        paragraphs: [
+          "Le peau à peau peut faciliter les premiers signes d’éveil et de recherche.",
+          "Il aide le bébé à rester au chaud, à s’apaiser et à retrouver des repères.",
+          "Il peut être utile avant une mise au sein, mais aussi avant un biberon.",
+          "Même si le premier repas est différé, le peau à peau peut aider le bébé à se poser et à mieux se réveiller."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, la première mise au sein ou le premier biberon peut être possible dès que l’état de la mère et du bébé le permet.",
+          "L’installation peut demander davantage d’aide pour éviter d’appuyer sur la cicatrice.",
+          "Pour allaiter, certaines positions sur le côté ou avec le bébé bien soutenu peuvent être plus confortables.",
+          "Pour le biberon, l’autre parent peut parfois prendre le relais si la mère est encore en surveillance ou trop fatiguée."
+        ]
+      },
+      {
+        title: "Si le bébé a besoin de surveillance",
+        paragraphs: [
+          "Certains bébés ont besoin d’une surveillance particulière après la naissance : prématurité, petit poids, diabète gestationnel, fatigue, difficultés respiratoires ou autre situation.",
+          "Dans ce cas, le premier repas peut être encadré de plus près.",
+          "L’équipe peut surveiller la glycémie, la température, l’efficacité de la succion ou la capacité du bébé à boire.",
+          "Cela ne remet pas forcément en cause votre choix d’allaitement ou de biberon, mais cela peut modifier l’organisation des premières heures."
+        ]
+      },
+      {
+        title: "Et si vous ne savez pas encore ce que vous voulez ?",
+        paragraphs: [
+          "Certaines femmes savent depuis longtemps si elles souhaitent allaiter ou donner le biberon.",
+          "D’autres hésitent, changent d’avis ou ont besoin de vivre la naissance avant de décider.",
+          "Vous pouvez en parler à l’équipe pour être accompagnée sans pression.",
+          "Le choix du mode d’alimentation doit rester respecté, éclairé et adapté à votre situation."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vous avez mal, si le bébé semble ne pas réussir à téter ou boire, si vous ne savez pas comment l’installer ou si vous vous sentez perdue.",
+          "Pour l’allaitement, une douleur vive au mamelon, une prise du sein très difficile ou un bébé qui ne semble jamais avaler peuvent nécessiter un accompagnement.",
+          "Pour le biberon, un bébé qui tousse beaucoup, s’essouffle, boit très difficilement ou devient bleu autour de la bouche doit être signalé immédiatement.",
+          "L’équipe est là pour guider les premiers gestes."
+        ]
+      },
+      {
+        title: "Le rôle de l’autre parent",
+        paragraphs: [
+          "L’autre parent peut participer dès les premières heures.",
+          "Il peut aider à installer la mère, soutenir le bébé, faire du peau à peau ou donner le premier biberon si c’est le choix des parents.",
+          "Il peut aussi observer les consignes de l’équipe pour se sentir plus à l’aise ensuite.",
+          "Ces premiers gestes peuvent l’aider à trouver sa place auprès du bébé."
+        ]
+      },
+      {
+        title: "Si le premier moment ne se passe pas comme prévu",
+        paragraphs: [
+          "Il arrive que le premier repas soit retardé, interrompu ou plus compliqué que prévu.",
+          "Cela peut être lié à la fatigue du bébé, à une césarienne, à des soins, à une surveillance ou à l’état de la mère.",
+          "Ce n’est pas forcément un mauvais départ.",
+          "L’important est d’être accompagnée et de reprendre progressivement dès que la situation le permet."
+        ],
+        quote:
+          "Le lien et l’alimentation ne se jouent pas en un seul repas : ils se construisent avec le temps et le soutien."
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander de l’aide pour installer le bébé confortablement.",
+          "Vous pouvez demander à ce qu’on vous montre les signes d’éveil et les signes que le bébé boit ou tète efficacement.",
+          "Vous pouvez aussi demander quelles quantités sont attendues au biberon ou comment reconnaître une tétée efficace au sein.",
+          "Si vous avez choisi un mode d’alimentation, vous pouvez demander à être soutenue dans ce choix sans jugement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le premier repas du bébé peut se faire au sein ou au biberon selon votre choix et la situation médicale.",
+          "Il peut avoir lieu rapidement après la naissance, mais peut aussi être différé si le bébé ou la mère a besoin de soins.",
+          "Le peau à peau aide souvent le bébé à s’apaiser et à montrer des signes de recherche.",
+          "Les premiers essais peuvent être imparfaits, courts ou hésitants : c’est normal.",
+          "Le plus important est d’être accompagnée, respectée dans votre choix et attentive au rythme du bébé."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — Guideline: protecting, promoting and supporting breastfeeding",
+        url: "https://www.who.int/publications/i/item/9789241550086"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
