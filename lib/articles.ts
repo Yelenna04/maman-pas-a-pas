@@ -11102,9 +11102,7 @@ export const articles: Article[] = [
       {
         title: "Les signes qui doivent faire consulter",
         paragraphs: [
-          "Après une épisiotomie, certains signes doivent amener à demander rapidement un avis médical. Il ne s’agit pas de s’inquiéter au moindre inconfort, mais de ne pas laisser une douleur ou une cicatrice anormale évoluer sans contrôle."
-        ],
-        bullets: [
+          "Après une épisiotomie, certains signes doivent amener à demander rapidement un avis médical. Il ne s’agit pas de s’inquiéter au moindre inconfort, mais de ne pas laisser une douleur ou une cicatrice anormale évoluer sans contrôle.",
           "Une douleur qui augmente au lieu de diminuer.",
           "Une rougeur importante, un gonflement ou une chaleur autour de la cicatrice.",
           "Un écoulement malodorant ou un aspect inquiétant de la plaie.",
