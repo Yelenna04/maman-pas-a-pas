@@ -219,7 +219,7 @@ export const articles: Article[] = [
       }
     ]
   }
-] = [
+,
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
