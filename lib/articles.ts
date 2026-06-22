@@ -12752,6 +12752,191 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "delivrance-du-placenta-comment-se-deroule-t-elle",
+    title: "Délivrance du placenta : comment se déroule-t-elle ?",
+    description:
+      "Après la naissance du bébé, le placenta doit encore être expulsé. Contractions, surveillance, saignements, délivrance dirigée ou naturelle : comprendre cette étape souvent méconnue.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La délivrance du placenta correspond à l’expulsion du placenta après la naissance du bébé.",
+          "Même si le bébé est né, l’accouchement n’est pas totalement terminé tant que le placenta n’est pas sorti et vérifié.",
+          "L’utérus continue à se contracter pour aider le placenta à se décoller, puis à être expulsé.",
+          "L’équipe surveille attentivement les saignements, la tonicité de l’utérus et l’état général de la maman.",
+          "Après sa sortie, le placenta est examiné pour vérifier qu’il est complet."
+        ],
+        quote:
+          "La délivrance du placenta est une étape discrète, mais essentielle pour la sécurité de la maman."
+      },
+      {
+        title: "Qu’est-ce que la délivrance du placenta ?",
+        paragraphs: [
+          "La délivrance est l’étape qui suit la naissance du bébé.",
+          "Elle correspond au décollement puis à l’expulsion du placenta, l’organe qui a nourri et oxygéné le bébé pendant la grossesse.",
+          "Elle fait partie de l’accouchement, même si l’attention est souvent déjà portée sur le bébé.",
+          "L’équipe reste attentive, car cette étape permet aussi de vérifier que l’utérus se contracte correctement et que les saignements restent normaux."
+        ]
+      },
+      {
+        title: "À quel moment a-t-elle lieu ?",
+        paragraphs: [
+          "La délivrance a lieu dans les minutes qui suivent la naissance du bébé.",
+          "Le délai peut varier selon les situations, les pratiques de la maternité et la façon dont l’utérus se contracte.",
+          "Pendant ce temps, le bébé peut parfois être en peau à peau si son état et celui de la maman le permettent.",
+          "L’équipe continue de surveiller la maman tout en accompagnant la rencontre avec le bébé."
+        ]
+      },
+      {
+        title: "Comment le placenta se décolle-t-il ?",
+        paragraphs: [
+          "Après la naissance, l’utérus continue à se contracter.",
+          "Ces contractions aident le placenta à se détacher de la paroi de l’utérus.",
+          "Une fois décollé, le placenta descend puis est expulsé par le vagin.",
+          "La sage-femme ou le médecin surveille les signes qui indiquent que le placenta se décolle correctement."
+        ]
+      },
+      {
+        title: "Est-ce douloureux ?",
+        paragraphs: [
+          "La délivrance est généralement moins intense que la naissance du bébé.",
+          "Vous pouvez ressentir des contractions, une pression, une gêne ou une sensation de tiraillement.",
+          "Si vous avez eu une péridurale, les sensations peuvent être atténuées.",
+          "Si vous ressentez une douleur importante ou inhabituelle, il faut le dire à l’équipe."
+        ]
+      },
+      {
+        title: "Délivrance naturelle ou délivrance dirigée",
+        paragraphs: [
+          "Dans certaines situations, l’équipe attend que le placenta se décolle naturellement, tout en surveillant les saignements.",
+          "Dans d’autres, une délivrance dirigée est réalisée : un médicament peut être administré pour aider l’utérus à se contracter et limiter le risque de saignement important.",
+          "Les pratiques peuvent varier selon les maternités et les situations médicales.",
+          "L’objectif reste le même : permettre la sortie complète du placenta et prévenir l’hémorragie."
+        ],
+        quote:
+          "La manière d’accompagner la délivrance dépend surtout de la sécurité de la maman et du déroulement de l’accouchement."
+      },
+      {
+        title: "Pourquoi surveille-t-on autant les saignements ?",
+        paragraphs: [
+          "Après la naissance, l’utérus doit se contracter fortement pour fermer les vaisseaux là où le placenta était attaché.",
+          "Si l’utérus se contracte mal ou si le placenta ne sort pas correctement, les saignements peuvent devenir trop importants.",
+          "C’est pourquoi l’équipe vérifie régulièrement la quantité de sang perdu et la tonicité de l’utérus.",
+          "Cette surveillance est normale et fait partie de la prévention de l’hémorragie du post-partum."
+        ]
+      },
+      {
+        title: "Pourquoi appuie-t-on parfois sur le ventre ?",
+        paragraphs: [
+          "Après la naissance, la sage-femme ou le médecin peut palper ou masser le ventre pour vérifier que l’utérus se contracte bien.",
+          "Ce geste peut être désagréable, surtout après l’effort de l’accouchement.",
+          "Il permet de s’assurer que l’utérus devient ferme et que les saignements restent maîtrisés.",
+          "Si le geste est douloureux, vous pouvez le signaler, même s’il est parfois nécessaire."
+        ]
+      },
+      {
+        title: "Comment le placenta est-il expulsé ?",
+        paragraphs: [
+          "Lorsque le placenta est décollé, l’équipe peut vous demander de pousser doucement ou accompagner sa sortie.",
+          "Parfois, une traction contrôlée sur le cordon est réalisée par un professionnel, uniquement lorsque les conditions sont réunies.",
+          "Le placenta sort généralement en un seul bloc, avec les membranes qui entouraient le bébé.",
+          "L’équipe reste attentive pour éviter qu’un fragment ne reste dans l’utérus."
+        ]
+      },
+      {
+        title: "L’examen du placenta",
+        paragraphs: [
+          "Une fois le placenta sorti, il est examiné avec attention.",
+          "L’équipe vérifie qu’il est complet, que les membranes semblent entières et qu’il ne manque pas de fragment.",
+          "Cet examen est important, car un morceau de placenta ou de membranes resté dans l’utérus peut favoriser des saignements ou une infection.",
+          "Si un doute existe, une surveillance ou un geste complémentaire peut être nécessaire."
+        ]
+      },
+      {
+        title: "Et si le placenta ne sort pas ?",
+        paragraphs: [
+          "Parfois, le placenta met plus de temps à sortir ou ne se décolle pas correctement.",
+          "L’équipe surveille alors les saignements, l’état de la maman et le temps écoulé depuis la naissance.",
+          "Si le placenta ne sort pas ou si les saignements deviennent importants, une intervention peut être nécessaire.",
+          "Selon la situation, le médecin peut réaliser une délivrance artificielle, généralement avec une anesthésie adaptée."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une délivrance artificielle ?",
+        paragraphs: [
+          "La délivrance artificielle est un geste médical réalisé lorsque le placenta ne sort pas spontanément ou lorsque la situation le nécessite.",
+          "Le médecin va chercher le placenta à l’intérieur de l’utérus avec la main, dans des conditions d’asepsie et avec une prise en charge de la douleur.",
+          "Ce geste peut être impressionnant à entendre, mais il peut être nécessaire pour éviter des saignements importants.",
+          "L’équipe vous explique ce qui se passe, surtout si la situation permet de prendre quelques instants pour vous informer."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Lors d’une césarienne, le placenta est retiré pendant l’intervention.",
+          "L’équipe vérifie aussi qu’il est complet et que l’utérus se contracte correctement.",
+          "Les saignements, la tonicité de l’utérus et l’état général de la maman sont surveillés comme après une voie basse.",
+          "La différence principale est que cette étape se déroule au bloc opératoire."
+        ]
+      },
+      {
+        title: "Que ressent-on émotionnellement à ce moment-là ?",
+        paragraphs: [
+          "La délivrance du placenta passe souvent au second plan, car le bébé vient de naître.",
+          "Certaines femmes ne remarquent presque pas cette étape, surtout si elles sont en peau à peau.",
+          "D’autres la vivent comme un moment de fatigue, de vulnérabilité ou d’inconfort après l’intensité de la naissance.",
+          "Il est normal d’avoir besoin d’explications, surtout si un geste complémentaire a été nécessaire."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander si le placenta est sorti complètement.",
+          "Vous pouvez aussi demander si les saignements sont normaux et si l’utérus se contracte bien.",
+          "Si un geste a été nécessaire, vous pouvez demander qu’on vous explique pourquoi et comment il s’est déroulé.",
+          "Ces informations peuvent aider à mieux comprendre les premières minutes après la naissance."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La délivrance du placenta est l’étape qui suit la naissance du bébé.",
+          "L’utérus continue à se contracter pour permettre au placenta de se décoller et de sortir.",
+          "L’équipe surveille de près les saignements et la tonicité de l’utérus pour prévenir l’hémorragie.",
+          "Le placenta est toujours examiné pour vérifier qu’il est complet.",
+          "Si le placenta ne sort pas ou si les saignements sont importants, un geste médical peut être nécessaire."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la santé — WHO recommendations: intrapartum care for a positive childbirth experience",
+        url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
