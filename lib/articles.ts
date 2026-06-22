@@ -12112,15 +12112,15 @@ export const articles: Article[] = [
   },
 
 {
-    slug: "accouchement-vaginal-apres-une-cesarienne-est-ce-possible",
-    title: "Accouchement vaginal après une césarienne : est-ce possible ?",
+    slug: "que-se-passe-t-il-juste-apres-la-naissance",
+    title: "Que se passe-t-il juste après la naissance ?",
     description:
-      "Après une précédente césarienne, un accouchement par voie basse peut parfois être envisagé. Conditions, surveillance, bénéfices, risques et décision partagée : les repères pour comprendre l’AVAC.",
+      "Peau à peau, premiers pleurs, cordon, surveillance du bébé, délivrance du placenta, premiers soins et surveillance de la maman : comprendre les premières minutes après l’accouchement.",
     category: "Accouchement",
     categorySlug: "accouchement",
-    subcategory: "Voies d’accouchement",
-    subcategorySlug: "voies-accouchement",
-    readingTime: "11 min",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
     publishedAt: "2026-06-19",
     updatedAt: "2026-06-19",
     tone: "sand",
@@ -12128,193 +12128,187 @@ export const articles: Article[] = [
       {
         title: "L’essentiel en 30 secondes",
         bullets: [
-          "Après une césarienne, un accouchement vaginal peut parfois être possible : on parle d’AVAC, pour accouchement vaginal après césarienne.",
-          "La possibilité dépend notamment du type de cicatrice utérine, de la raison de la première césarienne, du déroulement de cette grossesse et de l’organisation de la maternité.",
-          "Un AVAC nécessite une surveillance adaptée, car il existe un risque rare mais sérieux de rupture de la cicatrice utérine.",
-          "Une césarienne programmée peut aussi être recommandée si les conditions ne sont pas favorables ou si c’est l’option la plus sûre.",
-          "La décision doit être discutée avec l’équipe, en tenant compte des bénéfices, des risques, de vos souhaits et de votre dossier médical."
+          "Juste après la naissance, l’équipe vérifie que le bébé respire bien, qu’il a un bon tonus et qu’il s’adapte correctement à la vie hors du ventre.",
+          "Si tout va bien, le bébé peut souvent être posé en peau à peau contre sa mère, parfois avant les soins plus complets.",
+          "Le cordon est clampé puis coupé selon la situation, les pratiques de la maternité et l’état du bébé.",
+          "La mère est aussi surveillée : saignements, tension, douleur, contraction de l’utérus, délivrance du placenta et état du périnée ou de la cicatrice.",
+          "Si le bébé ou la mère a besoin de soins, l’équipe peut agir rapidement, puis favoriser la rencontre dès que possible."
         ],
         quote:
-          "Avoir eu une césarienne ne signifie pas automatiquement que tous les accouchements suivants devront se faire par césarienne."
+          "Les premières minutes après la naissance sont à la fois un moment de rencontre et un temps de surveillance important."
       },
       {
-        title: "Qu’est-ce qu’un AVAC ?",
+        title: "Un moment intense, parfois différent de ce qu’on imaginait",
         paragraphs: [
-          "AVAC signifie accouchement vaginal après césarienne.",
-          "Cela désigne un accouchement par voie basse chez une femme qui a déjà eu une césarienne lors d’une grossesse précédente.",
-          "On parle aussi parfois de tentative de voie basse après césarienne lorsqu’on envisage la voie basse, tout en sachant qu’une césarienne peut devenir nécessaire pendant le travail.",
-          "L’objectif est d’évaluer si la voie basse peut être tentée dans de bonnes conditions de sécurité."
+          "Juste après la naissance, tout peut sembler très rapide : le bébé naît, l’équipe vérifie son état, on parle du cordon, du placenta, des saignements et du peau à peau.",
+          "Certaines femmes ressentent une émotion immédiate très forte, d’autres se sentent surprises, épuisées, sonnées ou un peu déconnectées.",
+          "Toutes ces réactions sont possibles.",
+          "Le corps vient de fournir un effort immense, et la rencontre avec le bébé peut se faire immédiatement ou progressivement."
         ]
       },
       {
-        title: "Est-ce vraiment possible après une césarienne ?",
+        title: "La première vérification du bébé",
         paragraphs: [
-          "Oui, dans certains cas.",
-          "La possibilité dépend de plusieurs critères médicaux et de l’organisation de la maternité.",
-          "Certaines femmes peuvent accoucher par voie basse après une césarienne, tandis que d’autres auront une recommandation de césarienne programmée.",
-          "Il n’y a donc pas une réponse unique : il faut analyser votre dossier avec l’équipe qui vous suit."
+          "Dès la naissance, l’équipe observe rapidement le bébé.",
+          "Elle vérifie s’il respire, s’il crie ou commence à respirer seul, s’il a un bon tonus, une bonne couleur et une bonne adaptation.",
+          "Ces premières vérifications peuvent parfois se faire directement sur la mère si l’état du bébé le permet.",
+          "Si le bébé a besoin d’aide pour respirer, être stimulé ou réchauffé, l’équipe peut l’emmener quelques instants sur une table de soins."
         ]
       },
       {
-        title: "Pourquoi une césarienne précédente change la surveillance ?",
+        title: "Le peau à peau",
         paragraphs: [
-          "Après une césarienne, il existe une cicatrice sur l’utérus.",
-          "Pendant un travail ultérieur, cette cicatrice est soumise aux contractions.",
-          "Dans de rares situations, elle peut se fragiliser ou se rompre : c’est ce qu’on appelle une rupture utérine.",
-          "Ce risque est rare, mais sérieux, ce qui explique la surveillance plus attentive pendant une tentative d’AVAC."
+          "Si la mère et le bébé vont bien, le peau à peau est souvent proposé rapidement.",
+          "Le bébé est installé nu ou presque, contre la poitrine de sa mère, puis couvert pour rester au chaud.",
+          "Ce contact favorise la chaleur, l’apaisement, le lien et parfois le démarrage de l’allaitement si c’est le choix de la mère.",
+          "Si la mère ne peut pas faire le peau à peau tout de suite, il peut parfois être proposé à l’autre parent ou à la personne accompagnante selon l’organisation."
         ],
         quote:
-          "La question n’est pas seulement “voie basse ou césarienne”, mais “dans quelles conditions la voie basse peut-elle être tentée en sécurité ?”."
+          "Le peau à peau n’est pas seulement symbolique : il aide aussi le bébé à se réchauffer et à s’adapter."
       },
       {
-        title: "Les éléments qui rendent l’AVAC plus favorable",
-        bullets: [
-          "Une seule césarienne antérieure avec une incision utérine habituelle et bien documentée.",
-          "Une raison de première césarienne qui ne se répète pas forcément cette fois-ci.",
-          "Un bébé en présentation tête en bas.",
-          "Une grossesse sans complication particulière.",
-          "Un travail qui commence spontanément.",
-          "Une maternité capable de surveiller le travail et de réaliser une césarienne si nécessaire.",
-          "Une information claire et une décision partagée avec l’équipe."
-        ],
+        title: "Le cordon ombilical",
         paragraphs: [
-          "Ces éléments ne garantissent pas la réussite d’un AVAC, mais ils peuvent rendre la tentative plus envisageable."
+          "Après la naissance, le cordon ombilical est clampé, puis coupé.",
+          "Le moment du clampage peut varier selon l’état du bébé, la situation médicale et les pratiques de la maternité.",
+          "Dans certaines situations, on peut attendre un court moment avant de clamper le cordon si le bébé va bien.",
+          "Si le bébé a besoin de soins rapides, le cordon peut être clampé plus tôt pour permettre à l’équipe d’intervenir."
         ]
       },
       {
-        title: "Les situations où la césarienne programmée peut être recommandée",
+        title: "Les premiers soins du bébé",
         paragraphs: [
-          "Une césarienne programmée peut être recommandée si l’équipe estime que la voie basse expose à trop de risques.",
-          "Cela peut dépendre du type de cicatrice utérine, du nombre de césariennes précédentes, d’un placenta mal positionné, d’une présentation du bébé, d’une complication maternelle ou fœtale, ou d’un antécédent particulier.",
-          "La décision peut aussi dépendre des capacités de surveillance et d’intervention de la maternité.",
-          "Dans ces situations, l’équipe doit vous expliquer pourquoi la césarienne est conseillée."
+          "Les soins immédiats dépendent de l’état du bébé et des pratiques de la maternité.",
+          "L’équipe peut vérifier sa température, sa respiration, son tonus, sa couleur, son poids et réaliser certains soins prévus.",
+          "Tous les soins ne sont pas forcément faits dans la minute si le bébé va bien : certains peuvent attendre pour préserver le peau à peau.",
+          "Si un soin est nécessaire rapidement, l’équipe vous explique ce qui est fait dès que possible."
         ]
       },
       {
-        title: "Le rôle du compte rendu opératoire",
+        title: "Le score d’Apgar",
         paragraphs: [
-          "Le compte rendu de la précédente césarienne est très important.",
-          "Il précise le type d’incision réalisée sur l’utérus, les raisons de l’intervention et les éventuelles difficultés rencontrées.",
-          "Ces informations aident l’équipe à évaluer si un AVAC est envisageable.",
-          "Si vous avez changé de maternité ou de région, essayez de récupérer ce document avant la consultation de fin de grossesse."
+          "Le score d’Apgar est une évaluation rapide de l’adaptation du bébé après la naissance.",
+          "Il prend en compte plusieurs éléments comme le rythme cardiaque, la respiration, le tonus, la réactivité et la couleur.",
+          "Il est généralement évalué à une minute, puis à cinq minutes de vie.",
+          "Ce score aide l’équipe à savoir si le bébé s’adapte bien ou s’il a besoin d’une aide particulière."
         ]
       },
       {
-        title: "Comment se prend la décision ?",
+        title: "La délivrance du placenta",
         paragraphs: [
-          "La décision se prend généralement pendant la grossesse, après discussion avec la sage-femme, le gynécologue-obstétricien ou l’équipe de la maternité.",
-          "On évalue les bénéfices et les risques d’une tentative de voie basse et ceux d’une césarienne programmée.",
-          "Vos souhaits comptent, mais ils doivent être mis en balance avec les éléments médicaux.",
-          "Vous pouvez demander un temps de réflexion si la situation n’est pas urgente."
+          "Après la naissance du bébé, l’accouchement n’est pas tout à fait terminé : il faut encore que le placenta sorte.",
+          "L’utérus continue à se contracter pour permettre au placenta de se décoller et d’être expulsé.",
+          "L’équipe surveille cette étape, car elle est importante pour limiter les saignements.",
+          "Une fois le placenta sorti, il est vérifié pour s’assurer qu’il est complet."
         ]
       },
       {
-        title: "Quels sont les bénéfices possibles d’un AVAC ?",
+        title: "La surveillance des saignements",
         paragraphs: [
-          "Lorsqu’il réussit, un AVAC permet d’éviter une nouvelle chirurgie.",
-          "La récupération peut parfois être plus rapide qu’après une césarienne, avec moins de douleur abdominale et une mobilité plus précoce.",
-          "Il peut aussi réduire certains risques liés aux césariennes répétées lors de futures grossesses.",
-          "Certaines femmes y tiennent aussi pour des raisons personnelles ou émotionnelles, notamment si elles ont mal vécu leur précédente césarienne."
+          "Juste après la naissance, l’équipe surveille attentivement les saignements.",
+          "Elle vérifie que l’utérus se contracte bien et peut masser le ventre pour contrôler sa tonicité.",
+          "Des médicaments peuvent être utilisés selon les pratiques pour aider l’utérus à se contracter et réduire le risque d’hémorragie.",
+          "Cette surveillance peut sembler très présente, mais elle est essentielle pour la sécurité de la mère."
         ]
       },
       {
-        title: "Quels sont les risques à connaître ?",
+        title: "Le périnée ou la cicatrice",
         paragraphs: [
-          "Le principal risque spécifique à l’AVAC est la rupture utérine, rare mais grave.",
-          "Il existe aussi la possibilité que le travail n’avance pas ou que le bébé tolère moins bien le travail, ce qui peut conduire à une césarienne en cours de travail.",
-          "Une césarienne décidée pendant le travail peut être plus urgente et parfois plus difficile à vivre qu’une césarienne programmée.",
-          "Ces risques doivent être expliqués clairement avant la décision."
+          "Après un accouchement par voie basse, la sage-femme ou le médecin vérifie le périnée.",
+          "S’il y a une déchirure ou une épisiotomie, des points peuvent être réalisés avec une anesthésie adaptée.",
+          "Après une césarienne, l’équipe surveille la cicatrice, les saignements et la récupération de l’anesthésie.",
+          "Dans tous les cas, vous pouvez signaler une douleur, une gêne ou demander ce qui est en train d’être fait."
         ]
       },
       {
-        title: "Comment est surveillé le travail ?",
+        title: "La première mise au sein ou le premier biberon",
         paragraphs: [
-          "Lors d’une tentative d’AVAC, le travail est généralement surveillé de près.",
-          "Le monitoring permet de suivre le rythme cardiaque du bébé et les contractions.",
-          "L’équipe observe aussi la douleur, la progression du col, les saignements, l’état général de la mère et les signes qui pourraient faire suspecter un problème au niveau de la cicatrice.",
-          "Une équipe capable d’intervenir rapidement doit pouvoir être disponible si la situation change."
+          "Si vous souhaitez allaiter et si le bébé va bien, la première mise au sein peut être proposée pendant le peau à peau.",
+          "Il n’est pas toujours nécessaire de forcer : certains bébés cherchent rapidement, d’autres ont besoin de temps.",
+          "Si vous choisissez le biberon, l’équipe peut vous accompagner pour le premier repas selon le rythme du bébé.",
+          "L’important est que votre choix soit respecté et que vous soyez soutenue."
         ]
       },
       {
-        title: "Déclenchement et AVAC",
+        title: "La surveillance de la maman",
         paragraphs: [
-          "Le déclenchement après une césarienne demande une réflexion particulière.",
-          "Certaines méthodes peuvent augmenter les contraintes sur l’utérus ou ne pas être recommandées selon les situations.",
-          "Si un déclenchement est envisagé, l’équipe doit expliquer la méthode, les bénéfices, les risques et les alternatives possibles.",
-          "Un travail spontané est souvent considéré comme plus favorable pour une tentative d’AVAC, mais chaque dossier doit être discuté individuellement."
+          "Pendant les premières heures, l’équipe surveille votre tension, votre pouls, les saignements, la douleur, l’utérus et votre état général.",
+          "On peut aussi vous demander si vous avez des vertiges, des frissons, des nausées ou une sensation de malaise.",
+          "Après une péridurale ou une césarienne, la récupération de la sensibilité et de la mobilité est surveillée.",
+          "Ces contrôles permettent de vérifier que votre corps récupère correctement après la naissance."
         ]
       },
       {
-        title: "Péridurale et AVAC",
+        title: "Et si le bébé doit être séparé quelques minutes ?",
         paragraphs: [
-          "La péridurale peut être possible pendant une tentative d’AVAC.",
-          "Elle n’empêche pas forcément la surveillance des signes importants, mais l’équipe reste attentive à l’évolution de la douleur, du travail et du rythme du bébé.",
-          "Elle peut aussi être utile si une césarienne devient nécessaire, car elle peut parfois être renforcée pour l’intervention.",
-          "Le choix de la péridurale se discute comme pour les autres accouchements, en tenant compte de votre situation."
+          "Il peut arriver que le bébé soit emmené pour des soins, une aide respiratoire, un contrôle de température ou une surveillance plus attentive.",
+          "Cette séparation peut être difficile à vivre, surtout si elle n’était pas prévue.",
+          "Vous pouvez demander où est votre bébé, qui s’en occupe, comment il va et quand vous pourrez le voir.",
+          "L’équipe favorise normalement la rencontre dès que la situation le permet."
         ]
       },
       {
-        title: "Et si une césarienne devient nécessaire pendant le travail ?",
+        title: "Le rôle de la personne accompagnante",
         paragraphs: [
-          "Même si une voie basse est envisagée, il peut être nécessaire de réaliser une césarienne pendant le travail.",
-          "Cela peut arriver si le col ne se dilate pas, si le bébé ne descend pas, si le monitoring devient moins rassurant ou si l’équipe suspecte un problème.",
-          "Cette possibilité fait partie de la tentative d’AVAC et doit être expliquée en amont.",
-          "Prévoir cette éventualité ne signifie pas que l’AVAC va échouer, mais cela permet de mieux comprendre le déroulement possible."
+          "La personne accompagnante peut rester près de vous, vous donner des nouvelles du bébé si vous ne pouvez pas le voir tout de suite, ou accompagner le bébé selon les règles de la maternité.",
+          "Elle peut aussi écouter les explications, poser des questions et vous aider à rester présente dans ce moment parfois très intense.",
+          "Si vous êtes fatiguée ou sonnée, elle peut retenir les informations importantes pour vous les redire plus tard.",
+          "Son rôle est de soutenir sans prendre votre place dans la rencontre avec le bébé."
         ]
       },
       {
-        title: "Le vécu émotionnel après une première césarienne",
+        title: "Si la naissance ne ressemble pas à ce que vous aviez imaginé",
         paragraphs: [
-          "Le choix d’un AVAC peut être très chargé émotionnellement.",
-          "Certaines femmes souhaitent vivre une voie basse après une césarienne difficile, d’autres préfèrent une césarienne programmée pour se sentir plus en sécurité.",
-          "Il n’y a pas de bonne ou de mauvaise réaction.",
-          "L’essentiel est que votre vécu soit entendu et que la décision ne repose pas uniquement sur la peur ou la pression."
+          "Certaines naissances sont calmes et immédiates, d’autres plus médicalisées, rapides ou impressionnantes.",
+          "Si le peau à peau est retardé, si le bébé a besoin de soins ou si vous vous sentez dépassée, cela peut laisser une émotion forte.",
+          "Vous avez le droit de demander des explications après coup.",
+          "Comprendre ce qui s’est passé peut aider à remettre du sens sur ces premières minutes."
         ],
         quote:
-          "Votre histoire précédente compte : elle fait partie de la discussion, au même titre que les critères médicaux."
+          "Il n’y a pas une seule bonne manière de rencontrer son bébé : parfois, le lien se construit tout doucement."
       },
       {
         title: "Questions utiles à poser",
         bullets: [
-          "Dans mon cas, un AVAC est-il envisageable ?",
-          "Quel type de cicatrice utérine ai-je eu lors de ma précédente césarienne ?",
-          "Pourquoi ai-je eu une césarienne la première fois ?",
-          "Quels éléments rendent la voie basse favorable ou non dans mon dossier ?",
-          "Quels sont les risques d’un AVAC dans ma situation ?",
-          "Quels sont les risques d’une césarienne programmée ?",
-          "Comment le travail sera-t-il surveillé ?",
-          "Que se passera-t-il si le travail ne progresse pas ?",
-          "Le déclenchement est-il possible dans mon cas ?",
-          "La maternité est-elle organisée pour une césarienne rapide si nécessaire ?"
+          "Est-ce que mon bébé va bien ?",
+          "Puis-je faire du peau à peau maintenant ?",
+          "Pourquoi le bébé doit-il être examiné ?",
+          "Quand pourrai-je le reprendre contre moi ?",
+          "Le placenta est-il sorti complètement ?",
+          "Mes saignements sont-ils normaux ?",
+          "Ai-je eu une déchirure ou une épisiotomie ?",
+          "Quels soins ont été faits au bébé ?",
+          "Puis-je avoir de l’aide pour la première mise au sein ou le premier biberon ?",
+          "Pouvez-vous me réexpliquer ce qui s’est passé juste après la naissance ?"
         ]
       },
       {
         title: "À retenir",
         paragraphs: [
-          "Un accouchement vaginal après une césarienne peut être possible dans certaines situations.",
-          "La décision dépend du dossier médical, du type de cicatrice, de la raison de la première césarienne, de cette grossesse et de l’organisation de la maternité.",
-          "L’AVAC nécessite une surveillance adaptée pendant le travail, notamment à cause du risque rare mais sérieux de rupture utérine.",
-          "Une césarienne programmée peut être recommandée si les conditions ne sont pas favorables.",
-          "La meilleure décision est celle qui est expliquée, personnalisée et prise avec une équipe qui connaît votre dossier."
+          "Juste après la naissance, l’équipe vérifie l’adaptation du bébé et surveille la mère.",
+          "Si tout va bien, le peau à peau est souvent proposé rapidement.",
+          "Le cordon est clampé puis coupé, le placenta doit être expulsé, et les saignements maternels sont surveillés.",
+          "Les premiers soins du bébé peuvent être immédiats ou différés selon son état.",
+          "Si les premières minutes sont médicalisées ou différentes de ce que vous imaginiez, vous pouvez demander des explications et un temps pour en reparler."
         ]
       }
     ],
     sources: [
       {
-        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
-        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
-      },
-      {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne et accouchement après césarienne",
-        url: "https://www.cngof.fr/"
-      },
-      {
-        label: "Royal College of Obstetricians and Gynaecologists — Birth after previous caesarean",
-        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/birth-after-previous-caesarean/"
-      },
-      {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
         url: "https://www.who.int/publications/i/item/9789241550215"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       }
     ]
   },
