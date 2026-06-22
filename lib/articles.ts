@@ -12937,6 +12937,205 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "saignements-apres-laccouchement-quest-ce-qui-est-normal",
+    title: "Saignements après l’accouchement : qu’est-ce qui est normal ?",
+    description:
+      "Après la naissance, les saignements appelés lochies sont normaux. Durée, couleur, quantité, caillots, retour de couches et signes d’alerte : comprendre ce qui doit faire consulter.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, il est normal de saigner : ces pertes s’appellent les lochies.",
+          "Les saignements sont souvent plus abondants les premiers jours, puis diminuent progressivement.",
+          "La couleur évolue généralement du rouge vers le brun, le rosé, puis le jaunâtre ou blanchâtre.",
+          "De petits caillots peuvent apparaître, surtout au début, mais des caillots importants ou répétés doivent faire demander un avis.",
+          "Un saignement très abondant, une mauvaise odeur, de la fièvre, un malaise ou une douleur importante doivent faire consulter rapidement."
+        ],
+        quote:
+          "Les saignements après la naissance sont normaux, mais leur quantité, leur odeur et leur évolution doivent être surveillées."
+      },
+      {
+        title: "Pourquoi saigne-t-on après l’accouchement ?",
+        paragraphs: [
+          "Après la naissance, l’utérus doit cicatriser à l’endroit où le placenta était attaché.",
+          "Les saignements viennent surtout de cette zone, mais aussi de l’élimination des tissus et sécrétions liés à la grossesse.",
+          "Ces pertes sont normales et font partie de la récupération du corps après l’accouchement.",
+          "On les appelle les lochies."
+        ]
+      },
+      {
+        title: "Les lochies : qu’est-ce que c’est ?",
+        paragraphs: [
+          "Les lochies sont les pertes de sang et de sécrétions qui surviennent après l’accouchement.",
+          "Elles apparaissent après une voie basse comme après une césarienne.",
+          "Elles peuvent être rouges au début, puis changer progressivement de couleur.",
+          "Leur quantité diminue en général au fil des jours, même si elle peut varier selon les moments."
+        ]
+      },
+      {
+        title: "Combien de temps durent les saignements ?",
+        paragraphs: [
+          "La durée varie d’une femme à l’autre.",
+          "Les saignements sont souvent plus importants les premiers jours, puis deviennent moins abondants.",
+          "Ils peuvent durer plusieurs semaines, avec une évolution progressive.",
+          "Il peut y avoir des jours avec davantage de pertes, notamment après un effort, une montée de fatigue ou une activité plus importante."
+        ]
+      },
+      {
+        title: "Quelle couleur est normale ?",
+        paragraphs: [
+          "Au début, les lochies sont souvent rouge vif, comme des règles abondantes.",
+          "Elles deviennent ensuite plus foncées, brunâtres ou rosées.",
+          "Puis elles peuvent devenir jaunâtres, blanchâtres ou plus légères avant de disparaître.",
+          "Une reprise ponctuelle de pertes plus rouges peut arriver après un effort, mais si le saignement redevient très abondant ou persiste, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Quelle quantité est normale ?",
+        paragraphs: [
+          "Les premiers jours, les pertes peuvent être plus abondantes que des règles habituelles.",
+          "Elles doivent cependant rester surveillables avec des protections adaptées.",
+          "Au fil du temps, vous devriez changer de protection moins souvent.",
+          "Si vous remplissez une protection très rapidement, si le sang coule en continu ou si vous vous sentez faible, il faut contacter rapidement un professionnel."
+        ]
+      },
+      {
+        title: "Les caillots : faut-il s’inquiéter ?",
+        paragraphs: [
+          "De petits caillots peuvent apparaître, surtout dans les premiers jours.",
+          "Ils peuvent survenir après être restée allongée ou assise, lorsque le sang s’est accumulé puis s’évacue en se levant.",
+          "En revanche, des caillots gros, répétés, associés à un saignement abondant ou à un malaise doivent faire demander un avis rapidement.",
+          "En cas de doute, il vaut mieux appeler la maternité ou une sage-femme."
+        ]
+      },
+      {
+        title: "Pourquoi les saignements augmentent parfois ?",
+        paragraphs: [
+          "Les lochies peuvent augmenter après un effort, une marche plus longue, une station debout prolongée ou une journée fatigante.",
+          "Cela peut être un signe que le corps a besoin de repos.",
+          "Si l’augmentation reste modérée et diminue ensuite, ce n’est pas forcément inquiétant.",
+          "Si les pertes deviennent très abondantes, rouges vives, avec caillots ou malaise, il faut consulter."
+        ]
+      },
+      {
+        title: "Après une césarienne, est-ce différent ?",
+        paragraphs: [
+          "Après une césarienne, les saignements existent aussi, car l’utérus doit cicatriser comme après une voie basse.",
+          "Ils peuvent parfois sembler moins abondants au début, mais ils doivent tout de même être surveillés.",
+          "La douleur de la cicatrice, la fatigue et la récupération chirurgicale s’ajoutent à cette surveillance.",
+          "Un saignement important ou une mauvaise odeur doit être signalé, même après une césarienne."
+        ]
+      },
+      {
+        title: "Les tranchées et les saignements",
+        paragraphs: [
+          "Les tranchées sont les contractions de l’utérus après l’accouchement.",
+          "Elles aident l’utérus à se rétracter et à limiter les saignements.",
+          "Elles peuvent être plus fortes pendant l’allaitement, car la succion stimule des hormones qui contractent l’utérus.",
+          "Ces contractions peuvent être douloureuses, surtout après un deuxième bébé ou plus, mais elles participent à la récupération."
+        ]
+      },
+      {
+        title: "Saignements et allaitement",
+        paragraphs: [
+          "L’allaitement peut provoquer ou renforcer les tranchées dans les premiers jours.",
+          "Il peut donc y avoir une sensation de contraction et parfois une petite augmentation des pertes pendant ou après une tétée.",
+          "Cela reste généralement normal si les saignements ne deviennent pas très abondants.",
+          "Si vous avez un doute sur la quantité de sang ou votre état général, demandez un avis."
+        ]
+      },
+      {
+        title: "Retour de couches ou lochies : quelle différence ?",
+        paragraphs: [
+          "Les lochies correspondent aux pertes qui suivent directement l’accouchement.",
+          "Le retour de couches correspond aux premières vraies règles après la naissance.",
+          "Il peut survenir plus ou moins tôt selon les femmes, l’allaitement, le corps et les hormones.",
+          "Si vous avez un doute entre lochies prolongées, saignement anormal ou retour de couches, une sage-femme ou un médecin peut vous aider à faire le point."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes ne doivent pas être banalisés après l’accouchement. Ils peuvent indiquer un saignement trop important, une infection ou une complication qui nécessite un avis médical rapide.",
+          "Un saignement très abondant, qui remplit une protection en peu de temps.",
+          "Du sang qui coule en continu ou une sensation de saignement incontrôlable.",
+          "Des caillots gros, répétés ou associés à une sensation de malaise.",
+          "Des vertiges, une grande faiblesse, des palpitations ou un malaise.",
+          "Des pertes avec une mauvaise odeur.",
+          "De la fièvre ou des frissons.",
+          "Une douleur importante dans le ventre ou le bassin.",
+          "Des saignements qui redeviennent brutalement très rouges et abondants après avoir diminué."
+        ],
+        quote:
+          "Après l’accouchement, mieux vaut appeler pour rien que laisser évoluer un saignement anormal."
+      },
+      {
+        title: "Les protections à utiliser",
+        paragraphs: [
+          "Les premiers jours, il est préférable d’utiliser des protections hygiéniques adaptées au post-partum.",
+          "Les tampons et coupes menstruelles sont généralement déconseillés juste après l’accouchement, car le col et l’utérus sont encore en phase de récupération.",
+          "Changez régulièrement de protection et lavez-vous les mains avant et après.",
+          "Si les protections se remplissent très vite, cela doit faire demander un avis."
+        ]
+      },
+      {
+        title: "Hygiène et confort",
+        paragraphs: [
+          "Une toilette douce à l’eau peut aider à se sentir plus à l’aise, surtout après une voie basse.",
+          "Il est préférable de sécher délicatement sans frotter.",
+          "Les bains peuvent être déconseillés au tout début selon les consignes de votre maternité ; demandez ce qui est recommandé pour vous.",
+          "Si vous avez une épisiotomie, une déchirure ou une césarienne, suivez les conseils donnés pour la cicatrisation."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander à l’équipe quelle quantité de saignement est attendue dans votre situation.",
+          "Vous pouvez aussi demander quels signes doivent vous faire appeler la maternité après le retour à la maison.",
+          "Si vous avez perdu beaucoup de sang pendant l’accouchement, demandez si une surveillance ou un traitement particulier est prévu.",
+          "Ces informations aident à rentrer à la maison avec des repères plus clairs."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les saignements après l’accouchement sont normaux et s’appellent les lochies.",
+          "Ils sont souvent plus abondants les premiers jours, puis diminuent progressivement.",
+          "La couleur évolue généralement du rouge vers le brun, le rosé puis des pertes plus claires.",
+          "De petits caillots peuvent être normaux au début, mais les gros caillots ou les saignements très abondants doivent faire consulter.",
+          "Mauvaise odeur, fièvre, malaise, douleur importante ou saignement incontrôlable nécessitent un avis médical rapide."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
