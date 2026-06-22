@@ -13742,6 +13742,192 @@ export const articles: Article[] = [
   },
 
 {
+    slug: "baby-blues-comment-le-reconnaitre",
+    title: "Baby blues : comment le reconnaître ?",
+    description:
+      "Pleurs, hypersensibilité, fatigue, inquiétudes, émotions qui débordent : comprendre le baby blues, le différencier d’une dépression post-partum et savoir quand demander de l’aide.",
+    category: "Accouchement",
+    categorySlug: "accouchement",
+    subcategory: "Suites immédiates",
+    subcategorySlug: "suites-immediates",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le baby blues est une période d’émotions intenses et fluctuantes qui survient souvent dans les premiers jours après la naissance.",
+          "Il peut se manifester par des pleurs faciles, une hypersensibilité, de l’irritabilité, de l’anxiété, une fatigue importante ou l’impression d’être dépassée.",
+          "Il est fréquent et généralement transitoire, mais il ne doit pas être minimisé.",
+          "Il se distingue d’une dépression post-partum par sa durée, son intensité et son retentissement sur le quotidien.",
+          "Si les symptômes durent, s’aggravent, empêchent de fonctionner ou s’accompagnent d’idées noires, il faut demander de l’aide rapidement."
+        ],
+        quote:
+          "Le baby blues n’est pas un manque d’amour pour son bébé : c’est souvent le signe d’un corps et d’un cœur qui traversent un grand bouleversement."
+      },
+      {
+        title: "Qu’est-ce que le baby blues ?",
+        paragraphs: [
+          "Le baby blues correspond à une période de grande sensibilité émotionnelle après l’accouchement.",
+          "Il apparaît souvent quelques jours après la naissance, lorsque la fatigue, la chute hormonale, le manque de sommeil et l’intensité de la rencontre avec le bébé se mélangent.",
+          "Il peut donner l’impression de passer très vite d’une émotion à l’autre.",
+          "On peut se sentir heureuse, émue, inquiète, épuisée, fragile ou en larmes dans la même journée."
+        ]
+      },
+      {
+        title: "À quel moment apparaît-il ?",
+        paragraphs: [
+          "Le baby blues survient le plus souvent dans les premiers jours après la naissance.",
+          "Il peut apparaître pendant le séjour à la maternité ou juste après le retour à la maison.",
+          "Il est parfois plus visible lorsque l’adrénaline de la naissance retombe et que la fatigue devient plus forte.",
+          "Sa durée est généralement courte, mais son intensité peut surprendre."
+        ]
+      },
+      {
+        title: "Les signes fréquents",
+        paragraphs: [
+          "Le baby blues peut se manifester de plusieurs façons.",
+          "Des pleurs faciles, parfois sans raison précise.",
+          "Une hypersensibilité ou l’impression d’être à fleur de peau.",
+          "Une irritabilité inhabituelle.",
+          "Des inquiétudes autour du bébé, de l’allaitement, du sommeil ou de la capacité à être une bonne mère.",
+          "Une fatigue très forte, parfois accompagnée d’un sentiment d’être dépassée.",
+          "Des difficultés à se réjouir pleinement alors que l’on pensait être uniquement heureuse."
+        ]
+      },
+      {
+        title: "Pourquoi cela arrive ?",
+        paragraphs: [
+          "Après l’accouchement, le corps traverse une période de changements hormonaux importants.",
+          "La fatigue, les douleurs, le manque de sommeil, les saignements, la montée de lait ou les premiers soins au bébé peuvent aussi peser.",
+          "À cela s’ajoute parfois la pression de devoir être heureuse, compétente et disponible immédiatement.",
+          "Le baby blues peut donc être compris comme une réaction globale à un grand bouleversement physique, émotionnel et familial."
+        ]
+      },
+      {
+        title: "Est-ce que c’est normal ?",
+        paragraphs: [
+          "Le baby blues est fréquent, et beaucoup de femmes en vivent un après la naissance.",
+          "Cela ne veut pas dire qu’il faut le cacher ou le subir en silence.",
+          "Même s’il est souvent transitoire, il mérite de l’écoute, du repos et du soutien.",
+          "Dire que c’est fréquent ne doit jamais servir à minimiser ce que vous ressentez."
+        ],
+        quote:
+          "Fréquent ne veut pas dire insignifiant : vos émotions méritent d’être accueillies."
+      },
+      {
+        title: "Baby blues ou dépression post-partum ?",
+        paragraphs: [
+          "Le baby blues est généralement court et fluctuant : les émotions montent puis redescendent, avec des moments d’apaisement.",
+          "La dépression post-partum dure plus longtemps, s’installe davantage et retentit plus fortement sur le quotidien.",
+          "Elle peut s’accompagner d’une tristesse persistante, d’une perte d’élan, d’un sentiment de culpabilité intense, d’un désintérêt, de troubles du sommeil importants ou d’une incapacité à profiter de moments avec le bébé.",
+          "Si les symptômes durent au-delà de quelques jours, s’intensifient ou vous inquiètent, il faut en parler à un professionnel."
+        ]
+      },
+      {
+        title: "Les signes qui doivent alerter",
+        paragraphs: [
+          "Certains signes doivent faire demander de l’aide rapidement.",
+          "Une tristesse intense ou une anxiété qui ne diminue pas.",
+          "Des pleurs très fréquents ou impossibles à contrôler.",
+          "L’impression de ne pas y arriver du tout, jour après jour.",
+          "Une culpabilité forte ou des pensées très négatives sur soi.",
+          "Une impossibilité de dormir même lorsque le bébé dort.",
+          "Une perte d’intérêt pour tout, y compris pour des choses habituellement importantes.",
+          "Des idées noires, des pensées de se faire du mal ou de faire du mal au bébé.",
+          "Une sensation de danger, de confusion, d’agitation extrême ou de perte de contact avec la réalité."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Il faut demander de l’aide dès que vous sentez que les émotions deviennent trop lourdes à porter.",
+          "Vous pouvez en parler à la sage-femme, au médecin, à la maternité, à la PMI, au médecin traitant ou à un professionnel de santé mentale.",
+          "Il n’est pas nécessaire d’attendre d’être au bout de vos forces.",
+          "Demander de l’aide est un geste de protection pour vous et pour votre bébé."
+        ]
+      },
+      {
+        title: "Si des idées noires apparaissent",
+        paragraphs: [
+          "Si vous avez des pensées de vous faire du mal, de disparaître, de faire du mal au bébé ou si vous vous sentez en danger, il faut demander de l’aide immédiatement.",
+          "Appelez un professionnel, la maternité, les urgences ou le 15 si la situation est urgente.",
+          "Ne restez pas seule avec ces pensées.",
+          "Ces symptômes ne sont pas une faute : ils indiquent qu’un soutien rapide est nécessaire."
+        ],
+        quote:
+          "Une pensée inquiétante après la naissance doit être entendue sans jugement et prise au sérieux."
+      },
+      {
+        title: "Ce qui peut aider au quotidien",
+        paragraphs: [
+          "Le baby blues a souvent besoin de soutien simple et concret.",
+          "Dormir dès que possible, déléguer certaines tâches, manger, boire, prendre une douche, limiter les visites et parler à quelqu’un de confiance peuvent déjà aider.",
+          "La personne accompagnante peut protéger les temps de repos, filtrer les sollicitations et rappeler que la mère n’a pas à tout gérer seule.",
+          "Le plus important est de ne pas rester isolée."
+        ]
+      },
+      {
+        title: "Le rôle de l’entourage",
+        paragraphs: [
+          "L’entourage peut aider en écoutant sans minimiser.",
+          "Des phrases comme “tu devrais être heureuse” ou “ça va passer” peuvent faire culpabiliser.",
+          "Il est souvent plus aidant de proposer une aide concrète : préparer un repas, tenir le bébé pendant que la mère dort, gérer une lessive, accompagner à un rendez-vous.",
+          "La présence calme et sans jugement est précieuse."
+        ]
+      },
+      {
+        title: "Et si le lien avec le bébé n’est pas immédiat ?",
+        paragraphs: [
+          "Certaines mères ressentent un lien très fort dès la naissance.",
+          "D’autres ont besoin de temps, surtout après un accouchement difficile, une césarienne, une séparation, une grande fatigue ou une douleur importante.",
+          "Cela ne signifie pas que le lien ne se fera pas.",
+          "Le lien se construit aussi dans les soins répétés, le regard, la voix, le peau à peau, les moments calmes et le soutien."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent demander",
+        paragraphs: [
+          "Vous pouvez demander à la maternité ou à la sage-femme quels signes émotionnels doivent faire consulter.",
+          "Vous pouvez demander un temps d’écoute si vous pleurez beaucoup ou si vous avez l’impression de ne pas y arriver.",
+          "Vous pouvez aussi demander des relais concrets pour dormir, manger, récupérer et vous sentir moins seule.",
+          "Si votre entourage s’inquiète pour vous, cela mérite d’être entendu."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le baby blues est une période d’émotions intenses et fluctuantes qui survient souvent dans les premiers jours après la naissance.",
+          "Il peut provoquer des pleurs, une hypersensibilité, une irritabilité, de l’anxiété et un sentiment d’être dépassée.",
+          "Il est fréquent et souvent transitoire, mais il mérite du soutien.",
+          "Si les symptômes durent, s’aggravent ou vous empêchent de vivre le quotidien, il faut demander de l’aide.",
+          "Idées noires, pensées inquiétantes, confusion ou peur de faire du mal nécessitent une aide immédiate."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — Baby blues et dépression post-partum",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Santé publique France — Santé mentale périnatale",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
+
+{
     slug: "comment-preparer-le-retour-a-la-maison-apres-la-naissance",
     title: "Comment préparer le retour à la maison après la naissance ?",
     description:
