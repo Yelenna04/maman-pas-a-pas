@@ -11101,18 +11101,18 @@ export const articles: Article[] = [
       },
       {
         title: "Les signes qui doivent faire consulter",
-        bullets: [
-          "Douleur de plus en plus forte.",
-          "Rougeur importante, gonflement ou chaleur autour de la cicatrice.",
-          "Écoulement malodorant ou aspect inquiétant.",
-          "Fièvre ou malaise.",
-          "Saignement important ou inhabituel.",
-          "Point qui semble lâcher avec ouverture de la plaie.",
-          "Difficulté importante à uriner ou à aller à la selle.",
-          "Douleur qui empêche de s’occuper du bébé ou de marcher normalement."
-        ],
         paragraphs: [
-          "En cas de doute, contactez la maternité, une sage-femme ou un professionnel de santé."
+          "Après une épisiotomie, certains signes doivent amener à demander rapidement un avis médical. Il ne s’agit pas de s’inquiéter au moindre inconfort, mais de ne pas laisser une douleur ou une cicatrice anormale évoluer sans contrôle."
+        ],
+        bullets: [
+          "Une douleur qui augmente au lieu de diminuer.",
+          "Une rougeur importante, un gonflement ou une chaleur autour de la cicatrice.",
+          "Un écoulement malodorant ou un aspect inquiétant de la plaie.",
+          "De la fièvre ou une sensation de malaise.",
+          "Un saignement important ou inhabituel.",
+          "Un point qui semble lâcher ou une ouverture de la plaie.",
+          "Une difficulté importante à uriner ou à aller à la selle.",
+          "Une douleur qui empêche de marcher, de s’asseoir ou de s’occuper du bébé."
         ]
       },
       {
