@@ -21,7 +21,205 @@ export type Article = {
   sources: { label: string; url: string }[];
 };
 
-export const articles: Article[] = [
+export const articles: Article[,
+
+{
+    slug: "les-premiers-jours-apres-laccouchement-a-quoi-sattendre",
+    title: "Les premiers jours après l’accouchement : à quoi s’attendre ?",
+    description:
+      "Fatigue, douleurs, saignements, émotions, montée de lait, sommeil, bébé et organisation : les repères pour comprendre les premiers jours après l’accouchement.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les premiers jours après l’accouchement sont une période de récupération physique, d’adaptation émotionnelle et de découverte du bébé.",
+          "Il est fréquent d’avoir des saignements, des douleurs, des contractions de l’utérus, une grande fatigue et des émotions qui varient beaucoup.",
+          "Le sommeil est souvent fragmenté : l’objectif n’est pas de tout faire, mais de récupérer dès que possible.",
+          "La montée de lait, les premiers biberons, les pleurs du bébé et les soins peuvent demander du temps et de l’aide.",
+          "Fièvre, saignements très abondants, douleur qui s’aggrave, malaise, idées noires ou bébé très somnolent doivent faire demander un avis rapidement."
+        ],
+        quote:
+          "Les premiers jours après la naissance ne sont pas faits pour être parfaite : ils sont faits pour récupérer, apprendre et être entourée."
+      },
+      {
+        title: "Une période de transition intense",
+        paragraphs: [
+          "Après l’accouchement, le corps et l’esprit entrent dans une période de transition très forte.",
+          "La grossesse vient de se terminer, le bébé est là, le sommeil change, les hormones bougent et les repères familiaux se réorganisent.",
+          "Même lorsque la naissance s’est bien passée, les premiers jours peuvent être déroutants.",
+          "Il est normal d’avoir besoin de temps pour comprendre son bébé, son corps et ce nouveau rythme."
+        ]
+      },
+      {
+        title: "La fatigue des premiers jours",
+        paragraphs: [
+          "La fatigue peut être très importante après l’accouchement.",
+          "Elle vient de l’effort de la naissance, du manque de sommeil, des douleurs, des émotions et des soins au bébé.",
+          "Même si vous vous sentez portée par l’adrénaline au début, le contrecoup peut arriver rapidement.",
+          "Essayez de vous reposer dès que possible, même par petites périodes."
+        ]
+      },
+      {
+        title: "Les saignements après la naissance",
+        paragraphs: [
+          "Après l’accouchement, il est normal d’avoir des saignements appelés lochies.",
+          "Ils sont souvent plus abondants les premiers jours, puis diminuent progressivement.",
+          "La couleur peut passer du rouge vif au brun, puis au rosé ou plus clair.",
+          "Un saignement très abondant, des gros caillots, une mauvaise odeur, de la fièvre ou un malaise doivent faire demander un avis rapidement."
+        ]
+      },
+      {
+        title: "Les douleurs et les contractions",
+        paragraphs: [
+          "Il est fréquent d’avoir des douleurs après la naissance.",
+          "Après une voie basse, le périnée peut être sensible, surtout s’il y a eu une déchirure, des points ou une épisiotomie.",
+          "Après une césarienne, la cicatrice et le ventre peuvent tirer, brûler ou faire mal lors des mouvements.",
+          "L’utérus continue aussi à se contracter : ces contractions, appelées tranchées, aident à limiter les saignements."
+        ],
+        quote:
+          "Avoir mal après l’accouchement peut être fréquent, mais la douleur doit être entendue et soulagée."
+      },
+      {
+        title: "Le périnée ou la cicatrice",
+        paragraphs: [
+          "Si vous avez accouché par voie basse, l’équipe surveille le périnée, les points éventuels et la cicatrisation.",
+          "Une sensation de tiraillement, de brûlure ou de pesanteur peut être présente les premiers jours.",
+          "Si vous avez eu une césarienne, la cicatrice est protégée par un pansement et surveillée selon les consignes de la maternité.",
+          "Dans les deux cas, une douleur qui augmente, une rougeur importante, un gonflement, un écoulement ou de la fièvre doivent faire consulter."
+        ]
+      },
+      {
+        title: "La montée de lait et les seins",
+        paragraphs: [
+          "La montée de lait peut survenir dans les jours qui suivent la naissance, que vous allaitiez ou non.",
+          "Les seins peuvent devenir tendus, chauds, lourds ou douloureux.",
+          "Si vous allaitez, le bébé peut demander souvent le sein, et l’installation peut nécessiter de l’aide.",
+          "Si vous ne souhaitez pas allaiter, l’équipe peut vous donner des conseils pour limiter l’inconfort et surveiller les signes d’engorgement."
+        ]
+      },
+      {
+        title: "Le premier rythme du bébé",
+        paragraphs: [
+          "Les nouveau-nés n’ont pas encore de rythme régulier.",
+          "Ils peuvent dormir beaucoup, puis réclamer très souvent, surtout la nuit.",
+          "Ils ont besoin d’être nourris, changés, portés, rassurés et surveillés.",
+          "Les premières journées servent surtout à observer le bébé, repérer ses signes d’éveil, ses besoins et sa façon de s’apaiser."
+        ]
+      },
+      {
+        title: "Les pleurs du bébé",
+        paragraphs: [
+          "Les pleurs peuvent être déstabilisants, surtout lorsqu’on ne comprend pas encore ce que le bébé demande.",
+          "Un bébé peut pleurer parce qu’il a faim, froid, chaud, besoin d’être changé, besoin de contact ou parce qu’il décharge les stimulations.",
+          "Cela ne signifie pas que vous faites mal les choses.",
+          "Si les pleurs vous dépassent, posez le bébé en sécurité dans son lit et demandez de l’aide."
+        ]
+      },
+      {
+        title: "Les émotions qui débordent",
+        paragraphs: [
+          "Les premiers jours peuvent être remplis d’émotions contradictoires.",
+          "On peut se sentir heureuse, bouleversée, inquiète, fragile, irritable, triste ou dépassée.",
+          "Le baby blues est fréquent dans les jours qui suivent la naissance.",
+          "Si la tristesse, l’angoisse, la culpabilité ou les idées noires durent, s’aggravent ou vous font peur, il faut demander de l’aide rapidement."
+        ]
+      },
+      {
+        title: "Le sommeil : faire avec un rythme fragmenté",
+        paragraphs: [
+          "Le sommeil des premiers jours est souvent très morcelé.",
+          "Il est parfois plus réaliste de chercher des petits temps de récupération que de vouloir faire une vraie nuit.",
+          "Dormir quand le bébé dort peut aider, mais ce n’est pas toujours possible.",
+          "L’entourage peut jouer un rôle important en prenant en charge les repas, le ménage, les aînés ou une partie des soins pour vous laisser récupérer."
+        ]
+      },
+      {
+        title: "Manger, boire, récupérer",
+        paragraphs: [
+          "Après l’accouchement, le corps a besoin d’énergie pour récupérer.",
+          "Essayez de boire régulièrement et de manger, même simplement.",
+          "Prévoir des repas faciles, des encas nourrissants et une bouteille d’eau à portée de main peut beaucoup aider.",
+          "La récupération passe aussi par des besoins de base : manger, boire, dormir, se laver, être soulagée et ne pas rester seule."
+        ]
+      },
+      {
+        title: "Le retour à la maison",
+        paragraphs: [
+          "Le retour à la maison peut être rassurant, mais aussi impressionnant.",
+          "Avant de quitter la maternité, assurez-vous de connaître les signes qui doivent faire appeler, les rendez-vous de suivi et les contacts utiles.",
+          "À la maison, limitez les visites si elles vous fatiguent et acceptez l’aide concrète.",
+          "Il n’est pas nécessaire que la maison soit parfaite : les priorités sont votre récupération, la sécurité du bébé et le soutien."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter pour la maman",
+        paragraphs: [
+          "Certains signes doivent faire demander un avis médical rapidement.",
+          "Des saignements très abondants, des gros caillots ou un malaise.",
+          "De la fièvre, des frissons ou une sensation de maladie.",
+          "Une douleur qui augmente au niveau du ventre, du périnée ou de la cicatrice.",
+          "Une jambe rouge, douloureuse ou gonflée.",
+          "Des difficultés à respirer, une douleur dans la poitrine ou un malaise important.",
+          "Des idées noires, une angoisse intense ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter pour le bébé",
+        paragraphs: [
+          "Un bébé très somnolent, difficile à réveiller ou qui refuse de s’alimenter doit être vu rapidement.",
+          "Une fièvre, une température trop basse, une difficulté à respirer, une coloration bleutée ou un comportement inhabituel doivent aussi alerter.",
+          "Peu de couches mouillées, des vomissements répétés ou une perte de poids importante nécessitent un avis professionnel.",
+          "En cas de doute, appelez la maternité, la sage-femme, la PMI ou un médecin."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en apportant une aide concrète plutôt que des conseils non demandés.",
+          "Préparer un repas, faire les courses, lancer une lessive, s’occuper des aînés ou tenir le bébé pendant que la mère dort peut être très précieux.",
+          "Il peut aussi protéger la mère des visites trop nombreuses et l’encourager à demander de l’aide si elle ne va pas bien.",
+          "Un soutien calme et sans jugement change beaucoup les premiers jours."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les premiers jours après l’accouchement sont une période de récupération, d’adaptation et de grande sensibilité.",
+          "Fatigue, saignements, douleurs, tranchées, émotions fluctuantes et rythme irrégulier du bébé sont fréquents.",
+          "La priorité est de récupérer, être soutenue, nourrir le bébé et surveiller les signes d’alerte.",
+          "Il n’est pas nécessaire de tout gérer seule ni d’être immédiatement organisée.",
+          "Si quelque chose vous inquiète pour vous ou votre bébé, demandez un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  }
+] = [
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
