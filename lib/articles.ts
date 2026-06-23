@@ -2994,6 +2994,215 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "baby-blues-ou-depression-post-partum-comment-faire-la-difference",
+    title: "Baby blues ou dépression post-partum : comment faire la différence ?",
+    description:
+      "Après la naissance, les émotions peuvent être très fortes. Voici comment distinguer baby blues, fatigue intense et dépression post-partum, et quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le baby blues est fréquent dans les premiers jours après la naissance et correspond souvent à une hypersensibilité passagère.",
+          "Il peut provoquer des pleurs, de l’irritabilité, des doutes, une grande émotivité et une sensation d’être dépassée.",
+          "La dépression post-partum dure plus longtemps, s’installe ou s’intensifie, et peut empêcher de vivre le quotidien avec le bébé.",
+          "Une tristesse persistante, une anxiété envahissante, une perte d’intérêt, une culpabilité forte ou des idées noires doivent faire demander de l’aide.",
+          "En cas d’idées de se faire du mal, de faire du mal au bébé ou de ne plus pouvoir tenir, il faut demander une aide urgente."
+        ],
+        quote:
+          "Après la naissance, pleurer ne veut pas forcément dire aller mal, mais souffrir seule pendant des jours ne doit jamais être banalisé."
+      },
+      {
+        title: "Des émotions fortes après la naissance",
+        paragraphs: [
+          "Après l’accouchement, beaucoup de mères vivent une période émotionnelle intense.",
+          "Le corps récupère, les hormones changent rapidement, le sommeil manque, le bébé demande beaucoup d’attention et le quotidien est bouleversé.",
+          "Il est donc fréquent de se sentir plus sensible, plus fragile ou plus facilement submergée.",
+          "Mais toutes les difficultés émotionnelles ne se ressemblent pas : certaines sont transitoires, d’autres nécessitent un vrai accompagnement."
+        ]
+      },
+      {
+        title: "Qu’est-ce que le baby blues ?",
+        paragraphs: [
+          "Le baby blues est une période de grande sensibilité émotionnelle qui apparaît souvent dans les premiers jours après la naissance.",
+          "Il peut se manifester par des pleurs, de l’irritabilité, des sautes d’humeur, une sensation de vulnérabilité ou des doutes sur sa capacité à s’occuper du bébé.",
+          "Il est souvent lié aux changements hormonaux, à la fatigue, à l’accouchement et au choc de la rencontre avec le bébé.",
+          "Il peut être impressionnant, mais il reste généralement passager."
+        ]
+      },
+      {
+        title: "Quand apparaît le baby blues ?",
+        paragraphs: [
+          "Le baby blues apparaît souvent quelques jours après la naissance, parfois au moment où la fatigue et la montée de lait se croisent.",
+          "Il peut durer quelques heures ou quelques jours.",
+          "Les émotions peuvent être très intenses, puis diminuer progressivement avec du repos, du soutien et de la réassurance.",
+          "Si les symptômes durent, s’aggravent ou empêchent de fonctionner, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Ce qui peut faire penser à un baby blues",
+        paragraphs: [
+          "Le baby blues peut donner l’impression de pleurer sans raison claire.",
+          "On peut se sentir facilement vexée, inquiète, perdue ou très émue.",
+          "On peut aussi douter de soi, avoir peur de mal faire ou se sentir dépassée par les responsabilités.",
+          "Ces ressentis doivent être accueillis avec douceur, sans jugement ni minimisation."
+        ],
+        quote:
+          "Le baby blues n’est pas un caprice : c’est une vraie tempête émotionnelle, même lorsqu’elle est passagère."
+      },
+      {
+        title: "Qu’est-ce que la dépression post-partum ?",
+        paragraphs: [
+          "La dépression post-partum est une souffrance psychique qui peut apparaître après la naissance, parfois progressivement.",
+          "Elle ne se résume pas à de la fatigue ou à quelques pleurs.",
+          "Elle peut modifier l’humeur, le sommeil, l’appétit, l’énergie, le lien au bébé, la confiance en soi et la capacité à vivre le quotidien.",
+          "Elle mérite une prise en charge, car elle peut s’améliorer avec de l’aide adaptée."
+        ]
+      },
+      {
+        title: "Les signes qui font penser à une dépression post-partum",
+        paragraphs: [
+          "Certains signes doivent attirer l’attention s’ils durent, s’intensifient ou reviennent chaque jour.",
+          "Une tristesse persistante, un sentiment de vide ou l’impression de ne plus ressentir de joie.",
+          "Une culpabilité forte, la sensation d’être une mauvaise mère ou de ne jamais y arriver.",
+          "Une anxiété envahissante, des pensées qui tournent en boucle ou une peur permanente qu’il arrive quelque chose au bébé.",
+          "Une perte d’intérêt, un épuisement profond, un isolement ou l’impression de fonctionner en pilote automatique."
+        ]
+      },
+      {
+        title: "La durée fait une différence",
+        paragraphs: [
+          "Le baby blues est généralement court et s’apaise progressivement.",
+          "La dépression post-partum dure plus longtemps, s’installe ou s’aggrave.",
+          "Si la tristesse, l’angoisse ou le sentiment d’être dépassée continuent au-delà des premiers jours, il ne faut pas attendre.",
+          "La durée n’est pas le seul critère : l’intensité et l’impact sur le quotidien comptent aussi beaucoup."
+        ]
+      },
+      {
+        title: "L’intensité des symptômes",
+        paragraphs: [
+          "Dans le baby blues, les émotions peuvent être fortes, mais elles sont souvent fluctuantes.",
+          "Dans la dépression post-partum, la souffrance peut prendre beaucoup de place et donner l’impression de ne plus pouvoir sortir de cet état.",
+          "Il peut devenir difficile de dormir même quand le bébé dort, de manger, de demander de l’aide ou de se sentir en sécurité avec ses pensées.",
+          "Quand la souffrance devient envahissante, il faut être accompagnée."
+        ]
+      },
+      {
+        title: "Le lien avec le bébé",
+        paragraphs: [
+          "Après la naissance, le lien avec le bébé peut se construire progressivement.",
+          "Ne pas ressentir immédiatement un amour évident ou être déstabilisée par le bébé ne veut pas forcément dire qu’il y a une dépression.",
+          "En revanche, si vous vous sentez détachée, indifférente, très anxieuse au contact du bébé, ou si vous avez peur d’être seule avec lui, il faut en parler.",
+          "Le lien peut être soutenu, accompagné et réparé : il n’a pas besoin d’être parfait dès le départ."
+        ]
+      },
+      {
+        title: "Les pensées intrusives",
+        paragraphs: [
+          "Certaines mères ont des pensées inquiétantes, répétitives ou très désagréables après la naissance.",
+          "Elles peuvent concerner la peur qu’il arrive quelque chose au bébé, la peur de mal faire ou des images qui surgissent malgré soi.",
+          "Ces pensées peuvent être très angoissantes et méritent d’être exprimées à un professionnel.",
+          "Si elles donnent peur de passer à l’acte, ou si vous craignez de vous faire du mal ou de faire du mal au bébé, il faut demander une aide urgente."
+        ]
+      },
+      {
+        title: "Ce qui augmente la vulnérabilité",
+        paragraphs: [
+          "Certaines situations peuvent rendre la période plus fragile.",
+          "Un accouchement difficile, une césarienne en urgence, une séparation avec le bébé, des douleurs, un allaitement compliqué, un manque de sommeil, un isolement ou des antécédents de dépression ou d’anxiété peuvent peser.",
+          "Cela ne veut pas dire que la dépression est inévitable.",
+          "Mais cela justifie d’être particulièrement entourée et surveillée avec bienveillance."
+        ]
+      },
+      {
+        title: "Ce qui aide en cas de baby blues",
+        paragraphs: [
+          "Le baby blues peut être soulagé par du repos, une aide concrète et un entourage rassurant.",
+          "Il est utile de limiter les visites, de déléguer les tâches, de manger, boire, dormir dès que possible et parler de ce que l’on ressent.",
+          "Les phrases comme “tu devrais être heureuse” ou “ça va passer” peuvent faire beaucoup de mal.",
+          "La mère a besoin d’être écoutée, pas corrigée."
+        ]
+      },
+      {
+        title: "Ce qui aide en cas de dépression post-partum",
+        paragraphs: [
+          "La dépression post-partum nécessite un accompagnement professionnel.",
+          "Une sage-femme, un médecin, une psychologue, un psychiatre, la PMI ou la maternité peuvent orienter vers une aide adaptée.",
+          "Selon la situation, un suivi psychologique, un soutien renforcé, des relais à domicile ou un traitement peuvent être proposés.",
+          "Demander de l’aide n’est pas un échec : c’est une protection pour la mère, le bébé et la famille."
+        ],
+        quote:
+          "La dépression post-partum se soigne mieux quand elle est reconnue tôt et prise au sérieux."
+      },
+      {
+        title: "Quand parler à un professionnel ?",
+        paragraphs: [
+          "Il faut parler à un professionnel si les pleurs, la tristesse ou l’angoisse durent plus que quelques jours ou deviennent difficiles à supporter.",
+          "Il faut aussi consulter si vous ne dormez plus, si vous ne mangez plus, si vous vous isolez, si vous vous sentez incapable de vous occuper du bébé ou si vous avez peur de vos pensées.",
+          "Vous pouvez commencer par une sage-femme, un médecin, la PMI, la maternité ou le professionnel qui vous suit.",
+          "Vous n’avez pas besoin d’attendre d’aller très mal pour demander de l’aide."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage joue un rôle essentiel.",
+          "Il peut écouter sans minimiser, prendre le relais avec le bébé, préparer les repas, limiter les visites et aider à contacter un professionnel.",
+          "Il peut aussi repérer les signes qui durent ou s’aggravent, surtout si la mère n’arrive plus à demander de l’aide.",
+          "La bonne attitude n’est pas de juger, mais de sécuriser et d’accompagner."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le baby blues est fréquent, apparaît souvent dans les premiers jours et s’apaise généralement rapidement.",
+          "La dépression post-partum dure plus longtemps, s’installe ou s’intensifie, et perturbe le quotidien.",
+          "Tristesse persistante, anxiété envahissante, culpabilité forte, perte d’intérêt ou isolement doivent faire demander de l’aide.",
+          "Idées noires, peur de faire du mal ou sensation de ne plus pouvoir tenir nécessitent une aide urgente.",
+          "La santé mentale post-partum mérite autant d’attention que la récupération physique."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Dépression du post-partum",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Dépression post-partum",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
