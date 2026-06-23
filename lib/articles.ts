@@ -10940,49 +10940,6 @@ export const articles: Article[] = [
     ]
   },
   {
-    slug: "retour-maison-bebe",
-    title: "Le retour à la maison avec bébé",
-    description: "Des repères concrets pour traverser les premiers jours, s’organiser et savoir vers qui se tourner.",
-    category: "Post-partum",
-    categorySlug: "post-partum",
-    subcategory: "Retour à la maison",
-    subcategorySlug: "retour-maison",
-    readingTime: "8 min",
-    publishedAt: "2026-03-12",
-    updatedAt: "2026-05-18",
-    tone: "rose",
-    sections: [
-      {
-        title: "Réduire les attentes",
-        paragraphs: [
-          "Les premiers jours sont une période d’adaptation. Le repos, l’alimentation, les soins et le lien avec le bébé peuvent occuper toute la journée.",
-          "Un logement parfaitement rangé et des visites nombreuses ne sont pas des priorités. Protégez votre récupération."
-        ]
-      },
-      {
-        title: "Accepter une aide concrète",
-        bullets: [
-          "Préparer ou apporter un repas.",
-          "Faire une course ou lancer une machine.",
-          "S’occuper d’un aîné pendant un moment.",
-          "Écouter sans donner de conseil non sollicité."
-        ]
-      },
-      {
-        title: "Surveiller son état physique et psychique",
-        paragraphs: [
-          "Une douleur qui augmente, une fièvre, des saignements très abondants, un essoufflement ou un malaise nécessitent un avis médical urgent.",
-          "Une tristesse persistante, une anxiété envahissante, des idées noires ou la sensation de ne plus pouvoir faire face doivent également conduire à demander de l’aide rapidement."
-        ],
-        quote: "Demander de l’aide est une démarche de protection, jamais un échec."
-      }
-    ],
-    sources: [
-      { label: "Santé publique France — Les 1000 premiers jours", url: "https://www.1000-premiers-jours.fr/" },
-      { label: "Assurance Maladie — Après l’accouchement", url: "https://www.ameli.fr/" }
-    ]
-  },
-  {
     slug: "organiser-quotidien-jeune-parent",
     title: "Organiser le quotidien sans s’épuiser",
     description: "Des méthodes souples pour alléger la charge mentale pendant les premières semaines.",
