@@ -2550,6 +2550,450 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "allaitement-mixte-comment-sorganiser",
+    title: "Allaitement mixte : comment s’organiser ?",
+    description:
+      "L’allaitement mixte associe tétées au sein et biberons. Voici comment trouver une organisation souple, préserver la lactation si souhaité, éviter la culpabilité et savoir quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’allaitement mixte associe des tétées au sein et des biberons de lait infantile ou de lait maternel tiré.",
+          "Il peut être choisi dès le départ, mis en place après des difficultés d’allaitement, ou utilisé lors d’une reprise du travail.",
+          "Pour préserver la lactation, il est utile de garder des tétées régulières et de demander conseil avant de supprimer plusieurs tétées.",
+          "Le rythme dépend de votre objectif : allaiter majoritairement, compléter ponctuellement ou passer progressivement au biberon.",
+          "Bébé qui tète peu, prend mal du poids, refuse le sein ou le biberon, ou une mère épuisée doivent faire demander un avis."
+        ],
+        quote:
+          "L’allaitement mixte n’est pas un échec : c’est une organisation qui peut s’adapter à votre bébé, à votre corps et à votre quotidien."
+      },
+      {
+        title: "Qu’est-ce que l’allaitement mixte ?",
+        paragraphs: [
+          "L’allaitement mixte consiste à associer l’allaitement au sein et des biberons.",
+          "Ces biberons peuvent contenir du lait infantile ou du lait maternel tiré, selon votre situation.",
+          "Il peut être temporaire ou durable.",
+          "Il peut aussi évoluer avec le temps : certaines familles gardent une tétée le matin et le soir, d’autres alternent davantage, d’autres utilisent les biberons seulement en complément."
+        ]
+      },
+      {
+        title: "Pourquoi choisir l’allaitement mixte ?",
+        paragraphs: [
+          "Les raisons sont très variées.",
+          "Certaines mères souhaitent allaiter tout en ayant plus de relais.",
+          "D’autres mettent en place des compléments parce que bébé prend peu de poids, parce que les tétées sont difficiles, parce qu’elles reprennent le travail ou parce qu’elles ont besoin de souffler.",
+          "Il n’y a pas une seule bonne raison : l’important est que l’organisation soit sécurisante pour bébé et soutenable pour la mère."
+        ]
+      },
+      {
+        title: "Définir son objectif",
+        paragraphs: [
+          "Avant de s’organiser, il est utile de clarifier ce que vous souhaitez.",
+          "Voulez-vous garder l’allaitement au sein le plus possible ? Ajouter seulement quelques biberons ? Passer progressivement au biberon ? Garder une tétée plaisir ?",
+          "La réponse change la façon d’introduire les biberons.",
+          "Un professionnel peut vous aider à trouver une organisation adaptée sans mettre en difficulté la prise de poids du bébé ni votre lactation."
+        ],
+        quote:
+          "L’organisation dépend de votre objectif : compléter, équilibrer, soulager ou sevrer progressivement ne demande pas les mêmes repères."
+      },
+      {
+        title: "Préserver la lactation si vous le souhaitez",
+        paragraphs: [
+          "La lactation fonctionne beaucoup avec la stimulation : plus le sein est stimulé et drainé, plus il reçoit le message de produire.",
+          "Si plusieurs tétées sont remplacées par des biberons sans stimulation, la production peut diminuer.",
+          "Ce n’est pas forcément un problème si c’est votre objectif.",
+          "Mais si vous souhaitez garder une bonne lactation, demandez conseil avant de supprimer trop de tétées ou trop rapidement."
+        ]
+      },
+      {
+        title: "Introduire un biberon progressivement",
+        paragraphs: [
+          "Lorsque c’est possible, introduire un biberon progressivement peut aider bébé et votre corps à s’adapter.",
+          "On peut commencer par un moment de la journée où la mère est fatiguée, absente ou souhaite être relayée.",
+          "Il est souvent préférable d’éviter de multiplier les changements en même temps : nouveau rythme, nouveau lait, nouvelle tétine, personne différente.",
+          "Un changement à la fois permet de mieux comprendre ce qui convient au bébé."
+        ]
+      },
+      {
+        title: "Quel biberon choisir ?",
+        paragraphs: [
+          "Il n’existe pas de biberon parfait pour tous les bébés.",
+          "Le débit de la tétine doit être adapté pour éviter que bébé boive trop vite ou s’énerve.",
+          "Un débit trop rapide peut rendre le retour au sein plus difficile chez certains bébés et provoquer un inconfort digestif.",
+          "Si bébé tousse, s’étouffe, boit très vite ou semble gêné, demandez conseil avant de changer plusieurs fois de matériel."
+        ]
+      },
+      {
+        title: "Comment donner le biberon quand bébé est aussi allaité ?",
+        paragraphs: [
+          "Un biberon donné lentement, avec des pauses, peut aider bébé à respecter ses sensations.",
+          "Installez bébé semi-assis, observez son rythme et faites des pauses pour vérifier s’il a encore faim.",
+          "Il n’est pas toujours nécessaire de finir le biberon si bébé montre qu’il est rassasié.",
+          "Cette manière de donner le biberon peut aussi aider à limiter les prises trop rapides."
+        ]
+      },
+      {
+        title: "Bébé refuse le biberon",
+        paragraphs: [
+          "Certains bébés allaités refusent le biberon au début.",
+          "Cela peut venir de la tétine, du moment choisi, de la personne qui propose, de la fatigue ou simplement du besoin d’apprendre.",
+          "Il peut être utile de proposer sans forcer, dans un moment calme, et parfois par une autre personne que la mère.",
+          "Si le refus persiste et que vous avez besoin de mettre en place des biberons, demandez un avis pour éviter que les repas deviennent une source de stress."
+        ]
+      },
+      {
+        title: "Bébé préfère le biberon",
+        paragraphs: [
+          "Certains bébés semblent préférer le biberon, surtout si le débit est rapide et demande moins d’effort.",
+          "Cela peut parfois rendre les tétées au sein plus difficiles.",
+          "On peut alors vérifier la position, proposer le sein dans un moment calme et revoir le débit de la tétine.",
+          "Si vous souhaitez maintenir l’allaitement, un accompagnement précoce peut aider à éviter un sevrage plus rapide que prévu."
+        ]
+      },
+      {
+        title: "Comment répartir sein et biberon ?",
+        paragraphs: [
+          "Il n’y a pas de répartition unique.",
+          "Certaines familles gardent les tétées du matin et du soir, d’autres donnent un biberon la nuit pour que l’autre parent prenne le relais, d’autres complètent après certaines tétées.",
+          "Le choix dépend de la prise de poids du bébé, de votre production, de votre fatigue et de votre objectif.",
+          "Si les compléments sont donnés pour une raison médicale ou une prise de poids insuffisante, suivez les consignes du professionnel qui suit bébé."
+        ]
+      },
+      {
+        title: "Compléter après une tétée",
+        paragraphs: [
+          "Parfois, un complément est proposé après une tétée si bébé a encore faim ou si la prise de poids doit être soutenue.",
+          "La quantité et la fréquence doivent être adaptées à la situation.",
+          "Il est important de vérifier que le bébé tète efficacement, car ajouter un biberon sans corriger une difficulté de tétée peut laisser le problème de fond persister.",
+          "Un suivi du poids et des couches aide à ajuster l’organisation."
+        ]
+      },
+      {
+        title: "Tirer son lait : utile ou non ?",
+        paragraphs: [
+          "Tirer son lait peut aider si vous souhaitez proposer des biberons de lait maternel ou préserver la lactation pendant une absence.",
+          "Ce n’est pas obligatoire dans tous les allaitements mixtes.",
+          "Tirer peut être fatigant et doit rester compatible avec votre quotidien.",
+          "Si vous tirez votre lait, demandez des conseils sur la conservation, le rythme et les quantités adaptées."
+        ]
+      },
+      {
+        title: "La reprise du travail",
+        paragraphs: [
+          "L’allaitement mixte peut être une solution lors de la reprise du travail.",
+          "Certaines mères gardent les tétées du matin, du soir et des jours de repos, avec des biberons en journée.",
+          "D’autres tirent leur lait au travail ou choisissent de ne pas le faire.",
+          "Il n’y a pas une seule organisation valable : le bon rythme est celui qui nourrit bébé et reste vivable pour vous."
+        ]
+      },
+      {
+        title: "Les nuits et le relais",
+        paragraphs: [
+          "Le biberon peut permettre à l’autre parent ou à une personne de confiance de prendre le relais.",
+          "Cela peut aider la mère à dormir un peu plus, surtout en période de grande fatigue.",
+          "Si vous souhaitez préserver la lactation, il faut toutefois réfléchir au nombre de tétées remplacées, notamment au début.",
+          "L’équilibre entre repos et stimulation peut être discuté avec une sage-femme ou une consultante en lactation."
+        ]
+      },
+      {
+        title: "La culpabilité",
+        paragraphs: [
+          "Beaucoup de mères se sentent coupables lorsqu’elles introduisent un biberon.",
+          "Pourtant, l’allaitement mixte peut être un choix réfléchi, un soutien temporaire ou une adaptation nécessaire.",
+          "Votre valeur de mère ne dépend pas du pourcentage de lait maternel donné.",
+          "Un bébé a besoin d’être nourri, porté, regardé, rassuré et entouré."
+        ],
+        quote:
+          "Un biberon donné avec attention ne retire rien au lien : il peut aussi faire partie d’une organisation aimante."
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si bébé prend mal du poids, tète peu, refuse le sein ou le biberon, ou si vous ne savez plus comment répartir les repas.",
+          "Une sage-femme, une consultante en lactation, la PMI, la maternité ou le médecin peuvent vous accompagner.",
+          "Il est aussi utile de demander de l’aide si vous souhaitez maintenir l’allaitement mais sentez que la lactation baisse.",
+          "Un regard extérieur permet souvent de simplifier l’organisation."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un bébé qui boit très peu ou refuse plusieurs repas.",
+          "Des couches très peu mouillées.",
+          "Une perte de poids importante ou une prise de poids insuffisante.",
+          "Un bébé très somnolent, difficile à réveiller ou inhabituellement mou.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Un sein rouge, chaud, très douloureux, avec fièvre ou frissons.",
+          "Une mère épuisée, en détresse ou qui se sent perdue dans l’organisation des repas."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider sans juger le choix de l’allaitement mixte.",
+          "Il peut préparer les biberons, nettoyer le matériel, apporter de l’eau, aider à installer la mère ou prendre le relais entre les repas.",
+          "Il peut aussi soutenir la mère si elle souhaite garder certaines tétées importantes pour elle.",
+          "Le plus aidant est de respecter le projet choisi et d’éviter les remarques culpabilisantes."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’allaitement mixte peut être choisi, temporaire, progressif ou nécessaire selon les situations.",
+          "Pour préserver la lactation, il faut garder une stimulation suffisante du sein ou demander conseil avant de supprimer plusieurs tétées.",
+          "Le rythme dépend de votre objectif, de la prise de poids de bébé et de votre fatigue.",
+          "Le biberon peut se donner lentement, avec des pauses, en respectant les signes de faim et de satiété.",
+          "En cas de doute sur la prise alimentaire, le poids, les couches ou votre moral, demandez un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Allaitement mixte et reprise du travail",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
+
+{
+    slug: "sevrage-comment-arreter-lallaitement-en-douceur",
+    title: "Sevrage : comment arrêter l’allaitement en douceur ?",
+    description:
+      "Arrêter l’allaitement peut se faire progressivement, avec douceur et sans culpabilité. Voici comment réduire les tétées, gérer les seins tendus, accompagner bébé et savoir quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le sevrage peut être progressif, partiel, choisi, nécessaire ou vécu avec des émotions mélangées.",
+          "Quand c’est possible, réduire les tétées une par une aide le corps à diminuer la production de lait plus doucement.",
+          "Un sevrage trop rapide peut favoriser seins tendus, engorgement, douleur ou inconfort.",
+          "Bébé peut avoir besoin de temps, de réassurance, d’un nouveau rituel et parfois d’une autre personne pour certains repas.",
+          "Fièvre, sein rouge et douloureux, engorgement important ou grande détresse émotionnelle doivent faire demander un avis."
+        ],
+        quote:
+          "Arrêter l’allaitement en douceur, ce n’est pas seulement arrêter les tétées : c’est accompagner le corps, le bébé et les émotions."
+      },
+      {
+        title: "Un choix personnel",
+        paragraphs: [
+          "Le sevrage peut arriver pour de nombreuses raisons : fatigue, reprise du travail, douleurs, envie de retrouver son corps, organisation familiale, traitement médical, ou simplement parce que le moment semble venu.",
+          "Il peut aussi être progressif ou plus rapide selon les situations.",
+          "Il n’y a pas une seule bonne façon d’arrêter l’allaitement.",
+          "L’important est que la mère soit accompagnée, que le bébé soit nourri et que la transition soit la plus confortable possible."
+        ]
+      },
+      {
+        title: "Sevrage progressif ou sevrage rapide",
+        paragraphs: [
+          "Quand la situation le permet, un sevrage progressif est souvent plus confortable.",
+          "Il consiste à retirer une tétée à la fois, puis à laisser quelques jours au corps et au bébé pour s’adapter.",
+          "Un sevrage rapide peut être nécessaire dans certains contextes, mais il peut être plus inconfortable pour les seins et plus difficile émotionnellement.",
+          "Si vous devez arrêter rapidement, demandez conseil à une sage-femme, un médecin ou un professionnel formé."
+        ]
+      },
+      {
+        title: "Comment retirer une tétée ?",
+        paragraphs: [
+          "On commence souvent par supprimer une tétée qui semble moins importante pour le bébé ou plus simple à remplacer.",
+          "Les tétées du matin, du soir ou de réconfort peuvent parfois être plus sensibles à retirer.",
+          "Après avoir supprimé une tétée, observez vos seins, votre confort, le comportement du bébé et votre fatigue.",
+          "Quand tout est stable, vous pouvez envisager d’en retirer une autre."
+        ],
+        quote:
+          "Un sevrage doux avance souvent par petites étapes, pas par arrêt brutal du jour au lendemain."
+      },
+      {
+        title: "Que proposer à la place ?",
+        paragraphs: [
+          "Selon l’âge du bébé, la tétée supprimée peut être remplacée par un biberon, une autre prise alimentaire adaptée ou un moment de réconfort.",
+          "Pour un nourrisson, le lait reste l’aliment principal, et le choix du lait ou des quantités doit être discuté avec un professionnel si vous avez un doute.",
+          "Pour un bébé plus grand, l’organisation dépend aussi de la diversification alimentaire.",
+          "L’objectif est de ne pas seulement retirer une tétée, mais de remplacer aussi le besoin de proximité ou d’apaisement qu’elle représentait."
+        ]
+      },
+      {
+        title: "Accompagner bébé émotionnellement",
+        paragraphs: [
+          "Pour certains bébés, la tétée est aussi un repère affectif, un rituel d’endormissement ou un moment de réassurance.",
+          "Le sevrage peut donc provoquer des pleurs, de la frustration ou un besoin accru de contact.",
+          "Des câlins, une chanson, un portage, une histoire, une présence calme ou un autre rituel peuvent aider.",
+          "Il est possible que bébé ait besoin de plusieurs jours pour accepter un nouveau rythme."
+        ]
+      },
+      {
+        title: "Quand bébé refuse le biberon",
+        paragraphs: [
+          "Certains bébés allaités refusent le biberon au début.",
+          "Il peut être utile de proposer dans un moment calme, sans forcer, parfois par une autre personne que la mère.",
+          "Le type de tétine, le débit, la température du lait ou le moment choisi peuvent jouer.",
+          "Si le refus persiste et que le sevrage est nécessaire, demandez un avis pour trouver une solution adaptée."
+        ]
+      },
+      {
+        title: "Gérer les seins tendus",
+        paragraphs: [
+          "Quand une tétée est supprimée, les seins peuvent devenir tendus ou inconfortables.",
+          "Le corps a besoin de temps pour comprendre qu’il doit produire moins.",
+          "Si la tension est importante, il peut être utile d’exprimer juste un peu de lait pour soulager, sans chercher à vider complètement le sein.",
+          "Vider beaucoup le sein peut stimuler la production et ralentir l’adaptation."
+        ]
+      },
+      {
+        title: "Éviter l’engorgement",
+        paragraphs: [
+          "Un sevrage trop rapide peut favoriser l’engorgement.",
+          "Les seins peuvent devenir durs, lourds, douloureux ou très tendus.",
+          "Réduire progressivement les tétées, porter un soutien-gorge confortable et demander conseil en cas de douleur peut aider.",
+          "Un engorgement qui ne s’améliore pas doit être accompagné rapidement."
+        ]
+      },
+      {
+        title: "Faut-il tirer son lait pendant le sevrage ?",
+        paragraphs: [
+          "Tirer son lait pendant le sevrage peut parfois soulager, mais il faut le faire avec prudence.",
+          "Si vous tirez autant qu’avant, le corps peut continuer à produire beaucoup.",
+          "L’objectif est souvent de soulager une tension, pas d’entretenir la production.",
+          "En cas de doute, demandez à une sage-femme ou une consultante en lactation comment réduire progressivement."
+        ]
+      },
+      {
+        title: "Les tétées les plus difficiles à arrêter",
+        paragraphs: [
+          "Certaines tétées sont plus chargées émotionnellement.",
+          "La tétée d’endormissement, celle du matin, celle de la nuit ou celle des retrouvailles peut être plus difficile à supprimer.",
+          "Il peut être utile de commencer par une tétée moins importante, puis de garder les plus sensibles pour plus tard.",
+          "Le rythme du sevrage peut être adapté selon les réactions de bébé et votre propre vécu."
+        ]
+      },
+      {
+        title: "Le sevrage de nuit",
+        paragraphs: [
+          "Le sevrage de nuit peut être particulièrement délicat.",
+          "La tétée de nuit sert parfois à nourrir, mais aussi à rendormir, rassurer ou retrouver la proximité.",
+          "Selon l’âge du bébé, son poids, son alimentation et son état de santé, les besoins ne sont pas les mêmes.",
+          "Avant un sevrage de nuit, il peut être utile de demander un avis si vous avez un doute sur les besoins nutritionnels de bébé."
+        ]
+      },
+      {
+        title: "Le sevrage et la reprise du travail",
+        paragraphs: [
+          "La reprise du travail peut amener à réduire certaines tétées ou à passer à un allaitement mixte.",
+          "Certaines mères gardent les tétées du matin, du soir et des jours de repos.",
+          "D’autres préfèrent arrêter complètement, pour simplifier l’organisation ou parce qu’elles en ressentent le besoin.",
+          "Le bon choix est celui qui respecte votre santé, votre bébé et votre quotidien."
+        ]
+      },
+      {
+        title: "Les émotions de la mère",
+        paragraphs: [
+          "Le sevrage peut provoquer du soulagement, de la tristesse, de la culpabilité, de la fierté ou un sentiment de fin d’étape.",
+          "Même lorsqu’il est choisi, il peut être émouvant.",
+          "Le corps change aussi : la baisse des tétées peut s’accompagner de variations hormonales et d’une sensibilité émotionnelle.",
+          "Ces émotions sont légitimes et méritent d’être accueillies sans jugement."
+        ],
+        quote:
+          "On peut vouloir arrêter l’allaitement et être émue de le faire : les deux peuvent coexister."
+      },
+      {
+        title: "Et si le sevrage est imposé ?",
+        paragraphs: [
+          "Parfois, le sevrage n’est pas vraiment choisi : douleur importante, traitement, hospitalisation, épuisement ou pression extérieure.",
+          "Dans ce cas, il peut être vécu plus difficilement.",
+          "Il est important de demander des explications, de vérifier les alternatives possibles si vous souhaitez continuer, et d’être accompagnée dans la transition.",
+          "Vous avez le droit d’être triste, en colère ou soulagée."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vos seins sont très douloureux, si vous avez peur de l’engorgement, si bébé refuse les alternatives ou si vous vous sentez dépassée.",
+          "Une sage-femme, une consultante en lactation, la PMI, la maternité ou le médecin peuvent vous accompagner.",
+          "Un professionnel peut vous aider à organiser un sevrage progressif selon l’âge de bébé et votre situation.",
+          "Vous n’avez pas à improviser seule si cela devient difficile."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un sein rouge, chaud, très douloureux ou une douleur localisée qui augmente.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Un engorgement important qui ne s’améliore pas.",
+          "Un bébé qui boit très peu, refuse plusieurs repas ou mouille peu ses couches.",
+          "Une perte de poids ou une prise de poids insuffisante.",
+          "Une grande détresse émotionnelle, une culpabilité envahissante ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut soutenir le sevrage sans juger la décision.",
+          "Il peut proposer un biberon ou un autre rituel si les parents le souhaitent, prendre le relais la nuit, aider à installer un nouveau rythme ou protéger le repos de la mère.",
+          "Il peut aussi éviter les phrases culpabilisantes, dans un sens comme dans l’autre.",
+          "Le sevrage est plus doux quand la mère se sent soutenue, pas observée."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le sevrage peut être progressif, partiel, choisi ou nécessaire.",
+          "Quand c’est possible, retirer une tétée à la fois aide le corps et le bébé à s’adapter.",
+          "Les seins tendus doivent être soulagés sans stimuler excessivement la production.",
+          "Bébé peut avoir besoin d’un nouveau rituel de réassurance.",
+          "Douleur, engorgement, fièvre, bébé qui boit peu ou détresse émotionnelle doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Sevrage",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
