@@ -4635,6 +4635,227 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "retour-a-la-maison-comment-trouver-un-nouveau-rythme",
+    title: "Retour à la maison : comment trouver un nouveau rythme ?",
+    description:
+      "Le retour à la maison après la naissance demande un temps d’adaptation. Sommeil, repas, visites, tâches du quotidien, émotions : comment trouver progressivement un nouveau rythme avec bébé.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le retour à la maison est une période d’adaptation : il est normal de ne pas trouver son rythme immédiatement.",
+          "Les premières semaines, le rythme se construit autour des besoins du bébé, de la récupération de la mère et du repos des parents.",
+          "Il est utile de simplifier les journées : repas faciles, visites limitées, tâches réduites et aide concrète.",
+          "Le nouveau rythme se construit petit à petit, pas en quelques jours.",
+          "Fatigue extrême, moral qui chute, bébé qui boit peu ou comportement inhabituel doivent faire demander un avis."
+        ],
+        quote:
+          "Le retour à la maison n’est pas une reprise de la vie d’avant : c’est le début d’un nouvel équilibre à construire doucement."
+      },
+      {
+        title: "Un changement de rythme brutal",
+        paragraphs: [
+          "Le retour à la maison peut être très émouvant, mais aussi déstabilisant.",
+          "À la maternité, les journées étaient encadrées par les soins, les passages des professionnels et les repères du service.",
+          "À la maison, tout semble à réorganiser : le sommeil, les repas, les soins, les visites, les tâches et le temps pour soi.",
+          "Il est normal de se sentir un peu perdue au début."
+        ]
+      },
+      {
+        title: "Ne pas chercher le rythme parfait",
+        paragraphs: [
+          "Les premières semaines ne ressemblent pas toujours à un planning clair.",
+          "Bébé peut réclamer souvent, dormir par petites périodes, pleurer à certains moments et changer de rythme d’un jour à l’autre.",
+          "Chercher à tout organiser trop vite peut ajouter de la pression.",
+          "L’objectif est plutôt de repérer progressivement ce qui revient, ce qui aide et ce qui fatigue."
+        ],
+        quote:
+          "Au début, le bon rythme est souvent celui qui permet de nourrir bébé, récupérer un peu et passer la journée sans s’épuiser davantage."
+      },
+      {
+        title: "Prioriser les besoins essentiels",
+        paragraphs: [
+          "Au retour à la maison, tout ne peut pas être prioritaire.",
+          "Les besoins essentiels sont simples : nourrir bébé, le changer, le coucher en sécurité, permettre à la mère de récupérer, manger, boire et dormir dès que possible.",
+          "Le ménage, les messages, les visites et les tâches secondaires peuvent attendre.",
+          "Cette période demande de réduire les exigences, pas de prouver que tout est sous contrôle."
+        ]
+      },
+      {
+        title: "Organiser les repas des parents",
+        paragraphs: [
+          "Manger correctement aide à tenir, surtout avec des nuits fragmentées.",
+          "Il est utile de prévoir des repas simples, des plats préparés à l’avance, des livraisons ou l’aide des proches.",
+          "L’entourage peut vraiment aider en apportant un repas plutôt qu’en restant longtemps en visite.",
+          "Un parent nourri et hydraté récupère mieux et supporte plus facilement les réveils."
+        ]
+      },
+      {
+        title: "Répartir les tâches",
+        paragraphs: [
+          "Le quotidien ne devrait pas reposer sur une seule personne.",
+          "Changer bébé, préparer un biberon, apporter le bébé pour une tétée, gérer les couches, lancer une lessive ou ranger l’espace de change sont des tâches qui peuvent être partagées.",
+          "Il peut être utile de décider clairement qui fait quoi, surtout quand la fatigue rend les malentendus plus fréquents.",
+          "Une répartition imparfaite vaut mieux qu’une mère qui porte tout seule."
+        ]
+      },
+      {
+        title: "Créer des petits repères dans la journée",
+        paragraphs: [
+          "Même si bébé n’a pas encore un rythme fixe, quelques repères peuvent aider.",
+          "Ouvrir les volets le matin, garder une lumière douce la nuit, prendre un petit-déjeuner simple, sortir quelques minutes si possible ou garder un rituel calme le soir.",
+          "Ces repères ne forcent pas bébé à suivre un horaire strict.",
+          "Ils aident surtout les parents à retrouver une sensation de continuité."
+        ]
+      },
+      {
+        title: "Gérer les visites",
+        paragraphs: [
+          "Les visites peuvent être réconfortantes, mais elles peuvent aussi épuiser.",
+          "Il est possible de limiter leur durée, de repousser certaines personnes ou de demander une aide pratique en échange.",
+          "Vous pouvez dire que vous avez besoin de repos, même si tout le monde a envie de voir le bébé.",
+          "La récupération de la mère et le calme du foyer passent avant les attentes extérieures."
+        ]
+      },
+      {
+        title: "Trouver un rythme avec les aînés",
+        paragraphs: [
+          "Si vous avez déjà un ou plusieurs enfants, le retour à la maison demande encore plus d’ajustements.",
+          "Les aînés peuvent avoir besoin de présence, de réassurance et de repères.",
+          "Il peut être utile de préserver un petit moment avec eux, même court, et de déléguer certaines tâches à l’entourage.",
+          "Il n’est pas nécessaire de tout faire comme avant dès les premiers jours."
+        ]
+      },
+      {
+        title: "Accepter que les journées soient imprévisibles",
+        paragraphs: [
+          "Certaines journées sembleront fluides, d’autres beaucoup plus chaotiques.",
+          "Un bébé peut changer de rythme, avoir besoin de plus de contact, réclamer davantage ou dormir moins.",
+          "Ce n’est pas forcément un retour en arrière.",
+          "Le rythme se construit par ajustements successifs, avec des jours plus simples et des jours plus difficiles."
+        ]
+      },
+      {
+        title: "Protéger le repos",
+        paragraphs: [
+          "Le repos doit devenir une priorité, pas un bonus.",
+          "Cela peut vouloir dire dormir pendant qu’un proche garde bébé, se coucher plus tôt, limiter les écrans la nuit ou accepter que certaines tâches attendent.",
+          "Même de courtes périodes de repos peuvent aider à tenir.",
+          "Si vous ne récupérez jamais, il faut réorganiser l’aide autour de vous."
+        ]
+      },
+      {
+        title: "Quand la charge mentale devient trop lourde",
+        paragraphs: [
+          "La charge mentale peut être très forte au retour à la maison.",
+          "Penser aux repas, aux couches, aux rendez-vous, au poids, aux papiers, aux visites et aux besoins du bébé peut devenir épuisant.",
+          "Il peut être utile de noter les tâches, de partager la liste avec l’autre parent et de déléguer une partie à des proches.",
+          "Vous n’avez pas à être la personne qui pense à tout."
+        ],
+        quote:
+          "Aider une mère, ce n’est pas seulement tenir le bébé : c’est aussi porter une partie de ce qu’elle doit anticiper."
+      },
+      {
+        title: "Les émotions du retour à la maison",
+        paragraphs: [
+          "Le retour à la maison peut réveiller beaucoup d’émotions.",
+          "Certaines mères se sentent heureuses, d’autres fragiles, inquiètes, seules ou dépassées.",
+          "Ces émotions peuvent varier au cours d’une même journée.",
+          "Si la tristesse, l’anxiété ou la culpabilité prennent trop de place, il faut en parler à un professionnel."
+        ]
+      },
+      {
+        title: "Quand bébé dort peu",
+        paragraphs: [
+          "Un bébé qui dort par petites périodes peut rendre l’organisation très difficile.",
+          "Il est utile de réduire les attentes et de chercher des relais courts plutôt que d’attendre une grande nuit réparatrice.",
+          "Préparer l’espace de nuit, alterner certains réveils quand c’est possible et limiter les stimulations peut aider.",
+          "Si bébé semble douloureux, boit peu ou pleure de façon inconsolable, demandez un avis."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vous n’arrivez plus à récupérer, si vous vous sentez dépassée tous les jours ou si vous ne savez plus comment organiser le quotidien.",
+          "Une sage-femme, la PMI, la maternité, le médecin ou un professionnel de santé mentale peuvent vous accompagner.",
+          "L’aide peut être pratique, médicale, émotionnelle ou familiale.",
+          "Il ne faut pas attendre que la situation devienne ingérable."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter pour bébé",
+        paragraphs: [
+          "Certains signes chez bébé doivent faire demander rapidement un avis.",
+          "Un bébé qui boit très peu ou refuse plusieurs repas.",
+          "Des couches très peu mouillées.",
+          "Une fièvre ou une température anormale selon les consignes reçues.",
+          "Une respiration difficile ou inhabituelle.",
+          "Un bébé très somnolent, difficile à réveiller ou inhabituellement mou.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Des pleurs inconsolables ou très inhabituels."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter pour le parent",
+        paragraphs: [
+          "Certains signes chez le parent doivent faire demander de l’aide.",
+          "Une fatigue extrême qui ne laisse aucun répit.",
+          "Une tristesse, une anxiété ou une culpabilité qui s’installent.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Des idées de se faire du mal ou la peur de faire du mal au bébé.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Dans les situations urgentes, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à rendre le retour à la maison plus doux.",
+          "Il peut apporter un repas, gérer une course, s’occuper du linge, accompagner un aîné, garder bébé pendant une sieste ou aider à prendre un rendez-vous.",
+          "Il peut aussi éviter les visites longues, les conseils non demandés et les remarques sur l’organisation.",
+          "Le soutien le plus précieux est souvent simple, concret et respectueux."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le retour à la maison demande un vrai temps d’adaptation.",
+          "Il est normal que le rythme soit irrégulier au début.",
+          "Les priorités sont les besoins de bébé, la récupération de la mère, le repos et l’aide concrète.",
+          "Les visites, le ménage et les attentes extérieures peuvent être réduits.",
+          "Si bébé présente un signe inquiétant ou si le parent se sent en grande difficulté, il faut demander de l’aide rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
