@@ -3621,6 +3621,186 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "se-sentir-depassee-apres-la-naissance-est-ce-normal",
+    title: "Se sentir dépassée après la naissance : est-ce normal ?",
+    description:
+      "Après la naissance, il est fréquent de se sentir dépassée par la fatigue, les émotions, les soins du bébé et le changement de rythme. Voici ce qui peut être normal et les signes qui doivent faire demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Se sentir dépassée après la naissance est fréquent, surtout les premiers jours et les premières semaines.",
+          "La fatigue, le manque de sommeil, les douleurs, les pleurs du bébé, l’allaitement ou les biberons peuvent donner l’impression de ne plus maîtriser grand-chose.",
+          "Ce ressenti ne veut pas dire que vous êtes une mauvaise mère.",
+          "En revanche, si ce sentiment devient permanent, s’aggrave ou s’accompagne d’idées noires, il faut demander de l’aide.",
+          "Vous avez le droit d’être soutenue concrètement : repos, repas, ménage, relais avec le bébé, écoute et suivi professionnel si besoin."
+        ],
+        quote:
+          "Être dépassée après la naissance ne veut pas dire être incapable : cela peut simplement vouloir dire que la charge est trop lourde à porter seule."
+      },
+      {
+        title: "Un bouleversement immense",
+        paragraphs: [
+          "Après la naissance, tout change très vite.",
+          "Le corps récupère, le sommeil est coupé, le bébé demande beaucoup d’attention et les journées peuvent perdre leur rythme habituel.",
+          "Même lorsque la naissance s’est bien passée et que le bébé va bien, cette période peut être déroutante.",
+          "Il est normal d’avoir besoin de temps pour trouver de nouveaux repères."
+        ]
+      },
+      {
+        title: "Pourquoi on peut se sentir dépassée",
+        paragraphs: [
+          "La sensation d’être dépassée vient souvent de plusieurs choses en même temps.",
+          "La fatigue, les douleurs, les saignements, les hormones, les visites, les conseils contradictoires et la responsabilité d’un nouveau-né peuvent s’accumuler.",
+          "Le bébé ne suit pas encore un rythme prévisible, ce qui peut donner l’impression d’être toujours en réaction.",
+          "Quand tout arrive en même temps, même les gestes simples peuvent sembler difficiles."
+        ]
+      },
+      {
+        title: "Ce que cela peut provoquer",
+        paragraphs: [
+          "Se sentir dépassée peut se traduire par des pleurs, de l’irritabilité, une sensation d’échec, une envie de s’isoler ou une impression de ne jamais y arriver.",
+          "Certaines mères ont l’impression de ne plus reconnaître leur vie.",
+          "D’autres se sentent coupables de ne pas être aussi heureuses qu’elles l’imaginaient.",
+          "Ces ressentis sont fréquents et méritent d’être accueillis sans jugement."
+        ]
+      },
+      {
+        title: "Ce qui peut être normal au début",
+        paragraphs: [
+          "Il peut être normal de pleurer facilement, de douter, d’être plus sensible ou de se sentir perdue les premiers jours.",
+          "Le baby blues peut rendre les émotions très fortes et changeantes.",
+          "Il peut aussi être normal d’avoir besoin de repos, de silence et d’aide concrète.",
+          "Ce qui compte, c’est que ces sensations puissent s’apaiser progressivement avec du soutien."
+        ],
+        quote:
+          "Le post-partum n’est pas une période où l’on doit tout gérer seule : c’est une période où l’on devrait être entourée."
+      },
+      {
+        title: "Quand cela devient plus préoccupant",
+        paragraphs: [
+          "Le sentiment d’être dépassée devient préoccupant lorsqu’il ne laisse plus de répit.",
+          "Si vous vous sentez en échec toute la journée, si vous pleurez très souvent, si vous n’arrivez plus à dormir même quand bébé dort, ou si vous avez peur d’être seule avec lui, il faut en parler.",
+          "Il faut aussi demander de l’aide si l’angoisse, la tristesse ou la culpabilité s’installent.",
+          "Vous n’avez pas besoin d’attendre d’être au bout pour consulter."
+        ]
+      },
+      {
+        title: "La fatigue peut tout amplifier",
+        paragraphs: [
+          "Le manque de sommeil rend tout plus difficile.",
+          "Il diminue la patience, augmente les émotions, rend les décisions plus lourdes et peut donner l’impression que rien ne va s’améliorer.",
+          "Même une courte période de repos peut parfois changer la manière de vivre une journée.",
+          "Organiser du relais, même imparfait, peut aider à réduire cette sensation de débordement."
+        ]
+      },
+      {
+        title: "Les conseils contradictoires",
+        paragraphs: [
+          "Après la naissance, les parents reçoivent souvent beaucoup de conseils.",
+          "Certains peuvent être utiles, d’autres contradictoires ou culpabilisants.",
+          "Quand tout le monde donne son avis sur le sommeil, les pleurs, l’allaitement, le biberon ou les bras, il devient difficile de se faire confiance.",
+          "Choisir un ou deux professionnels ou proches de référence peut aider à retrouver de la clarté."
+        ]
+      },
+      {
+        title: "Le bébé qui pleure beaucoup",
+        paragraphs: [
+          "Les pleurs du bébé peuvent être très difficiles à vivre, surtout quand on est épuisée.",
+          "Un bébé peut pleurer parce qu’il a faim, besoin de contact, de sommeil, de changement, ou simplement parce qu’il décharge les tensions de la journée.",
+          "Mais si les pleurs vous inquiètent, si bébé semble douloureux, s’il boit peu ou si vous sentez que vous perdez pied, il faut demander de l’aide.",
+          "Personne ne devrait rester seule face à des pleurs qui deviennent insupportables."
+        ]
+      },
+      {
+        title: "Demander de l’aide sans culpabiliser",
+        paragraphs: [
+          "Demander de l’aide peut être difficile, surtout lorsqu’on pense devoir y arriver seule.",
+          "Pourtant, le post-partum est une période où l’aide concrète est essentielle.",
+          "Il peut s’agir de repas, de courses, de ménage, de relais avec le bébé, d’aide pour les aînés ou simplement d’une présence calme.",
+          "Recevoir de l’aide ne retire rien à votre rôle de mère."
+        ]
+      },
+      {
+        title: "Ce qui peut aider au quotidien",
+        paragraphs: [
+          "Il peut être utile de réduire les attentes pendant quelques semaines.",
+          "Le strict nécessaire suffit : nourrir bébé, manger, boire, dormir dès que possible, se laver si l’on peut, et demander du relais.",
+          "Limiter les visites, préparer un coin de repos, accepter des plats déjà faits ou déléguer les tâches peut alléger la charge.",
+          "Le but n’est pas d’avoir une maison parfaite, mais de protéger la récupération."
+        ]
+      },
+      {
+        title: "Quand parler à un professionnel ?",
+        paragraphs: [
+          "Parlez à un professionnel si vous vous sentez dépassée chaque jour, si vous avez l’impression de ne plus y arriver, ou si la fatigue devient écrasante.",
+          "Une sage-femme, un médecin, la PMI, la maternité, un psychologue ou un psychiatre peuvent vous écouter et vous orienter.",
+          "Il est aussi utile de consulter si vous vous sentez très anxieuse, très triste, isolée ou incapable de récupérer.",
+          "L’aide peut être simple, concrète et progressive."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en arrêtant de demander seulement “ça va ?” et en proposant une aide précise.",
+          "Apporter un repas, lancer une machine, garder le bébé pendant une douche, gérer les aînés ou accompagner à un rendez-vous peut faire une vraie différence.",
+          "Il est aussi important d’écouter sans minimiser.",
+          "Dire “je vois que c’est beaucoup, je vais t’aider” est souvent plus utile que donner un conseil de plus."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Se sentir dépassée après la naissance est fréquent et ne signifie pas que vous êtes une mauvaise mère.",
+          "La fatigue, les hormones, les douleurs, les pleurs et la charge mentale peuvent rendre les premiers jours très intenses.",
+          "Ce ressenti doit diminuer avec du repos, du soutien et des repères.",
+          "S’il devient permanent, s’aggrave ou s’accompagne d’idées noires, il faut demander de l’aide.",
+          "Vous avez le droit d’être accompagnée : le post-partum ne devrait pas se traverser seule."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — Santé mentale après la naissance",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Dépression du post-partum",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
