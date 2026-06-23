@@ -1463,6 +1463,233 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "allaitement-les-premiers-jours-a-quoi-sattendre",
+    title: "Allaitement : les premiers jours, à quoi s’attendre ?",
+    description:
+      "Les premiers jours d’allaitement peuvent être intenses : colostrum, montée de lait, tétées fréquentes, douleurs, position, poids du bébé et signes qui doivent faire demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les premiers jours d’allaitement sont souvent faits de tétées très fréquentes, parfois longues et rapprochées.",
+          "Avant la montée de lait, le bébé reçoit du colostrum, un lait très concentré produit en petite quantité.",
+          "La montée de lait arrive généralement quelques jours après la naissance et peut rendre les seins tendus, chauds ou sensibles.",
+          "Une gêne au début de la tétée peut arriver, mais une douleur forte, des crevasses ou une douleur qui dure doivent faire demander de l’aide.",
+          "Un bébé très somnolent, qui tète peu, mouille peu ses couches ou perd trop de poids doit être évalué rapidement."
+        ],
+        quote:
+          "Les premiers jours d’allaitement ne servent pas à être parfaite : ils servent à apprendre, observer et se faire accompagner."
+      },
+      {
+        title: "Un apprentissage pour la mère et le bébé",
+        paragraphs: [
+          "L’allaitement peut sembler naturel, mais il demande souvent un vrai temps d’apprentissage.",
+          "Le bébé apprend à téter, la mère apprend à l’installer, à reconnaître les signes de faim et à comprendre ses sensations.",
+          "Les premiers jours peuvent donc être intenses, même lorsque tout se passe bien.",
+          "Il est normal d’avoir besoin d’aide, de réassurance et d’ajustements."
+        ]
+      },
+      {
+        title: "Le colostrum : le premier lait",
+        paragraphs: [
+          "Avant la montée de lait, les seins produisent du colostrum.",
+          "Il est souvent épais, jaune ou doré, et produit en petite quantité.",
+          "Cette petite quantité est adaptée aux besoins du nouveau-né, dont l’estomac est encore très petit.",
+          "Le colostrum est très concentré et joue un rôle important dans les tout premiers jours."
+        ]
+      },
+      {
+        title: "Des tétées très fréquentes",
+        paragraphs: [
+          "Les premiers jours, le bébé peut demander à téter très souvent.",
+          "Les tétées peuvent être rapprochées, irrégulières, parfois longues, parfois courtes.",
+          "Cela ne veut pas forcément dire que vous n’avez pas assez de lait.",
+          "Ces tétées fréquentes stimulent la lactation et aident le bébé à apprendre à téter efficacement."
+        ]
+      },
+      {
+        title: "Reconnaître les signes de faim",
+        paragraphs: [
+          "Il est souvent plus simple de proposer le sein avant que le bébé pleure fortement.",
+          "Les signes précoces peuvent être : bouger la tête, ouvrir la bouche, chercher avec les lèvres, porter les mains à la bouche ou s’agiter doucement.",
+          "Les pleurs peuvent être un signe tardif de faim.",
+          "Un bébé très énervé peut avoir plus de mal à prendre le sein, d’où l’intérêt d’observer les petits signaux."
+        ]
+      },
+      {
+        title: "La montée de lait",
+        paragraphs: [
+          "La montée de lait arrive généralement quelques jours après la naissance.",
+          "Les seins peuvent devenir plus tendus, chauds, lourds ou sensibles.",
+          "Cette étape peut être impressionnante, mais elle est fréquente.",
+          "Des tétées efficaces, une bonne installation et un accompagnement si les seins sont très tendus peuvent aider."
+        ]
+      },
+      {
+        title: "Quand les seins sont très tendus",
+        paragraphs: [
+          "Si les seins sont très durs ou douloureux, le bébé peut avoir plus de difficulté à prendre le sein.",
+          "Un accompagnement par une sage-femme, une consultante en lactation ou un professionnel formé peut aider à améliorer la prise du sein.",
+          "Il peut aussi être utile d’assouplir doucement l’aréole avant la tétée selon les conseils reçus.",
+          "Il ne faut pas rester seule avec un engorgement douloureux ou une tétée impossible."
+        ]
+      },
+      {
+        title: "La prise du sein",
+        paragraphs: [
+          "Une bonne prise du sein aide à rendre la tétée plus efficace et plus confortable.",
+          "Le bébé doit être bien rapproché, ventre contre vous, avec la tête dans l’axe du corps.",
+          "Sa bouche doit prendre une bonne partie de l’aréole, pas seulement le bout du mamelon.",
+          "Si la douleur est forte ou si le mamelon ressort pincé, il faut demander de l’aide pour ajuster la position."
+        ],
+        quote:
+          "Une tétée peut tirer au début, mais elle ne devrait pas être une douleur à supporter pendant toute la prise."
+      },
+      {
+        title: "Les douleurs et crevasses",
+        paragraphs: [
+          "Une sensibilité au début peut arriver, surtout les premiers jours.",
+          "En revanche, une douleur vive, des crevasses, des saignements ou une douleur qui dure toute la tétée ne doivent pas être banalisés.",
+          "La cause est souvent liée à la position, à la prise du sein ou parfois à une difficulté de succion du bébé.",
+          "Plus l’aide arrive tôt, plus il est possible d’éviter que la douleur s’installe."
+        ]
+      },
+      {
+        title: "Comment savoir si bébé boit assez ?",
+        paragraphs: [
+          "Les professionnels surveillent plusieurs éléments : l’éveil du bébé, sa façon de téter, ses urines, ses selles, son poids et son comportement général.",
+          "Un bébé qui tète efficacement alterne souvent des mouvements de succion et des pauses.",
+          "Les couches mouillées et les selles donnent aussi des indications importantes.",
+          "Le suivi du poids dans les premiers jours permet de vérifier que l’alimentation se met correctement en place."
+        ]
+      },
+      {
+        title: "La perte de poids du nouveau-né",
+        paragraphs: [
+          "Il est fréquent qu’un nouveau-né perde un peu de poids après la naissance.",
+          "Cette perte est surveillée par l’équipe, puis par les professionnels qui vous suivent après la sortie.",
+          "Si la perte est importante, si le bébé reprend mal ou s’il semble trop somnolent, il faut être accompagné rapidement.",
+          "L’objectif n’est pas de culpabiliser, mais de s’assurer que le bébé reçoit ce dont il a besoin."
+        ]
+      },
+      {
+        title: "Bébé somnolent : que faire ?",
+        paragraphs: [
+          "Certains bébés dorment beaucoup les premiers jours.",
+          "Un bébé très somnolent peut parfois téter moins efficacement ou moins souvent.",
+          "Il faut demander un avis si vous avez du mal à le réveiller pour les tétées, s’il tète très peu, s’il mouille peu ses couches ou s’il semble faible.",
+          "Un professionnel pourra évaluer la situation et proposer des solutions adaptées."
+        ]
+      },
+      {
+        title: "Les tétées groupées",
+        paragraphs: [
+          "Certains bébés réclament le sein très souvent sur une période courte, notamment en fin de journée ou la nuit.",
+          "On parle parfois de tétées groupées.",
+          "Cela peut être fatigant et déstabilisant, mais ce n’est pas toujours le signe d’un manque de lait.",
+          "Si vous avez un doute sur l’efficacité des tétées ou la prise de poids, demandez un avis."
+        ]
+      },
+      {
+        title: "Allaiter après une césarienne",
+        paragraphs: [
+          "Il est possible d’allaiter après une césarienne.",
+          "Vous pouvez avoir besoin d’aide pour trouver une position qui ne tire pas sur la cicatrice.",
+          "Les positions sur le côté ou avec le bébé bien soutenu peuvent être plus confortables.",
+          "Demandez qu’on vous aide à installer le bébé, surtout les premiers jours."
+        ]
+      },
+      {
+        title: "Allaiter après une voie basse douloureuse",
+        paragraphs: [
+          "Après une voie basse, la douleur du périnée peut rendre certaines positions inconfortables.",
+          "Il est possible d’allaiter allongée sur le côté ou bien installée avec des coussins.",
+          "L’objectif est d’éviter les tensions inutiles dans le dos, les bras, le ventre ou le périnée.",
+          "Une installation confortable aide autant la mère que le bébé."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Il ne faut pas attendre d’être épuisée ou en grande douleur pour demander de l’aide.",
+          "Une sage-femme, une consultante en lactation, la maternité, la PMI ou un professionnel formé peuvent observer une tétée et proposer des ajustements.",
+          "L’aide peut porter sur la position, la prise du sein, la douleur, la montée de lait, le rythme des tétées ou la prise de poids du bébé.",
+          "Être accompagnée tôt peut vraiment changer les premiers jours."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un bébé qui tète très peu ou qui est difficile à réveiller.",
+          "Des couches très peu mouillées ou une absence de selles selon l’âge du bébé.",
+          "Une perte de poids importante ou une reprise de poids insuffisante.",
+          "Une jaunisse marquée ou un bébé qui semble très jaune.",
+          "Une douleur forte au sein, des crevasses importantes ou des saignements.",
+          "Un sein rouge, chaud, très douloureux avec fièvre ou frissons.",
+          "Une mère épuisée, en détresse ou qui a l’impression de ne plus pouvoir continuer."
+        ]
+      },
+      {
+        title: "Et si l’allaitement ne se passe pas comme prévu ?",
+        paragraphs: [
+          "Les premiers jours peuvent ne pas ressembler à ce que vous aviez imaginé.",
+          "Il peut y avoir besoin d’aide, de tire-lait, de compléments temporaires, de repos ou d’un autre projet d’alimentation.",
+          "Cela ne veut pas dire que vous avez échoué.",
+          "L’important est que le bébé soit nourri, que la mère soit soutenue et que les décisions soient prises avec des informations claires."
+        ],
+        quote:
+          "Un allaitement accompagné vaut mieux qu’un allaitement vécu seule dans la douleur ou la culpabilité."
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut soutenir l’allaitement sans tout commenter.",
+          "Il peut apporter de l’eau, préparer un repas, installer des coussins, prendre le relais pour le change ou permettre à la mère de se reposer.",
+          "Il peut aussi protéger la mère des remarques contradictoires ou culpabilisantes.",
+          "Un soutien calme et concret aide souvent plus que des conseils nombreux."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les premiers jours d’allaitement sont une période d’apprentissage pour la mère et le bébé.",
+          "Les tétées fréquentes sont courantes et participent à la mise en route de la lactation.",
+          "Le colostrum est produit en petite quantité, mais il est adapté aux tout premiers besoins du bébé.",
+          "Une douleur forte, des crevasses, un bébé très somnolent ou des couches peu mouillées doivent faire demander un avis.",
+          "L’allaitement doit être accompagné, jamais vécu comme une épreuve à traverser seule."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Allaitement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Ressources allaitement",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
