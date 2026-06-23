@@ -3801,6 +3801,215 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "le-manque-de-sommeil-apres-la-naissance-comment-tenir",
+    title: "Le manque de sommeil après la naissance : comment tenir ?",
+    description:
+      "Après la naissance, le sommeil est souvent très fragmenté. Voici comment tenir, organiser du relais, récupérer par petites périodes et repérer les signes qui doivent faire demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le manque de sommeil après la naissance est fréquent, mais il peut devenir très éprouvant.",
+          "Les nuits sont souvent fragmentées par les tétées, les biberons, les changes, les pleurs, les douleurs ou l’inquiétude.",
+          "L’objectif n’est pas de dormir parfaitement, mais de récupérer par petites périodes et de créer du relais.",
+          "Le manque de sommeil peut amplifier les pleurs, l’anxiété, l’irritabilité, la tristesse et la sensation d’être dépassée.",
+          "Si vous ne dormez presque plus, même quand bébé dort, ou si vous avez des idées noires, il faut demander de l’aide rapidement."
+        ],
+        quote:
+          "Après la naissance, tenir ne devrait pas vouloir dire s’épuiser seule : le sommeil devient un sujet de santé, pas seulement d’organisation."
+      },
+      {
+        title: "Pourquoi le sommeil devient si difficile",
+        paragraphs: [
+          "Avec un nouveau-né, le sommeil change brutalement.",
+          "Le bébé se réveille souvent pour manger, être changé, rassuré ou simplement parce que son rythme n’est pas encore installé.",
+          "La mère peut aussi être réveillée par les douleurs, les saignements, la montée de lait, les inquiétudes ou les émotions.",
+          "Même lorsque le bébé dort, il peut être difficile de se détendre assez pour dormir."
+        ]
+      },
+      {
+        title: "Un sommeil fragmenté, pas forcément un manque de volonté",
+        paragraphs: [
+          "Beaucoup de parents ont l’impression de mal s’organiser parce qu’ils sont épuisés.",
+          "Pourtant, le sommeil fragmenté fait partie des réalités fréquentes du post-partum.",
+          "Le problème n’est pas seulement la quantité d’heures, mais aussi le fait de ne pas dormir assez longtemps d’affilée.",
+          "Cette fragmentation peut rendre la récupération plus difficile, même si vous avez l’impression de vous allonger souvent."
+        ]
+      },
+      {
+        title: "Dormir quand bébé dort : utile, mais pas toujours possible",
+        paragraphs: [
+          "On entend souvent qu’il faut dormir quand bébé dort.",
+          "Ce conseil peut être utile, mais il peut aussi être culpabilisant si vous n’y arrivez pas.",
+          "Certaines mères sont trop tendues, trop inquiètes, trop douloureuses ou trop sollicitées pour réussir à s’endormir.",
+          "L’idée n’est pas de se forcer à dormir, mais de protéger de vrais temps de repos, même courts."
+        ],
+        quote:
+          "Se reposer, ce n’est pas seulement dormir : c’est aussi arrêter de devoir gérer, anticiper et répondre à tout."
+      },
+      {
+        title: "Récupérer par petites périodes",
+        paragraphs: [
+          "Les premières semaines, il est parfois plus réaliste de chercher des petites récupérations que de longues nuits.",
+          "Une sieste courte, un moment allongée dans le calme, une douche sans interruption ou une heure sans responsabilité peuvent déjà aider.",
+          "Ces temps doivent être protégés autant que possible.",
+          "Ils ne remplacent pas une nuit complète, mais ils peuvent éviter de s’effondrer totalement."
+        ]
+      },
+      {
+        title: "Mettre en place du relais",
+        paragraphs: [
+          "Le relais est l’un des points les plus importants pour tenir.",
+          "Il peut venir de l’autre parent, d’un proche, d’une amie, d’un membre de la famille, d’une sage-femme ou d’un soutien extérieur.",
+          "Le relais peut être simple : tenir le bébé pendant que la mère dort, gérer un biberon si l’organisation le permet, préparer un repas, faire une course ou filtrer les visites.",
+          "Il vaut mieux demander une aide précise que rester seule à tout porter."
+        ]
+      },
+      {
+        title: "Si bébé est allaité",
+        paragraphs: [
+          "Quand bébé est allaité, la mère peut avoir l’impression d’être la seule à pouvoir répondre aux réveils.",
+          "Pourtant, l’entourage peut aider autrement : apporter le bébé, le changer, le recoucher, gérer les tâches autour ou permettre à la mère de se rendormir plus vite.",
+          "Si l’épuisement devient trop important, une sage-femme ou une consultante en lactation peut aider à réfléchir à une organisation plus soutenable.",
+          "L’objectif est de préserver la mère autant que l’allaitement, si elle souhaite le poursuivre."
+        ]
+      },
+      {
+        title: "Si bébé prend le biberon",
+        paragraphs: [
+          "Avec le biberon, le relais peut parfois être plus facile à organiser.",
+          "L’autre parent ou une personne de confiance peut prendre certains repas pour permettre à la mère de dormir un peu plus longtemps.",
+          "Il peut être utile de préparer l’espace à l’avance : matériel propre, eau, doseur, lumière douce et endroit confortable.",
+          "Même avec le biberon, il faut éviter qu’un seul parent porte toutes les nuits."
+        ]
+      },
+      {
+        title: "Limiter ce qui fatigue encore plus",
+        paragraphs: [
+          "Certaines choses aggravent l’épuisement : trop de visites, trop de messages, vouloir ranger, recevoir, répondre, expliquer ou tout faire comme avant.",
+          "Pendant quelques semaines, le strict nécessaire suffit.",
+          "Les repas simples, la maison imparfaite, les lessives en retard et les visites repoussées peuvent être des choix de protection.",
+          "Le post-partum n’est pas une période où il faut prouver que l’on gère."
+        ]
+      },
+      {
+        title: "La nuit : simplifier au maximum",
+        paragraphs: [
+          "La nuit, chaque geste supplémentaire fatigue.",
+          "Préparer ce dont vous avez besoin avant de vous coucher peut aider : eau, protections, coussin, biberons ou matériel d’allaitement selon votre situation.",
+          "Une lumière douce, un téléphone éloigné si possible et des gestes répétitifs peuvent aider à ne pas trop se réveiller.",
+          "L’objectif est de traverser la nuit avec le moins de stimulation possible."
+        ]
+      },
+      {
+        title: "Le téléphone et les recherches nocturnes",
+        paragraphs: [
+          "La nuit, les inquiétudes peuvent pousser à chercher beaucoup d’informations.",
+          "Les recherches sur Internet peuvent parfois rassurer, mais elles peuvent aussi augmenter l’anxiété et empêcher de se rendormir.",
+          "Si une question revient souvent, notez-la pour la poser à un professionnel plutôt que de chercher pendant des heures.",
+          "En cas de signe inquiétant réel, il faut bien sûr contacter la maternité, une sage-femme, un médecin ou les urgences."
+        ]
+      },
+      {
+        title: "Quand la fatigue joue sur le moral",
+        paragraphs: [
+          "Le manque de sommeil peut amplifier les émotions.",
+          "Il peut rendre plus irritable, plus triste, plus anxieuse ou donner l’impression que tout est impossible.",
+          "Cela ne veut pas dire que vous êtes faible.",
+          "Mais si la détresse augmente, si vous pleurez très souvent ou si vous ne vous sentez plus capable de tenir, il faut demander de l’aide."
+        ],
+        quote:
+          "Le sommeil manque au corps, mais aussi au moral : l’épuisement peut faire paraître tout plus sombre."
+      },
+      {
+        title: "Le sommeil impossible malgré la fatigue",
+        paragraphs: [
+          "Un signe important à surveiller est l’impossibilité de dormir même quand bébé dort.",
+          "Cela peut être lié à l’anxiété, à l’hypervigilance, aux pensées qui tournent ou à une souffrance psychique qui s’installe.",
+          "Si vous êtes épuisée mais incapable de dormir, si vous restez en alerte permanente ou si vous vérifiez sans cesse le bébé, il faut en parler.",
+          "Ce n’est pas seulement un problème d’organisation : cela peut nécessiter un accompagnement."
+        ]
+      },
+      {
+        title: "Se relayer sans culpabilité",
+        paragraphs: [
+          "L’autre parent ou l’entourage peut parfois mieux tenir un créneau de nuit, un réveil ou un début de matinée.",
+          "Accepter ce relais ne veut pas dire abandonner son bébé.",
+          "Cela permet de récupérer pour pouvoir être plus disponible ensuite.",
+          "Le repos de la mère fait partie de la sécurité et du bien-être de toute la famille."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Il faut demander de l’aide si vous avez l’impression de ne plus récupérer du tout.",
+          "Il faut aussi en parler si vous ne dormez presque plus, si vous vous sentez en danger, si vous avez peur de vos pensées ou si la fatigue vous empêche de vous occuper du bébé.",
+          "Une sage-femme, un médecin, la PMI, la maternité, un psychologue ou un psychiatre peuvent vous aider à trouver des solutions.",
+          "Il n’est pas nécessaire d’attendre l’effondrement pour demander du soutien."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Des idées de se faire du mal.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en protégeant réellement le sommeil de la mère.",
+          "Cela peut vouloir dire prendre le bébé pendant une sieste, gérer un repas, s’occuper des aînés, préparer à manger ou éviter les visites inutiles.",
+          "Il peut aussi surveiller les signes d’épuisement important et proposer d’appeler un professionnel.",
+          "Dire “va dormir, je m’occupe de ça” peut être plus utile que beaucoup de conseils."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le manque de sommeil après la naissance est fréquent, mais il ne doit pas être minimisé.",
+          "Le but est de créer des moments de récupération, même courts, et de mettre en place du relais.",
+          "La fatigue peut amplifier l’anxiété, la tristesse, l’irritabilité et la sensation d’être dépassée.",
+          "Ne pas réussir à dormir même quand bébé dort peut être un signe à surveiller.",
+          "Si l’épuisement devient trop intense, s’accompagne d’idées noires ou de peur de ne plus tenir, il faut demander de l’aide rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — Santé mentale après la naissance",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Dépression du post-partum",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
