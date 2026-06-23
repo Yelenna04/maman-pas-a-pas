@@ -4856,6 +4856,223 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "visites-apres-la-naissance-comment-poser-ses-limites",
+    title: "Visites après la naissance : comment poser ses limites ?",
+    description:
+      "Après la naissance, les visites peuvent être joyeuses mais aussi fatigantes. Voici comment poser des limites, protéger le repos, organiser les passages et demander une aide vraiment utile.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, vous avez le droit de limiter, repousser ou refuser les visites.",
+          "Le repos de la mère, le calme du bébé et l’organisation du foyer passent avant les attentes de l’entourage.",
+          "Les visites courtes, annoncées et utiles sont souvent mieux vécues que les passages longs et imprévus.",
+          "Vous pouvez poser des règles simples : horaires, durée, hygiène, pas de visite malade, pas de conseils non demandés.",
+          "L’entourage peut aider en apportant un repas, en gérant une course ou en prenant le relais, plutôt qu’en venant seulement voir le bébé."
+        ],
+        quote:
+          "Poser des limites après la naissance, ce n’est pas rejeter les autres : c’est protéger une période fragile."
+      },
+      {
+        title: "Pourquoi les visites peuvent être difficiles",
+        paragraphs: [
+          "Après la naissance, les proches ont souvent très envie de rencontrer le bébé.",
+          "Cette envie est compréhensible, mais elle peut arriver au moment où les parents sont fatigués, la mère récupère et le rythme du bébé est encore imprévisible.",
+          "Une visite peut être agréable, mais aussi demander de l’énergie : ranger, accueillir, discuter, répondre aux questions, supporter les conseils ou gérer le bébé en même temps.",
+          "Il est donc normal de ressentir le besoin de filtrer les visites."
+        ]
+      },
+      {
+        title: "Vous avez le droit de dire non",
+        paragraphs: [
+          "Dire non à une visite ne veut pas dire que vous n’aimez pas vos proches.",
+          "Cela veut dire que vous respectez votre récupération, votre intimité et les besoins de votre bébé.",
+          "Vous pouvez repousser une visite, limiter sa durée ou choisir de ne voir que quelques personnes au début.",
+          "Votre post-partum n’a pas à s’adapter au planning de tout le monde."
+        ],
+        quote:
+          "Un bébé vient de naître, mais une mère vient aussi de traverser un événement physique et émotionnel majeur."
+      },
+      {
+        title: "Définir vos limites avant les visites",
+        paragraphs: [
+          "Il peut être utile de décider à l’avance ce que vous acceptez ou non.",
+          "Par exemple : pas de visite les premiers jours, visites de trente minutes, pas de passage sans prévenir, pas de visite malade, pas de prise du bébé sans accord.",
+          "Ces règles peuvent être partagées simplement avec l’entourage.",
+          "Les limites sont plus faciles à poser quand elles sont claires pour les deux parents."
+        ]
+      },
+      {
+        title: "Des visites courtes et annoncées",
+        paragraphs: [
+          "Les visites courtes sont souvent plus adaptées aux premiers jours.",
+          "Elles permettent de préserver le repos, les tétées, les biberons, les soins, les siestes et les moments de calme.",
+          "Demander aux proches de prévenir avant de venir évite les passages au mauvais moment.",
+          "Vous pouvez aussi proposer un créneau précis, plutôt que laisser la visite s’installer sans limite."
+        ]
+      },
+      {
+        title: "Exemples de phrases pour poser une limite",
+        paragraphs: [
+          "Vous pouvez dire : “On a besoin de repos, on vous proposera un moment quand ce sera possible.”",
+          "Ou : “Les visites seront courtes pour l’instant, bébé et moi récupérons.”",
+          "Ou encore : “On préfère éviter les visites imprévues, envoyez-nous un message avant de passer.”",
+          "Une phrase simple, répétée calmement, suffit souvent à poser le cadre."
+        ]
+      },
+      {
+        title: "Quand l’autre parent peut filtrer",
+        paragraphs: [
+          "L’autre parent peut jouer un rôle important pour protéger la mère et le bébé.",
+          "Il peut répondre aux messages, organiser les horaires, annoncer les limites et rappeler qu’une visite doit rester courte.",
+          "Cela évite à la mère de devoir justifier ses besoins alors qu’elle récupère.",
+          "Protéger le calme du foyer fait aussi partie du rôle parental."
+        ]
+      },
+      {
+        title: "Hygiène et santé du bébé",
+        paragraphs: [
+          "Les premiers temps, il est raisonnable d’être attentive à l’hygiène.",
+          "Les visiteurs doivent se laver les mains avant de toucher le bébé.",
+          "Une personne malade, enrhumée, fiévreuse ou ayant été récemment exposée à une infection devrait repousser sa visite.",
+          "Vous pouvez aussi demander d’éviter les bisous au bébé si cela vous rassure ou si un professionnel vous l’a conseillé."
+        ]
+      },
+      {
+        title: "Le bébé n’a pas besoin de passer de bras en bras",
+        paragraphs: [
+          "Les proches peuvent avoir envie de porter le bébé, mais cela ne doit jamais être automatique.",
+          "Bébé peut avoir besoin de calme, de sommeil, d’être nourri ou de rester contre ses parents.",
+          "Vous avez le droit de dire : “Il dort, on le laisse tranquille” ou “Je préfère le garder contre moi pour le moment.”",
+          "Le confort du bébé et celui des parents passent avant la politesse."
+        ]
+      },
+      {
+        title: "Les conseils non demandés",
+        paragraphs: [
+          "Les visites peuvent parfois venir avec beaucoup de conseils.",
+          "Sommeil, allaitement, biberon, pleurs, bras, tétine, vêtements : chacun peut avoir son avis.",
+          "Si ces conseils vous fatiguent ou vous font douter, vous pouvez poser une limite.",
+          "Par exemple : “Merci, mais on suit les conseils de notre sage-femme” ou “On préfère ne pas recevoir trop d’avis pour le moment.”"
+        ]
+      },
+      {
+        title: "Demander une aide utile",
+        paragraphs: [
+          "Une visite peut être vraiment aidante si elle soulage le quotidien.",
+          "Vous pouvez demander un repas, une course, une lessive, un trajet, de l’aide pour un aîné ou un moment de relais pour dormir.",
+          "Les proches ne savent pas toujours quoi faire : une demande précise les aide à être utiles.",
+          "Venir voir le bébé peut attendre ; aider les parents à récupérer est souvent plus précieux."
+        ],
+        quote:
+          "La meilleure visite en post-partum est parfois celle qui dépose un repas, lance une machine et repart sans épuiser les parents."
+      },
+      {
+        title: "Quand les proches se vexent",
+        paragraphs: [
+          "Il est possible que certaines personnes se vexent si vous limitez les visites.",
+          "Cela peut être difficile à vivre, surtout quand vous êtes déjà fatiguée.",
+          "Mais leur déception ne doit pas passer avant votre récupération.",
+          "Vous pouvez rester ferme sans vous justifier longuement : “On comprend que vous ayez envie de venir, mais pour l’instant on a besoin de repos.”"
+        ]
+      },
+      {
+        title: "Protéger les moments d’alimentation",
+        paragraphs: [
+          "Les tétées et les biberons peuvent demander du calme, surtout au début.",
+          "Si vous n’êtes pas à l’aise de nourrir bébé devant les visiteurs, vous pouvez vous isoler ou demander à la visite de partir.",
+          "Vous pouvez aussi expliquer que les repas du bébé ne sont pas des moments de spectacle.",
+          "Votre confort compte autant que celui du bébé."
+        ]
+      },
+      {
+        title: "Limiter les photos et les partages",
+        paragraphs: [
+          "Les photos du bébé peuvent être un sujet sensible.",
+          "Vous pouvez poser des règles : pas de photo, pas de publication sur les réseaux sociaux, pas d’envoi à d’autres personnes sans accord.",
+          "Il est préférable de le dire clairement dès le départ.",
+          "Le droit à l’intimité de votre enfant et de votre famille mérite d’être respecté."
+        ]
+      },
+      {
+        title: "Si vous voulez rester dans votre bulle",
+        paragraphs: [
+          "Certaines familles ont besoin de quelques jours ou semaines dans leur bulle.",
+          "C’est une façon de se reposer, de découvrir le bébé et de construire ses premiers repères.",
+          "Ce besoin est légitime, même si l’entourage est impatient.",
+          "Vous pouvez donner des nouvelles par message ou photo si vous le souhaitez, sans ouvrir la porte à des visites immédiates."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide professionnelle ?",
+        paragraphs: [
+          "Si les visites ou les tensions familiales deviennent trop lourdes, il peut être utile d’en parler à une sage-femme, à la PMI, à un médecin ou à un professionnel de santé mentale.",
+          "C’est particulièrement important si vous vous sentez envahie, anxieuse, coupable ou incapable de poser des limites.",
+          "Un professionnel peut vous aider à distinguer ce qui relève d’une organisation normale et ce qui devient trop pesant.",
+          "Vous n’avez pas à tout gérer seule."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander de l’aide",
+        paragraphs: [
+          "Certains signes chez le parent doivent faire demander un avis.",
+          "Une fatigue extrême qui ne laisse aucun répit.",
+          "Une anxiété importante avant, pendant ou après les visites.",
+          "Une tristesse, une culpabilité ou une colère qui s’installent.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Des idées de se faire du mal ou la peur de faire du mal au bébé.",
+          "Dans les situations urgentes, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut respecter les limites sans les discuter.",
+          "Il peut demander ce qui serait vraiment utile, venir à l’heure prévue, rester peu de temps, se laver les mains et repartir si les parents sont fatigués.",
+          "Il peut aussi éviter les remarques, les conseils non demandés et les comparaisons.",
+          "Aimer le bébé, c’est aussi protéger le calme de ses parents."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après la naissance, vous avez le droit de limiter les visites.",
+          "Les visites doivent respecter le repos, l’intimité, l’alimentation du bébé et la récupération de la mère.",
+          "Des limites simples peuvent être posées à l’avance : horaires, durée, hygiène, pas de visite malade, pas de photos sans accord.",
+          "Les proches peuvent aider concrètement plutôt que seulement passer voir le bébé.",
+          "Si la pression de l’entourage devient trop lourde, demandez du soutien."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
