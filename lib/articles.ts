@@ -5492,6 +5492,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "les-rendez-vous-apres-la-naissance-maman-et-bebe-que-faut-il-prevoir",
+    title: "Les rendez-vous après la naissance : maman et bébé, que faut-il prévoir ?",
+    description:
+      "Après la naissance, plusieurs rendez-vous permettent de suivre la récupération de la mère et la santé du bébé. Voici les consultations à prévoir, les sujets à aborder et les signes qui doivent faire demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, le suivi concerne à la fois le bébé et la mère.",
+          "Les premiers jours, une sage-femme, la maternité, la PMI ou le médecin peuvent vérifier l’alimentation, le poids, les couches, la jaunisse et la récupération.",
+          "La mère doit aussi être suivie : saignements, douleurs, cicatrice, périnée, moral, allaitement ou biberon, contraception et fatigue.",
+          "La consultation postnatale permet de faire le point quelques semaines après l’accouchement.",
+          "Il ne faut pas attendre le rendez-vous prévu si un signe vous inquiète chez bébé ou chez la mère."
+        ],
+        quote:
+          "Après la naissance, le suivi ne concerne pas seulement le bébé : la mère aussi a besoin d’être regardée, écoutée et accompagnée."
+      },
+      {
+        title: "Pourquoi ces rendez-vous sont importants",
+        paragraphs: [
+          "Le retour à la maison marque le début d’une nouvelle période de suivi.",
+          "Le bébé doit être surveillé dans ses premiers jours et ses premières semaines : alimentation, poids, éveil, couches, jaunisse, sommeil et comportement.",
+          "La mère, elle aussi, récupère d’un accouchement, qu’il ait eu lieu par voie basse ou par césarienne.",
+          "Les rendez-vous permettent de vérifier que tout évolue bien, de poser des questions et de demander de l’aide avant que les difficultés s’installent."
+        ]
+      },
+      {
+        title: "Le suivi dans les premiers jours",
+        paragraphs: [
+          "Selon la sortie de maternité et votre situation, un suivi peut être organisé rapidement après le retour à la maison.",
+          "Une sage-femme peut passer à domicile ou vous recevoir pour vérifier la santé de la mère et celle du bébé.",
+          "Ce premier suivi est souvent très rassurant, car il permet de poser toutes les questions qui apparaissent une fois rentrés.",
+          "N’hésitez pas à noter vos doutes avant le rendez-vous pour ne rien oublier."
+        ]
+      },
+      {
+        title: "Pour bébé : poids, alimentation et couches",
+        paragraphs: [
+          "Chez le bébé, les professionnels surveillent notamment la prise alimentaire et l’évolution du poids.",
+          "Ils peuvent vous demander comment se passent les tétées ou les biberons, combien de couches sont mouillées et comment bébé se comporte.",
+          "Ces informations aident à vérifier qu’il mange suffisamment et qu’il récupère bien après la naissance.",
+          "Si bébé boit peu, mouille peu ses couches ou semble très somnolent, il faut demander un avis sans attendre."
+        ],
+        quote:
+          "Les couches, le poids et l’éveil de bébé donnent souvent des informations précieuses sur la façon dont il va."
+      },
+      {
+        title: "La jaunisse du nouveau-né",
+        paragraphs: [
+          "La jaunisse est fréquente chez les nouveau-nés, mais elle doit être surveillée.",
+          "Les professionnels peuvent observer la couleur de la peau, des yeux, l’éveil du bébé et sa prise alimentaire.",
+          "Si bébé devient très jaune, très somnolent, boit peu ou semble inhabituel, il faut appeler rapidement un professionnel.",
+          "Mieux vaut demander un avis trop tôt que rester avec une inquiétude."
+        ]
+      },
+      {
+        title: "Le cordon et les soins du bébé",
+        paragraphs: [
+          "Les premiers rendez-vous permettent aussi de vérifier le cordon, la peau, les changes, les soins du nez ou du siège si besoin.",
+          "Vous pouvez demander comment nettoyer, quoi surveiller et quand consulter.",
+          "Les soins du nouveau-né peuvent sembler simples en théorie, mais être impressionnants les premiers jours.",
+          "Un professionnel peut vous montrer les gestes et vous rassurer."
+        ]
+      },
+      {
+        title: "Pour la mère : saignements, douleurs et récupération",
+        paragraphs: [
+          "La mère doit aussi être suivie après l’accouchement.",
+          "Les professionnels peuvent vérifier les saignements, les douleurs, la cicatrisation, la fatigue, la tension, l’état général et les signes d’infection.",
+          "Il est important de parler de ce que vous ressentez, même si cela vous semble intime ou banal.",
+          "Douleurs importantes, fièvre, saignements très abondants ou malaise doivent faire demander un avis rapidement."
+        ]
+      },
+      {
+        title: "Le périnée, la cicatrice ou les points",
+        paragraphs: [
+          "Après une voie basse, on peut vérifier les douleurs, les points, les sensations de pesanteur, les fuites urinaires ou les difficultés à aller à la selle.",
+          "Après une césarienne, le suivi porte aussi sur la cicatrice, les douleurs, la mobilité et les signes d’infection.",
+          "Il ne faut pas attendre la consultation postnatale si une douleur vous inquiète.",
+          "Le corps a besoin de temps pour récupérer, mais une souffrance importante mérite d’être entendue."
+        ]
+      },
+      {
+        title: "Allaitement, biberon ou alimentation mixte",
+        paragraphs: [
+          "Les rendez-vous permettent de faire le point sur l’alimentation du bébé.",
+          "Vous pouvez parler des tétées douloureuses, des crevasses, des biberons, des quantités, des régurgitations, de l’allaitement mixte ou de vos envies de changement.",
+          "Il est préférable de demander conseil avant de modifier plusieurs choses en même temps.",
+          "L’objectif est que bébé soit nourri correctement et que l’organisation reste soutenable pour les parents."
+        ]
+      },
+      {
+        title: "Le moral de la mère",
+        paragraphs: [
+          "Le suivi postnatal doit aussi inclure le moral.",
+          "Baby blues, anxiété, tristesse, culpabilité, fatigue extrême, pleurs fréquents ou sentiment d’être dépassée peuvent être abordés avec une sage-femme, un médecin ou la PMI.",
+          "Il ne faut pas attendre d’aller très mal pour en parler.",
+          "La santé mentale après la naissance fait partie de la santé globale de la mère."
+        ],
+        quote:
+          "Un rendez-vous postnatal n’est pas seulement un contrôle médical : c’est aussi un moment pour dire comment vous allez vraiment."
+      },
+      {
+        title: "La PMI",
+        paragraphs: [
+          "La PMI peut accompagner les familles après la naissance.",
+          "Elle peut proposer un suivi du bébé, des conseils sur l’alimentation, le sommeil, les soins, le poids, et parfois un soutien autour du moral ou de l’organisation familiale.",
+          "C’est un lieu où les parents peuvent poser des questions sans attendre une urgence.",
+          "Selon votre commune ou votre département, les modalités peuvent varier."
+        ]
+      },
+      {
+        title: "Le médecin de bébé",
+        paragraphs: [
+          "Le bébé devra être suivi régulièrement par un médecin ou un pédiatre.",
+          "Ces rendez-vous permettent de surveiller la croissance, le développement, l’alimentation, les vaccins, les éventuelles difficultés et les questions des parents.",
+          "Il est utile de choisir un professionnel avec qui vous vous sentez à l’aise pour poser vos questions.",
+          "En cas de signe inquiétant, il ne faut pas attendre le prochain rendez-vous programmé."
+        ]
+      },
+      {
+        title: "La consultation postnatale",
+        paragraphs: [
+          "Une consultation postnatale est prévue après l’accouchement pour faire le point sur la santé de la mère.",
+          "Elle permet d’aborder la récupération physique, les douleurs, le périnée, la cicatrice, la contraception, le moral, la sexualité, l’allaitement ou les difficultés du quotidien.",
+          "C’est un rendez-vous important, même si vous avez l’impression que tout va bien.",
+          "Préparez vos questions à l’avance pour parler de ce qui compte vraiment pour vous."
+        ]
+      },
+      {
+        title: "La rééducation du périnée",
+        paragraphs: [
+          "La rééducation du périnée peut être proposée après l’accouchement, selon les besoins et l’évaluation du professionnel.",
+          "Elle concerne la récupération du périnée, les fuites urinaires, les sensations de pesanteur, les douleurs ou la reprise de certaines activités.",
+          "Elle ne doit pas être vécue comme une obligation culpabilisante, mais comme un soutien possible.",
+          "Le professionnel vous indiquera quand commencer selon votre situation."
+        ]
+      },
+      {
+        title: "La contraception et la reprise de la sexualité",
+        paragraphs: [
+          "La contraception peut être abordée dès le post-partum, car une nouvelle grossesse peut être possible avant le retour des règles.",
+          "La reprise des rapports sexuels dépend de la récupération physique, des douleurs, du désir, du moral et du vécu de l’accouchement.",
+          "Il n’y a pas d’obligation de reprendre rapidement.",
+          "C’est un sujet légitime à aborder lors d’un rendez-vous, sans gêne ni pression."
+        ]
+      },
+      {
+        title: "Préparer ses questions",
+        paragraphs: [
+          "Entre deux rendez-vous, les questions peuvent s’accumuler.",
+          "Vous pouvez noter dans votre téléphone ou sur un carnet les sujets à aborder : sommeil, pleurs, alimentation, couches, douleurs, saignements, moral, contraception, cicatrice, périnée.",
+          "Cela permet de ne pas repartir du rendez-vous avec une question importante oubliée.",
+          "Aucune question n’est trop petite quand elle vous inquiète."
+        ]
+      },
+      {
+        title: "Si certains signes vous inquiètent",
+        paragraphs: [
+          "Il ne faut pas attendre le prochain rendez-vous si un signe vous inquiète.",
+          "Pour bébé : fièvre, respiration difficile, somnolence inhabituelle, refus de boire, couches très peu mouillées, vomissements importants ou comportement différent doivent faire demander un avis.",
+          "Pour la mère : fièvre, douleurs importantes, saignements très abondants, malaise, essoufflement, douleur thoracique, moral très bas ou idées noires doivent aussi faire consulter rapidement.",
+          "En cas de doute, appelez la maternité, la sage-femme, le médecin, la PMI ou les urgences selon la situation."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à ne pas manquer les rendez-vous.",
+          "Il peut accompagner, conduire, garder un aîné, préparer les papiers, noter les questions ou prendre le relais après la consultation.",
+          "Il peut aussi encourager la mère à parler de son propre état, pas seulement de celui du bébé.",
+          "Un bon soutien aide la famille à se sentir moins seule dans les premières semaines."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après la naissance, les rendez-vous concernent autant le bébé que la mère.",
+          "Le suivi permet de vérifier l’alimentation, le poids, les couches, la jaunisse, les soins et la récupération.",
+          "La mère peut parler de ses douleurs, sa fatigue, son moral, sa cicatrice, son périnée, sa contraception et ses questions intimes.",
+          "Il est utile de préparer ses questions pour les consultations.",
+          "En cas de signe inquiétant, il ne faut pas attendre le rendez-vous prévu."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
