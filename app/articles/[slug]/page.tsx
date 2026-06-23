@@ -1391,18 +1391,27 @@ function UnifiedArticle({ article }: { article: Article }) {
     (section) => section !== essentials && section !== takeaway,
   );
 
-  const primary = contentSections[0];
+  const isAlertSection = (section: Article["sections"][number]) =>
+    /^les signes qui/i.test(section.title) ||
+    /^quand demander une aide urgente/i.test(section.title) ||
+    /^quand demander de l’aide urgente/i.test(section.title);
+
+  const standardContentSections = contentSections.filter(
+    (section) => !isAlertSection(section),
+  );
+
+  const primary = standardContentSections[0];
 
   const cardSection =
-    contentSections.find(
+    standardContentSections.find(
       (section, index) =>
         index > 0 &&
         ((section.paragraphs?.length ?? 0) >= 3 ||
           (section.bullets?.length ?? 0) >= 3),
-    ) ?? contentSections[1];
+    ) ?? standardContentSections[1];
 
   const helpSection =
-    [...contentSections]
+    [...standardContentSections]
       .reverse()
       .find(
         (section) =>
@@ -1410,7 +1419,7 @@ function UnifiedArticle({ article }: { article: Article }) {
           section !== cardSection &&
           /quand|consulter|aide|soutien|avis/i.test(section.title),
       ) ??
-    [...contentSections]
+    [...standardContentSections]
       .reverse()
       .find((section) => section !== primary && section !== cardSection);
 
