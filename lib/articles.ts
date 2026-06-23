@@ -2124,6 +2124,224 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "biberon-comment-trouver-le-bon-rythme-avec-bebe",
+    title: "Biberon : comment trouver le bon rythme avec bébé ?",
+    description:
+      "Les premiers biberons peuvent poser beaucoup de questions : quantités, rythme, signes de faim, pauses, digestion, régurgitations et moments où demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les premiers jours, le rythme des biberons se construit progressivement avec le bébé.",
+          "Les quantités varient selon l’âge, le poids, l’appétit, la digestion et les consignes données par les professionnels.",
+          "Il est utile d’observer les signes de faim et de satiété plutôt que de se fier uniquement à l’horloge.",
+          "Un biberon peut se donner lentement, avec des pauses, pour respecter le rythme du bébé.",
+          "Bébé qui boit très peu, vomit beaucoup, mouille peu ses couches, semble très somnolent ou perd trop de poids doit être évalué."
+        ],
+        quote:
+          "Trouver le rythme des biberons, ce n’est pas suivre un chiffre parfait : c’est observer bébé, s’adapter et demander de l’aide si besoin."
+      },
+      {
+        title: "Un rythme qui se construit peu à peu",
+        paragraphs: [
+          "Les premiers jours avec un bébé nourri au biberon peuvent être remplis de questions.",
+          "Combien donner ? À quelle fréquence ? Faut-il réveiller bébé ? Comment savoir s’il a assez bu ?",
+          "Il est normal de tâtonner au début.",
+          "Le rythme se construit progressivement, avec les repères donnés par la maternité, la sage-femme, le médecin ou la PMI."
+        ]
+      },
+      {
+        title: "Observer les signes de faim",
+        paragraphs: [
+          "Avant de pleurer, un bébé peut montrer qu’il a faim de plusieurs façons.",
+          "Il peut bouger la tête, ouvrir la bouche, chercher avec les lèvres, porter les mains à la bouche ou s’agiter doucement.",
+          "Les pleurs sont souvent un signe plus tardif.",
+          "Proposer le biberon avant que bébé soit très énervé peut l’aider à boire plus calmement."
+        ]
+      },
+      {
+        title: "Observer les signes de satiété",
+        paragraphs: [
+          "Un bébé peut aussi montrer qu’il n’a plus faim.",
+          "Il peut ralentir, détourner la tête, relâcher la tétine, fermer la bouche, s’endormir paisiblement ou repousser le biberon.",
+          "Il n’est pas toujours nécessaire de finir absolument le biberon.",
+          "Forcer un bébé à boire peut rendre le repas plus tendu et moins agréable."
+        ]
+      },
+      {
+        title: "Les quantités : un repère, pas une pression",
+        paragraphs: [
+          "Les quantités de lait évoluent avec l’âge et les besoins du bébé.",
+          "La maternité ou le professionnel qui suit votre enfant vous donne généralement des repères adaptés.",
+          "Certains bébés boivent de petites quantités plus souvent, d’autres prennent des biberons plus espacés.",
+          "L’important est de surveiller l’éveil, les couches, la courbe de poids et le confort digestif, plutôt qu’un chiffre isolé."
+        ],
+        quote:
+          "Un biberon non terminé ne veut pas forcément dire qu’il y a un problème : c’est l’ensemble des signes de bébé qui compte."
+      },
+      {
+        title: "À quelle fréquence donner le biberon ?",
+        paragraphs: [
+          "Au début, les biberons peuvent être rapprochés et irréguliers.",
+          "Le rythme dépend de l’âge du bébé, de sa capacité à boire, de son sommeil et des consignes médicales.",
+          "Certains nouveau-nés doivent être réveillés s’ils dorment beaucoup ou s’ils prennent peu de poids.",
+          "Si vous ne savez pas s’il faut attendre ou proposer, demandez un avis à la maternité, à une sage-femme, au médecin ou à la PMI."
+        ]
+      },
+      {
+        title: "Un biberon donné lentement",
+        paragraphs: [
+          "Un biberon peut être donné calmement, en laissant bébé respirer et faire des pauses.",
+          "Le bébé n’a pas besoin de boire très vite.",
+          "Faire des pauses permet d’observer s’il a encore faim ou s’il commence à être rassasié.",
+          "Cela peut aussi aider certains bébés à mieux digérer."
+        ]
+      },
+      {
+        title: "L’installation pendant le biberon",
+        paragraphs: [
+          "Installez bébé dans une position semi-assise, bien soutenue.",
+          "Gardez un contact visuel si possible, parlez-lui doucement et observez son rythme.",
+          "La tétine doit rester remplie de lait pour éviter qu’il avale trop d’air.",
+          "Le moment du biberon est aussi un moment de lien, pas seulement une quantité à boire."
+        ]
+      },
+      {
+        title: "Les pauses et le rot",
+        paragraphs: [
+          "Certains bébés ont besoin de pauses pendant ou après le biberon.",
+          "Le rot peut aider s’ils avalent de l’air, s’ils semblent gênés ou s’ils se tortillent.",
+          "Tous les bébés ne font pas systématiquement un rot à chaque biberon.",
+          "Si bébé est calme, détendu et confortable, il n’est pas nécessaire de s’acharner longtemps."
+        ]
+      },
+      {
+        title: "Régurgitations : quand s’inquiéter ?",
+        paragraphs: [
+          "Les petites régurgitations sont fréquentes chez les nourrissons.",
+          "Elles peuvent arriver après le biberon, surtout si bébé a bu vite ou beaucoup.",
+          "En revanche, des vomissements importants, répétés, en jet, ou associés à une mauvaise prise de poids, une grande fatigue ou des signes de déshydratation doivent faire consulter.",
+          "Si les régurgitations vous inquiètent, parlez-en au professionnel qui suit bébé."
+        ]
+      },
+      {
+        title: "Bébé boit trop vite",
+        paragraphs: [
+          "Certains bébés boivent très vite, toussent, s’agitent ou semblent gênés pendant le biberon.",
+          "Cela peut venir du débit de la tétine, de la position ou du besoin de pauses.",
+          "Un débit trop rapide peut rendre le repas inconfortable.",
+          "Demandez conseil avant de changer plusieurs fois de lait ou de matériel."
+        ]
+      },
+      {
+        title: "Bébé boit peu",
+        paragraphs: [
+          "Un bébé peut parfois boire moins sur un biberon, surtout s’il est fatigué.",
+          "Mais un bébé qui boit très peu sur plusieurs repas, qui est difficile à réveiller ou qui mouille peu ses couches doit être évalué.",
+          "La prise de poids et l’état général sont des repères importants.",
+          "En cas de doute, il faut appeler rapidement la maternité, la PMI, le médecin ou les urgences selon la situation."
+        ]
+      },
+      {
+        title: "Changer de lait : pas trop vite",
+        paragraphs: [
+          "Quand bébé pleure, régurgite ou semble gêné, on peut être tenté de changer rapidement de lait.",
+          "Pourtant, tous les pleurs ou inconforts ne viennent pas forcément du lait.",
+          "Changer plusieurs fois de lait sans avis peut compliquer la situation.",
+          "Avant de changer, il est préférable de demander conseil à un professionnel."
+        ]
+      },
+      {
+        title: "Préparer les biberons en sécurité",
+        paragraphs: [
+          "La préparation des biberons doit respecter les consignes données par les professionnels et les indications du lait utilisé.",
+          "Il faut se laver les mains, utiliser du matériel propre et respecter les doses indiquées.",
+          "Un biberon préparé, réchauffé ou conservé trop longtemps peut présenter un risque.",
+          "En cas de doute sur l’eau, la conservation ou le réchauffage, demandez conseil à la maternité, à la PMI ou au pharmacien."
+        ]
+      },
+      {
+        title: "La nuit",
+        paragraphs: [
+          "Les biberons de nuit sont fréquents les premières semaines.",
+          "Il est normal que le rythme soit irrégulier au début.",
+          "Préparer l’espace à l’avance peut aider : eau, doseur, biberons propres, lumière douce et de quoi s’installer confortablement.",
+          "Si vous êtes deux adultes, se répartir certains réveils peut limiter l’épuisement."
+        ]
+      },
+      {
+        title: "Trouver sa place sans culpabilité",
+        paragraphs: [
+          "Donner le biberon peut être un choix, une nécessité ou une décision prise après un allaitement difficile.",
+          "Quelle que soit l’histoire, bébé a besoin d’être nourri, porté, regardé et rassuré.",
+          "Le biberon peut être un vrai moment de lien.",
+          "Vous n’avez pas à vous justifier sur la façon dont vous nourrissez votre enfant."
+        ],
+        quote:
+          "Un bébé nourri avec attention, dans les bras et avec douceur, reçoit bien plus qu’un biberon."
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un bébé qui boit très peu ou refuse plusieurs biberons.",
+          "Un bébé difficile à réveiller, très mou ou inhabituellement somnolent.",
+          "Des couches très peu mouillées.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Une fièvre, une respiration difficile ou un comportement inhabituel.",
+          "Une perte de poids importante ou une prise de poids insuffisante.",
+          "Un parent épuisé, inquiet ou qui ne sait plus comment gérer les repas."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à rendre les biberons plus sereins.",
+          "Il peut préparer le matériel, nettoyer les biberons, installer le parent, donner un biberon si cela convient aux parents, ou prendre le relais après le repas.",
+          "Il peut aussi éviter les remarques sur les quantités ou le choix du biberon.",
+          "Le soutien le plus utile est souvent concret, calme et sans jugement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le rythme des biberons se construit progressivement avec bébé.",
+          "Les quantités sont des repères, mais l’état général, les couches, la prise de poids et le confort comptent beaucoup.",
+          "Un biberon peut se donner lentement, avec des pauses, en respectant les signes de faim et de satiété.",
+          "Il vaut mieux demander conseil avant de changer de lait ou de matériel plusieurs fois.",
+          "Bébé qui boit peu, vomit beaucoup, mouille peu ses couches ou semble très somnolent doit être évalué rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Alimentation du nouveau-né",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "ANSES — Préparation et conservation des biberons",
+        url: "https://www.anses.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
