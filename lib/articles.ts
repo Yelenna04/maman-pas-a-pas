@@ -3412,6 +3412,215 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "anxiete-post-partum-quand-les-inquietudes-prennent-trop-de-place",
+    title: "Anxiété post-partum : quand les inquiétudes prennent trop de place",
+    description:
+      "Après la naissance, les inquiétudes peuvent devenir envahissantes. Comprendre l’anxiété post-partum, repérer les signes qui doivent alerter et savoir quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, il est normal d’avoir des inquiétudes, mais elles ne doivent pas prendre toute la place.",
+          "L’anxiété post-partum peut se manifester par des pensées qui tournent en boucle, une peur permanente, une hypervigilance ou l’impossibilité de se reposer.",
+          "Elle peut concerner la santé du bébé, le sommeil, l’alimentation, la sécurité, les microbes, la respiration ou la peur de mal faire.",
+          "Quand l’anxiété empêche de dormir, de manger, de sortir, de laisser le bébé à quelqu’un ou de profiter de moments calmes, il faut demander de l’aide.",
+          "Pensées de se faire du mal, peur de faire du mal au bébé ou sensation de ne plus pouvoir tenir nécessitent une aide urgente."
+        ],
+        quote:
+          "S’inquiéter après la naissance est fréquent ; être envahie par la peur au point de ne plus souffler mérite un vrai soutien."
+      },
+      {
+        title: "Des inquiétudes normales… jusqu’à un certain point",
+        paragraphs: [
+          "Devenir parent peut réveiller beaucoup de questions.",
+          "Est-ce que bébé respire bien ? Mange-t-il assez ? Dort-il trop ? Pas assez ? Est-ce que je fais ce qu’il faut ?",
+          "Ces inquiétudes sont fréquentes, surtout les premières semaines.",
+          "Elles deviennent préoccupantes lorsqu’elles prennent toute la place, reviennent sans cesse et empêchent de vivre le quotidien."
+        ]
+      },
+      {
+        title: "Qu’est-ce que l’anxiété post-partum ?",
+        paragraphs: [
+          "L’anxiété post-partum correspond à une anxiété importante qui apparaît ou s’intensifie après la naissance.",
+          "Elle peut être présente seule ou avec une dépression post-partum.",
+          "Elle ne se voit pas toujours de l’extérieur, car la mère peut sembler très organisée, très attentive ou très efficace.",
+          "À l’intérieur, elle peut pourtant être épuisée par la peur, les vérifications et les pensées qui tournent en boucle."
+        ]
+      },
+      {
+        title: "Les pensées qui tournent en boucle",
+        paragraphs: [
+          "L’un des signes fréquents est l’impossibilité de calmer ses pensées.",
+          "La mère peut repenser sans cesse à la tétée, au biberon, au sommeil, au poids, aux pleurs, à la température ou à un détail de la journée.",
+          "Même lorsqu’on la rassure, l’inquiétude revient rapidement.",
+          "Cette boucle mentale peut devenir très fatigante et empêcher de récupérer."
+        ]
+      },
+      {
+        title: "La peur permanente qu’il arrive quelque chose",
+        paragraphs: [
+          "L’anxiété post-partum peut donner l’impression qu’un danger est toujours possible.",
+          "La mère peut vérifier souvent la respiration du bébé, avoir peur de le laisser dormir, redouter les sorties ou craindre qu’un proche s’en occupe mal.",
+          "Elle peut anticiper le pire même lorsque tout va bien.",
+          "Ce niveau de vigilance constant épuise le corps et l’esprit."
+        ],
+        quote:
+          "Quand la vigilance devient permanente, le cerveau n’arrive plus à se mettre au repos."
+      },
+      {
+        title: "L’hypercontrôle",
+        paragraphs: [
+          "Certaines mères essaient de calmer leur anxiété en contrôlant tout.",
+          "Elles peuvent noter chaque repas, chaque couche, chaque sommeil, tout nettoyer, tout vérifier ou refaire plusieurs fois les mêmes gestes.",
+          "Ces repères peuvent être utiles au début, mais ils deviennent lourds lorsqu’ils ne laissent plus de place à la confiance.",
+          "Si l’organisation rassure quelques minutes puis relance une nouvelle inquiétude, il peut être utile d’en parler."
+        ]
+      },
+      {
+        title: "La difficulté à dormir même quand bébé dort",
+        paragraphs: [
+          "Le sommeil est déjà fragile avec un nouveau-né.",
+          "Mais l’anxiété peut empêcher de dormir même lorsque le bébé dort.",
+          "La mère peut rester en alerte, vérifier sans cesse, imaginer des scénarios inquiétants ou ne pas réussir à relâcher son corps.",
+          "Ne plus dormir du tout ou presque doit faire demander de l’aide rapidement."
+        ]
+      },
+      {
+        title: "Les sensations physiques de l’anxiété",
+        paragraphs: [
+          "L’anxiété peut aussi se ressentir dans le corps.",
+          "Elle peut provoquer une boule au ventre, une oppression, des palpitations, des tremblements, des nausées, des tensions, des maux de tête ou une respiration courte.",
+          "Certaines mères décrivent des moments de panique ou la sensation qu’elles vont perdre le contrôle.",
+          "Ces symptômes sont impressionnants et méritent d’être pris au sérieux."
+        ]
+      },
+      {
+        title: "Les crises de panique",
+        paragraphs: [
+          "Une crise de panique peut donner l’impression de ne plus pouvoir respirer, de faire un malaise ou de mourir.",
+          "Elle peut survenir au calme, la nuit, pendant un soin au bébé ou à l’idée de sortir.",
+          "Même si elle n’est pas toujours dangereuse en elle-même, elle est très éprouvante.",
+          "Si cela arrive, il faut en parler à un professionnel pour être accompagnée."
+        ]
+      },
+      {
+        title: "Les pensées intrusives",
+        paragraphs: [
+          "Certaines pensées peuvent surgir sans être voulues et faire très peur.",
+          "Elles peuvent concerner la sécurité du bébé, la peur de tomber, de le blesser, de mal faire ou de ne pas réussir à le protéger.",
+          "Avoir une pensée intrusive ne veut pas dire vouloir agir.",
+          "Mais si ces pensées reviennent souvent, provoquent une grande détresse ou donnent peur de passer à l’acte, il faut demander une aide urgente."
+        ]
+      },
+      {
+        title: "Quand l’anxiété modifie le quotidien",
+        paragraphs: [
+          "L’anxiété devient préoccupante lorsqu’elle empêche de vivre normalement.",
+          "La mère peut ne plus oser sortir, ne plus confier le bébé, éviter les visites, refuser de dormir ou passer ses journées à vérifier.",
+          "Elle peut aussi avoir du mal à manger, à se laver, à répondre aux messages ou à se détendre.",
+          "Lorsque l’anxiété réduit la vie à une succession de peurs, un accompagnement est nécessaire."
+        ]
+      },
+      {
+        title: "Anxiété ou instinct maternel ?",
+        paragraphs: [
+          "On entend parfois que les mères sentent tout et doivent suivre leur instinct.",
+          "L’instinct peut aider à repérer certaines choses, mais il ne doit pas devenir une source de peur permanente.",
+          "Si chaque sensation devient une alerte, si chaque détail est interprété comme un danger, ce n’est plus seulement de l’attention.",
+          "C’est peut-être de l’anxiété, et cela peut se soulager."
+        ]
+      },
+      {
+        title: "Ce qui peut favoriser l’anxiété post-partum",
+        paragraphs: [
+          "Certaines situations peuvent fragiliser : un accouchement difficile, une urgence, une séparation avec le bébé, des complications, une prématurité, un allaitement douloureux, un manque de sommeil ou un isolement.",
+          "Des antécédents d’anxiété, de dépression, de fausse couche, de parcours PMA ou de traumatisme peuvent aussi jouer.",
+          "Cela ne veut pas dire que l’anxiété est inévitable.",
+          "Mais cela justifie d’être entourée et écoutée avec attention."
+        ]
+      },
+      {
+        title: "Ce qui peut aider au quotidien",
+        paragraphs: [
+          "L’aide commence souvent par des choses concrètes : dormir un peu, manger, boire, réduire les visites, déléguer les tâches et ne pas rester seule.",
+          "Il peut être utile de limiter les recherches anxiogènes sur Internet et de choisir une ou deux personnes fiables à appeler en cas de doute.",
+          "Mettre des mots sur les peurs avec un professionnel peut aussi aider à faire la différence entre un vrai signe médical et une inquiétude envahissante.",
+          "L’objectif n’est pas de supprimer toute inquiétude, mais de retrouver de l’espace pour respirer."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Il faut demander de l’aide si les inquiétudes prennent toute la place, si elles durent, s’aggravent ou empêchent de dormir, de manger, de sortir ou de s’occuper du bébé sereinement.",
+          "Une sage-femme, un médecin, la PMI, la maternité, un psychologue ou un psychiatre peuvent être contactés.",
+          "Il n’est pas nécessaire d’attendre d’être au bout pour consulter.",
+          "Plus l’anxiété est prise tôt, plus elle peut être accompagnée efficacement."
+        ],
+        quote:
+          "Demander de l’aide ne veut pas dire être incapable : cela veut dire reconnaître que la peur est devenue trop lourde à porter seule."
+      },
+      {
+        title: "Les signes qui doivent faire demander une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en prenant les peurs au sérieux sans les amplifier.",
+          "Il peut proposer de prendre le relais avec le bébé, accompagner à une consultation, filtrer les visites ou aider à contacter un professionnel.",
+          "Il est inutile de répondre par “arrête de t’inquiéter” ou “tu te fais des idées”.",
+          "Une phrase plus aidante peut être : “Je vois que c’est très lourd pour toi, on va demander de l’aide ensemble.”"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’anxiété post-partum dépasse les inquiétudes normales lorsqu’elle devient envahissante et empêche de vivre le quotidien.",
+          "Pensées en boucle, peur permanente, hypervigilance, besoin de tout contrôler et impossibilité de dormir sont des signes à surveiller.",
+          "Les pensées intrusives peuvent être très angoissantes et méritent d’être exprimées à un professionnel.",
+          "Idées noires, peur de faire du mal ou sensation de ne plus pouvoir tenir nécessitent une aide urgente.",
+          "L’anxiété post-partum peut se soulager : il ne faut pas rester seule avec cette peur."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Dépression du post-partum et troubles psychiques",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Santé mentale après la naissance",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
