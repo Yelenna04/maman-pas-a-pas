@@ -1906,6 +1906,224 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "crevasses-douleurs-engorgement-que-faire",
+    title: "Crevasses, douleurs, engorgement : que faire ?",
+    description:
+      "Crevasses, douleurs au sein, engorgement, tétées douloureuses : comprendre les causes fréquentes, soulager sans attendre et savoir quand consulter pendant l’allaitement.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les crevasses, douleurs et engorgements sont fréquents au début de l’allaitement, mais ils ne doivent pas être banalisés.",
+          "Une douleur forte pendant toute la tétée indique souvent qu’un ajustement est nécessaire : position, prise du sein, succion du bébé ou engorgement.",
+          "Un engorgement peut rendre le sein dur, tendu, douloureux et compliquer la prise du sein.",
+          "Demander de l’aide tôt permet souvent d’éviter que la douleur, les crevasses ou l’épuisement s’installent.",
+          "Fièvre, frissons, sein rouge et très douloureux, bébé qui tète peu ou douleur qui s’aggrave doivent faire consulter rapidement."
+        ],
+        quote:
+          "Allaiter ne devrait pas être une épreuve douloureuse à traverser seule : la douleur est un signal à écouter."
+      },
+      {
+        title: "Pourquoi l’allaitement peut faire mal ?",
+        paragraphs: [
+          "Les premiers jours, une sensibilité au moment de la mise au sein peut arriver.",
+          "Mais une douleur vive, qui dure toute la tétée, qui fait redouter la prochaine prise ou qui abîme le mamelon doit faire chercher une cause.",
+          "La douleur peut venir d’une prise du sein trop superficielle, d’une position inconfortable, d’un bébé qui a du mal à téter efficacement, d’un engorgement ou de crevasses.",
+          "Plus l’aide arrive tôt, plus il est facile d’ajuster la situation."
+        ]
+      },
+      {
+        title: "Les crevasses",
+        paragraphs: [
+          "Les crevasses sont des petites lésions ou fissures du mamelon.",
+          "Elles peuvent provoquer une douleur vive, parfois des saignements, une brûlure ou une appréhension avant chaque tétée.",
+          "Elles sont souvent liées à une prise du sein insuffisamment profonde ou à des frottements répétés.",
+          "Elles ne signifient pas que vous devez arrêter d’allaiter, mais elles doivent être prises en charge rapidement."
+        ]
+      },
+      {
+        title: "Que faire en cas de crevasses ?",
+        paragraphs: [
+          "La priorité est de comprendre pourquoi le mamelon est abîmé.",
+          "Un professionnel formé peut observer une tétée et vérifier la position, l’ouverture de la bouche du bébé, la prise de l’aréole et l’efficacité de la succion.",
+          "Il peut aussi proposer des ajustements pour réduire la douleur et permettre la cicatrisation.",
+          "Évitez de multiplier les produits ou les gestes sans avis : une crevasse guérit mieux quand la cause est corrigée."
+        ],
+        quote:
+          "Soigner une crevasse sans corriger la prise du sein revient souvent à soulager temporairement sans régler le problème."
+      },
+      {
+        title: "La prise du sein : un point clé",
+        paragraphs: [
+          "Une bonne prise du sein aide à éviter les douleurs et à rendre la tétée plus efficace.",
+          "Le bébé doit être bien rapproché, ventre contre vous, avec la tête dans l’axe du corps.",
+          "Sa bouche doit être grande ouverte et prendre une bonne partie de l’aréole, pas seulement le bout du mamelon.",
+          "Si le mamelon ressort pincé, aplati ou très douloureux, demandez de l’aide pour ajuster la position."
+        ]
+      },
+      {
+        title: "Changer de position",
+        paragraphs: [
+          "Changer de position peut parfois soulager une zone douloureuse ou aider le bébé à mieux prendre le sein.",
+          "Certaines mères sont plus à l’aise allongées sur le côté, en position semi-allongée ou avec le bébé bien soutenu par des coussins.",
+          "Après une césarienne, il peut être utile d’éviter les positions qui appuient sur la cicatrice.",
+          "L’objectif est que la mère soit soutenue, détendue et que le bébé puisse téter efficacement."
+        ]
+      },
+      {
+        title: "L’engorgement",
+        paragraphs: [
+          "L’engorgement correspond à des seins très tendus, durs, lourds ou douloureux.",
+          "Il peut apparaître au moment de la montée de lait ou plus tard, si les seins ne sont pas suffisamment drainés.",
+          "Le bébé peut alors avoir du mal à prendre le sein parce que l’aréole est trop tendue.",
+          "Un engorgement important mérite d’être accompagné, surtout s’il empêche les tétées ou s’il devient très douloureux."
+        ]
+      },
+      {
+        title: "Que faire en cas d’engorgement ?",
+        paragraphs: [
+          "Le plus important est d’aider le bébé à téter efficacement et régulièrement.",
+          "Si l’aréole est trop tendue, un professionnel peut vous montrer comment l’assouplir doucement avant la tétée.",
+          "Il ne s’agit pas forcément de vider complètement le sein, car une stimulation excessive peut parfois entretenir la production.",
+          "Entre les tétées, certaines femmes sont soulagées par du froid, selon leur confort et les conseils reçus."
+        ]
+      },
+      {
+        title: "Faut-il tirer son lait ?",
+        paragraphs: [
+          "Tirer son lait peut être utile dans certaines situations, mais ce n’est pas automatique.",
+          "En cas d’engorgement, un tirage trop important peut stimuler davantage la production et prolonger l’inconfort.",
+          "Une expression manuelle ou un tirage très court peut parfois aider à assouplir l’aréole ou à soulager une tension importante.",
+          "Le mieux est de demander un avis personnalisé à une sage-femme, une consultante en lactation ou un professionnel formé."
+        ]
+      },
+      {
+        title: "Canal bouché ou douleur localisée",
+        paragraphs: [
+          "Une douleur localisée dans un sein, parfois avec une zone plus dure ou sensible, peut évoquer un problème de drainage du lait.",
+          "Il est utile de vérifier la position du bébé, la fréquence des tétées et les zones de compression éventuelles, comme un soutien-gorge trop serré.",
+          "La situation doit s’améliorer rapidement avec des mesures adaptées.",
+          "Si la douleur augmente, si une rougeur apparaît ou si vous avez de la fièvre, il faut consulter."
+        ]
+      },
+      {
+        title: "Mastite : les signes à connaître",
+        paragraphs: [
+          "Une mastite peut provoquer un sein rouge, chaud, douloureux, avec parfois de la fièvre, des frissons ou une sensation d’être malade.",
+          "Elle peut être très fatigante et nécessite un avis professionnel.",
+          "Il ne faut pas attendre si l’état général se dégrade ou si la douleur est importante.",
+          "Un accompagnement permet d’évaluer la situation, de soulager la douleur et de décider du traitement adapté."
+        ],
+        quote:
+          "Sein rouge, douleur importante, fièvre ou frissons pendant l’allaitement : il faut demander un avis rapidement."
+      },
+      {
+        title: "Quand le bébé semble mal téter",
+        paragraphs: [
+          "Un bébé qui tète peu efficacement peut favoriser les douleurs, les crevasses ou l’engorgement.",
+          "Certains signes peuvent alerter : tétées très longues mais peu efficaces, bébé qui s’endort vite au sein, claquements de langue, mamelon pincé après la tétée ou prise de poids insuffisante.",
+          "Un professionnel peut observer la tétée et vérifier si le bébé transfère bien le lait.",
+          "Le suivi du poids, des couches et de l’éveil du bébé est important."
+        ]
+      },
+      {
+        title: "Douleur et fatigue émotionnelle",
+        paragraphs: [
+          "Avoir mal à chaque tétée peut devenir très éprouvant.",
+          "La douleur peut faire pleurer, décourager, donner envie d’arrêter ou créer une appréhension avant chaque réveil du bébé.",
+          "Ces émotions sont compréhensibles et ne doivent pas être minimisées.",
+          "Demander de l’aide n’est pas un échec : c’est souvent ce qui permet de poursuivre si vous le souhaitez."
+        ]
+      },
+      {
+        title: "Si vous avez envie d’arrêter",
+        paragraphs: [
+          "Il peut arriver d’avoir envie d’arrêter l’allaitement, surtout si la douleur dure ou si vous vous sentez seule.",
+          "Vous avez le droit d’être accompagnée dans cette décision, quelle qu’elle soit.",
+          "Parfois, un ajustement permet de continuer plus confortablement ; parfois, un sevrage progressif ou une autre organisation est préférable.",
+          "L’important est que le bébé soit nourri et que la mère soit soutenue, sans culpabilité."
+        ]
+      },
+      {
+        title: "Les gestes à éviter",
+        paragraphs: [
+          "Évitez de supporter une douleur forte en pensant que c’est normal.",
+          "Évitez aussi de multiplier les crèmes, bouts de sein, tire-lait ou compléments sans comprendre la cause du problème.",
+          "Certains outils peuvent être utiles, mais ils doivent être adaptés à votre situation.",
+          "Un avis personnalisé permet d’éviter de compliquer une difficulté déjà présente."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide dès que la douleur prend trop de place.",
+          "Vous pouvez contacter une sage-femme, une consultante en lactation, la maternité, la PMI ou un professionnel formé.",
+          "Une observation de tétée est souvent très utile pour comprendre ce qui se passe.",
+          "Il est préférable de demander un avis au début d’une douleur plutôt que d’attendre que les crevasses, l’engorgement ou l’épuisement s’installent."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un sein rouge, chaud, très douloureux ou une douleur localisée qui augmente.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Des crevasses profondes, très douloureuses ou qui saignent.",
+          "Un engorgement important qui empêche le bébé de prendre le sein.",
+          "Un bébé qui tète très peu, qui est difficile à réveiller ou qui mouille peu ses couches.",
+          "Une perte de poids importante ou une reprise de poids insuffisante.",
+          "Une mère épuisée, en détresse ou qui redoute chaque tétée."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en prenant la douleur au sérieux.",
+          "Il peut proposer d’appeler une sage-femme, apporter de l’eau, préparer un repas, installer des coussins ou prendre le relais pour les changes.",
+          "Il peut aussi éviter les phrases culpabilisantes comme “il faut juste tenir bon”.",
+          "Un soutien concret et bienveillant peut aider la mère à traverser cette difficulté sans se sentir seule."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Crevasses, douleurs et engorgement sont fréquents, mais ils ne doivent pas être banalisés.",
+          "Une douleur forte ou qui dure doit faire chercher une cause, souvent liée à la prise du sein ou au drainage du lait.",
+          "L’engorgement peut compliquer la tétée et nécessite parfois une aide rapide.",
+          "Fièvre, frissons, sein rouge, bébé qui tète peu ou crevasses importantes doivent faire consulter.",
+          "L’allaitement doit être accompagné : vous n’avez pas à souffrir seule pour réussir."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Allaitement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Douleurs, crevasses et engorgement",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
