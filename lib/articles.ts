@@ -3203,6 +3203,215 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "depression-post-partum-quels-signes-doivent-alerter",
+    title: "Dépression post-partum : quels signes doivent alerter ?",
+    description:
+      "La dépression post-partum peut toucher les mères après la naissance. Tristesse persistante, anxiété, épuisement, idées noires : les signes à repérer et quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La dépression post-partum est une souffrance psychique qui peut apparaître après la naissance, parfois progressivement.",
+          "Elle peut se manifester par une tristesse persistante, une anxiété intense, une grande culpabilité, une perte d’intérêt ou une sensation de ne plus y arriver.",
+          "Elle ne signifie pas que la mère n’aime pas son bébé ou qu’elle est une mauvaise mère.",
+          "Des idées noires, la peur de faire du mal, l’envie de disparaître ou la sensation de ne plus pouvoir tenir doivent faire demander une aide urgente.",
+          "Plus la dépression post-partum est repérée tôt, plus il est possible d’être accompagnée et soulagée."
+        ],
+        quote:
+          "La dépression post-partum n’est pas un manque de volonté : c’est une souffrance qui mérite d’être entendue et soignée."
+      },
+      {
+        title: "Une souffrance qui peut passer inaperçue",
+        paragraphs: [
+          "Après une naissance, beaucoup de signes peuvent être attribués à la fatigue, au manque de sommeil ou à l’adaptation au bébé.",
+          "C’est pourquoi la dépression post-partum peut parfois passer inaperçue.",
+          "La mère peut sourire devant les autres, s’occuper du bébé, répondre aux messages, et pourtant se sentir très mal intérieurement.",
+          "Il est important de prendre au sérieux ce qui dure, ce qui s’intensifie et ce qui empêche de vivre le quotidien."
+        ]
+      },
+      {
+        title: "Une tristesse qui s’installe",
+        paragraphs: [
+          "Une tristesse persistante est l’un des signes possibles de dépression post-partum.",
+          "Elle peut donner l’impression d’avoir le cœur lourd, de pleurer souvent ou de se sentir vide.",
+          "La mère peut avoir du mal à ressentir de la joie, même dans des moments qui devraient être heureux.",
+          "Si cette tristesse dure plusieurs jours, revient chaque jour ou s’aggrave, il faut en parler."
+        ]
+      },
+      {
+        title: "Une anxiété envahissante",
+        paragraphs: [
+          "La dépression post-partum peut aussi se manifester par une anxiété très forte.",
+          "La mère peut avoir peur qu’il arrive quelque chose au bébé, vérifier sans cesse sa respiration, redouter de rester seule ou imaginer des scénarios inquiétants.",
+          "L’anxiété peut devenir si présente qu’elle empêche de dormir, de manger ou de se reposer.",
+          "Quand les inquiétudes prennent toute la place, une aide professionnelle est nécessaire."
+        ]
+      },
+      {
+        title: "Une culpabilité très forte",
+        paragraphs: [
+          "Beaucoup de mères en dépression post-partum se sentent coupables.",
+          "Elles peuvent se dire qu’elles ne sont pas à la hauteur, qu’elles n’auraient pas dû devenir mère, qu’elles n’aiment pas assez leur bébé ou qu’elles font tout mal.",
+          "Ces pensées peuvent être très douloureuses et ne reflètent pas la réalité de leurs compétences ou de leur amour.",
+          "La culpabilité excessive est un signe à prendre au sérieux."
+        ],
+        quote:
+          "Se sentir mauvaise mère ne veut pas dire l’être : c’est parfois le signe d’une souffrance qui parle très fort."
+      },
+      {
+        title: "Une fatigue qui dépasse l’épuisement habituel",
+        paragraphs: [
+          "La fatigue est normale après une naissance, mais elle peut devenir inquiétante quand elle semble écrasante.",
+          "La mère peut avoir l’impression de ne jamais récupérer, même lorsqu’elle dort un peu.",
+          "Elle peut se sentir incapable de faire des gestes simples ou de prendre une décision.",
+          "Quand la fatigue s’accompagne de tristesse, d’angoisse, de désespoir ou de perte d’intérêt, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Perte d’intérêt et impression de fonctionner en pilote automatique",
+        paragraphs: [
+          "La dépression post-partum peut donner l’impression de ne plus avoir envie de rien.",
+          "Les activités, les échanges ou les moments avec le bébé peuvent sembler vides ou très difficiles.",
+          "Certaines mères disent fonctionner en pilote automatique, sans se sentir vraiment présentes.",
+          "Cette perte d’élan mérite d’être entendue, surtout si elle dure ou s’aggrave."
+        ]
+      },
+      {
+        title: "Difficultés de sommeil",
+        paragraphs: [
+          "Le sommeil est souvent très perturbé avec un nouveau-né.",
+          "Mais il faut être attentive si la mère n’arrive pas à dormir même lorsque le bébé dort, si elle reste en alerte permanente ou si les pensées tournent sans arrêt.",
+          "Le manque de sommeil peut aggraver la souffrance psychique.",
+          "Une mère qui ne dort presque plus a besoin d’aide rapidement."
+        ]
+      },
+      {
+        title: "Difficultés à manger ou à prendre soin de soi",
+        paragraphs: [
+          "La dépression post-partum peut aussi toucher l’appétit et les soins de base.",
+          "Certaines mères n’ont plus faim, oublient de manger ou se sentent trop tendues pour avaler.",
+          "D’autres mangent beaucoup pour tenir émotionnellement.",
+          "Ne plus réussir à prendre soin de soi est un signal important."
+        ]
+      },
+      {
+        title: "Un lien au bébé difficile",
+        paragraphs: [
+          "Le lien avec le bébé peut prendre du temps à se construire.",
+          "Mais si la mère se sent totalement détachée, très anxieuse au contact du bébé, incapable de s’en occuper ou effrayée d’être seule avec lui, il faut en parler.",
+          "Certaines mères ressentent aussi de l’irritabilité, de la colère ou une absence d’émotion, ce qui peut les culpabiliser énormément.",
+          "Le lien peut être accompagné : il n’a pas besoin d’être parfait pour être réparé et soutenu."
+        ]
+      },
+      {
+        title: "Irritabilité, colère ou hypersensibilité",
+        paragraphs: [
+          "La dépression post-partum ne se manifeste pas toujours par des pleurs.",
+          "Elle peut aussi apparaître sous forme d’irritabilité, de colère, d’impatience ou d’hypersensibilité.",
+          "La mère peut se sentir à bout, réagir très fort à de petites choses ou ne plus supporter les bruits, les demandes et les visites.",
+          "Ces réactions ne doivent pas être jugées : elles peuvent être le signe d’une surcharge profonde."
+        ]
+      },
+      {
+        title: "Isolement et difficulté à demander de l’aide",
+        paragraphs: [
+          "Une mère en dépression post-partum peut s’isoler.",
+          "Elle peut ne plus répondre, éviter les visites, cacher ce qu’elle ressent ou dire que tout va bien.",
+          "La honte et la peur d’être jugée peuvent l’empêcher de demander de l’aide.",
+          "L’entourage doit rester attentif aux changements de comportement, surtout si la mère semble s’éteindre ou s’éloigner."
+        ]
+      },
+      {
+        title: "Pensées intrusives",
+        paragraphs: [
+          "Des pensées intrusives peuvent survenir après la naissance.",
+          "Elles peuvent être violentes, effrayantes ou très culpabilisantes, et surgir sans que la mère les souhaite.",
+          "Elles méritent d’être exprimées à un professionnel, surtout si elles reviennent souvent ou provoquent une grande angoisse.",
+          "Si la mère a peur de passer à l’acte, de se faire du mal ou de faire du mal au bébé, il faut demander une aide urgente."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "L’envie de disparaître, de mourir ou de ne plus être là.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Qui peut aider ?",
+        paragraphs: [
+          "Plusieurs professionnels peuvent être contactés : sage-femme, médecin traitant, gynécologue, PMI, maternité, psychologue, psychiatre ou urgences selon la situation.",
+          "Il n’est pas nécessaire de savoir exactement à qui s’adresser pour commencer.",
+          "Un premier appel peut permettre d’être orientée.",
+          "L’important est de ne pas rester seule avec une souffrance qui s’installe."
+        ]
+      },
+      {
+        title: "Ce que l’accompagnement peut apporter",
+        paragraphs: [
+          "Un accompagnement peut aider à mettre des mots sur ce qui se passe, à sécuriser la mère, à organiser du relais et à alléger la culpabilité.",
+          "Selon la situation, un suivi psychologique, un accompagnement renforcé à domicile, un traitement ou une consultation spécialisée peuvent être proposés.",
+          "Il ne s’agit pas de retirer le bébé ou de juger la mère.",
+          "Il s’agit de la soutenir pour qu’elle puisse récupérer et retrouver progressivement de l’appui."
+        ],
+        quote:
+          "Demander de l’aide pour sa santé mentale après la naissance, c’est protéger la mère, le bébé et toute la famille."
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut écouter sans minimiser.",
+          "Il peut prendre le relais avec le bébé, préparer les repas, limiter les visites, accompagner aux rendez-vous ou appeler un professionnel avec l’accord de la mère.",
+          "Il doit éviter les phrases comme “tu devrais être heureuse” ou “tout le monde passe par là”.",
+          "Si la mère parle d’idées noires ou semble en danger, l’entourage doit chercher de l’aide immédiatement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La dépression post-partum peut se manifester par de la tristesse, de l’anxiété, de la culpabilité, une perte d’intérêt, une fatigue écrasante ou des difficultés avec le bébé.",
+          "Elle peut apparaître progressivement et être cachée derrière une apparence de contrôle.",
+          "Les signes qui durent, s’aggravent ou empêchent de vivre le quotidien doivent faire demander de l’aide.",
+          "Idées noires, peur de faire du mal ou sensation de ne plus pouvoir tenir nécessitent une aide urgente.",
+          "La dépression post-partum se soigne : plus elle est repérée tôt, plus l’accompagnement peut aider."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Dépression du post-partum",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Dépression post-partum",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
