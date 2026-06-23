@@ -5706,6 +5706,211 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "quand-appeler-la-maternite-la-sage-femme-ou-le-medecin",
+    title: "Quand appeler la maternité, la sage-femme ou le médecin ?",
+    description:
+      "Après le retour à la maison, il n’est pas toujours facile de savoir qui appeler. Maternité, sage-femme, médecin, PMI ou urgences : les bons réflexes pour maman et bébé.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, il vaut mieux appeler trop tôt que rester seule avec une inquiétude.",
+          "La maternité ou la sage-femme peuvent souvent répondre aux questions des premiers jours : saignements, douleurs, allaitement, biberon, poids, jaunisse ou cordon.",
+          "Le médecin ou le pédiatre est utile pour les symptômes du bébé, le suivi, la fièvre, l’alimentation ou un changement de comportement.",
+          "Les urgences ou le 15 doivent être appelés en cas de signe grave, de détresse respiratoire, de malaise, d’idées noires ou de sensation de danger.",
+          "Préparer une petite liste de numéros utiles avant le retour à la maison peut vraiment rassurer."
+        ],
+        quote:
+          "Appeler un professionnel n’est pas déranger : c’est exactement ce qu’il faut faire quand un doute devient trop lourd."
+      },
+      {
+        title: "Pourquoi il est normal d’hésiter",
+        paragraphs: [
+          "Au retour à la maison, beaucoup de parents se demandent s’ils doivent appeler ou attendre.",
+          "On peut avoir peur de déranger, de paraître trop inquiète ou de ne pas savoir expliquer clairement la situation.",
+          "Pourtant, les premiers jours avec un nouveau-né sont une période où les questions sont nombreuses.",
+          "Un appel peut suffire à être rassurée, orientée ou invitée à consulter si nécessaire."
+        ]
+      },
+      {
+        title: "La maternité : quand la contacter ?",
+        paragraphs: [
+          "La maternité peut souvent être contactée dans les premiers jours après la sortie, selon les consignes données.",
+          "Elle peut répondre si vous avez une inquiétude liée à l’accouchement, aux saignements, à une douleur importante, à une cicatrice, à une fièvre ou à une difficulté avec bébé.",
+          "Elle peut aussi vous orienter vers une sage-femme, une consultation, les urgences ou un autre professionnel.",
+          "Gardez le numéro transmis à la sortie dans un endroit facile à trouver."
+        ]
+      },
+      {
+        title: "La sage-femme : un repère important",
+        paragraphs: [
+          "La sage-femme est souvent l’un des premiers contacts après la naissance.",
+          "Elle peut accompagner la récupération de la mère, l’allaitement, le biberon, le poids du bébé, les douleurs, les saignements, le périnée, la cicatrice et le moral.",
+          "Elle peut aussi vous aider à savoir si une situation nécessite une consultation médicale.",
+          "N’attendez pas que tout devienne très difficile pour lui poser vos questions."
+        ],
+        quote:
+          "La sage-femme n’est pas là seulement pour contrôler : elle est aussi là pour écouter, expliquer et orienter."
+      },
+      {
+        title: "Le médecin ou le pédiatre",
+        paragraphs: [
+          "Le médecin traitant ou le pédiatre peut être contacté pour le suivi du bébé et les symptômes qui inquiètent.",
+          "Fièvre, alimentation difficile, vomissements importants, comportement inhabituel, toux, gêne respiratoire, éruption, constipation importante ou pleurs inhabituels peuvent nécessiter un avis.",
+          "Il peut aussi suivre la mère si elle présente une douleur, une fatigue extrême, un malaise, une infection ou une souffrance psychique.",
+          "En cas d’urgence, il ne faut pas attendre un rendez-vous classique."
+        ]
+      },
+      {
+        title: "La PMI",
+        paragraphs: [
+          "La PMI peut être un soutien précieux après la naissance.",
+          "Elle peut aider pour le poids, l’alimentation, les soins du bébé, le sommeil, les pleurs, l’organisation et parfois le moral des parents.",
+          "Selon les lieux, elle peut proposer des consultations, des pesées ou des conseils.",
+          "C’est un bon contact si vous avez besoin d’un suivi ou d’un lieu où poser vos questions."
+        ]
+      },
+      {
+        title: "Quand appeler pour bébé ?",
+        paragraphs: [
+          "Pour bébé, il faut appeler rapidement si quelque chose vous semble inhabituel ou inquiétant.",
+          "Un bébé qui boit très peu, refuse plusieurs repas, mouille peu ses couches, dort beaucoup plus que d’habitude ou semble mou doit être évalué.",
+          "Une respiration difficile, une fièvre, une température anormale, des vomissements répétés ou des pleurs inconsolables doivent aussi faire demander un avis.",
+          "Un nouveau-né peut évoluer vite : mieux vaut vérifier."
+        ]
+      },
+      {
+        title: "Quand appeler pour la mère ?",
+        paragraphs: [
+          "Pour la mère, il faut appeler si les douleurs sont importantes, si les saignements deviennent très abondants, si une fièvre apparaît ou si une cicatrice devient rouge, chaude, douloureuse ou suintante.",
+          "Il faut aussi demander un avis en cas de malaise, essoufflement, douleur dans la poitrine, douleur importante dans une jambe ou sensation anormale.",
+          "Le moral compte aussi : tristesse intense, anxiété, idées noires ou sensation de ne plus pouvoir tenir doivent être pris au sérieux.",
+          "La récupération post-partum mérite un suivi, même quand bébé va bien."
+        ]
+      },
+      {
+        title: "Allaitement, biberon, alimentation : qui appeler ?",
+        paragraphs: [
+          "Pour une difficulté d’allaitement, une sage-femme, une consultante en lactation, la PMI ou la maternité peuvent aider.",
+          "Douleurs, crevasses, engorgement, bébé qui tète peu, perte de poids ou doute sur les quantités méritent un avis.",
+          "Pour le biberon, un médecin, la PMI, la sage-femme ou le pharmacien peuvent aussi orienter selon la question.",
+          "Il vaut mieux demander avant de changer plusieurs fois de lait, de tétine ou d’organisation."
+        ]
+      },
+      {
+        title: "Fièvre : ne pas attendre",
+        paragraphs: [
+          "La fièvre chez un nouveau-né ou chez une mère en post-partum doit être prise au sérieux.",
+          "Chez bébé, suivez les consignes données par la maternité ou le médecin, et demandez rapidement un avis en cas de température anormale.",
+          "Chez la mère, la fièvre peut accompagner une infection, un problème de cicatrice, une mastite ou une autre complication.",
+          "En cas de fièvre associée à un état général inquiétant, il faut appeler sans attendre."
+        ]
+      },
+      {
+        title: "Saignements et douleurs après l’accouchement",
+        paragraphs: [
+          "Des saignements après l’accouchement sont attendus, mais ils doivent rester surveillés.",
+          "Si les saignements deviennent très abondants, s’accompagnent de caillots importants, de malaise, de fièvre ou d’une douleur forte, il faut appeler rapidement.",
+          "Les douleurs peuvent être présentes, mais elles doivent pouvoir être soulagées et évoluer progressivement.",
+          "Une douleur qui augmente, qui inquiète ou qui empêche de bouger normalement mérite un avis."
+        ]
+      },
+      {
+        title: "Cicatrice, points ou périnée",
+        paragraphs: [
+          "Après une césarienne, une épisiotomie ou une déchirure, il est important de surveiller la cicatrisation.",
+          "Rougeur importante, chaleur, gonflement, écoulement, mauvaise odeur, fièvre ou douleur qui augmente doivent faire demander un avis.",
+          "Les sensations de tiraillement peuvent exister, mais une douleur intense ne doit pas être banalisée.",
+          "Une sage-femme ou un médecin peut vérifier et vous rassurer."
+        ]
+      },
+      {
+        title: "Moral : quand appeler ?",
+        paragraphs: [
+          "Il faut appeler ou consulter si vous vous sentez très triste, très anxieuse, coupable, dépassée ou incapable de récupérer.",
+          "Il ne faut pas attendre que les pensées deviennent dangereuses pour demander de l’aide.",
+          "Une sage-femme, la PMI, un médecin, la maternité, un psychologue ou un psychiatre peuvent être contactés.",
+          "Parler tôt peut éviter que la souffrance ne s’installe."
+        ],
+        quote:
+          "Le moral après la naissance n’est pas un détail : c’est un vrai motif de consultation."
+      },
+      {
+        title: "Quand appeler les urgences ou le 15 ?",
+        paragraphs: [
+          "Il faut appeler une aide urgente si bébé respire difficilement, devient très mou, ne réagit pas comme d’habitude, fait un malaise ou présente un signe qui vous semble grave.",
+          "Pour la mère, il faut appeler en urgence en cas de malaise important, douleur thoracique, essoufflement, saignements très abondants, douleur intense ou signes neurologiques.",
+          "Il faut aussi appeler immédiatement en cas d’idées de se faire du mal, de peur de faire du mal au bébé ou de sensation de ne plus pouvoir tenir.",
+          "Dans le doute, le 15 peut orienter vers la conduite à tenir."
+        ]
+      },
+      {
+        title: "Comment préparer son appel",
+        paragraphs: [
+          "Avant d’appeler, si la situation le permet, préparez quelques informations.",
+          "L’âge du bébé, son alimentation récente, ses couches, sa température, son comportement, les symptômes observés et depuis quand ils sont présents.",
+          "Pour la mère : température, douleurs, saignements, cicatrice, traitements, date de l’accouchement et type d’accouchement peuvent être utiles.",
+          "Même si vous êtes stressée, dites simplement ce qui vous inquiète : le professionnel vous guidera."
+        ]
+      },
+      {
+        title: "Ne pas rester seule avec le doute",
+        paragraphs: [
+          "Le doute peut devenir très lourd quand on est fatiguée.",
+          "Appeler permet souvent de clarifier la situation : surveiller à la maison, consulter dans la journée, aller aux urgences ou être rassurée.",
+          "Vous n’avez pas besoin d’être certaine que c’est grave pour demander un avis.",
+          "Votre inquiétude est une raison suffisante pour chercher une réponse."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à appeler, à garder bébé pendant que le parent parle au téléphone, à conduire à un rendez-vous ou à préparer les informations utiles.",
+          "Il peut aussi encourager à consulter si la mère minimise ses symptômes ou n’ose pas appeler.",
+          "En cas de signe urgent, l’entourage doit agir sans attendre.",
+          "Le soutien consiste parfois simplement à dire : “On appelle maintenant.”"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après la naissance, il vaut mieux demander un avis trop tôt que trop tard.",
+          "La maternité, la sage-femme, la PMI, le médecin ou le pédiatre peuvent répondre selon la situation.",
+          "Bébé qui boit peu, respire mal, mouille peu ses couches, a de la fièvre ou semble inhabituel doit être évalué.",
+          "La mère doit aussi consulter en cas de fièvre, douleurs importantes, saignements très abondants, malaise ou moral très bas.",
+          "En cas de signe grave ou de danger immédiat, il faut appeler les urgences ou le 15."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
