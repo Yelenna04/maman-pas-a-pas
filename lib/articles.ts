@@ -4414,6 +4414,227 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "les-premieres-nuits-avec-bebe-comment-sorganiser",
+    title: "Les premières nuits avec bébé : comment s’organiser ?",
+    description:
+      "Les premières nuits à la maison avec un nouveau-né peuvent être intenses. Voici comment préparer l’espace, organiser les réveils, sécuriser le sommeil de bébé et tenir malgré la fatigue.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Les premières nuits avec bébé sont souvent très fragmentées : c’est normal, mais cela peut être éprouvant.",
+          "Le plus important est d’organiser un espace simple, sécurisé et pratique pour limiter les gestes inutiles la nuit.",
+          "Bébé doit dormir sur le dos, dans un espace adapté, sans oreiller, couverture épaisse, tour de lit ou objets autour de lui.",
+          "Prévoir du relais, même court, aide à protéger le sommeil et le moral des parents.",
+          "Bébé qui respire mal, boit très peu, devient très somnolent, a de la fièvre ou un comportement inhabituel doit faire demander un avis rapidement."
+        ],
+        quote:
+          "Les premières nuits ne sont pas faites pour être parfaites : elles servent surtout à trouver peu à peu un rythme sûr et soutenable."
+      },
+      {
+        title: "Un retour à la maison souvent intense",
+        paragraphs: [
+          "Les premières nuits à la maison peuvent surprendre, même quand on s’y est préparée.",
+          "À la maternité, il y avait des professionnels autour, un cadre, des repères et parfois de l’aide immédiate.",
+          "À la maison, les parents se retrouvent souvent seuls avec les réveils, les repas, les changes, les pleurs et leurs propres émotions.",
+          "Il est normal de tâtonner les premiers jours."
+        ]
+      },
+      {
+        title: "Comprendre le sommeil d’un nouveau-né",
+        paragraphs: [
+          "Un nouveau-né ne dort pas encore comme un adulte.",
+          "Son sommeil est souvent irrégulier, avec des réveils fréquents pour manger, être changé, être rassuré ou retrouver le contact.",
+          "Il ne fait pas encore la différence entre le jour et la nuit.",
+          "Les nuits peuvent donc être hachées au début, sans que cela signifie forcément qu’il y a un problème."
+        ]
+      },
+      {
+        title: "Préparer l’espace avant la nuit",
+        paragraphs: [
+          "Avant de vous coucher, préparez ce qui peut être utile pendant la nuit.",
+          "Couches, lingettes ou coton, change, biberon ou matériel d’allaitement, eau, lange, petite lumière douce et protections pour la mère peuvent être regroupés au même endroit.",
+          "Moins il y a de choses à chercher la nuit, moins les réveils sont fatigants.",
+          "L’objectif est de rendre les gestes simples, répétitifs et sécurisants."
+        ],
+        quote:
+          "La nuit, chaque geste en moins compte : préparer l’espace, c’est déjà économiser un peu d’énergie."
+      },
+      {
+        title: "Le sommeil sécurisé de bébé",
+        paragraphs: [
+          "Pour dormir, bébé doit être installé sur le dos, dans un espace adapté, ferme et dégagé.",
+          "Il ne faut pas ajouter d’oreiller, de couverture épaisse, de coussin, de tour de lit ou d’objet autour de lui.",
+          "Une gigoteuse adaptée à la saison est souvent plus sûre qu’une couverture.",
+          "Si vous avez un doute sur l’installation de couchage, demandez conseil à la maternité, à une sage-femme ou à la PMI."
+        ]
+      },
+      {
+        title: "Garder bébé proche, sans danger",
+        paragraphs: [
+          "Avoir bébé dans la même chambre les premiers temps peut rassurer et faciliter les réveils nocturnes.",
+          "Cela permet d’entendre plus facilement ses besoins et de limiter les déplacements.",
+          "En revanche, l’endroit où bébé dort doit rester sécurisé.",
+          "Si vous êtes très fatiguée, évitez les situations où vous risquez de vous endormir avec bébé dans un fauteuil, un canapé ou une position non sécurisée."
+        ]
+      },
+      {
+        title: "Allaitement la nuit",
+        paragraphs: [
+          "Si vous allaitez, les tétées de nuit peuvent être fréquentes.",
+          "Préparez un endroit confortable, avec de l’eau à portée de main et une lumière douce.",
+          "L’autre parent ou un proche peut aider même sans donner la tétée : apporter bébé, changer la couche, le recoucher ou vous permettre de vous rendormir plus vite.",
+          "Si les tétées sont très douloureuses, inefficaces ou épuisantes, demandez de l’aide rapidement."
+        ]
+      },
+      {
+        title: "Biberon la nuit",
+        paragraphs: [
+          "Si bébé prend le biberon, préparez le matériel nécessaire selon les consignes reçues.",
+          "L’organisation doit rester simple et respecter les règles de préparation, de conservation et d’hygiène.",
+          "Le relais peut être plus facile à organiser si une autre personne peut donner certains biberons.",
+          "Même avec le biberon, il est important que la charge des nuits ne repose pas toujours sur la même personne."
+        ]
+      },
+      {
+        title: "Faut-il changer la couche à chaque réveil ?",
+        paragraphs: [
+          "Il n’est pas toujours nécessaire de changer bébé à chaque réveil, sauf s’il y a des selles, une couche très pleine, une irritation ou une consigne particulière.",
+          "Certains bébés se réveillent davantage pendant le change, d’autres se rendorment facilement.",
+          "Vous pouvez observer ce qui convient à votre bébé.",
+          "L’objectif est de répondre à ses besoins tout en gardant la nuit aussi calme que possible."
+        ]
+      },
+      {
+        title: "Créer une ambiance de nuit",
+        paragraphs: [
+          "Même si bébé n’a pas encore de rythme jour-nuit, vous pouvez poser doucement des repères.",
+          "La nuit, gardez une lumière faible, parlez peu, évitez les stimulations inutiles et limitez les écrans.",
+          "Le jour, ouvrez les volets, gardez des bruits de vie et sortez un peu si cela est possible.",
+          "Ces repères aident progressivement bébé à différencier les moments."
+        ]
+      },
+      {
+        title: "Quand bébé pleure la nuit",
+        paragraphs: [
+          "Les pleurs nocturnes peuvent être très difficiles à vivre.",
+          "Bébé peut avoir faim, besoin d’être changé, de contact, de rot, de chaleur, de fraîcheur ou simplement d’être rassuré.",
+          "Il peut aussi pleurer sans que vous trouviez immédiatement la cause.",
+          "Si les pleurs sont inconsolables, inhabituels, associés à de la fièvre, une mauvaise alimentation ou un comportement qui vous inquiète, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Se relayer dès que possible",
+        paragraphs: [
+          "Même si l’un des parents est plus sollicité, il est important de réfléchir au relais.",
+          "Une personne peut prendre le début de nuit, l’autre le petit matin, ou gérer certaines tâches autour du bébé.",
+          "Le relais peut aussi être organisé dans la journée pour compenser une nuit difficile.",
+          "Attendre l’épuisement complet pour demander de l’aide rend les nuits encore plus dures."
+        ]
+      },
+      {
+        title: "Protéger le sommeil des parents",
+        paragraphs: [
+          "Les premières nuits demandent parfois de revoir les priorités.",
+          "Le ménage, les visites, les messages et les tâches non urgentes peuvent attendre.",
+          "Dormir une heure pendant qu’un proche s’occupe du bébé peut être plus réparateur que vouloir tout ranger.",
+          "Le sommeil des parents fait partie de l’équilibre familial."
+        ],
+        quote:
+          "Un parent qui récupère un peu n’est pas un parent égoïste : c’est un parent qui protège ses forces."
+      },
+      {
+        title: "Limiter les visites",
+        paragraphs: [
+          "Les visites peuvent faire plaisir, mais elles peuvent aussi fatiguer énormément.",
+          "Les premières nuits sont déjà intenses, et recevoir trop de monde peut empêcher de se reposer.",
+          "Vous pouvez limiter les visites, raccourcir les passages ou demander une aide pratique plutôt qu’une présence longue.",
+          "Votre récupération et le calme du bébé peuvent passer avant les attentes de l’entourage."
+        ]
+      },
+      {
+        title: "Quand la fatigue devient trop forte",
+        paragraphs: [
+          "Le manque de sommeil peut amplifier les pleurs, l’anxiété, l’irritabilité et la sensation d’être dépassée.",
+          "Si vous ne dormez presque plus, si vous n’arrivez pas à dormir même quand bébé dort, ou si vous avez peur de ne plus tenir, il faut demander de l’aide.",
+          "Une sage-femme, la PMI, la maternité ou un médecin peuvent vous aider à organiser du relais et vérifier que tout va bien.",
+          "La fatigue extrême ne doit pas être banalisée."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes chez bébé doivent faire demander rapidement un avis.",
+          "Une respiration difficile, inhabituelle ou qui vous inquiète.",
+          "Une fièvre ou une température anormale selon les consignes données.",
+          "Un bébé très somnolent, difficile à réveiller ou inhabituellement mou.",
+          "Un bébé qui boit très peu, refuse plusieurs repas ou mouille peu ses couches.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Des pleurs inconsolables ou très inhabituels.",
+          "Un comportement qui vous semble vraiment différent."
+        ]
+      },
+      {
+        title: "Les signes qui nécessitent une aide urgente pour le parent",
+        paragraphs: [
+          "Certains signes chez le parent nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider concrètement à rendre les premières nuits plus supportables.",
+          "Il peut préparer un repas, garder bébé pendant une sieste, gérer les courses, s’occuper des aînés ou prendre un créneau de relais.",
+          "Il peut aussi éviter les remarques sur le sommeil du bébé ou la façon dont les parents s’organisent.",
+          "Le plus utile est souvent de soulager, pas de conseiller."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les premières nuits avec bébé sont souvent irrégulières et fatigantes.",
+          "Une organisation simple, un espace préparé et un sommeil sécurisé aident à traverser cette période.",
+          "Bébé doit dormir sur le dos, dans un espace dégagé et adapté.",
+          "Le relais et la limitation des visites sont essentiels pour protéger le sommeil des parents.",
+          "En cas de signe inquiétant chez bébé ou de fatigue extrême chez le parent, il faut demander de l’aide rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Sommeil et sécurité du bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Ministère de la Santé — Prévention de la mort inattendue du nourrisson",
+        url: "https://sante.gouv.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
