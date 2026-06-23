@@ -627,6 +627,216 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "comment-recuperer-apres-une-voie-basse",
+    title: "Comment récupérer après une voie basse ?",
+    description:
+      "Après un accouchement par voie basse, le corps a besoin de temps pour récupérer : périnée, saignements, fatigue, douleurs, reprise des activités et signes à surveiller.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après une voie basse, il est fréquent d’avoir des douleurs au périnée, des saignements, des contractions de l’utérus et une grande fatigue.",
+          "La récupération dépend du déroulement de l’accouchement, de la poussée, des points éventuels, du sommeil et du soutien à la maison.",
+          "Les saignements doivent diminuer progressivement, même s’ils peuvent varier selon les efforts et la fatigue.",
+          "Le périnée a besoin de temps : repos, hygiène douce, antalgiques adaptés et rééducation périnéale peuvent aider.",
+          "Douleur qui s’aggrave, fièvre, saignements très abondants, mauvaise odeur, malaise ou détresse émotionnelle doivent faire consulter."
+        ],
+        quote:
+          "Après une voie basse, récupérer ne veut pas dire oublier l’accouchement : cela veut dire laisser au corps le temps de se réparer."
+      },
+      {
+        title: "Une récupération progressive",
+        paragraphs: [
+          "Après un accouchement par voie basse, le corps entre dans une phase de récupération importante.",
+          "Le périnée, le vagin, l’utérus, le bassin, les muscles et l’énergie générale ont été sollicités.",
+          "Même si l’accouchement s’est bien passé, il est normal de se sentir douloureuse, fatiguée ou vulnérable les premiers jours.",
+          "La récupération se fait progressivement, avec des hauts et des bas."
+        ]
+      },
+      {
+        title: "Le périnée après la naissance",
+        paragraphs: [
+          "Le périnée a été étiré pendant la naissance du bébé.",
+          "Il peut être sensible, gonflé, douloureux ou donner une sensation de pesanteur.",
+          "S’il y a eu une déchirure, une épisiotomie ou des points, la gêne peut être plus marquée.",
+          "La douleur doit toutefois diminuer avec le temps et ne pas s’aggraver jour après jour."
+        ]
+      },
+      {
+        title: "Les points et la cicatrisation",
+        paragraphs: [
+          "Si des points ont été nécessaires, ils sont généralement réalisés avec des fils résorbables.",
+          "Ils peuvent tirer, piquer ou gêner pendant la cicatrisation.",
+          "Une toilette douce, un séchage délicat et des protections changées régulièrement aident à garder la zone propre.",
+          "Une douleur qui augmente, une mauvaise odeur, un gonflement important ou une plaie qui semble s’ouvrir doivent faire demander un avis."
+        ],
+        quote:
+          "Des points peuvent gêner, mais ils ne doivent pas devenir de plus en plus douloureux."
+      },
+      {
+        title: "Les saignements",
+        paragraphs: [
+          "Après une voie basse, les saignements sont normaux et s’appellent les lochies.",
+          "Ils sont souvent plus abondants les premiers jours, puis diminuent progressivement.",
+          "La couleur passe généralement du rouge vif au brun, puis au rosé ou plus clair.",
+          "Une reprise légère après un effort peut arriver, mais des saignements très abondants, des gros caillots ou un malaise doivent faire consulter rapidement."
+        ]
+      },
+      {
+        title: "Les tranchées",
+        paragraphs: [
+          "Les tranchées sont les contractions de l’utérus après l’accouchement.",
+          "Elles aident l’utérus à reprendre sa taille et à limiter les saignements.",
+          "Elles peuvent être douloureuses, surtout après un deuxième bébé ou plus, ou pendant l’allaitement.",
+          "Si elles sont très difficiles à supporter, demandez quels antalgiques sont adaptés à votre situation."
+        ]
+      },
+      {
+        title: "La fatigue",
+        paragraphs: [
+          "La fatigue après une voie basse peut être très intense.",
+          "Elle vient de l’accouchement, du manque de sommeil, des douleurs, des saignements, des hormones et de l’adaptation au bébé.",
+          "Il est normal de ne pas retrouver son énergie immédiatement.",
+          "Le repos, l’aide concrète et la limitation des visites peuvent vraiment soutenir la récupération."
+        ]
+      },
+      {
+        title: "Aller aux toilettes",
+        paragraphs: [
+          "Uriner peut piquer si la zone est irritée ou s’il y a des points.",
+          "Rincer doucement à l’eau claire pendant ou après le passage aux toilettes peut soulager certaines femmes.",
+          "La première selle peut aussi inquiéter, surtout si le périnée est douloureux.",
+          "Boire suffisamment, manger des fibres si vous les tolérez et demander de l’aide en cas de constipation peut éviter de forcer."
+        ]
+      },
+      {
+        title: "S’asseoir, marcher, bouger",
+        paragraphs: [
+          "Les premiers jours, s’asseoir peut être inconfortable.",
+          "Vous pouvez essayer de varier les positions, vous installer légèrement sur le côté ou utiliser un coussin si cela vous soulage.",
+          "La marche douce est souvent possible progressivement, selon la fatigue et les douleurs.",
+          "Si une activité augmente nettement les saignements ou la douleur, c’est un signe qu’il faut ralentir."
+        ]
+      },
+      {
+        title: "Soulager la douleur",
+        paragraphs: [
+          "La douleur doit être prise en charge.",
+          "Des antalgiques compatibles avec votre situation peuvent être prescrits ou conseillés.",
+          "Le repos, une installation confortable, l’aide pour porter le bébé et les soins doux peuvent aussi aider.",
+          "Ne minimisez pas une douleur qui vous empêche de marcher, de vous asseoir, de dormir ou de vous occuper de votre bébé."
+        ]
+      },
+      {
+        title: "L’hygiène intime",
+        paragraphs: [
+          "Une hygiène simple et douce suffit généralement.",
+          "Évitez de frotter, d’utiliser des produits irritants ou de multiplier les soins non recommandés.",
+          "Séchez délicatement en tamponnant, et changez régulièrement de protection.",
+          "Les bains, tampons, coupes menstruelles ou rapports sexuels doivent attendre les consignes reçues et votre confort."
+        ]
+      },
+      {
+        title: "La rééducation périnéale",
+        paragraphs: [
+          "La rééducation périnéale est souvent proposée après l’accouchement.",
+          "Elle permet de faire le point sur le périnée, les sensations, les fuites urinaires éventuelles, les douleurs ou la reprise des activités.",
+          "Elle ne commence pas forcément tout de suite : il faut d’abord laisser le temps à la cicatrisation et à la récupération.",
+          "Une sage-femme ou un kinésithérapeute spécialisé pourra vous guider au bon moment."
+        ]
+      },
+      {
+        title: "La reprise des activités",
+        paragraphs: [
+          "La reprise des activités doit être progressive.",
+          "Les premiers jours, les priorités sont le repos, les soins, l’alimentation du bébé et la récupération.",
+          "Le ménage, les charges lourdes, les trajets longs ou les efforts importants peuvent attendre ou être délégués.",
+          "Si vous avez envie de reprendre une activité physique, demandez l’avis de votre sage-femme ou médecin, surtout avant les efforts abdominaux ou les sports intenses."
+        ]
+      },
+      {
+        title: "La reprise des rapports sexuels",
+        paragraphs: [
+          "Il n’y a pas de délai unique pour reprendre les rapports sexuels après une voie basse.",
+          "Cela dépend de la douleur, de la cicatrisation, de la fatigue, du désir, des saignements et du vécu de l’accouchement.",
+          "Si vous ressentez une douleur, une peur ou une gêne persistante, parlez-en à une sage-femme, un médecin ou un professionnel spécialisé.",
+          "La reprise doit se faire sans pression et avec un vrai consentement."
+        ]
+      },
+      {
+        title: "Les émotions après une voie basse",
+        paragraphs: [
+          "Même après un accouchement par voie basse, le vécu peut être intense.",
+          "On peut se sentir fière, soulagée, bouleversée, douloureuse, déçue ou épuisée.",
+          "Si la naissance a été longue, très médicalisée, douloureuse ou différente de ce que vous imaginiez, vous pouvez avoir besoin d’en reparler.",
+          "Demander un débriefing ou un temps d’écoute peut aider à mieux comprendre ce qui s’est passé."
+        ],
+        quote:
+          "La récupération après une voie basse est aussi émotionnelle : le corps et le vécu ont tous les deux besoin d’attention."
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander un avis médical rapidement.",
+          "Des saignements très abondants, des gros caillots ou un malaise.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Une douleur qui augmente au niveau du périnée, du ventre ou du bassin.",
+          "Une mauvaise odeur des pertes ou un écoulement inquiétant.",
+          "Une plaie qui semble s’ouvrir ou un point qui tire fortement.",
+          "Une difficulté importante à uriner ou à aller à la selle.",
+          "Une jambe douloureuse, rouge ou gonflée.",
+          "Des idées noires, une angoisse intense ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en allégeant le quotidien.",
+          "Préparer les repas, faire les courses, gérer le linge, s’occuper des aînés ou tenir le bébé pendant que la mère se repose peut être très utile.",
+          "Il peut aussi éviter les remarques sur le corps, la fatigue, l’allaitement ou l’organisation.",
+          "Après une voie basse, le soutien concret et sans jugement aide vraiment la récupération."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après une voie basse, douleurs, saignements, fatigue et gêne au périnée sont fréquents.",
+          "La récupération dépend du déroulement de l’accouchement, des points éventuels, du sommeil et du soutien.",
+          "La douleur et les saignements doivent diminuer progressivement.",
+          "La rééducation périnéale aide à retrouver confort, sensations et confiance.",
+          "Fièvre, saignements abondants, douleur qui s’aggrave, mauvaise odeur ou détresse émotionnelle doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
