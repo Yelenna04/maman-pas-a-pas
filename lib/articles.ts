@@ -5073,6 +5073,211 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "comment-gerer-les-repas-le-menage-et-la-fatigue-avec-un-nouveau-ne",
+    title: "Comment gérer les repas, le ménage et la fatigue avec un nouveau-né ?",
+    description:
+      "Avec un nouveau-né, le quotidien peut vite devenir intense. Repas, ménage, fatigue, visites, relais : comment simplifier l’organisation sans culpabiliser.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Avec un nouveau-né, le quotidien doit être simplifié au maximum : le repos, les repas et les soins de base passent avant le ménage.",
+          "Les repas peuvent être très simples, préparés à l’avance, livrés ou apportés par l’entourage.",
+          "Le ménage peut être réduit au minimum : hygiène de base, linge indispensable et espaces utiles.",
+          "La fatigue est normale, mais elle ne doit pas être portée seule : le relais est essentiel.",
+          "Si la fatigue devient extrême, si le moral chute ou si vous avez l’impression de ne plus pouvoir tenir, il faut demander de l’aide."
+        ],
+        quote:
+          "Les premières semaines, l’objectif n’est pas de tout gérer : c’est de tenir, récupérer et protéger l’essentiel."
+      },
+      {
+        title: "Un quotidien qui change complètement",
+        paragraphs: [
+          "L’arrivée d’un nouveau-né bouleverse les journées.",
+          "Les repas sont interrompus, le sommeil est fragmenté, les lessives s’accumulent et les tâches habituelles semblent soudain beaucoup plus lourdes.",
+          "Il est normal que la maison ne fonctionne plus comme avant.",
+          "Le retour à la maison demande une organisation plus souple, plus simple et moins exigeante."
+        ]
+      },
+      {
+        title: "Réduire les attentes",
+        paragraphs: [
+          "Après la naissance, il est important de revoir les priorités.",
+          "Une maison parfaitement rangée, des repas élaborés ou une organisation impeccable ne sont pas des objectifs réalistes les premières semaines.",
+          "Ce qui compte, c’est que bébé soit nourri, changé, en sécurité, et que les parents puissent manger, boire et dormir un minimum.",
+          "Tout le reste peut être allégé, repoussé ou délégué."
+        ],
+        quote:
+          "Une maison imparfaite avec des parents soutenus vaut mieux qu’une maison rangée avec une mère épuisée."
+      },
+      {
+        title: "Les repas : viser simple",
+        paragraphs: [
+          "Les repas des parents doivent être faciles à préparer et rapides à manger.",
+          "Il peut s’agir de soupes, plats préparés, féculents, légumes déjà coupés, œufs, sandwichs, salades simples, yaourts, fruits ou restes réchauffés.",
+          "L’objectif n’est pas de cuisiner parfaitement, mais de nourrir le corps qui récupère.",
+          "Avoir quelques aliments faciles à attraper peut vraiment aider lors des journées intenses."
+        ]
+      },
+      {
+        title: "Prévoir avant quand c’est possible",
+        paragraphs: [
+          "Si vous avez un peu d’avance, préparer ou congeler quelques plats peut soulager les premiers jours.",
+          "Mais si ce n’est pas fait, ce n’est pas un échec.",
+          "On peut aussi miser sur des repas très simples, des conserves, des surgelés, des livraisons ou l’aide des proches.",
+          "Le plus important est de ne pas rester sans manger parce que tout semble trop compliqué."
+        ]
+      },
+      {
+        title: "Demander des repas plutôt que des visites",
+        paragraphs: [
+          "Quand les proches demandent comment aider, proposer un repas est souvent très utile.",
+          "Un plat déposé à l’entrée, quelques courses, du pain, des fruits ou un repas pour les aînés peuvent alléger la journée.",
+          "Il n’est pas nécessaire de recevoir longtemps pour accepter cette aide.",
+          "Vous pouvez dire : “On est trop fatigués pour recevoir, mais un repas déposé nous aiderait beaucoup.”"
+        ]
+      },
+      {
+        title: "Boire et manger régulièrement",
+        paragraphs: [
+          "Avec la fatigue et les soins du bébé, il est facile d’oublier de boire ou de manger.",
+          "Garder une bouteille d’eau près du canapé, du lit ou de l’espace d’allaitement peut aider.",
+          "Prévoir des collations accessibles peut aussi éviter les coups de fatigue.",
+          "La récupération physique et le moral sont souvent plus fragiles quand le corps manque de sommeil, d’eau et d’énergie."
+        ]
+      },
+      {
+        title: "Le ménage : revenir au strict nécessaire",
+        paragraphs: [
+          "Les premières semaines, le ménage peut être réduit au minimum.",
+          "Il s’agit surtout de garder les espaces utiles fonctionnels : coin change, cuisine, salle de bain, linge indispensable et endroit où dormir.",
+          "Le reste peut attendre.",
+          "Ce n’est pas le moment de vouloir tout nettoyer, tout ranger ou tout montrer impeccable aux visiteurs."
+        ]
+      },
+      {
+        title: "Les tâches vraiment prioritaires",
+        paragraphs: [
+          "Certaines tâches sont plus importantes que d’autres.",
+          "Avoir des couches disponibles, des vêtements propres pour bébé, de quoi manger, un espace de sommeil sécurisé et un minimum de vaisselle propre est déjà beaucoup.",
+          "Le linge peut être trié plus tard, les poussières peuvent attendre, les rangements aussi.",
+          "Hiérarchiser évite de gaspiller une énergie déjà très limitée."
+        ]
+      },
+      {
+        title: "Partager la charge mentale",
+        paragraphs: [
+          "La charge mentale ne se limite pas à faire les tâches : c’est aussi penser à tout.",
+          "Penser aux rendez-vous, aux couches, au linge, aux repas, aux médicaments, aux papiers et aux besoins du bébé peut devenir très lourd.",
+          "Il peut être utile de faire une liste visible et de répartir clairement les responsabilités.",
+          "Un parent ne devrait pas avoir à gérer seul toute l’organisation invisible."
+        ],
+        quote:
+          "Aider, ce n’est pas seulement demander quoi faire : c’est aussi prendre une responsabilité et la mener jusqu’au bout."
+      },
+      {
+        title: "Accepter une maison différente",
+        paragraphs: [
+          "La maison peut être plus désordonnée qu’avant.",
+          "Il peut y avoir du linge propre non plié, des paniers en attente, des repas simples et des coins moins rangés.",
+          "Cela ne signifie pas que vous gérez mal.",
+          "Cela signifie que votre énergie est concentrée sur une période exigeante et temporaire."
+        ]
+      },
+      {
+        title: "S’organiser avec l’autre parent",
+        paragraphs: [
+          "Quand l’autre parent est présent, il est utile d’avoir une discussion concrète.",
+          "Qui gère les repas ? Qui lance les lessives ? Qui répond aux messages ? Qui prend le relais pour que l’autre dorme ?",
+          "Plus les tâches sont explicites, moins elles reposent automatiquement sur la mère.",
+          "La fatigue peut rendre les tensions plus fortes : une organisation simple évite certains conflits."
+        ]
+      },
+      {
+        title: "S’il y a des aînés",
+        paragraphs: [
+          "Avec un ou plusieurs enfants plus grands, l’organisation peut être encore plus intense.",
+          "Les repas faciles, les activités calmes, l’aide de proches et la réduction des exigences deviennent encore plus importants.",
+          "Il peut être utile de préserver de petits moments avec les aînés, sans chercher à faire comme avant.",
+          "L’entourage peut aussi aider en gérant les trajets, les repas ou un temps de jeu."
+        ]
+      },
+      {
+        title: "Les visites qui aident vraiment",
+        paragraphs: [
+          "Une visite aidante est une visite qui allège le quotidien.",
+          "Elle peut apporter un repas, faire une course, plier du linge, s’occuper des aînés ou prendre le bébé pendant que les parents dorment.",
+          "Une visite qui reste longtemps sans aider peut au contraire fatiguer.",
+          "Vous avez le droit de demander une aide concrète et de limiter les passages."
+        ]
+      },
+      {
+        title: "Quand la fatigue devient trop forte",
+        paragraphs: [
+          "La fatigue est normale avec un nouveau-né, mais elle peut devenir préoccupante.",
+          "Si vous ne dormez presque plus, si vous pleurez beaucoup, si vous vous sentez à bout ou si vous avez l’impression de ne plus pouvoir faire face, il faut demander de l’aide.",
+          "Une sage-femme, la PMI, un médecin ou la maternité peuvent vous aider à trouver du relais et vérifier que tout va bien.",
+          "La fatigue extrême ne doit pas être banalisée."
+        ]
+      },
+      {
+        title: "Si certains signes vous inquiètent",
+        paragraphs: [
+          "Si bébé boit peu, mouille peu ses couches, semble très somnolent, respire difficilement, a de la fièvre ou un comportement inhabituel, il faut demander un avis rapidement.",
+          "Si vous avez des idées de vous faire du mal, la peur de faire du mal au bébé, ou la sensation de ne plus pouvoir tenir, il faut appeler une aide urgente.",
+          "Ces informations peuvent aussi être gardées dans un repère pratique à consulter facilement.",
+          "En cas de doute, mieux vaut demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en proposant des choses précises.",
+          "Par exemple : déposer un repas, faire les courses, vider le lave-vaisselle, lancer une machine, sortir les poubelles, accompagner un aîné ou garder bébé pendant une sieste.",
+          "Il peut aussi éviter les remarques sur le désordre ou l’organisation.",
+          "La meilleure aide est souvent discrète, concrète et sans jugement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Avec un nouveau-né, les repas et le ménage doivent être simplifiés.",
+          "Le strict nécessaire suffit les premières semaines.",
+          "Les proches peuvent aider concrètement avec les repas, les courses, le linge, les aînés ou le relais.",
+          "La fatigue est normale, mais elle ne doit pas devenir une détresse silencieuse.",
+          "Si vous ou votre bébé présentez des signes inquiétants, demandez rapidement un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
