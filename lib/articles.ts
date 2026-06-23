@@ -837,6 +837,216 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "quand-reprendre-les-activites-apres-laccouchement",
+    title: "Quand reprendre les activités après l’accouchement ?",
+    description:
+      "Après la naissance, la reprise des activités doit se faire progressivement : marche, ménage, port de charges, sport, conduite, rapports, travail et signes qui indiquent qu’il faut ralentir.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, la reprise des activités doit être progressive, même si la naissance s’est bien passée.",
+          "Les premiers jours, les priorités sont le repos, les soins, l’alimentation du bébé et la récupération.",
+          "La marche douce peut souvent reprendre assez tôt, mais le sport, les charges lourdes et les efforts abdominaux demandent plus de prudence.",
+          "Après une césarienne, la reprise est généralement plus progressive, car le corps récupère aussi d’une chirurgie.",
+          "Douleur qui augmente, saignements plus abondants, pesanteur dans le bassin, fuite urinaire ou grande fatigue sont des signes qu’il faut ralentir et demander un avis."
+        ],
+        quote:
+          "Reprendre les activités après l’accouchement ne se fait pas en suivant un calendrier strict, mais en écoutant le corps et les conseils médicaux."
+      },
+      {
+        title: "Pourquoi reprendre progressivement ?",
+        paragraphs: [
+          "Après la naissance, le corps a besoin de récupérer.",
+          "L’utérus reprend peu à peu sa taille, les saignements diminuent, le périnée cicatrise et les muscles profonds se réadaptent.",
+          "Le sommeil est souvent fragmenté, ce qui rend la récupération plus lente.",
+          "Même si vous vous sentez capable de faire beaucoup, reprendre trop vite peut augmenter les douleurs, les saignements ou la sensation de pesanteur."
+        ]
+      },
+      {
+        title: "Les premiers jours : l’essentiel d’abord",
+        paragraphs: [
+          "Les premiers jours après l’accouchement ne sont pas faits pour reprendre toutes les tâches du quotidien.",
+          "Les priorités sont simples : récupérer, manger, boire, dormir dès que possible, nourrir le bébé et surveiller les signes d’alerte.",
+          "Le ménage, les courses, les visites, les grands rangements et les efforts peuvent attendre ou être délégués.",
+          "Accepter de l’aide n’est pas un manque d’autonomie : c’est une vraie aide à la récupération."
+        ]
+      },
+      {
+        title: "La marche",
+        paragraphs: [
+          "La marche douce peut souvent reprendre assez tôt, selon votre état, la douleur et les consignes reçues.",
+          "Au début, il peut s’agir de quelques pas dans la chambre, puis de petits déplacements à la maison.",
+          "Augmentez progressivement, sans chercher la performance.",
+          "Si la marche augmente les saignements, la douleur, la pesanteur ou la fatigue, il faut réduire le rythme."
+        ]
+      },
+      {
+        title: "Après une voie basse",
+        paragraphs: [
+          "Après une voie basse, la reprise dépend beaucoup de l’état du périnée, des points éventuels, de la fatigue et des saignements.",
+          "Si le périnée est douloureux, gonflé ou si vous avez une sensation de lourdeur, mieux vaut ralentir.",
+          "Les efforts qui poussent vers le bas, comme porter lourd, rester longtemps debout ou forcer aux toilettes, peuvent accentuer l’inconfort.",
+          "La rééducation périnéale aidera ensuite à reprendre plus sereinement certaines activités."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, la reprise doit être encore plus progressive, car il s’agit d’une intervention chirurgicale.",
+          "Les premiers mouvements peuvent tirer sur la cicatrice et le ventre.",
+          "Évitez les charges lourdes, les mouvements brusques et les efforts qui sollicitent fortement les abdominaux.",
+          "Demandez à l’équipe quand reprendre la conduite, les escaliers, le port de charges et les activités plus soutenues selon votre situation."
+        ],
+        quote:
+          "Après une césarienne, la cicatrice visible n’est qu’une partie de la récupération : les tissus en profondeur cicatrisent aussi."
+      },
+      {
+        title: "Le ménage et les tâches du quotidien",
+        paragraphs: [
+          "Les tâches du quotidien peuvent sembler banales, mais elles demandent de l’énergie.",
+          "Passer l’aspirateur, porter une panière de linge, se pencher souvent, rester longtemps debout ou faire de grosses courses peut fatiguer rapidement.",
+          "Au début, gardez seulement le minimum indispensable et déléguez le reste si possible.",
+          "Si une tâche augmente les douleurs ou les saignements, c’est un signe que le corps a besoin de repos."
+        ]
+      },
+      {
+        title: "Porter son bébé et porter des charges",
+        paragraphs: [
+          "Porter son bébé fait partie du quotidien, mais cela peut déjà être un effort après l’accouchement.",
+          "Installez-vous autant que possible avant de le prendre, surtout après une césarienne ou si le périnée est douloureux.",
+          "Les charges plus lourdes que le bébé doivent être évitées au début ou reprises avec prudence.",
+          "Demandez de l’aide pour les courses, le cosy, les sacs, les aînés ou les poussettes lourdes."
+        ]
+      },
+      {
+        title: "Les escaliers et les trajets",
+        paragraphs: [
+          "Les escaliers peuvent être fatigants les premiers jours, surtout après une césarienne, une grande fatigue ou un accouchement long.",
+          "Montez lentement, tenez la rampe et évitez les allers-retours inutiles.",
+          "Les trajets longs peuvent aussi majorer la fatigue, les douleurs ou l’inconfort.",
+          "Si vous devez sortir, prévoyez court, simple et accompagné si besoin."
+        ]
+      },
+      {
+        title: "La conduite",
+        paragraphs: [
+          "La reprise de la conduite dépend de votre état, de la douleur, de votre mobilité, des médicaments pris et du type d’accouchement.",
+          "Après une césarienne, il faut souvent attendre davantage et demander l’avis de l’équipe.",
+          "Vous devez pouvoir tourner le buste, freiner rapidement, vous attacher sans douleur importante et rester concentrée.",
+          "Si vous prenez des médicaments qui diminuent la vigilance, il ne faut pas conduire."
+        ]
+      },
+      {
+        title: "Le sport",
+        paragraphs: [
+          "Le sport ne reprend pas comme avant immédiatement après la naissance.",
+          "La marche douce peut être une première étape, mais la course, les abdominaux, les sauts, les charges lourdes ou les sports intenses doivent attendre.",
+          "Le périnée et la sangle abdominale ont besoin d’être évalués, surtout en cas de fuites urinaires, pesanteur, douleurs ou diastasis.",
+          "La reprise du sport doit idéalement être discutée avec une sage-femme, un médecin ou un kinésithérapeute."
+        ]
+      },
+      {
+        title: "La rééducation du périnée et des abdominaux",
+        paragraphs: [
+          "La rééducation périnéale permet de vérifier le tonus, les sensations, les douleurs et les éventuelles fuites.",
+          "Elle peut être utile après une voie basse comme après une césarienne.",
+          "La rééducation abdominale peut aussi être proposée ensuite, notamment si la sangle abdominale est fragilisée.",
+          "Reprendre les efforts intenses avant cette évaluation peut augmenter certains inconforts."
+        ]
+      },
+      {
+        title: "La reprise des rapports sexuels",
+        paragraphs: [
+          "La reprise des rapports dépend de la cicatrisation, des saignements, de la douleur, de la fatigue, du désir et du vécu de l’accouchement.",
+          "Il n’y a pas de délai unique qui convienne à tout le monde.",
+          "Après une voie basse, les points, la sécheresse, la peur d’avoir mal ou la fatigue peuvent jouer.",
+          "Après une césarienne, la cicatrice, les douleurs et l’épuisement peuvent aussi retarder l’envie. Le consentement et le confort doivent rester prioritaires."
+        ]
+      },
+      {
+        title: "Le retour au travail",
+        paragraphs: [
+          "Le retour au travail dépend du congé, de la récupération, du mode de garde, de l’allaitement éventuel, du sommeil et de l’état émotionnel.",
+          "Certaines femmes se sentent prêtes rapidement, d’autres ont besoin de plus de temps ou d’un accompagnement.",
+          "Si la fatigue, la douleur ou la santé mentale rendent le quotidien difficile, parlez-en à un professionnel.",
+          "Le post-partum ne s’arrête pas parce qu’une date de reprise approche."
+        ]
+      },
+      {
+        title: "Les signes qu’il faut ralentir",
+        paragraphs: [
+          "Certains signes montrent que l’activité reprise est peut-être trop intense pour le moment.",
+          "Des saignements qui augmentent nettement après un effort.",
+          "Une douleur qui apparaît ou s’aggrave.",
+          "Une sensation de pesanteur dans le bassin ou de pression vers le bas.",
+          "Des fuites urinaires ou anales.",
+          "Une fatigue écrasante après une activité pourtant simple.",
+          "Une cicatrice qui tire fortement, devient rouge ou douloureuse."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes nécessitent un avis médical rapide.",
+          "Des saignements très abondants, des gros caillots ou un malaise.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Une douleur thoracique, un essoufflement ou une difficulté à respirer.",
+          "Une jambe rouge, gonflée ou douloureuse.",
+          "Une douleur qui augmente au niveau du ventre, du périnée ou de la cicatrice.",
+          "Une cicatrice qui saigne, s’ouvre ou présente un écoulement.",
+          "Des idées noires, une anxiété intense ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à éviter une reprise trop rapide.",
+          "Il peut prendre en charge les courses, les repas, le ménage, les trajets, les aînés ou certaines démarches.",
+          "Il peut aussi rappeler que la mère n’a pas à prouver qu’elle va bien en faisant tout trop tôt.",
+          "Un soutien concret permet de reprendre les activités au bon rythme."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La reprise des activités après l’accouchement doit être progressive et adaptée à votre accouchement, votre douleur, vos saignements et votre fatigue.",
+          "La marche douce peut souvent reprendre tôt, mais les charges lourdes, le sport intense et les efforts abdominaux doivent attendre.",
+          "Après une césarienne, la prudence est encore plus importante car le corps cicatrise aussi en profondeur.",
+          "Saignements qui augmentent, douleur, pesanteur, fuites ou grande fatigue sont des signes qu’il faut ralentir.",
+          "Demandez un avis avant de reprendre une activité qui vous inquiète ou si un symptôme apparaît."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Collège National des Sages-Femmes de France",
+        url: "https://www.cnsf.asso.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
