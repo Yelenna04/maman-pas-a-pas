@@ -409,6 +409,224 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "comment-recuperer-apres-une-cesarienne",
+    title: "Comment récupérer après une césarienne ?",
+    description:
+      "Après une césarienne, la récupération demande du temps : douleur, cicatrice, premiers levers, allaitement ou biberon, fatigue, émotions et signes à surveiller.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une césarienne est une naissance, mais aussi une intervention chirurgicale : la récupération doit être progressive.",
+          "Les douleurs, tiraillements, difficultés à se lever et fatigue importante sont fréquents les premiers jours.",
+          "La cicatrice doit être surveillée : rougeur importante, écoulement, fièvre ou douleur qui s’aggrave doivent faire consulter.",
+          "Le premier lever, les déplacements et le port du bébé doivent être accompagnés au début, sans forcer sur le ventre.",
+          "Repos, aide concrète, antalgiques adaptés, hydratation, alimentation simple et suivi médical sont essentiels pour récupérer."
+        ],
+        quote:
+          "Après une césarienne, récupérer ne veut pas dire reprendre vite : cela veut dire laisser au corps le temps de cicatriser."
+      },
+      {
+        title: "Une récupération à la fois post-partum et chirurgicale",
+        paragraphs: [
+          "Après une césarienne, le corps récupère de l’accouchement, des changements hormonaux et d’une intervention chirurgicale.",
+          "Il est donc normal d’avoir besoin de temps, d’aide et de repos.",
+          "La douleur, la fatigue, les saignements, les tranchées et les émotions peuvent coexister dans les premiers jours.",
+          "La récupération ne se mesure pas uniquement à la cicatrice visible : l’utérus, les muscles, les tissus et l’énergie générale ont aussi besoin de récupérer."
+        ]
+      },
+      {
+        title: "Les premières heures",
+        paragraphs: [
+          "Juste après la césarienne, l’équipe surveille la tension, les saignements, la douleur, la cicatrice, l’utérus et le retour des sensations dans les jambes.",
+          "Une perfusion, une sonde urinaire et un pansement sont fréquents au début.",
+          "Le bébé peut parfois être près de vous rapidement, ou rejoindre l’autre parent selon l’organisation de la maternité.",
+          "Ce temps de surveillance permet de vérifier que votre corps récupère correctement après l’intervention."
+        ]
+      },
+      {
+        title: "La douleur : fréquente, mais à soulager",
+        paragraphs: [
+          "Après une césarienne, la douleur au niveau du ventre et de la cicatrice est fréquente.",
+          "Elle peut augmenter en se levant, en riant, en toussant, en portant le bébé ou en changeant de position.",
+          "Des antalgiques compatibles avec votre situation sont généralement proposés.",
+          "Il ne faut pas attendre que la douleur devienne trop forte : une douleur bien prise en charge aide à bouger, respirer, dormir et s’occuper du bébé plus sereinement."
+        ],
+        quote:
+          "Avoir mal après une césarienne peut être attendu, mais souffrir en silence ne l’est pas."
+      },
+      {
+        title: "Le premier lever",
+        paragraphs: [
+          "Le premier lever se fait avec l’aide de l’équipe.",
+          "Il peut être impressionnant, car le ventre tire, les jambes peuvent sembler faibles et la fatigue est souvent très présente.",
+          "Se lever progressivement aide à relancer la circulation et à diminuer certains risques liés à l’immobilité.",
+          "Il ne faut jamais se lever seule tant que l’équipe ne vous a pas donné le feu vert."
+        ]
+      },
+      {
+        title: "Bouger sans trop tirer sur la cicatrice",
+        paragraphs: [
+          "Les premiers mouvements doivent être progressifs.",
+          "Pour vous redresser, il peut être utile de vous tourner sur le côté puis de pousser avec les bras, plutôt que de vous relever directement avec les abdominaux.",
+          "Quand vous toussez, riez ou éternuez, soutenir doucement le ventre avec les mains ou un coussin peut soulager.",
+          "Demandez de l’aide pour attraper le bébé, vous installer ou vous lever si la douleur est trop présente."
+        ]
+      },
+      {
+        title: "La cicatrice",
+        paragraphs: [
+          "La cicatrice est d’abord protégée par un pansement.",
+          "L’équipe vérifie son aspect, les saignements éventuels, la douleur et les signes d’infection.",
+          "Il peut y avoir une sensation de tiraillement, de brûlure, d’engourdissement ou de peau sensible autour de la zone.",
+          "Ces sensations peuvent évoluer avec le temps, mais une douleur qui augmente ou un aspect inquiétant doit être signalé."
+        ]
+      },
+      {
+        title: "Les soins de la cicatrice",
+        paragraphs: [
+          "Les soins dépendent du type de fermeture, du pansement et des consignes de la maternité.",
+          "Avant la sortie, demandez comment nettoyer la zone, quand retirer ou changer le pansement si cela est prévu, et quels gestes éviter.",
+          "En général, il faut garder la zone propre et sèche, éviter de frotter et porter des vêtements confortables qui ne compriment pas la cicatrice.",
+          "Ne mettez pas de crème, d’huile ou de produit sur la cicatrice sans avis professionnel."
+        ]
+      },
+      {
+        title: "Les saignements après une césarienne",
+        paragraphs: [
+          "Même après une césarienne, les saignements vaginaux sont normaux.",
+          "Ils viennent de l’utérus, qui cicatrise à l’endroit où le placenta était attaché.",
+          "Ils doivent globalement diminuer avec le temps.",
+          "Des saignements très abondants, des gros caillots, une mauvaise odeur, de la fièvre ou un malaise doivent faire demander un avis rapidement."
+        ]
+      },
+      {
+        title: "Les tranchées",
+        paragraphs: [
+          "Les tranchées sont les contractions de l’utérus après la naissance.",
+          "Elles aident l’utérus à reprendre sa taille et à limiter les saignements.",
+          "Elles peuvent être ressenties même après une césarienne.",
+          "Elles peuvent être plus fortes pendant l’allaitement, car la succion stimule les contractions de l’utérus."
+        ]
+      },
+      {
+        title: "Porter le bébé et protéger son ventre",
+        paragraphs: [
+          "Vous pouvez porter votre bébé, mais il est important de vous installer correctement.",
+          "Évitez les mouvements brusques et les efforts qui tirent sur le ventre.",
+          "Demandez qu’on vous apporte le bébé plutôt que de vous pencher ou de vous tourner douloureusement.",
+          "Pour les charges plus lourdes que le bébé, demandez l’avis de l’équipe et évitez de forcer au début."
+        ]
+      },
+      {
+        title: "Allaitement ou biberon après une césarienne",
+        paragraphs: [
+          "Une césarienne n’empêche pas d’allaiter si vous le souhaitez.",
+          "Vous aurez peut-être besoin d’aide pour trouver une position qui ne tire pas sur la cicatrice, comme une position sur le côté ou avec le bébé bien soutenu.",
+          "Si vous donnez le biberon, installez-vous de manière à ne pas porter tout le poids du bébé sur le ventre.",
+          "Dans les deux cas, l’autre parent ou l’entourage peut aider à installer le bébé et à limiter les efforts."
+        ]
+      },
+      {
+        title: "La fatigue après une césarienne",
+        paragraphs: [
+          "La fatigue peut être très forte après une césarienne.",
+          "Elle est liée à la chirurgie, à la naissance, au manque de sommeil, à la douleur et aux soins du bébé.",
+          "Il est normal de ne pas récupérer en quelques jours.",
+          "Accepter de l’aide pour les repas, le ménage, les courses et les aînés peut vraiment faciliter la récupération."
+        ]
+      },
+      {
+        title: "La reprise des activités",
+        paragraphs: [
+          "La reprise des activités doit être progressive.",
+          "Au début, les déplacements courts et accompagnés sont souvent suffisants.",
+          "Les escaliers, les trajets longs, le ménage, les charges lourdes ou les efforts abdominaux doivent être repris avec prudence selon les consignes reçues.",
+          "Si une activité augmente nettement la douleur ou les saignements, c’est souvent un signe qu’il faut ralentir."
+        ]
+      },
+      {
+        title: "Le transit et les toilettes",
+        paragraphs: [
+          "Après une césarienne, le transit peut être ralenti par l’intervention, l’anesthésie, les médicaments, la fatigue et le manque de mouvement.",
+          "La constipation peut augmenter l’inconfort abdominal.",
+          "Boire régulièrement, manger des fibres si vous les tolérez et bouger doucement peuvent aider.",
+          "Si vous avez peur de pousser ou si vous êtes constipée, demandez conseil à l’équipe ou à une sage-femme."
+        ]
+      },
+      {
+        title: "Le vécu émotionnel",
+        paragraphs: [
+          "Une césarienne peut être bien vécue, mais elle peut aussi laisser de la frustration, de la tristesse, du soulagement, de la peur ou un sentiment d’inachevé.",
+          "Si elle a été décidée en urgence, vous pouvez avoir besoin qu’on vous réexplique ce qui s’est passé.",
+          "Ces émotions ne sont pas secondaires.",
+          "Parler de la naissance avec une sage-femme, un médecin ou un professionnel formé peut aider à remettre du sens."
+        ],
+        quote:
+          "La cicatrisation est aussi émotionnelle : comprendre son accouchement fait partie de la récupération."
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander un avis médical rapidement.",
+          "Une fièvre, des frissons ou une sensation de malaise.",
+          "Une douleur qui augmente au lieu de diminuer.",
+          "Une cicatrice très rouge, chaude, gonflée, qui saigne beaucoup ou avec un écoulement.",
+          "Des saignements vaginaux très abondants ou des gros caillots.",
+          "Une douleur dans la poitrine, un essoufflement ou une difficulté à respirer.",
+          "Une jambe rouge, douloureuse ou gonflée.",
+          "Des idées noires, une angoisse intense ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en prenant en charge les tâches concrètes.",
+          "Préparer les repas, faire les courses, gérer une lessive, s’occuper des aînés ou accompagner aux rendez-vous peut beaucoup soulager.",
+          "Il peut aussi aider à apporter le bébé, à installer la mère confortablement et à protéger les temps de repos.",
+          "Après une césarienne, l’aide concrète n’est pas un bonus : elle fait partie de la récupération."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Récupérer après une césarienne demande du temps, car il s’agit d’une naissance et d’une chirurgie.",
+          "La douleur, les tiraillements, la fatigue et les difficultés à bouger sont fréquents au début.",
+          "La cicatrice doit être surveillée et les consignes de soins doivent être suivies.",
+          "Il faut reprendre les activités progressivement et accepter de l’aide.",
+          "Fièvre, douleur qui s’aggrave, saignements abondants, cicatrice inquiétante ou détresse émotionnelle doivent faire consulter."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
+        url: "https://sfar.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
