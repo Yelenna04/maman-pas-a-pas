@@ -1690,6 +1690,222 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "montee-de-lait-quand-arrive-t-elle-et-comment-la-gerer",
+    title: "Montée de lait : quand arrive-t-elle et comment la gérer ?",
+    description:
+      "La montée de lait arrive généralement quelques jours après la naissance. Seins tendus, chaleur, inconfort, engorgement, tétées fréquentes : voici comment mieux la comprendre et quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La montée de lait arrive souvent entre le 2e et le 5e jour après la naissance, parfois un peu plus tôt ou plus tard.",
+          "Les seins peuvent devenir tendus, chauds, lourds, sensibles ou douloureux.",
+          "Des tétées fréquentes et une bonne prise du sein aident souvent à traverser cette étape plus confortablement.",
+          "Si les seins deviennent très durs, douloureux, rouges ou si le bébé n’arrive pas à prendre le sein, il faut demander de l’aide.",
+          "Fièvre, frissons, douleur localisée ou bébé qui tète peu doivent faire consulter rapidement."
+        ],
+        quote:
+          "La montée de lait peut être impressionnante, mais elle se traverse mieux avec de l’aide, du repos et des tétées efficaces."
+      },
+      {
+        title: "Qu’est-ce que la montée de lait ?",
+        paragraphs: [
+          "La montée de lait correspond à l’augmentation importante de la production de lait après la naissance.",
+          "Avant cette étape, les seins produisent du colostrum, un premier lait très concentré, parfaitement adapté aux tout premiers besoins du bébé.",
+          "Puis, sous l’effet des changements hormonaux et de la stimulation des tétées, le volume de lait augmente.",
+          "Cette transition peut rendre les seins lourds, tendus et plus sensibles pendant quelques jours."
+        ]
+      },
+      {
+        title: "Quand arrive-t-elle ?",
+        paragraphs: [
+          "La montée de lait arrive le plus souvent entre le 2e et le 5e jour après l’accouchement.",
+          "Elle peut être un peu plus précoce ou plus tardive selon les femmes, le déroulement de la naissance, la fréquence des tétées, la fatigue ou certains contextes médicaux.",
+          "Après une césarienne, un accouchement long, une séparation mère-bébé ou des tétées peu efficaces, elle peut parfois sembler plus lente à s’installer.",
+          "En cas de doute, il vaut mieux demander à une sage-femme ou à un professionnel formé d’observer une tétée."
+        ]
+      },
+      {
+        title: "Comment reconnaître la montée de lait ?",
+        paragraphs: [
+          "Les seins peuvent devenir plus volumineux, tendus, chauds ou lourds.",
+          "Vous pouvez ressentir des picotements, une sensation de pression ou une gêne au moment des tétées.",
+          "Le lait peut devenir plus blanc ou plus abondant qu’auparavant.",
+          "Certaines femmes ressentent aussi une émotion forte, une fatigue intense ou une sensation de débordement pendant cette période."
+        ]
+      },
+      {
+        title: "Est-ce normal d’avoir mal ?",
+        paragraphs: [
+          "Une tension ou une sensibilité peut être normale au moment de la montée de lait.",
+          "En revanche, une douleur forte, un sein très dur, une rougeur localisée, de la fièvre ou des frissons ne doivent pas être banalisés.",
+          "La douleur peut aussi venir d’une mauvaise prise du sein, d’un engorgement ou de crevasses.",
+          "Plus l’aide arrive tôt, plus il est simple de soulager et d’éviter que la situation s’aggrave."
+        ],
+        quote:
+          "La montée de lait peut être inconfortable, mais elle ne devrait pas devenir une douleur à supporter seule."
+      },
+      {
+        title: "Favoriser des tétées efficaces",
+        paragraphs: [
+          "Des tétées fréquentes et efficaces aident souvent à soulager la tension des seins.",
+          "Le bébé doit être bien installé, ventre contre vous, avec une bouche grande ouverte et une bonne prise de l’aréole.",
+          "Si le bébé prend seulement le bout du mamelon, la tétée peut être douloureuse et moins efficace.",
+          "Un professionnel peut observer la tétée et proposer de petits ajustements qui changent beaucoup le confort."
+        ]
+      },
+      {
+        title: "Si les seins sont très tendus",
+        paragraphs: [
+          "Lorsque les seins sont très tendus, le bébé peut avoir du mal à prendre le sein.",
+          "L’aréole peut devenir dure, ce qui complique l’accroche.",
+          "Selon les conseils reçus, il peut être utile d’assouplir doucement la zone avant la tétée, sans chercher à vider complètement le sein.",
+          "L’objectif est d’aider le bébé à prendre le sein, pas de stimuler excessivement la production."
+        ]
+      },
+      {
+        title: "Engorgement : comment le reconnaître ?",
+        paragraphs: [
+          "L’engorgement correspond à des seins très tendus, durs, douloureux, parfois chauds.",
+          "Il peut rendre les tétées difficiles et donner une sensation de pression importante.",
+          "Il peut apparaître pendant la montée de lait ou plus tard si les seins ne sont pas suffisamment drainés.",
+          "Un engorgement important mérite d’être accompagné rapidement."
+        ]
+      },
+      {
+        title: "Ce qui peut soulager",
+        paragraphs: [
+          "Le plus important est souvent d’aider le bébé à téter efficacement et régulièrement.",
+          "Une bonne installation, du calme, un soutien du bras et du dos, et une prise du sein profonde peuvent améliorer les choses.",
+          "Entre les tétées, certaines femmes sont soulagées par du froid, selon leur confort et les conseils reçus.",
+          "Si vous avez très mal, demandez quels antalgiques sont compatibles avec votre situation."
+        ]
+      },
+      {
+        title: "Faut-il tirer son lait ?",
+        paragraphs: [
+          "Tirer son lait peut parfois être utile, mais ce n’est pas systématique.",
+          "Pendant la montée de lait, tirer beaucoup peut stimuler davantage la production et entretenir l’inconfort.",
+          "Dans certains cas, une expression manuelle ou un tirage très court peut aider à assouplir l’aréole ou à soulager une tension importante.",
+          "Le mieux est de demander un conseil personnalisé à une sage-femme, une consultante en lactation ou un professionnel formé."
+        ]
+      },
+      {
+        title: "Si vous n’allaitez pas",
+        paragraphs: [
+          "La montée de lait peut aussi arriver si vous avez choisi de ne pas allaiter ou si l’allaitement s’arrête rapidement.",
+          "Les seins peuvent être tendus et inconfortables pendant quelques jours.",
+          "Dans ce cas, les conseils ne sont pas les mêmes que pour soutenir l’allaitement, car l’objectif est de ne pas stimuler la production.",
+          "Demandez à la maternité ou à une sage-femme comment soulager l’inconfort selon votre situation."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, la montée de lait peut parfois sembler plus lente ou plus difficile à gérer, surtout si la fatigue, la douleur ou la séparation avec le bébé compliquent les tétées.",
+          "Cela ne veut pas dire que l’allaitement est impossible.",
+          "Une aide à l’installation peut être précieuse pour éviter de tirer sur la cicatrice.",
+          "Les positions sur le côté ou avec le bébé bien soutenu peuvent être plus confortables."
+        ]
+      },
+      {
+        title: "Bébé tète-t-il assez ?",
+        paragraphs: [
+          "La montée de lait doit toujours être observée avec l’état du bébé.",
+          "Les professionnels surveillent son éveil, ses tétées, ses urines, ses selles et son poids.",
+          "Un bébé qui tète peu, qui est très somnolent, qui mouille peu ses couches ou qui perd trop de poids doit être évalué rapidement.",
+          "L’objectif est de soutenir l’allaitement tout en s’assurant que le bébé reçoit assez de lait."
+        ]
+      },
+      {
+        title: "Les tétées groupées",
+        paragraphs: [
+          "Au moment de la montée de lait, certains bébés réclament très souvent le sein.",
+          "Les tétées peuvent sembler rapprochées, surtout le soir ou la nuit.",
+          "Cela peut être normal et participer à la stimulation de la lactation.",
+          "Mais si vous avez mal, si le bébé semble inefficace ou si vous doutez de sa prise de poids, demandez un avis."
+        ]
+      },
+      {
+        title: "Les émotions pendant la montée de lait",
+        paragraphs: [
+          "La montée de lait peut coïncider avec une période émotionnelle forte.",
+          "La fatigue, les hormones, les douleurs et les nombreuses sollicitations peuvent rendre ces jours très sensibles.",
+          "Vous pouvez vous sentir submergée, émue, irritable ou inquiète.",
+          "Ces émotions méritent autant d’attention que les symptômes physiques."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vous avez mal, si les seins sont très tendus, si le bébé ne prend pas bien le sein ou si vous avez l’impression que les tétées ne sont pas efficaces.",
+          "Une sage-femme, une consultante en lactation, la PMI, la maternité ou un professionnel formé peut observer une tétée.",
+          "Une aide précoce évite souvent que les crevasses, l’engorgement ou le découragement s’installent.",
+          "Vous n’avez pas à réussir seule."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un sein rouge, chaud, très douloureux ou une douleur localisée qui augmente.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Un engorgement qui ne s’améliore pas malgré des tétées ou des conseils adaptés.",
+          "Des crevasses importantes, des saignements ou une douleur vive pendant toute la tétée.",
+          "Un bébé qui tète très peu, qui est difficile à réveiller ou qui mouille peu ses couches.",
+          "Une perte de poids importante ou une reprise de poids insuffisante.",
+          "Une mère épuisée, en détresse ou qui se sent incapable de continuer."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en protégeant le repos et en évitant les remarques contradictoires.",
+          "Apporter de l’eau, préparer un repas, installer des coussins ou prendre le relais pour les changes peut vraiment soulager.",
+          "Il peut aussi aider à contacter une sage-femme ou une consultante si la mère souffre ou doute.",
+          "Un soutien calme, concret et sans jugement aide beaucoup pendant la montée de lait."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La montée de lait arrive souvent entre le 2e et le 5e jour après la naissance.",
+          "Les seins peuvent devenir tendus, chauds, lourds ou sensibles.",
+          "Des tétées fréquentes et une bonne prise du sein aident souvent à soulager cette étape.",
+          "Une douleur forte, un sein rouge, de la fièvre ou un bébé qui tète peu doivent faire demander un avis.",
+          "La montée de lait se gère mieux avec un accompagnement précoce et bienveillant."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Allaitement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Engorgement et montée de lait",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
