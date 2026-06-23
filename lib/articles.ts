@@ -2550,6 +2550,233 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "allaitement-mixte-comment-sorganiser",
+    title: "Allaitement mixte : comment s’organiser ?",
+    description:
+      "L’allaitement mixte associe tétées au sein et biberons. Voici comment trouver une organisation souple, préserver la lactation si souhaité, éviter la culpabilité et savoir quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’allaitement mixte associe des tétées au sein et des biberons de lait infantile ou de lait maternel tiré.",
+          "Il peut être choisi dès le départ, mis en place après des difficultés d’allaitement, ou utilisé lors d’une reprise du travail.",
+          "Pour préserver la lactation, il est utile de garder des tétées régulières et de demander conseil avant de supprimer plusieurs tétées.",
+          "Le rythme dépend de votre objectif : allaiter majoritairement, compléter ponctuellement ou passer progressivement au biberon.",
+          "Bébé qui tète peu, prend mal du poids, refuse le sein ou le biberon, ou une mère épuisée doivent faire demander un avis."
+        ],
+        quote:
+          "L’allaitement mixte n’est pas un échec : c’est une organisation qui peut s’adapter à votre bébé, à votre corps et à votre quotidien."
+      },
+      {
+        title: "Qu’est-ce que l’allaitement mixte ?",
+        paragraphs: [
+          "L’allaitement mixte consiste à associer l’allaitement au sein et des biberons.",
+          "Ces biberons peuvent contenir du lait infantile ou du lait maternel tiré, selon votre situation.",
+          "Il peut être temporaire ou durable.",
+          "Il peut aussi évoluer avec le temps : certaines familles gardent une tétée le matin et le soir, d’autres alternent davantage, d’autres utilisent les biberons seulement en complément."
+        ]
+      },
+      {
+        title: "Pourquoi choisir l’allaitement mixte ?",
+        paragraphs: [
+          "Les raisons sont très variées.",
+          "Certaines mères souhaitent allaiter tout en ayant plus de relais.",
+          "D’autres mettent en place des compléments parce que bébé prend peu de poids, parce que les tétées sont difficiles, parce qu’elles reprennent le travail ou parce qu’elles ont besoin de souffler.",
+          "Il n’y a pas une seule bonne raison : l’important est que l’organisation soit sécurisante pour bébé et soutenable pour la mère."
+        ]
+      },
+      {
+        title: "Définir son objectif",
+        paragraphs: [
+          "Avant de s’organiser, il est utile de clarifier ce que vous souhaitez.",
+          "Voulez-vous garder l’allaitement au sein le plus possible ? Ajouter seulement quelques biberons ? Passer progressivement au biberon ? Garder une tétée plaisir ?",
+          "La réponse change la façon d’introduire les biberons.",
+          "Un professionnel peut vous aider à trouver une organisation adaptée sans mettre en difficulté la prise de poids du bébé ni votre lactation."
+        ],
+        quote:
+          "L’organisation dépend de votre objectif : compléter, équilibrer, soulager ou sevrer progressivement ne demande pas les mêmes repères."
+      },
+      {
+        title: "Préserver la lactation si vous le souhaitez",
+        paragraphs: [
+          "La lactation fonctionne beaucoup avec la stimulation : plus le sein est stimulé et drainé, plus il reçoit le message de produire.",
+          "Si plusieurs tétées sont remplacées par des biberons sans stimulation, la production peut diminuer.",
+          "Ce n’est pas forcément un problème si c’est votre objectif.",
+          "Mais si vous souhaitez garder une bonne lactation, demandez conseil avant de supprimer trop de tétées ou trop rapidement."
+        ]
+      },
+      {
+        title: "Introduire un biberon progressivement",
+        paragraphs: [
+          "Lorsque c’est possible, introduire un biberon progressivement peut aider bébé et votre corps à s’adapter.",
+          "On peut commencer par un moment de la journée où la mère est fatiguée, absente ou souhaite être relayée.",
+          "Il est souvent préférable d’éviter de multiplier les changements en même temps : nouveau rythme, nouveau lait, nouvelle tétine, personne différente.",
+          "Un changement à la fois permet de mieux comprendre ce qui convient au bébé."
+        ]
+      },
+      {
+        title: "Quel biberon choisir ?",
+        paragraphs: [
+          "Il n’existe pas de biberon parfait pour tous les bébés.",
+          "Le débit de la tétine doit être adapté pour éviter que bébé boive trop vite ou s’énerve.",
+          "Un débit trop rapide peut rendre le retour au sein plus difficile chez certains bébés et provoquer un inconfort digestif.",
+          "Si bébé tousse, s’étouffe, boit très vite ou semble gêné, demandez conseil avant de changer plusieurs fois de matériel."
+        ]
+      },
+      {
+        title: "Comment donner le biberon quand bébé est aussi allaité ?",
+        paragraphs: [
+          "Un biberon donné lentement, avec des pauses, peut aider bébé à respecter ses sensations.",
+          "Installez bébé semi-assis, observez son rythme et faites des pauses pour vérifier s’il a encore faim.",
+          "Il n’est pas toujours nécessaire de finir le biberon si bébé montre qu’il est rassasié.",
+          "Cette manière de donner le biberon peut aussi aider à limiter les prises trop rapides."
+        ]
+      },
+      {
+        title: "Bébé refuse le biberon",
+        paragraphs: [
+          "Certains bébés allaités refusent le biberon au début.",
+          "Cela peut venir de la tétine, du moment choisi, de la personne qui propose, de la fatigue ou simplement du besoin d’apprendre.",
+          "Il peut être utile de proposer sans forcer, dans un moment calme, et parfois par une autre personne que la mère.",
+          "Si le refus persiste et que vous avez besoin de mettre en place des biberons, demandez un avis pour éviter que les repas deviennent une source de stress."
+        ]
+      },
+      {
+        title: "Bébé préfère le biberon",
+        paragraphs: [
+          "Certains bébés semblent préférer le biberon, surtout si le débit est rapide et demande moins d’effort.",
+          "Cela peut parfois rendre les tétées au sein plus difficiles.",
+          "On peut alors vérifier la position, proposer le sein dans un moment calme et revoir le débit de la tétine.",
+          "Si vous souhaitez maintenir l’allaitement, un accompagnement précoce peut aider à éviter un sevrage plus rapide que prévu."
+        ]
+      },
+      {
+        title: "Comment répartir sein et biberon ?",
+        paragraphs: [
+          "Il n’y a pas de répartition unique.",
+          "Certaines familles gardent les tétées du matin et du soir, d’autres donnent un biberon la nuit pour que l’autre parent prenne le relais, d’autres complètent après certaines tétées.",
+          "Le choix dépend de la prise de poids du bébé, de votre production, de votre fatigue et de votre objectif.",
+          "Si les compléments sont donnés pour une raison médicale ou une prise de poids insuffisante, suivez les consignes du professionnel qui suit bébé."
+        ]
+      },
+      {
+        title: "Compléter après une tétée",
+        paragraphs: [
+          "Parfois, un complément est proposé après une tétée si bébé a encore faim ou si la prise de poids doit être soutenue.",
+          "La quantité et la fréquence doivent être adaptées à la situation.",
+          "Il est important de vérifier que le bébé tète efficacement, car ajouter un biberon sans corriger une difficulté de tétée peut laisser le problème de fond persister.",
+          "Un suivi du poids et des couches aide à ajuster l’organisation."
+        ]
+      },
+      {
+        title: "Tirer son lait : utile ou non ?",
+        paragraphs: [
+          "Tirer son lait peut aider si vous souhaitez proposer des biberons de lait maternel ou préserver la lactation pendant une absence.",
+          "Ce n’est pas obligatoire dans tous les allaitements mixtes.",
+          "Tirer peut être fatigant et doit rester compatible avec votre quotidien.",
+          "Si vous tirez votre lait, demandez des conseils sur la conservation, le rythme et les quantités adaptées."
+        ]
+      },
+      {
+        title: "La reprise du travail",
+        paragraphs: [
+          "L’allaitement mixte peut être une solution lors de la reprise du travail.",
+          "Certaines mères gardent les tétées du matin, du soir et des jours de repos, avec des biberons en journée.",
+          "D’autres tirent leur lait au travail ou choisissent de ne pas le faire.",
+          "Il n’y a pas une seule organisation valable : le bon rythme est celui qui nourrit bébé et reste vivable pour vous."
+        ]
+      },
+      {
+        title: "Les nuits et le relais",
+        paragraphs: [
+          "Le biberon peut permettre à l’autre parent ou à une personne de confiance de prendre le relais.",
+          "Cela peut aider la mère à dormir un peu plus, surtout en période de grande fatigue.",
+          "Si vous souhaitez préserver la lactation, il faut toutefois réfléchir au nombre de tétées remplacées, notamment au début.",
+          "L’équilibre entre repos et stimulation peut être discuté avec une sage-femme ou une consultante en lactation."
+        ]
+      },
+      {
+        title: "La culpabilité",
+        paragraphs: [
+          "Beaucoup de mères se sentent coupables lorsqu’elles introduisent un biberon.",
+          "Pourtant, l’allaitement mixte peut être un choix réfléchi, un soutien temporaire ou une adaptation nécessaire.",
+          "Votre valeur de mère ne dépend pas du pourcentage de lait maternel donné.",
+          "Un bébé a besoin d’être nourri, porté, regardé, rassuré et entouré."
+        ],
+        quote:
+          "Un biberon donné avec attention ne retire rien au lien : il peut aussi faire partie d’une organisation aimante."
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si bébé prend mal du poids, tète peu, refuse le sein ou le biberon, ou si vous ne savez plus comment répartir les repas.",
+          "Une sage-femme, une consultante en lactation, la PMI, la maternité ou le médecin peuvent vous accompagner.",
+          "Il est aussi utile de demander de l’aide si vous souhaitez maintenir l’allaitement mais sentez que la lactation baisse.",
+          "Un regard extérieur permet souvent de simplifier l’organisation."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un bébé qui boit très peu ou refuse plusieurs repas.",
+          "Des couches très peu mouillées.",
+          "Une perte de poids importante ou une prise de poids insuffisante.",
+          "Un bébé très somnolent, difficile à réveiller ou inhabituellement mou.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Un sein rouge, chaud, très douloureux, avec fièvre ou frissons.",
+          "Une mère épuisée, en détresse ou qui se sent perdue dans l’organisation des repas."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider sans juger le choix de l’allaitement mixte.",
+          "Il peut préparer les biberons, nettoyer le matériel, apporter de l’eau, aider à installer la mère ou prendre le relais entre les repas.",
+          "Il peut aussi soutenir la mère si elle souhaite garder certaines tétées importantes pour elle.",
+          "Le plus aidant est de respecter le projet choisi et d’éviter les remarques culpabilisantes."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’allaitement mixte peut être choisi, temporaire, progressif ou nécessaire selon les situations.",
+          "Pour préserver la lactation, il faut garder une stimulation suffisante du sein ou demander conseil avant de supprimer plusieurs tétées.",
+          "Le rythme dépend de votre objectif, de la prise de poids de bébé et de votre fatigue.",
+          "Le biberon peut se donner lentement, avec des pauses, en respectant les signes de faim et de satiété.",
+          "En cas de doute sur la prise alimentaire, le poids, les couches ou votre moral, demandez un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Allaitement mixte et reprise du travail",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
