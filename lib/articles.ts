@@ -1264,6 +1264,205 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "quand-consulter-apres-laccouchement",
+    title: "Quand consulter après l’accouchement ?",
+    description:
+      "Après la naissance, certains signes doivent amener à consulter rapidement : saignements, fièvre, douleurs, cicatrice, allaitement, moral, essoufflement ou malaise.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, il est normal d’avoir des douleurs, des saignements, de la fatigue et des émotions fortes, mais certains signes doivent alerter.",
+          "Fièvre, saignements très abondants, gros caillots, malaise, douleur qui s’aggrave ou mauvaise odeur des pertes doivent faire demander un avis.",
+          "Une douleur dans la poitrine, un essoufflement, une jambe gonflée ou douloureuse nécessitent une consultation urgente.",
+          "Après une césarienne ou des points, une cicatrice rouge, chaude, douloureuse ou avec un écoulement doit être montrée.",
+          "Idées noires, anxiété intense, impression de ne plus pouvoir faire face ou peur de faire du mal doivent faire demander de l’aide rapidement."
+        ],
+        quote:
+          "Après la naissance, il vaut toujours mieux demander un avis trop tôt que rester seule avec un symptôme inquiétant."
+      },
+      {
+        title: "Pourquoi il est parfois difficile de savoir",
+        paragraphs: [
+          "Les jours qui suivent l’accouchement sont souvent intenses.",
+          "Le corps saigne, cicatrise, se contracte, récupère, tandis que le sommeil est très fragmenté.",
+          "Il peut donc être difficile de distinguer ce qui fait partie de la récupération normale et ce qui mérite un avis médical.",
+          "Un doute suffit à appeler une sage-femme, la maternité, un médecin ou les urgences selon l’intensité du symptôme."
+        ]
+      },
+      {
+        title: "Les rendez-vous prévus après la naissance",
+        paragraphs: [
+          "Après l’accouchement, un suivi est généralement organisé avec la maternité, une sage-femme, un médecin ou un autre professionnel de santé.",
+          "Ce suivi permet de vérifier la récupération, les saignements, la cicatrisation, l’allaitement ou le biberon, la fatigue et le moral.",
+          "Une consultation postnatale est aussi prévue dans les semaines qui suivent la naissance.",
+          "Mais il ne faut pas attendre le rendez-vous prévu si un signe vous inquiète avant."
+        ]
+      },
+      {
+        title: "Saignements : quand consulter ?",
+        paragraphs: [
+          "Les saignements après l’accouchement sont normaux et s’appellent les lochies.",
+          "Ils doivent globalement diminuer avec le temps.",
+          "Il faut consulter rapidement si les saignements deviennent très abondants, si vous remplissez une protection en peu de temps, si vous perdez de gros caillots ou si vous vous sentez faible, étourdie ou mal.",
+          "Une mauvaise odeur des pertes, de la fièvre ou des douleurs associées doivent aussi faire demander un avis."
+        ]
+      },
+      {
+        title: "Fièvre, frissons ou malaise",
+        paragraphs: [
+          "La fièvre après l’accouchement ne doit pas être banalisée.",
+          "Elle peut être liée à une infection, à un problème au niveau de l’utérus, de la cicatrice, des seins ou à une autre cause.",
+          "Des frissons, une sensation d’être malade, une grande faiblesse ou un malaise doivent faire consulter.",
+          "Si l’état général se dégrade rapidement, il faut appeler les urgences."
+        ]
+      },
+      {
+        title: "Douleurs : ce qui doit alerter",
+        paragraphs: [
+          "Des douleurs sont fréquentes après une naissance, mais elles doivent être soulagées et diminuer progressivement.",
+          "Une douleur qui s’aggrave, qui devient très intense ou qui empêche de marcher, respirer, dormir ou s’occuper du bébé mérite un avis.",
+          "Une douleur forte au ventre, au périnée, à la cicatrice, dans un sein, dans une jambe ou dans la poitrine ne doit pas être ignorée.",
+          "La douleur est un signal : elle doit être écoutée, pas minimisée."
+        ]
+      },
+      {
+        title: "Après une césarienne : surveiller la cicatrice",
+        paragraphs: [
+          "Après une césarienne, la cicatrice peut tirer, être sensible ou engourdie.",
+          "En revanche, il faut demander un avis si elle devient très rouge, chaude, gonflée, très douloureuse, si elle saigne beaucoup, s’ouvre ou présente un écoulement.",
+          "Une fièvre ou une douleur qui augmente associée à une cicatrice inquiétante doit faire consulter rapidement.",
+          "Ne mettez pas de produit sur la cicatrice sans avis professionnel."
+        ]
+      },
+      {
+        title: "Après une voie basse : périnée, points et cicatrisation",
+        paragraphs: [
+          "Après une voie basse, le périnée peut être douloureux, surtout s’il y a eu une déchirure, une épisiotomie ou des points.",
+          "Il faut consulter si la douleur augmente, si la zone devient très gonflée, rouge, chaude, si un point semble lâcher ou si la plaie semble s’ouvrir.",
+          "Une mauvaise odeur, un écoulement inquiétant ou une douleur qui empêche de s’asseoir ou de marcher doivent aussi être signalés.",
+          "Il est important de ne pas rester seule avec une gêne importante."
+        ]
+      },
+      {
+        title: "Essoufflement, douleur dans la poitrine ou jambe douloureuse",
+        paragraphs: [
+          "Certains signes nécessitent un avis urgent.",
+          "Une douleur dans la poitrine, une difficulté à respirer, un essoufflement inhabituel, un malaise ou des palpitations importantes doivent faire appeler les urgences.",
+          "Une jambe rouge, gonflée, chaude ou douloureuse doit aussi être prise au sérieux.",
+          "Ces signes peuvent être rares, mais ils ne doivent pas attendre."
+        ],
+        quote:
+          "Douleur thoracique, essoufflement ou jambe gonflée après l’accouchement : il faut demander un avis sans attendre."
+      },
+      {
+        title: "Urines, selles et douleurs aux toilettes",
+        paragraphs: [
+          "Après l’accouchement, il peut y avoir une gêne pour uriner ou aller à la selle.",
+          "Il faut consulter si vous n’arrivez pas à uriner, si vous avez une douleur importante, des brûlures fortes, du sang dans les urines, de la fièvre ou une constipation sévère.",
+          "Une difficulté à retenir les urines, les gaz ou les selles mérite aussi d’être évoquée avec un professionnel.",
+          "Ces sujets sont fréquents en post-partum et peuvent être pris en charge."
+        ]
+      },
+      {
+        title: "Seins, allaitement et montée de lait",
+        paragraphs: [
+          "Les seins peuvent être tendus ou douloureux lors de la montée de lait.",
+          "Il faut demander un avis si un sein devient rouge, chaud, très douloureux, si vous avez de la fièvre ou des frissons.",
+          "Des crevasses très douloureuses, un engorgement qui ne s’améliore pas ou un bébé qui ne semble pas réussir à téter doivent aussi faire consulter une sage-femme ou un professionnel formé.",
+          "Si vous donnez le biberon et que vos seins sont douloureux ou très tendus, vous pouvez également demander conseil."
+        ]
+      },
+      {
+        title: "Bébé : quand demander de l’aide ?",
+        paragraphs: [
+          "Même si cet article concerne surtout la mère, certains signes chez le bébé doivent aussi faire demander un avis.",
+          "Un bébé qui boit très peu, qui est très somnolent, qui a de la fièvre, qui respire difficilement ou qui semble très jaune doit être vu rapidement.",
+          "Des couches très peu mouillées, une perte de poids importante ou un comportement inhabituel doivent aussi être signalés.",
+          "En cas de doute, appelez la maternité, une sage-femme, le médecin ou les urgences pédiatriques."
+        ]
+      },
+      {
+        title: "Moral : quand consulter ?",
+        paragraphs: [
+          "Les émotions peuvent être très fortes après la naissance.",
+          "Le baby blues est fréquent les premiers jours, mais il doit rester transitoire.",
+          "Il faut demander de l’aide si la tristesse s’installe, si l’anxiété devient envahissante, si vous ne dormez plus du tout même quand le bébé dort, ou si vous vous sentez incapable de faire face.",
+          "Des idées noires, la peur de faire du mal, l’envie de disparaître ou de se faire du mal nécessitent une aide immédiate."
+        ]
+      },
+      {
+        title: "Quand appeler la maternité, une sage-femme ou les urgences ?",
+        paragraphs: [
+          "La maternité ou la sage-femme peuvent être contactées en cas de question sur les saignements, les douleurs, la cicatrice, l’allaitement, le périnée, le moral ou l’organisation du retour à la maison.",
+          "Un médecin peut être nécessaire si un symptôme persiste, s’aggrave ou si vous avez besoin d’un examen.",
+          "Les urgences doivent être contactées en cas de saignements très abondants, malaise, douleur thoracique, essoufflement, fièvre importante, confusion, idées suicidaires ou inquiétude majeure.",
+          "Si vous ne savez pas qui appeler, commencez par la maternité, le 15 ou le numéro d’urgence indiqué dans vos consignes de sortie selon la situation."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter rapidement",
+        paragraphs: [
+          "Des saignements très abondants, des gros caillots ou un malaise.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Une douleur qui augmente ou devient très forte.",
+          "Une mauvaise odeur des pertes vaginales.",
+          "Une cicatrice rouge, chaude, gonflée, très douloureuse ou avec un écoulement.",
+          "Une douleur dans la poitrine, un essoufflement ou une difficulté à respirer.",
+          "Une jambe rouge, gonflée ou douloureuse.",
+          "Une impossibilité d’uriner, des brûlures importantes ou une constipation sévère.",
+          "Des idées noires, une peur de faire du mal ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à repérer les signes inquiétants, surtout lorsque la mère est épuisée.",
+          "Il peut proposer d’appeler la maternité, accompagner à une consultation ou prendre le relais avec le bébé.",
+          "Il peut aussi éviter de minimiser les symptômes avec des phrases comme “c’est normal, tu viens d’accoucher”.",
+          "Après une naissance, prendre au sérieux une inquiétude est une vraie forme de soutien."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après l’accouchement, douleurs, saignements, fatigue et émotions fortes peuvent être fréquents, mais certains signes doivent faire consulter.",
+          "Fièvre, saignements abondants, malaise, douleur qui s’aggrave, cicatrice inquiétante ou mauvaise odeur des pertes ne doivent pas attendre.",
+          "Essoufflement, douleur thoracique ou jambe gonflée nécessitent un avis urgent.",
+          "Le moral compte autant que le corps : idées noires, anxiété intense ou sentiment de ne plus pouvoir faire face doivent faire demander de l’aide rapidement.",
+          "En cas de doute, appelez : vous n’avez pas à décider seule si un symptôme est grave."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
+      },
+      {
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
