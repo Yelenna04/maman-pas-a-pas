@@ -968,10 +968,11 @@ export const articles: Article[] = [
       {
         title: "La reprise des rapports sexuels",
         paragraphs: [
-          "La reprise des rapports dépend de la cicatrisation, des saignements, de la douleur, de la fatigue, du désir et du vécu de l’accouchement.",
-          "Il n’y a pas de délai unique qui convienne à tout le monde.",
-          "Après une voie basse, les points, la sécheresse, la peur d’avoir mal ou la fatigue peuvent jouer.",
-          "Après une césarienne, la cicatrice, les douleurs et l’épuisement peuvent aussi retarder l’envie. Le consentement et le confort doivent rester prioritaires."
+          "Pour les rapports avec pénétration, beaucoup de professionnels recommandent d’attendre environ 4 à 6 semaines après l’accouchement, le temps que les saignements diminuent, que le col se referme et que les tissus cicatrisent.",
+          "Ce délai reste un repère général, pas une obligation : certaines femmes auront besoin de plus de temps, surtout en cas de points, d’épisiotomie, de déchirure, de césarienne, de douleurs, de grande fatigue ou de vécu difficile de la naissance.",
+          "La reprise dépend aussi du désir, du confort, de la sécheresse vaginale éventuelle, de l’allaitement, du sommeil et du sentiment d’être prête.",
+          "S’il y a une douleur, une appréhension ou des saignements qui reprennent, il vaut mieux ralentir et en parler à une sage-femme, un médecin ou un professionnel formé.",
+          "La contraception doit aussi être abordée avant la reprise, car une ovulation peut survenir avant le retour de couches."
         ]
       },
       {
@@ -1036,6 +1037,222 @@ export const articles: Article[] = [
       {
         label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
         url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+      },
+      {
+        label: "Collège National des Sages-Femmes de France",
+        url: "https://www.cnsf.asso.fr/"
+      },
+      {
+        label: "1000 premiers jours — Les premiers jours avec bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
+
+{
+    slug: "reeducation-du-perinee-quand-commencer-et-a-quoi-ca-sert",
+    title: "Rééducation du périnée : quand commencer et à quoi ça sert ?",
+    description:
+      "Après l’accouchement, la rééducation du périnée aide à retrouver du confort, de meilleures sensations et à prévenir certaines fuites ou douleurs. Voici quand commencer et comment cela se passe.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Récupération",
+    subcategorySlug: "recuperation",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La rééducation du périnée est souvent proposée après l’accouchement, que la naissance ait eu lieu par voie basse ou par césarienne.",
+          "Elle sert à évaluer le périnée, les douleurs, les fuites, les sensations, la cicatrisation et la reprise progressive des activités.",
+          "Elle ne commence pas forcément tout de suite : il faut d’abord laisser le corps récupérer et attendre l’avis du professionnel.",
+          "Elle peut être réalisée avec une sage-femme ou un kinésithérapeute formé.",
+          "Fuites urinaires, pesanteur, douleurs, gêne pendant les rapports ou sensation de faiblesse du périnée sont des motifs fréquents de consultation."
+        ],
+        quote:
+          "La rééducation du périnée n’est pas seulement une série d’exercices : c’est un accompagnement pour retrouver confiance dans son corps."
+      },
+      {
+        title: "Qu’est-ce que le périnée ?",
+        paragraphs: [
+          "Le périnée est un ensemble de muscles et de tissus situé dans le bas du bassin.",
+          "Il soutient notamment la vessie, l’utérus et le rectum.",
+          "Il participe aussi à la continence urinaire et anale, aux sensations intimes et à la stabilité du bassin.",
+          "Pendant la grossesse et l’accouchement, il est fortement sollicité."
+        ]
+      },
+      {
+        title: "Pourquoi le périnée est-il fragilisé après une naissance ?",
+        paragraphs: [
+          "Pendant la grossesse, le périnée soutient le poids de l’utérus, du bébé, du liquide amniotique et du placenta.",
+          "Les hormones rendent aussi les tissus plus souples.",
+          "Lors d’une voie basse, le périnée est étiré au moment du passage du bébé.",
+          "Même après une césarienne, il peut être fragilisé par la grossesse, les changements hormonaux et les efforts du quotidien."
+        ]
+      },
+      {
+        title: "À quoi sert la rééducation du périnée ?",
+        paragraphs: [
+          "La rééducation permet d’évaluer comment le périnée récupère après la naissance.",
+          "Elle aide à retrouver une meilleure conscience de cette zone, à améliorer le tonus, à réduire certaines fuites et à accompagner la reprise des activités.",
+          "Elle peut aussi aider en cas de douleurs, de gêne, de sensation de pesanteur ou de peur de reprendre les rapports.",
+          "Elle est adaptée à chaque femme : il ne s’agit pas de faire les mêmes exercices pour tout le monde."
+        ],
+        quote:
+          "La rééducation commence souvent par comprendre ce que l’on ressent, avant de chercher à renforcer."
+      },
+      {
+        title: "Quand commencer ?",
+        paragraphs: [
+          "La rééducation ne commence pas toujours tout de suite après la naissance.",
+          "Il faut d’abord que le corps récupère, que les saignements diminuent, que les douleurs soient prises en compte et que la cicatrisation soit suffisamment avancée.",
+          "Le bon moment est généralement discuté lors du suivi postnatal avec la sage-femme, le médecin ou le professionnel qui vous accompagne.",
+          "Si vous avez des douleurs importantes, des fuites, une sensation de pesanteur ou une inquiétude, vous pouvez consulter pour être évaluée sans attendre."
+        ]
+      },
+      {
+        title: "Qui peut la réaliser ?",
+        paragraphs: [
+          "La rééducation du périnée peut être réalisée par une sage-femme ou par un kinésithérapeute formé à la rééducation périnéale.",
+          "Le choix dépend de votre situation, de vos besoins, de votre localisation et de la disponibilité des professionnels.",
+          "L’important est de vous sentir écoutée, respectée et informée.",
+          "Vous avez le droit de poser des questions sur la méthode utilisée et de refuser un geste qui vous met mal à l’aise."
+        ]
+      },
+      {
+        title: "Comment se passe la première séance ?",
+        paragraphs: [
+          "La première séance sert souvent à faire le point.",
+          "Le professionnel vous interroge sur l’accouchement, les douleurs, les fuites éventuelles, les sensations, la cicatrisation, la constipation, la sexualité si vous souhaitez en parler, et vos activités du quotidien.",
+          "Il peut proposer un examen, uniquement avec votre accord, pour évaluer le périnée et adapter la prise en charge.",
+          "Cette première séance permet de définir des objectifs réalistes et personnalisés."
+        ]
+      },
+      {
+        title: "Les différentes méthodes",
+        paragraphs: [
+          "Il existe plusieurs façons de rééduquer le périnée.",
+          "Certaines séances utilisent des exercices de contraction et de relâchement guidés.",
+          "D’autres peuvent proposer du travail respiratoire, postural, des conseils pour le quotidien, ou parfois des dispositifs spécifiques selon les besoins.",
+          "La méthode doit être expliquée et adaptée à votre confort."
+        ]
+      },
+      {
+        title: "Rééducation ne veut pas dire seulement “serrer”",
+        paragraphs: [
+          "Beaucoup de femmes imaginent que la rééducation consiste uniquement à contracter le périnée.",
+          "En réalité, il faut aussi apprendre à relâcher, respirer, coordonner les efforts et éviter de pousser vers le bas.",
+          "Un périnée peut être faible, mais aussi trop contracté, douloureux ou difficile à relâcher.",
+          "C’est pourquoi un accompagnement personnalisé est important."
+        ]
+      },
+      {
+        title: "Après une voie basse",
+        paragraphs: [
+          "Après une voie basse, la rééducation peut aider à récupérer après l’étirement du périnée.",
+          "Elle est particulièrement utile s’il y a eu des fuites, une sensation de pesanteur, une déchirure, une épisiotomie, des douleurs ou une gêne dans les mouvements.",
+          "Le professionnel tient compte de la cicatrisation et de votre confort.",
+          "Il ne faut pas forcer sur une zone encore douloureuse."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Même après une césarienne, la rééducation du périnée peut être utile.",
+          "La grossesse a déjà sollicité le périnée pendant plusieurs mois.",
+          "La cicatrice abdominale, la posture, la respiration et la récupération globale peuvent aussi influencer le confort du bassin.",
+          "Selon votre situation, une rééducation abdominale pourra être discutée ensuite, mais elle ne remplace pas l’évaluation du périnée."
+        ]
+      },
+      {
+        title: "Fuites urinaires : est-ce normal ?",
+        paragraphs: [
+          "Des fuites urinaires peuvent survenir après la grossesse ou l’accouchement, notamment en toussant, en riant, en portant ou en bougeant.",
+          "Elles sont fréquentes, mais elles ne doivent pas être considérées comme une fatalité.",
+          "La rééducation peut aider à mieux contrôler les efforts et à améliorer le soutien du périnée.",
+          "Si les fuites persistent, augmentent ou vous gênent au quotidien, il faut en parler."
+        ]
+      },
+      {
+        title: "Sensation de pesanteur ou de boule",
+        paragraphs: [
+          "Une sensation de poids dans le vagin, de pression vers le bas ou de boule peut apparaître après l’accouchement.",
+          "Elle peut être favorisée par la fatigue, les efforts, la constipation, le port de charges ou une reprise trop rapide.",
+          "Ce signe mérite d’être évalué, surtout s’il revient souvent ou s’aggrave en fin de journée.",
+          "La rééducation peut aider, mais il faut aussi adapter les efforts du quotidien."
+        ]
+      },
+      {
+        title: "Douleurs et rapports sexuels",
+        paragraphs: [
+          "Après la naissance, certaines femmes ressentent des douleurs, une appréhension ou une gêne lors de la reprise des rapports.",
+          "Cela peut être lié à la cicatrisation, à la sécheresse, aux tensions musculaires, à la fatigue ou au vécu de l’accouchement.",
+          "La rééducation peut aider à comprendre d’où vient la gêne et à retrouver progressivement du confort.",
+          "Il n’y a aucune obligation de reprendre les rapports tant que vous n’en avez pas envie ou tant que vous avez mal."
+        ]
+      },
+      {
+        title: "La respiration et la posture",
+        paragraphs: [
+          "La respiration joue un rôle important dans le fonctionnement du périnée.",
+          "Le diaphragme, les abdominaux profonds et le périnée travaillent ensemble.",
+          "Après l’accouchement, apprendre à respirer sans pousser vers le bas peut aider dans les gestes du quotidien.",
+          "Le professionnel peut aussi observer la posture, les efforts, la façon de se lever, de porter le bébé ou de tousser."
+        ]
+      },
+      {
+        title: "Reprendre le sport après la rééducation",
+        paragraphs: [
+          "La rééducation du périnée aide à préparer la reprise des activités, mais la reprise du sport doit rester progressive.",
+          "Les sports avec sauts, course, charges lourdes ou pression abdominale importante demandent souvent plus de prudence.",
+          "Avant de reprendre une activité intense, il est utile de vérifier les fuites, les douleurs, la pesanteur et la récupération abdominale.",
+          "Le professionnel peut vous aider à savoir quand et comment reprendre selon votre corps."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander un avis professionnel.",
+          "Des fuites urinaires ou anales qui persistent ou vous gênent.",
+          "Une sensation de pesanteur, de boule ou de pression vers le bas.",
+          "Des douleurs au périnée, au bassin, à la cicatrice ou pendant les rapports.",
+          "Une difficulté à retenir les gaz ou les selles.",
+          "Une constipation importante qui vous oblige à pousser fortement.",
+          "Une peur de bouger, de porter ou de reprendre les activités.",
+          "Un vécu d’accouchement difficile qui rend la zone douloureuse ou impossible à regarder ou toucher."
+        ]
+      },
+      {
+        title: "Ce que les parents peuvent retenir",
+        paragraphs: [
+          "La rééducation du périnée n’est pas une punition ni une obligation culpabilisante.",
+          "C’est un temps pour faire le point sur le corps après la naissance.",
+          "Elle permet de poser des mots sur les sensations, de prévenir certaines gênes et de reprendre progressivement confiance.",
+          "Elle peut aussi être l’occasion de parler de douleurs ou de difficultés que l’on n’ose pas toujours aborder."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La rééducation du périnée peut être utile après une voie basse comme après une césarienne.",
+          "Elle sert à évaluer le périnée, les douleurs, les fuites, la pesanteur, les sensations et la reprise des activités.",
+          "Elle commence lorsque le corps est prêt, avec l’avis d’un professionnel.",
+          "Elle doit être personnalisée et respectueuse de votre confort.",
+          "Fuites, pesanteur, douleurs ou gêne intime ne doivent pas être banalisées : il existe des solutions."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Haute Autorité de santé — Rééducation dans le cadre du post-partum",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Assurance Maladie — Rééducation périnéale après l’accouchement",
+        url: "https://www.ameli.fr/"
       },
       {
         label: "Collège National des Sages-Femmes de France",
