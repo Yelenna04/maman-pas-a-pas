@@ -2777,6 +2777,223 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "sevrage-comment-arreter-lallaitement-en-douceur",
+    title: "Sevrage : comment arrêter l’allaitement en douceur ?",
+    description:
+      "Arrêter l’allaitement peut se faire progressivement, avec douceur et sans culpabilité. Voici comment réduire les tétées, gérer les seins tendus, accompagner bébé et savoir quand demander de l’aide.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le sevrage peut être progressif, partiel, choisi, nécessaire ou vécu avec des émotions mélangées.",
+          "Quand c’est possible, réduire les tétées une par une aide le corps à diminuer la production de lait plus doucement.",
+          "Un sevrage trop rapide peut favoriser seins tendus, engorgement, douleur ou inconfort.",
+          "Bébé peut avoir besoin de temps, de réassurance, d’un nouveau rituel et parfois d’une autre personne pour certains repas.",
+          "Fièvre, sein rouge et douloureux, engorgement important ou grande détresse émotionnelle doivent faire demander un avis."
+        ],
+        quote:
+          "Arrêter l’allaitement en douceur, ce n’est pas seulement arrêter les tétées : c’est accompagner le corps, le bébé et les émotions."
+      },
+      {
+        title: "Un choix personnel",
+        paragraphs: [
+          "Le sevrage peut arriver pour de nombreuses raisons : fatigue, reprise du travail, douleurs, envie de retrouver son corps, organisation familiale, traitement médical, ou simplement parce que le moment semble venu.",
+          "Il peut aussi être progressif ou plus rapide selon les situations.",
+          "Il n’y a pas une seule bonne façon d’arrêter l’allaitement.",
+          "L’important est que la mère soit accompagnée, que le bébé soit nourri et que la transition soit la plus confortable possible."
+        ]
+      },
+      {
+        title: "Sevrage progressif ou sevrage rapide",
+        paragraphs: [
+          "Quand la situation le permet, un sevrage progressif est souvent plus confortable.",
+          "Il consiste à retirer une tétée à la fois, puis à laisser quelques jours au corps et au bébé pour s’adapter.",
+          "Un sevrage rapide peut être nécessaire dans certains contextes, mais il peut être plus inconfortable pour les seins et plus difficile émotionnellement.",
+          "Si vous devez arrêter rapidement, demandez conseil à une sage-femme, un médecin ou un professionnel formé."
+        ]
+      },
+      {
+        title: "Comment retirer une tétée ?",
+        paragraphs: [
+          "On commence souvent par supprimer une tétée qui semble moins importante pour le bébé ou plus simple à remplacer.",
+          "Les tétées du matin, du soir ou de réconfort peuvent parfois être plus sensibles à retirer.",
+          "Après avoir supprimé une tétée, observez vos seins, votre confort, le comportement du bébé et votre fatigue.",
+          "Quand tout est stable, vous pouvez envisager d’en retirer une autre."
+        ],
+        quote:
+          "Un sevrage doux avance souvent par petites étapes, pas par arrêt brutal du jour au lendemain."
+      },
+      {
+        title: "Que proposer à la place ?",
+        paragraphs: [
+          "Selon l’âge du bébé, la tétée supprimée peut être remplacée par un biberon, une autre prise alimentaire adaptée ou un moment de réconfort.",
+          "Pour un nourrisson, le lait reste l’aliment principal, et le choix du lait ou des quantités doit être discuté avec un professionnel si vous avez un doute.",
+          "Pour un bébé plus grand, l’organisation dépend aussi de la diversification alimentaire.",
+          "L’objectif est de ne pas seulement retirer une tétée, mais de remplacer aussi le besoin de proximité ou d’apaisement qu’elle représentait."
+        ]
+      },
+      {
+        title: "Accompagner bébé émotionnellement",
+        paragraphs: [
+          "Pour certains bébés, la tétée est aussi un repère affectif, un rituel d’endormissement ou un moment de réassurance.",
+          "Le sevrage peut donc provoquer des pleurs, de la frustration ou un besoin accru de contact.",
+          "Des câlins, une chanson, un portage, une histoire, une présence calme ou un autre rituel peuvent aider.",
+          "Il est possible que bébé ait besoin de plusieurs jours pour accepter un nouveau rythme."
+        ]
+      },
+      {
+        title: "Quand bébé refuse le biberon",
+        paragraphs: [
+          "Certains bébés allaités refusent le biberon au début.",
+          "Il peut être utile de proposer dans un moment calme, sans forcer, parfois par une autre personne que la mère.",
+          "Le type de tétine, le débit, la température du lait ou le moment choisi peuvent jouer.",
+          "Si le refus persiste et que le sevrage est nécessaire, demandez un avis pour trouver une solution adaptée."
+        ]
+      },
+      {
+        title: "Gérer les seins tendus",
+        paragraphs: [
+          "Quand une tétée est supprimée, les seins peuvent devenir tendus ou inconfortables.",
+          "Le corps a besoin de temps pour comprendre qu’il doit produire moins.",
+          "Si la tension est importante, il peut être utile d’exprimer juste un peu de lait pour soulager, sans chercher à vider complètement le sein.",
+          "Vider beaucoup le sein peut stimuler la production et ralentir l’adaptation."
+        ]
+      },
+      {
+        title: "Éviter l’engorgement",
+        paragraphs: [
+          "Un sevrage trop rapide peut favoriser l’engorgement.",
+          "Les seins peuvent devenir durs, lourds, douloureux ou très tendus.",
+          "Réduire progressivement les tétées, porter un soutien-gorge confortable et demander conseil en cas de douleur peut aider.",
+          "Un engorgement qui ne s’améliore pas doit être accompagné rapidement."
+        ]
+      },
+      {
+        title: "Faut-il tirer son lait pendant le sevrage ?",
+        paragraphs: [
+          "Tirer son lait pendant le sevrage peut parfois soulager, mais il faut le faire avec prudence.",
+          "Si vous tirez autant qu’avant, le corps peut continuer à produire beaucoup.",
+          "L’objectif est souvent de soulager une tension, pas d’entretenir la production.",
+          "En cas de doute, demandez à une sage-femme ou une consultante en lactation comment réduire progressivement."
+        ]
+      },
+      {
+        title: "Les tétées les plus difficiles à arrêter",
+        paragraphs: [
+          "Certaines tétées sont plus chargées émotionnellement.",
+          "La tétée d’endormissement, celle du matin, celle de la nuit ou celle des retrouvailles peut être plus difficile à supprimer.",
+          "Il peut être utile de commencer par une tétée moins importante, puis de garder les plus sensibles pour plus tard.",
+          "Le rythme du sevrage peut être adapté selon les réactions de bébé et votre propre vécu."
+        ]
+      },
+      {
+        title: "Le sevrage de nuit",
+        paragraphs: [
+          "Le sevrage de nuit peut être particulièrement délicat.",
+          "La tétée de nuit sert parfois à nourrir, mais aussi à rendormir, rassurer ou retrouver la proximité.",
+          "Selon l’âge du bébé, son poids, son alimentation et son état de santé, les besoins ne sont pas les mêmes.",
+          "Avant un sevrage de nuit, il peut être utile de demander un avis si vous avez un doute sur les besoins nutritionnels de bébé."
+        ]
+      },
+      {
+        title: "Le sevrage et la reprise du travail",
+        paragraphs: [
+          "La reprise du travail peut amener à réduire certaines tétées ou à passer à un allaitement mixte.",
+          "Certaines mères gardent les tétées du matin, du soir et des jours de repos.",
+          "D’autres préfèrent arrêter complètement, pour simplifier l’organisation ou parce qu’elles en ressentent le besoin.",
+          "Le bon choix est celui qui respecte votre santé, votre bébé et votre quotidien."
+        ]
+      },
+      {
+        title: "Les émotions de la mère",
+        paragraphs: [
+          "Le sevrage peut provoquer du soulagement, de la tristesse, de la culpabilité, de la fierté ou un sentiment de fin d’étape.",
+          "Même lorsqu’il est choisi, il peut être émouvant.",
+          "Le corps change aussi : la baisse des tétées peut s’accompagner de variations hormonales et d’une sensibilité émotionnelle.",
+          "Ces émotions sont légitimes et méritent d’être accueillies sans jugement."
+        ],
+        quote:
+          "On peut vouloir arrêter l’allaitement et être émue de le faire : les deux peuvent coexister."
+      },
+      {
+        title: "Et si le sevrage est imposé ?",
+        paragraphs: [
+          "Parfois, le sevrage n’est pas vraiment choisi : douleur importante, traitement, hospitalisation, épuisement ou pression extérieure.",
+          "Dans ce cas, il peut être vécu plus difficilement.",
+          "Il est important de demander des explications, de vérifier les alternatives possibles si vous souhaitez continuer, et d’être accompagnée dans la transition.",
+          "Vous avez le droit d’être triste, en colère ou soulagée."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vos seins sont très douloureux, si vous avez peur de l’engorgement, si bébé refuse les alternatives ou si vous vous sentez dépassée.",
+          "Une sage-femme, une consultante en lactation, la PMI, la maternité ou le médecin peuvent vous accompagner.",
+          "Un professionnel peut vous aider à organiser un sevrage progressif selon l’âge de bébé et votre situation.",
+          "Vous n’avez pas à improviser seule si cela devient difficile."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un sein rouge, chaud, très douloureux ou une douleur localisée qui augmente.",
+          "De la fièvre, des frissons ou une sensation d’être malade.",
+          "Un engorgement important qui ne s’améliore pas.",
+          "Un bébé qui boit très peu, refuse plusieurs repas ou mouille peu ses couches.",
+          "Une perte de poids ou une prise de poids insuffisante.",
+          "Une grande détresse émotionnelle, une culpabilité envahissante ou la sensation de ne plus pouvoir faire face."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut soutenir le sevrage sans juger la décision.",
+          "Il peut proposer un biberon ou un autre rituel si les parents le souhaitent, prendre le relais la nuit, aider à installer un nouveau rythme ou protéger le repos de la mère.",
+          "Il peut aussi éviter les phrases culpabilisantes, dans un sens comme dans l’autre.",
+          "Le sevrage est plus doux quand la mère se sent soutenue, pas observée."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le sevrage peut être progressif, partiel, choisi ou nécessaire.",
+          "Quand c’est possible, retirer une tétée à la fois aide le corps et le bébé à s’adapter.",
+          "Les seins tendus doivent être soulagés sans stimuler excessivement la production.",
+          "Bébé peut avoir besoin d’un nouveau rituel de réassurance.",
+          "Douleur, engorgement, fièvre, bébé qui boit peu ou détresse émotionnelle doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Allaitement maternel",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Leche League France — Sevrage",
+        url: "https://www.lllfrance.org/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
