@@ -5278,6 +5278,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "retour-a-la-maison-avec-un-aine-comment-laider-a-trouver-sa-place",
+    title: "Retour à la maison avec un aîné : comment l’aider à trouver sa place ?",
+    description:
+      "L’arrivée d’un bébé peut bouleverser l’aîné. Voici comment l’aider à trouver sa place, accueillir ses émotions, préserver des petits moments avec lui et organiser le retour à la maison plus sereinement.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Retour à la maison",
+    subcategorySlug: "retour-maison",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’arrivée d’un bébé peut provoquer chez l’aîné de la joie, de la curiosité, mais aussi de la jalousie, de la colère ou des régressions.",
+          "Ces réactions sont fréquentes : l’aîné doit s’adapter à une nouvelle place dans la famille.",
+          "Il est utile de garder de petits moments rien qu’avec lui, même très courts.",
+          "L’aîné n’a pas besoin de devenir grand d’un coup : il a encore besoin d’être rassuré, regardé et accompagné.",
+          "Si son comportement devient très inquiétant, violent, triste ou durablement inhabituel, il est préférable de demander un avis."
+        ],
+        quote:
+          "Aider un aîné à trouver sa place, ce n’est pas lui demander d’aimer le bébé tout de suite : c’est lui montrer qu’il compte toujours autant."
+      },
+      {
+        title: "Un grand changement pour l’aîné",
+        paragraphs: [
+          "Le retour à la maison avec un bébé change l’équilibre familial.",
+          "L’aîné découvre que ses parents sont moins disponibles, que le bébé demande beaucoup de bras, de soins, de temps et d’attention.",
+          "Même si l’enfant semblait heureux pendant la grossesse, la réalité peut être plus difficile à vivre une fois le bébé présent.",
+          "Il a besoin de temps pour comprendre cette nouvelle organisation."
+        ]
+      },
+      {
+        title: "Des réactions normales",
+        paragraphs: [
+          "Un aîné peut réagir de nombreuses façons.",
+          "Il peut être très tendre avec le bébé, vouloir participer, l’ignorer, réclamer beaucoup d’attention ou se montrer plus colérique.",
+          "Il peut aussi redevenir plus demandeur, vouloir être porté, parler comme un plus petit, avoir des accidents de propreté ou chercher davantage ses parents.",
+          "Ces réactions peuvent être normales dans une période de transition."
+        ]
+      },
+      {
+        title: "La jalousie n’est pas un problème à corriger",
+        paragraphs: [
+          "La jalousie peut être difficile à entendre pour les parents, mais elle n’est pas anormale.",
+          "L’aîné peut aimer le bébé et en même temps regretter l’époque où il avait ses parents pour lui seul.",
+          "Il peut se sentir remplacé, inquiet ou frustré sans savoir l’exprimer clairement.",
+          "Reconnaître cette jalousie aide souvent davantage que la nier."
+        ],
+        quote:
+          "Un enfant peut être jaloux sans être méchant : il essaie simplement de comprendre sa nouvelle place."
+      },
+      {
+        title: "Mettre des mots sur ce qu’il ressent",
+        paragraphs: [
+          "L’aîné n’a pas toujours les mots pour dire ce qu’il vit.",
+          "Vous pouvez l’aider avec des phrases simples : “C’est difficile quand je m’occupe beaucoup du bébé”, “Tu aimerais que je sois plus disponible”, ou “Tu as le droit d’être en colère”.",
+          "Nommer ses émotions ne les encourage pas, au contraire : cela l’aide à se sentir compris.",
+          "Un enfant rassuré a souvent moins besoin de montrer sa détresse par le comportement."
+        ]
+      },
+      {
+        title: "Ne pas lui demander d’être grand trop vite",
+        paragraphs: [
+          "Après la naissance, on dit souvent à l’aîné qu’il est maintenant le grand ou la grande.",
+          "Cela peut être valorisant, mais aussi pesant.",
+          "Il peut avoir besoin d’être encore petit par moments, d’être câliné, aidé ou rassuré.",
+          "L’arrivée d’un bébé ne lui enlève pas son besoin d’être porté affectivement."
+        ]
+      },
+      {
+        title: "Préserver des petits moments exclusifs",
+        paragraphs: [
+          "Il n’est pas nécessaire d’organiser de grands moments pour rassurer l’aîné.",
+          "Quelques minutes rien qu’avec lui peuvent faire beaucoup : lire une histoire, prendre un goûter, faire un câlin, jouer cinq minutes ou parler au calme.",
+          "L’important est que l’enfant sente que ce temps lui est vraiment consacré.",
+          "Même court, un moment régulier peut l’aider à retrouver une sécurité."
+        ]
+      },
+      {
+        title: "L’impliquer sans le responsabiliser",
+        paragraphs: [
+          "Certains enfants aiment participer aux soins du bébé.",
+          "Ils peuvent apporter une couche, choisir un body, chanter une chanson ou montrer un jouet.",
+          "Mais il ne faut pas leur faire porter une responsabilité d’adulte.",
+          "Aider doit rester une proposition, pas une obligation."
+        ]
+      },
+      {
+        title: "Garder des limites claires",
+        paragraphs: [
+          "Comprendre les émotions de l’aîné ne veut pas dire tout accepter.",
+          "Il peut être jaloux ou en colère, mais il ne doit pas faire mal au bébé.",
+          "Les limites doivent être simples et fermes : “Je ne te laisse pas taper”, “Le bébé est fragile”, “Je suis là pour t’aider à dire ta colère autrement”.",
+          "L’enfant a besoin à la fois d’empathie et d’un cadre sécurisant."
+        ]
+      },
+      {
+        title: "Quand l’aîné veut toucher ou porter le bébé",
+        paragraphs: [
+          "Certains enfants veulent beaucoup toucher, embrasser ou porter le bébé.",
+          "Il est important de guider ces gestes avec calme : mains lavées, gestes doux, présence d’un adulte, pas de portage seul si l’enfant est trop petit.",
+          "Vous pouvez proposer de caresser le pied, de parler au bébé ou de tenir un lange à côté de vous.",
+          "Cela permet de l’inclure tout en gardant le bébé en sécurité."
+        ]
+      },
+      {
+        title: "Quand l’aîné rejette le bébé",
+        paragraphs: [
+          "Un aîné peut ignorer le bébé ou dire qu’il ne l’aime pas.",
+          "Cela peut faire mal aux parents, mais ce n’est pas forcément inquiétant au début.",
+          "Il peut avoir besoin de temps pour créer un lien.",
+          "Évitez de le forcer à faire un bisou, à tenir le bébé ou à montrer de l’amour s’il n’en a pas envie."
+        ]
+      },
+      {
+        title: "Les régressions",
+        paragraphs: [
+          "Les régressions sont fréquentes après l’arrivée d’un bébé.",
+          "Un enfant peut redemander le biberon, vouloir être porté, parler comme un bébé, avoir besoin d’aide pour s’habiller ou redevenir plus collé aux parents.",
+          "Ces comportements expriment souvent un besoin de sécurité.",
+          "Répondre avec douceur, sans moquerie, aide généralement l’enfant à retrouver peu à peu ses repères."
+        ]
+      },
+      {
+        title: "Gérer les crises",
+        paragraphs: [
+          "Les crises peuvent être plus fréquentes lorsque l’aîné est fatigué, jaloux ou frustré.",
+          "Essayez de garder des phrases simples, de sécuriser le bébé et de nommer ce qui se passe.",
+          "Il est possible de dire : “Tu es très en colère, mais je ne te laisse pas faire mal” ou “Tu voulais que je sois avec toi et je m’occupe du bébé”.",
+          "Après la crise, un moment de réparation peut aider : câlin, parole, dessin ou petit temps ensemble."
+        ]
+      },
+      {
+        title: "Le rôle de l’autre parent et de l’entourage",
+        paragraphs: [
+          "L’autre parent et les proches peuvent aider l’aîné à trouver sa place.",
+          "Ils peuvent proposer une sortie, une histoire, un bain, un jeu ou un moment exclusif.",
+          "Mais il est aussi important que l’aîné garde des moments avec la mère si c’est possible, même courts.",
+          "L’objectif n’est pas de l’éloigner du bébé, mais de lui montrer qu’il reste pleinement inclus."
+        ],
+        quote:
+          "L’aîné n’a pas seulement besoin qu’on l’occupe : il a besoin de sentir qu’il compte encore."
+      },
+      {
+        title: "Éviter les comparaisons",
+        paragraphs: [
+          "Les phrases comme “tu es grand maintenant” ou “regarde, le bébé est sage” peuvent être maladroites.",
+          "Elles peuvent donner à l’aîné l’impression qu’il doit mériter sa place ou être parfait.",
+          "Il est préférable de valoriser ce qu’il vit sans le comparer au bébé.",
+          "Chaque enfant a son rythme, ses besoins et sa façon de traverser ce changement."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Il peut être utile de demander un avis si l’aîné semble très triste, très anxieux, agressif de façon répétée ou s’il change fortement de comportement.",
+          "Il faut aussi en parler si les régressions durent longtemps, si les crises deviennent très difficiles à gérer ou si les parents se sentent dépassés.",
+          "La PMI, le médecin, la sage-femme ou un psychologue peuvent aider à comprendre ce qui se joue.",
+          "Demander de l’aide ne veut pas dire que vous avez mal fait : cela permet d’accompagner la famille."
+        ]
+      },
+      {
+        title: "Si certains signes vous inquiètent",
+        paragraphs: [
+          "Si l’aîné tente de faire mal au bébé, s’il semble durablement triste, très angoissé, se replie beaucoup ou exprime une détresse importante, il faut demander un avis.",
+          "Si un parent se sent à bout, a peur de perdre le contrôle ou ne parvient plus à gérer les tensions à la maison, il est aussi important de chercher du soutien.",
+          "En cas de danger immédiat pour un enfant ou un parent, il faut appeler une aide urgente.",
+          "Il vaut mieux demander conseil tôt que rester seule avec une situation qui devient trop lourde."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en donnant de l’attention à l’aîné sans oublier la mère et le bébé.",
+          "Il peut proposer un temps de jeu, une sortie, un repas, une aide aux devoirs ou un relais pour permettre un moment parent-aîné.",
+          "Il peut aussi éviter les phrases culpabilisantes ou les comparaisons.",
+          "Un soutien doux et concret aide toute la famille à trouver son nouvel équilibre."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’arrivée d’un bébé peut bouleverser l’aîné, même s’il était heureux pendant la grossesse.",
+          "Jalousie, régressions, colère ou besoin d’attention sont fréquents.",
+          "L’aîné a besoin de limites claires, mais aussi de mots, de temps exclusif et de réassurance.",
+          "Il ne faut pas le forcer à aimer ou porter le bébé immédiatement.",
+          "Si son comportement devient inquiétant ou si les parents se sentent dépassés, il faut demander de l’aide."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — L’arrivée d’un bébé dans la famille",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Retour à la maison après la naissance",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
