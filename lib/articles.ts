@@ -2342,6 +2342,214 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "comment-savoir-si-bebe-mange-assez",
+    title: "Comment savoir si bébé mange assez ?",
+    description:
+      "Allaitement, biberon ou alimentation mixte : les signes qui montrent que bébé mange assez, les couches, le poids, l’éveil, les tétées ou biberons, et quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Allaitement ou alimentation du bébé",
+    subcategorySlug: "alimentation-bebe",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Pour savoir si bébé mange assez, on observe plusieurs signes ensemble : son éveil, ses couches, son poids, son comportement et sa façon de boire.",
+          "Un bébé qui boit efficacement, mouille régulièrement ses couches et reprend du poids est généralement rassurant.",
+          "Au sein, la durée des tétées ne suffit pas à elle seule : il faut aussi regarder l’efficacité de la succion et le suivi du poids.",
+          "Au biberon, les quantités sont des repères, mais il faut aussi respecter les signes de faim et de satiété.",
+          "Bébé très somnolent, qui boit peu, mouille peu ses couches, vomit beaucoup ou prend mal du poids doit être évalué rapidement."
+        ],
+        quote:
+          "Le plus fiable n’est pas un seul signe isolé, mais l’ensemble : bébé boit, élimine, s’éveille et grandit."
+      },
+      {
+        title: "Une question très fréquente",
+        paragraphs: [
+          "Se demander si bébé mange assez est l’une des inquiétudes les plus fréquentes après la naissance.",
+          "C’est encore plus vrai les premiers jours, quand le rythme est irrégulier et que les parents apprennent à connaître leur bébé.",
+          "Cette question concerne autant l’allaitement que le biberon ou l’alimentation mixte.",
+          "L’objectif n’est pas de surveiller chaque détail avec angoisse, mais de connaître les repères qui doivent rassurer ou faire demander de l’aide."
+        ]
+      },
+      {
+        title: "Les couches : un repère important",
+        paragraphs: [
+          "Les couches donnent des informations utiles sur ce que bébé reçoit.",
+          "Un bébé qui boit suffisamment finit par mouiller régulièrement ses couches.",
+          "Les selles évoluent aussi dans les premiers jours : elles passent du méconium foncé à des selles plus claires, selon l’âge et le type d’alimentation.",
+          "Si les couches sont très peu mouillées ou si les selles vous inquiètent, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Le poids de bébé",
+        paragraphs: [
+          "Le poids est un repère essentiel, surtout les premiers jours.",
+          "Il est fréquent qu’un nouveau-né perde un peu de poids après la naissance.",
+          "Les professionnels surveillent ensuite la reprise de poids pour vérifier que l’alimentation se met correctement en place.",
+          "Une perte de poids importante, une reprise insuffisante ou une stagnation doivent faire réévaluer l’alimentation de bébé."
+        ],
+        quote:
+          "Le suivi du poids n’est pas là pour mettre la pression : il sert à repérer tôt les bébés qui ont besoin d’aide."
+      },
+      {
+        title: "L’éveil et le comportement",
+        paragraphs: [
+          "Un bébé qui mange assez a généralement des moments d’éveil adaptés à son âge.",
+          "Il peut bien sûr beaucoup dormir, surtout les premiers jours, mais il doit pouvoir se réveiller pour boire et montrer des signes de faim.",
+          "Un bébé très somnolent, difficile à réveiller, très mou ou inhabituellement calme doit être évalué.",
+          "À l’inverse, des pleurs fréquents ne veulent pas toujours dire qu’il manque de lait : ils peuvent avoir plusieurs causes."
+        ]
+      },
+      {
+        title: "Les signes de faim",
+        paragraphs: [
+          "Bébé peut montrer qu’il a faim avant de pleurer.",
+          "Il peut tourner la tête, ouvrir la bouche, chercher avec les lèvres, porter les mains à la bouche ou s’agiter doucement.",
+          "Les pleurs sont souvent un signe plus tardif.",
+          "Répondre aux signes précoces aide souvent bébé à boire plus calmement."
+        ]
+      },
+      {
+        title: "Les signes de satiété",
+        paragraphs: [
+          "Bébé peut aussi montrer qu’il a assez mangé.",
+          "Il ralentit, relâche le sein ou la tétine, détourne la tête, ferme la bouche, s’endort paisiblement ou semble détendu.",
+          "Respecter ces signes aide à construire une relation plus sereine avec les repas.",
+          "Il n’est pas toujours nécessaire d’insister si bébé montre clairement qu’il n’a plus faim."
+        ]
+      },
+      {
+        title: "Si bébé est allaité",
+        paragraphs: [
+          "Au sein, il peut être difficile de savoir quelle quantité bébé prend.",
+          "On observe donc l’efficacité de la tétée : bébé prend bien le sein, tète activement, déglutit, puis semble plus détendu après la tétée.",
+          "La durée d’une tétée ne suffit pas à savoir si bébé a bien bu.",
+          "Une tétée très longue mais peu efficace, un bébé qui s’endort très vite ou un mamelon très douloureux doivent faire demander de l’aide."
+        ]
+      },
+      {
+        title: "Si bébé prend le biberon",
+        paragraphs: [
+          "Au biberon, les quantités visibles peuvent rassurer, mais elles ne doivent pas devenir une pression.",
+          "Les besoins varient selon les bébés, leur âge, leur poids, leur digestion et leur rythme.",
+          "Un bébé peut boire un peu moins à un repas et davantage au suivant.",
+          "Ce qui compte, c’est l’ensemble : quantités sur la journée, couches, poids, éveil et confort."
+        ]
+      },
+      {
+        title: "Si bébé est en allaitement mixte",
+        paragraphs: [
+          "En allaitement mixte, il peut être plus difficile de trouver le bon équilibre entre tétées et biberons.",
+          "Il est utile de suivre les repères donnés par le professionnel qui accompagne bébé.",
+          "Si l’objectif est de maintenir l’allaitement, l’organisation des compléments peut être discutée pour préserver la stimulation.",
+          "En cas de doute sur la prise de poids ou les quantités, demandez un avis plutôt que d’ajouter ou retirer seule plusieurs biberons."
+        ]
+      },
+      {
+        title: "Les tétées ou biberons très fréquents",
+        paragraphs: [
+          "Un bébé peut réclamer souvent, surtout les premières semaines.",
+          "Cela peut être normal, notamment lors des périodes de croissance, des tétées groupées ou des moments où bébé cherche du réconfort.",
+          "Mais si les repas sont très fréquents et que bébé ne semble jamais satisfait, il faut vérifier l’efficacité de la prise alimentaire.",
+          "Au sein comme au biberon, un professionnel peut aider à comprendre ce qui se passe."
+        ]
+      },
+      {
+        title: "Les régurgitations",
+        paragraphs: [
+          "De petites régurgitations sont fréquentes chez les nourrissons.",
+          "Elles ne signifient pas forcément que bébé mange trop ou pas assez.",
+          "En revanche, des vomissements importants, répétés, en jet, ou associés à une mauvaise prise de poids, une grande fatigue ou des signes de déshydratation doivent faire consulter.",
+          "Si vous hésitez entre régurgitation normale et vomissement inquiétant, demandez un avis."
+        ]
+      },
+      {
+        title: "Les pleurs après les repas",
+        paragraphs: [
+          "Un bébé qui pleure après un repas n’a pas forcément encore faim.",
+          "Il peut avoir besoin d’un rot, être fatigué, gêné par des gaz, avoir besoin de contact ou être stimulé par son environnement.",
+          "Si les pleurs sont très intenses, répétés ou associés à d’autres signes, il faut en parler.",
+          "Il est important de ne pas tout interpréter uniquement à travers la quantité de lait."
+        ]
+      },
+      {
+        title: "Le piège des comparaisons",
+        paragraphs: [
+          "Comparer bébé à un autre bébé peut vite inquiéter.",
+          "Certains bébés boivent vite, d’autres lentement ; certains réclament souvent, d’autres espacent davantage.",
+          "Les besoins varient aussi selon l’âge, le poids, la naissance, la prématurité éventuelle ou l’état de santé.",
+          "Les repères doivent donc être adaptés à votre bébé, avec l’aide des professionnels qui le suivent."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il vaut mieux demander un avis si vous doutez que bébé mange assez.",
+          "La maternité, une sage-femme, la PMI, le médecin ou un professionnel formé à l’allaitement peuvent vous aider.",
+          "Une observation de tétée ou de biberon, une pesée et un point sur les couches permettent souvent d’y voir plus clair.",
+          "Demander de l’aide tôt évite que l’inquiétude et la fatigue s’installent."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander rapidement un avis.",
+          "Un bébé qui boit très peu ou refuse plusieurs repas.",
+          "Un bébé très somnolent, difficile à réveiller ou inhabituellement mou.",
+          "Des couches très peu mouillées.",
+          "Une perte de poids importante ou une reprise de poids insuffisante.",
+          "Des vomissements importants, répétés ou en jet.",
+          "Une jaunisse marquée ou un bébé qui semble très jaune.",
+          "Une fièvre, une respiration difficile ou un comportement inhabituel.",
+          "Un parent épuisé, très inquiet ou qui ne sait plus comment nourrir bébé sereinement."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à observer sans mettre la pression.",
+          "Il peut préparer le matériel, apporter de l’eau ou un repas, noter les couches si les parents le souhaitent, ou accompagner à une consultation.",
+          "Il peut aussi éviter les remarques anxiogènes sur le poids, les quantités ou la façon de nourrir bébé.",
+          "Le soutien le plus utile est souvent calme, concret et sans jugement."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Pour savoir si bébé mange assez, il faut regarder plusieurs signes ensemble : couches, poids, éveil, comportement et efficacité des repas.",
+          "Au sein, la durée des tétées ne suffit pas ; au biberon, la quantité ne suffit pas non plus à elle seule.",
+          "Un bébé qui mouille ses couches, s’éveille, boit efficacement et reprend du poids est généralement rassurant.",
+          "Bébé qui boit peu, mouille peu ses couches, dort trop ou prend mal du poids doit être vu rapidement.",
+          "En cas de doute, demandez un avis : vous n’avez pas à porter cette inquiétude seule."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Organisation mondiale de la Santé — Allaitement maternel",
+        url: "https://www.who.int/fr/health-topics/breastfeeding"
+      },
+      {
+        label: "Assurance Maladie — Alimentation du nouveau-né",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Nourrir son bébé",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
