@@ -4200,6 +4200,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "quand-consulter-pour-sa-sante-mentale-apres-laccouchement",
+    title: "Quand consulter pour sa santé mentale après l’accouchement ?",
+    description:
+      "Après la naissance, il est important de surveiller aussi sa santé mentale. Tristesse, anxiété, épuisement, idées noires : quand consulter et vers qui se tourner.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Santé mentale",
+    subcategorySlug: "sante-mentale",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, il faut consulter si la tristesse, l’anxiété, la culpabilité ou l’épuisement prennent trop de place.",
+          "Il ne faut pas attendre d’avoir des idées noires pour demander de l’aide.",
+          "Une sage-femme, un médecin, la PMI, la maternité, un psychologue ou un psychiatre peuvent être contactés.",
+          "Idées de se faire du mal, peur de faire du mal au bébé, confusion ou sensation de ne plus pouvoir tenir nécessitent une aide urgente.",
+          "Demander de l’aide pour sa santé mentale est une démarche de soin, pas un échec."
+        ],
+        quote:
+          "La santé mentale après l’accouchement mérite autant d’attention que les saignements, la cicatrice ou l’allaitement."
+      },
+      {
+        title: "Pourquoi consulter peut être difficile",
+        paragraphs: [
+          "Après une naissance, beaucoup de mères hésitent à parler de leur moral.",
+          "Elles peuvent avoir peur d’être jugées, de faire peur à l’entourage ou de passer pour une mauvaise mère.",
+          "Certaines se disent que c’est seulement la fatigue, que ça va passer ou qu’elles doivent tenir pour le bébé.",
+          "Pourtant, consulter tôt peut éviter que la souffrance s’installe et devienne plus lourde à porter."
+        ]
+      },
+      {
+        title: "Consulter ne veut pas dire aller très mal",
+        paragraphs: [
+          "On peut consulter dès que quelque chose devient trop difficile.",
+          "Il n’est pas nécessaire d’attendre une crise, des idées noires ou un épuisement total.",
+          "Un rendez-vous peut simplement permettre de faire le point, d’être rassurée, d’organiser du relais ou de repérer un début de dépression ou d’anxiété.",
+          "Demander de l’aide tôt est souvent ce qui permet d’éviter d’aller plus mal."
+        ],
+        quote:
+          "On peut demander de l’aide avant de s’effondrer : c’est même souvent le meilleur moment pour le faire."
+      },
+      {
+        title: "Quand la tristesse dure",
+        paragraphs: [
+          "Les émotions sont souvent fortes les premiers jours après la naissance.",
+          "Mais une tristesse qui dure, revient chaque jour, s’aggrave ou donne l’impression de ne plus ressentir de joie doit faire consulter.",
+          "Il faut aussi en parler si vous pleurez très souvent, si vous vous sentez vide ou si vous avez l’impression de disparaître derrière votre rôle de mère.",
+          "Ces signes peuvent correspondre à une souffrance post-partum qui mérite un accompagnement."
+        ]
+      },
+      {
+        title: "Quand l’anxiété devient envahissante",
+        paragraphs: [
+          "Il est normal de s’inquiéter pour un nouveau-né.",
+          "Mais si les inquiétudes tournent en boucle, empêchent de dormir, de sortir, de laisser le bébé à quelqu’un ou de se détendre, il faut demander un avis.",
+          "L’anxiété post-partum peut être très épuisante, même si elle ne se voit pas de l’extérieur.",
+          "Un professionnel peut aider à faire la différence entre une vigilance normale et une peur devenue trop lourde."
+        ]
+      },
+      {
+        title: "Quand la culpabilité prend toute la place",
+        paragraphs: [
+          "La culpabilité peut être très présente après la naissance.",
+          "Elle peut faire penser que l’on ne fait jamais assez bien, que l’on n’aime pas assez son bébé ou que l’on n’est pas faite pour être mère.",
+          "Lorsque ces pensées deviennent répétitives, douloureuses ou impossibles à apaiser, il faut en parler.",
+          "Ces pensées ne disent pas la vérité sur votre valeur : elles peuvent être le signe d’une souffrance."
+        ]
+      },
+      {
+        title: "Quand la fatigue devient inquiétante",
+        paragraphs: [
+          "La fatigue est normale en post-partum, mais elle peut devenir préoccupante.",
+          "Il faut consulter si vous ne récupérez plus du tout, si vous ne dormez presque plus, ou si vous êtes incapable de faire les gestes simples du quotidien.",
+          "Il faut aussi demander de l’aide si vous n’arrivez pas à dormir même quand le bébé dort.",
+          "Le manque de sommeil peut aggraver la tristesse, l’anxiété et la sensation de ne plus pouvoir tenir."
+        ]
+      },
+      {
+        title: "Quand le lien avec bébé est difficile",
+        paragraphs: [
+          "Le lien avec le bébé peut prendre du temps à se construire.",
+          "Ne pas ressentir immédiatement un amour évident ne veut pas dire que quelque chose est cassé.",
+          "En revanche, si vous vous sentez très détachée, indifférente, effrayée, en colère ou incapable d’être seule avec le bébé, il faut en parler.",
+          "Le lien peut être accompagné : vous n’avez pas à porter cela seule."
+        ]
+      },
+      {
+        title: "Quand les pensées font peur",
+        paragraphs: [
+          "Certaines pensées peuvent être très effrayantes après la naissance.",
+          "Elles peuvent surgir sans être voulues et concerner la sécurité du bébé, la peur de mal faire ou des images très angoissantes.",
+          "Avoir une pensée intrusive ne veut pas dire vouloir agir.",
+          "Mais si ces pensées reviennent souvent, provoquent une grande détresse ou donnent peur de passer à l’acte, il faut consulter rapidement."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire consulter",
+        paragraphs: [
+          "Certains signes doivent faire demander un avis professionnel.",
+          "Une tristesse qui dure ou qui s’aggrave.",
+          "Une anxiété qui empêche de dormir, de sortir ou de respirer.",
+          "Une culpabilité permanente ou la sensation d’être une mauvaise mère.",
+          "Une irritabilité, une colère ou une hypersensibilité très difficiles à contrôler.",
+          "Un isolement, une perte d’envie ou l’impression de fonctionner en pilote automatique.",
+          "Une difficulté importante à créer du lien avec le bébé.",
+          "Une peur de rester seule avec le bébé ou de ne pas réussir à s’en occuper."
+        ]
+      },
+      {
+        title: "Les signes qui nécessitent une aide urgente",
+        paragraphs: [
+          "Certains signes nécessitent une aide immédiate.",
+          "Des idées de se faire du mal.",
+          "L’envie de disparaître, de mourir ou de ne plus être là.",
+          "La peur de faire du mal au bébé ou à quelqu’un d’autre.",
+          "La sensation de ne plus pouvoir tenir.",
+          "Une absence presque totale de sommeil pendant plusieurs nuits.",
+          "Une confusion, une agitation inhabituelle ou une perte de contact avec la réalité.",
+          "Des voix, des idées très étranges ou la conviction que le bébé est en danger sans raison claire.",
+          "Dans ces situations, il faut appeler les urgences, la maternité, le 15 ou un service médical sans attendre."
+        ]
+      },
+      {
+        title: "Qui contacter en premier ?",
+        paragraphs: [
+          "Vous pouvez commencer par la personne qui vous semble la plus accessible.",
+          "Cela peut être une sage-femme, le médecin traitant, la maternité, la PMI, un gynécologue, un psychologue ou un psychiatre.",
+          "Il n’est pas nécessaire de savoir exactement quel professionnel est le bon.",
+          "Le plus important est de faire un premier pas pour ne pas rester seule avec ce que vous ressentez."
+        ]
+      },
+      {
+        title: "La PMI et la maternité",
+        paragraphs: [
+          "La PMI peut accompagner les parents après la naissance, notamment autour du bébé, du sommeil, de l’alimentation et du moral.",
+          "La maternité peut aussi être contactée, surtout dans les premiers jours ou si vous avez reçu des consignes de sortie.",
+          "Ces professionnels peuvent vous écouter, vous rassurer, vous orienter ou organiser un suivi plus adapté.",
+          "Vous pouvez appeler même si vous n’êtes pas sûre que votre situation soit grave."
+        ]
+      },
+      {
+        title: "Le médecin, le psychologue ou le psychiatre",
+        paragraphs: [
+          "Le médecin peut évaluer votre état général, votre sommeil, votre moral et vous orienter.",
+          "Un psychologue peut aider à mettre des mots sur ce que vous vivez, sur la naissance, la fatigue ou la peur.",
+          "Un psychiatre peut être nécessaire si la souffrance est importante, si un traitement doit être discuté ou si les symptômes sont sévères.",
+          "Consulter un psychiatre ne veut pas dire que vous êtes folle : cela veut dire que votre santé mentale mérite un soin spécialisé."
+        ]
+      },
+      {
+        title: "Et si j’ai peur qu’on me juge ?",
+        paragraphs: [
+          "Beaucoup de mères ont peur de dire la vérité sur leur état.",
+          "Elles craignent qu’on les juge, qu’on les trouve incapables ou qu’on leur retire leur bébé.",
+          "Dans la grande majorité des cas, demander de l’aide sert justement à soutenir la mère et à sécuriser la famille.",
+          "Les professionnels sont là pour prendre en charge une souffrance, pas pour punir."
+        ],
+        quote:
+          "Dire “je ne vais pas bien” est souvent le début d’un soulagement, pas une preuve d’échec."
+      },
+      {
+        title: "Comment préparer le rendez-vous",
+        paragraphs: [
+          "Si vous avez peur d’oublier, vous pouvez noter quelques éléments avant le rendez-vous.",
+          "Depuis quand vous vous sentez mal, ce qui vous inquiète, votre sommeil, vos pensées, votre fatigue, votre alimentation, votre lien au bébé et votre niveau de soutien.",
+          "Vous pouvez aussi venir accompagnée si cela vous rassure.",
+          "Il n’est pas nécessaire d’avoir les bons mots : vous pouvez simplement dire que vous ne vous sentez pas comme d’habitude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider à repérer quand la mère ne va pas bien.",
+          "Il peut proposer d’appeler avec elle, de l’accompagner au rendez-vous, de garder le bébé pendant la consultation ou de prendre le relais à la maison.",
+          "Il doit éviter de minimiser avec des phrases comme “c’est normal, tu es fatiguée” si la souffrance dure ou s’aggrave.",
+          "La phrase la plus utile peut être : “Je te crois, on va demander de l’aide ensemble.”"
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Il faut consulter pour sa santé mentale après l’accouchement dès que la souffrance dure, s’intensifie ou empêche de vivre le quotidien.",
+          "Tristesse, anxiété, culpabilité, isolement, fatigue extrême ou difficultés avec le bébé méritent un avis.",
+          "Il ne faut pas attendre d’avoir des idées noires pour demander de l’aide.",
+          "Idées de se faire du mal, peur de faire du mal ou sensation de ne plus pouvoir tenir nécessitent une aide urgente.",
+          "Demander de l’aide est une démarche de soin et de protection, pour vous, votre bébé et votre famille."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "1000 premiers jours — Santé mentale après la naissance",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Assurance Maladie — Dépression du post-partum",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
+        url: "https://www.has-sante.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
