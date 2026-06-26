@@ -6981,6 +6981,229 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "reprise-des-rapports-apres-laccouchement-quand-et-comment",
+    title: "Reprise des rapports après l’accouchement : quand et comment ?",
+    description:
+      "Après l’accouchement, la reprise des rapports dépend du corps, du désir, de la douleur, du moral et du vécu de la naissance. Repères pour reprendre sans pression, parler contraception et savoir quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe pas de délai universel pour reprendre les rapports après l’accouchement : le bon moment dépend du corps, du désir, de la cicatrisation, du moral et du consentement.",
+          "Douleurs, sécheresse vaginale, fatigue, saignements, peur d’avoir mal, baisse du désir ou vécu difficile de l’accouchement peuvent rendre la reprise plus progressive.",
+          "La pénétration n’est pas obligatoire pour retrouver une intimité : tendresse, câlins, paroles, massages ou proximité peuvent aussi compter.",
+          "Une contraception doit être abordée, car une grossesse peut être possible avant le retour des règles.",
+          "Douleur persistante, saignements importants, cicatrice inquiétante, peur intense, blocage ou souffrance émotionnelle doivent faire demander un avis."
+        ],
+        quote:
+          "Reprendre les rapports après l’accouchement ne devrait jamais être une obligation : le corps, le désir et le consentement doivent avancer ensemble."
+      },
+      {
+        title: "Il n’y a pas de calendrier obligatoire",
+        paragraphs: [
+          "Après l’accouchement, beaucoup de femmes se demandent quand elles pourront reprendre les rapports.",
+          "La réponse dépend de nombreux facteurs : type d’accouchement, douleurs, points, cicatrice, saignements, fatigue, allaitement, moral et désir.",
+          "Certaines se sentent prêtes assez vite, d’autres ont besoin de plusieurs semaines ou de plusieurs mois.",
+          "Aucun délai ne doit être vécu comme une obligation."
+        ]
+      },
+      {
+        title: "Le corps a besoin de récupérer",
+        paragraphs: [
+          "La grossesse et l’accouchement sollicitent fortement le corps.",
+          "Le périnée, l’utérus, les tissus, les muscles, la cicatrice éventuelle et les hormones ont besoin de temps pour retrouver un nouvel équilibre.",
+          "Même lorsque tout s’est bien passé, la zone intime peut rester sensible, sèche ou douloureuse.",
+          "Attendre que le corps soit prêt est une forme de soin, pas un retard."
+        ],
+        quote:
+          "Le corps post-partum n’a pas à redevenir disponible immédiatement : il récupère d’un événement intense."
+      },
+      {
+        title: "Les saignements après la naissance",
+        paragraphs: [
+          "Après l’accouchement, les saignements, appelés lochies, peuvent durer plusieurs semaines.",
+          "Ils diminuent progressivement, mais peuvent varier selon les jours, la fatigue ou l’activité.",
+          "Tant que les saignements sont présents, certaines femmes ne se sentent pas à l’aise pour reprendre une sexualité avec pénétration.",
+          "Saignements très abondants, mauvaise odeur, fièvre ou douleur importante doivent faire demander un avis."
+        ]
+      },
+      {
+        title: "Après une déchirure, une épisiotomie ou des points",
+        paragraphs: [
+          "Lorsqu’il y a eu des points, une déchirure ou une épisiotomie, la reprise peut être plus sensible.",
+          "La cicatrisation, la peur d’avoir mal et les sensations au niveau du périnée peuvent demander du temps.",
+          "Il est important de ne pas forcer et de signaler toute douleur persistante.",
+          "Une sage-femme, un médecin ou un kinésithérapeute peut vérifier la cicatrisation et proposer un accompagnement adapté."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, la sexualité peut aussi être modifiée.",
+          "La cicatrice, les douleurs abdominales, la fatigue, la sensation de tiraillement ou le vécu de la naissance peuvent influencer le désir et le confort.",
+          "Même si le bébé n’est pas passé par voie basse, le périnée a été sollicité pendant la grossesse.",
+          "La reprise doit donc rester progressive et adaptée à ce que vous ressentez."
+        ]
+      },
+      {
+        title: "La sécheresse vaginale",
+        paragraphs: [
+          "La sécheresse vaginale est fréquente après l’accouchement.",
+          "Elle peut être accentuée par les changements hormonaux, l’allaitement, la fatigue, le stress ou la peur d’avoir mal.",
+          "Elle peut rendre les rapports inconfortables ou douloureux.",
+          "Un lubrifiant adapté peut aider, mais une douleur persistante mérite un avis professionnel."
+        ]
+      },
+      {
+        title: "La fatigue et le désir",
+        paragraphs: [
+          "Le désir peut être très différent après la naissance.",
+          "Le manque de sommeil, les tétées ou biberons, la charge mentale, les douleurs et les émotions peuvent laisser peu de place à la sexualité.",
+          "Une baisse du désir est fréquente et ne signifie pas que le couple est en danger.",
+          "Le désir revient souvent plus facilement quand la pression diminue et que la mère se sent soutenue."
+        ]
+      },
+      {
+        title: "Le consentement reste central",
+        paragraphs: [
+          "La reprise des rapports doit toujours être consentie.",
+          "Avoir accouché, être en couple ou avoir reçu un feu vert médical ne veut pas dire être obligée d’avoir un rapport.",
+          "Il est possible de dire non, de demander d’attendre, de changer d’avis ou de s’arrêter.",
+          "Un rapport qui fait peur, qui fait mal ou qui est accepté sous pression n’est pas une reprise sereine."
+        ],
+        quote:
+          "Le bon moment n’est pas seulement celui où le corps peut : c’est aussi celui où la personne en a envie."
+      },
+      {
+        title: "Retrouver une intimité sans pénétration",
+        paragraphs: [
+          "La sexualité ne se limite pas à la pénétration.",
+          "Après la naissance, l’intimité peut revenir par les gestes tendres, les câlins, les mots, les massages, les baisers ou simplement le fait de se retrouver.",
+          "Ces moments peuvent aider le couple à se reconnecter sans pression.",
+          "Ils permettent aussi de respecter le rythme du corps et du désir."
+        ]
+      },
+      {
+        title: "Parler avec son ou sa partenaire",
+        paragraphs: [
+          "La communication est essentielle après la naissance.",
+          "Dire ce qui fait peur, ce qui fait mal, ce qui donne envie ou ce qui bloque peut éviter beaucoup de malentendus.",
+          "L’autre parent peut parfois se sentir rejeté alors que la mère est surtout fatiguée, douloureuse ou inquiète.",
+          "Mettre des mots sur la situation aide à protéger le lien."
+        ]
+      },
+      {
+        title: "Douleur pendant les rapports",
+        paragraphs: [
+          "Une douleur lors de la reprise ne doit pas être banalisée.",
+          "Elle peut être liée à une cicatrice, une sécheresse, un périnée tendu, une appréhension, une inflammation ou une reprise trop rapide.",
+          "Il est important de s’arrêter si ça fait mal et de ne pas se forcer.",
+          "Si la douleur persiste, revient à chaque tentative ou empêche toute reprise, il faut demander un avis."
+        ]
+      },
+      {
+        title: "La peur d’avoir mal",
+        paragraphs: [
+          "La peur d’avoir mal est fréquente, surtout après une déchirure, une épisiotomie, une césarienne difficile ou un accouchement vécu comme éprouvant.",
+          "Cette peur peut entraîner des tensions du corps et rendre la reprise plus difficile.",
+          "Avancer par étapes, parler, utiliser un lubrifiant et choisir un moment calme peut aider.",
+          "Si la peur reste très forte, un professionnel peut accompagner cette reprise."
+        ]
+      },
+      {
+        title: "Le vécu de l’accouchement",
+        paragraphs: [
+          "Le vécu de la naissance influence parfois la sexualité.",
+          "Un accouchement difficile, une urgence, une sensation de perte de contrôle, une douleur importante ou un geste mal vécu peuvent laisser une trace.",
+          "Il est possible d’avoir besoin de parler de ce vécu avant de retrouver une intimité sexuelle.",
+          "Sage-femme, médecin, psychologue ou professionnel formé au post-partum peuvent aider à mettre des mots sur ce qui s’est passé."
+        ]
+      },
+      {
+        title: "Contraception : ne pas attendre",
+        paragraphs: [
+          "La contraception doit être abordée après l’accouchement, même si les règles ne sont pas encore revenues.",
+          "Une ovulation peut parfois avoir lieu avant le retour de couches, donc une grossesse peut être possible sans saignements préalables.",
+          "Le choix dépend de votre situation, de l’allaitement, de vos antécédents, de vos préférences et des recommandations médicales.",
+          "Parlez-en avec une sage-femme, un médecin ou lors de la consultation postnatale."
+        ]
+      },
+      {
+        title: "Allaitement et sexualité",
+        paragraphs: [
+          "L’allaitement peut modifier les sensations, le désir et la lubrification.",
+          "Certaines femmes ressentent une sécheresse plus importante, une fatigue accrue ou une disponibilité émotionnelle différente.",
+          "Les seins peuvent aussi être sensibles, douloureux ou associés davantage au bébé qu’à la sexualité.",
+          "Il est important de respecter ce que vous ressentez et d’en parler si cela vous pèse."
+        ]
+      },
+      {
+        title: "La consultation postnatale",
+        paragraphs: [
+          "La consultation postnatale est un moment utile pour parler de la reprise des rapports.",
+          "Vous pouvez aborder la douleur, la cicatrice, le périnée, la contraception, le désir, la sécheresse, la peur ou les difficultés du couple.",
+          "Ces sujets sont légitimes et les professionnels ont l’habitude de les entendre.",
+          "Il n’est pas nécessaire d’attendre que la situation devienne très difficile pour poser vos questions."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il faut demander un avis si vous avez une douleur persistante, des saignements importants après un rapport, une cicatrice inquiétante, une sécheresse très gênante ou une impossibilité de reprendre malgré l’envie.",
+          "Il faut aussi consulter si vous ressentez une peur intense, un blocage, une détresse émotionnelle ou si vous vous sentez sous pression.",
+          "Une sage-femme, un médecin, un kinésithérapeute formé, un sexologue ou un psychologue peut vous accompagner selon la situation.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "Le ou la partenaire peut aider en ne mettant pas de pression.",
+          "Écouter, rassurer, respecter les limites, prendre sa part dans le quotidien et laisser du temps sont des soutiens importants.",
+          "L’entourage peut aussi aider indirectement en permettant au couple de se reposer ou de souffler.",
+          "Une reprise sereine commence souvent par un climat de sécurité, de tendresse et de respect."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La reprise des rapports après l’accouchement n’a pas de délai obligatoire.",
+          "Elle dépend du corps, du désir, du moral, de la douleur, de la cicatrisation et du consentement.",
+          "La sexualité peut reprendre autrement que par la pénétration.",
+          "La contraception doit être abordée, même avant le retour des règles.",
+          "Douleur persistante, saignements, peur intense, cicatrice inquiétante ou pression dans le couple doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
