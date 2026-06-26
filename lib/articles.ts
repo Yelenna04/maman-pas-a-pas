@@ -5911,6 +5911,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "ventre-apres-laccouchement-pourquoi-reste-t-il-gonfle",
+    title: "Ventre après l’accouchement : pourquoi reste-t-il gonflé ?",
+    description:
+      "Après la naissance, le ventre ne redevient pas plat immédiatement. Utérus, muscles, peau, digestion, cicatrice, diastasis : comprendre ce qui est normal et quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, il est normal que le ventre reste gonflé pendant un certain temps.",
+          "L’utérus met plusieurs semaines à reprendre progressivement sa taille, et les muscles, la peau et les tissus ont aussi besoin de récupérer.",
+          "La digestion, la constipation, les gaz, la rétention d’eau, la fatigue ou une césarienne peuvent accentuer la sensation de ventre gonflé.",
+          "Un diastasis, c’est-à-dire un écartement des muscles abdominaux, peut aussi modifier l’aspect du ventre.",
+          "Douleur importante, fièvre, ventre très dur, saignements abondants, malaise ou cicatrice inquiétante doivent faire demander un avis."
+        ],
+        quote:
+          "Le ventre après l’accouchement raconte une récupération en cours : il n’a pas à redevenir plat tout de suite."
+      },
+      {
+        title: "Un ventre encore rond, c’est fréquent",
+        paragraphs: [
+          "Beaucoup de femmes sont surprises de voir leur ventre encore gonflé après la naissance.",
+          "On peut avoir l’impression d’être encore enceinte, même lorsque le bébé est né.",
+          "Ce changement peut être difficile à vivre, surtout quand on s’attendait à retrouver rapidement son corps d’avant.",
+          "Pourtant, le ventre a besoin de temps : il a porté un bébé, un placenta, du liquide, et il s’est adapté pendant plusieurs mois."
+        ]
+      },
+      {
+        title: "L’utérus doit reprendre sa taille",
+        paragraphs: [
+          "Après l’accouchement, l’utérus ne redevient pas immédiatement petit.",
+          "Il se contracte progressivement pour retrouver sa place et sa taille habituelles.",
+          "Ces contractions peuvent parfois provoquer des douleurs, surtout lors des tétées, car certaines hormones favorisent les contractions utérines.",
+          "Cette évolution prend du temps et participe à l’aspect encore arrondi du ventre."
+        ],
+        quote:
+          "Le corps ne se défait pas en quelques jours de ce qu’il a construit pendant des mois."
+      },
+      {
+        title: "Les muscles abdominaux ont été étirés",
+        paragraphs: [
+          "Pendant la grossesse, les muscles abdominaux se sont étirés pour laisser de la place au bébé.",
+          "Après la naissance, ils ne retrouvent pas immédiatement leur tonus.",
+          "Le ventre peut donc sembler plus mou, plus relâché ou moins maintenu.",
+          "Cette sensation ne signifie pas que le corps est abîmé : elle fait partie de la récupération."
+        ]
+      },
+      {
+        title: "Le diastasis : de quoi parle-t-on ?",
+        paragraphs: [
+          "Le diastasis correspond à un écartement des muscles droits de l’abdomen au niveau de la ligne centrale.",
+          "Il est fréquent après une grossesse, surtout lorsque le ventre a été très sollicité.",
+          "Il peut donner l’impression d’un ventre qui ressort, d’une ligne au milieu ou d’un manque de maintien abdominal.",
+          "Un professionnel peut l’évaluer et vous orienter vers une rééducation adaptée si besoin."
+        ]
+      },
+      {
+        title: "La peau et les tissus ont besoin de temps",
+        paragraphs: [
+          "La peau du ventre s’est étirée progressivement pendant la grossesse.",
+          "Après la naissance, elle peut rester souple, fripée, marquée, sensible ou relâchée.",
+          "Les vergetures, la ligne brune et les changements de texture peuvent aussi rester visibles un moment.",
+          "La récupération de la peau dépend de nombreux facteurs : génétique, prise de poids, âge, hydratation, grossesse multiple ou non, et temps."
+        ]
+      },
+      {
+        title: "La digestion peut accentuer le ventre gonflé",
+        paragraphs: [
+          "Après l’accouchement, la digestion peut être ralentie.",
+          "La constipation, les gaz, la peur d’aller à la selle, les douleurs, certains traitements ou le manque de mouvement peuvent donner une sensation de ventre gonflé.",
+          "Boire régulièrement, manger suffisamment de fibres si vous les tolérez et bouger doucement peuvent aider.",
+          "Si la constipation est importante ou douloureuse, demandez conseil à une sage-femme, un médecin ou un pharmacien."
+        ]
+      },
+      {
+        title: "Après une césarienne",
+        paragraphs: [
+          "Après une césarienne, le ventre peut être gonflé, sensible et tendu autour de la cicatrice.",
+          "Il peut aussi y avoir une sensation de tiraillement, de lourdeur ou d’inconfort lors des mouvements.",
+          "La récupération est souvent plus progressive, car il s’agit aussi d’une chirurgie abdominale.",
+          "Une cicatrice rouge, chaude, très douloureuse, qui suinte, ou une fièvre doivent faire demander un avis."
+        ]
+      },
+      {
+        title: "La rétention d’eau",
+        paragraphs: [
+          "Certaines femmes gardent une sensation de gonflement après l’accouchement.",
+          "La grossesse, les perfusions, les hormones et la baisse progressive des liquides peuvent modifier temporairement le corps.",
+          "Le ventre, les jambes, les mains ou le visage peuvent sembler plus gonflés pendant quelques jours.",
+          "Un gonflement brutal, douloureux, asymétrique ou associé à un essoufflement, un malaise ou une douleur thoracique doit faire consulter rapidement."
+        ]
+      },
+      {
+        title: "Le rôle de la fatigue",
+        paragraphs: [
+          "La fatigue peut accentuer la sensation de ventre lourd ou relâché.",
+          "Quand le corps manque de sommeil, récupère d’un accouchement et porte souvent le bébé, les muscles profonds travaillent différemment.",
+          "On peut aussi se tenir plus voûtée, respirer moins profondément ou contracter le ventre sans s’en rendre compte.",
+          "La récupération abdominale ne peut pas être séparée du repos global."
+        ]
+      },
+      {
+        title: "Faut-il porter une gaine ?",
+        paragraphs: [
+          "Certaines femmes se sentent mieux avec un maintien doux du ventre, surtout après une césarienne ou en cas de sensation de ventre lourd.",
+          "Mais une gaine trop serrée, portée pour “écraser” le ventre, n’est pas une solution de récupération.",
+          "Elle peut gêner la respiration, augmenter la pression vers le périnée ou masquer des douleurs.",
+          "Avant d’utiliser une ceinture ou une gaine, il est préférable de demander conseil à une sage-femme ou un kinésithérapeute."
+        ]
+      },
+      {
+        title: "Attention aux abdominaux trop tôt",
+        paragraphs: [
+          "Il est tentant de vouloir faire des abdominaux rapidement pour retrouver un ventre plat.",
+          "Mais certains exercices peuvent augmenter la pression sur le périnée ou aggraver un diastasis s’ils sont repris trop tôt ou mal adaptés.",
+          "La reprise doit être progressive et tenir compte de la récupération du périnée, de la cicatrice, des douleurs et du diastasis éventuel.",
+          "La rééducation, lorsqu’elle est indiquée, permet d’avancer plus sereinement."
+        ],
+        quote:
+          "Après l’accouchement, renforcer ne veut pas dire forcer : le corps a besoin d’être rééduqué avant d’être poussé."
+      },
+      {
+        title: "La respiration et la posture",
+        paragraphs: [
+          "La respiration et la posture peuvent aider à retrouver progressivement du maintien.",
+          "Respirer profondément, relâcher les épaules, éviter de pousser sur le ventre et se relever en passant par le côté sont de petits gestes utiles.",
+          "Ils ne remplacent pas un accompagnement, mais ils peuvent protéger le périnée et la sangle abdominale.",
+          "Un professionnel peut vous montrer les bons gestes adaptés à votre situation."
+        ]
+      },
+      {
+        title: "Quand commencer à bouger ?",
+        paragraphs: [
+          "Les mouvements doux peuvent reprendre progressivement selon votre état, votre accouchement et les consignes reçues.",
+          "Marcher un peu, changer de position, respirer, s’étirer doucement ou se mobiliser sans douleur peut aider.",
+          "En revanche, les exercices intenses, les abdominaux classiques et les efforts importants doivent attendre un avis adapté.",
+          "Chaque récupération est différente, surtout après une césarienne, une déchirure importante ou une grande fatigue."
+        ]
+      },
+      {
+        title: "Le regard sur son corps",
+        paragraphs: [
+          "Le ventre après l’accouchement peut réveiller beaucoup d’émotions.",
+          "Certaines femmes se sentent fières, d’autres déstabilisées, tristes, impatientes ou étrangères à leur propre corps.",
+          "Ces ressentis sont légitimes.",
+          "Le corps post-partum n’est pas un corps à corriger immédiatement : c’est un corps qui récupère."
+        ]
+      },
+      {
+        title: "Les comparaisons font souvent mal",
+        paragraphs: [
+          "Les images de ventres plats très rapidement après l’accouchement peuvent être violentes à voir.",
+          "Elles ne montrent pas toujours la réalité : la fatigue, les douleurs, les hormones, les cicatrices, le périnée, la digestion ou le moral.",
+          "Chaque corps récupère à son rythme.",
+          "Comparer son ventre à celui d’une autre femme peut ajouter une pression inutile dans une période déjà exigeante."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il est utile de demander un avis si vous avez une douleur importante, une sensation de ventre très dur, une gêne qui augmente ou une cicatrice qui vous inquiète.",
+          "Vous pouvez aussi consulter si vous suspectez un diastasis, si vous avez une sensation de pesanteur, des fuites urinaires, des douleurs au périnée ou une difficulté à reprendre les mouvements du quotidien.",
+          "Une sage-femme, un médecin, un kinésithérapeute ou une personne formée à la rééducation post-partum peut vous accompagner.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en évitant les remarques sur le ventre, le poids ou le corps.",
+          "Il peut soutenir la récupération avec des gestes concrets : repas, ménage, relais avec bébé, aide pour les rendez-vous ou temps de repos.",
+          "Il peut aussi rappeler que le corps vient de traverser une grossesse et un accouchement.",
+          "Le regard bienveillant de l’entourage peut compter beaucoup."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Il est fréquent que le ventre reste gonflé après l’accouchement.",
+          "L’utérus, les muscles, la peau, les tissus, la digestion et la fatigue participent à cette sensation.",
+          "Un diastasis peut modifier l’aspect du ventre et mérite parfois une évaluation.",
+          "Il vaut mieux éviter les abdominaux intenses trop tôt et demander conseil pour une reprise adaptée.",
+          "Douleur importante, fièvre, saignements abondants, malaise ou cicatrice inquiétante doivent faire demander un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
