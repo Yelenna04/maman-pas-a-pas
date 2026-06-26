@@ -6571,6 +6571,202 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "perte-de-cheveux-apres-laccouchement-est-ce-normal",
+    title: "Perte de cheveux après l’accouchement : est-ce normal ?",
+    description:
+      "Après la naissance, beaucoup de femmes perdent davantage leurs cheveux. Comprendre le rôle des hormones, le moment où cela apparaît, ce qui peut aider et quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une perte de cheveux plus importante après l’accouchement est fréquente et le plus souvent temporaire.",
+          "Elle apparaît souvent quelques mois après la naissance, quand les hormones changent et que les cheveux retenus pendant la grossesse tombent davantage.",
+          "Cette chute peut être impressionnante, surtout au lavage, au brossage ou sur l’oreiller, mais elle n’entraîne généralement pas une vraie calvitie.",
+          "Des soins doux, une alimentation suffisante, du repos quand c’est possible et l’absence de coiffures trop serrées peuvent aider à limiter la casse.",
+          "Une chute très importante, des plaques sans cheveux, des démangeaisons, des croûtes, une grande fatigue ou une chute qui dure longtemps doivent faire demander un avis."
+        ],
+        quote:
+          "La chute de cheveux post-partum peut être impressionnante, mais elle est souvent liée à un cycle naturel de récupération après la grossesse."
+      },
+      {
+        title: "Une chute de cheveux fréquente après la naissance",
+        paragraphs: [
+          "Beaucoup de femmes remarquent une perte de cheveux plus importante après l’accouchement.",
+          "Les cheveux se retrouvent dans la douche, sur la brosse, sur les vêtements ou sur l’oreiller.",
+          "Cette chute peut être très déstabilisante, surtout quand elle arrive alors que le corps traverse déjà beaucoup de changements.",
+          "Dans la majorité des cas, elle correspond à une phase temporaire du cycle du cheveu."
+        ]
+      },
+      {
+        title: "Pourquoi les cheveux tombent après l’accouchement ?",
+        paragraphs: [
+          "Pendant la grossesse, les hormones peuvent prolonger la phase de croissance des cheveux.",
+          "Certaines femmes ont alors l’impression d’avoir des cheveux plus épais, plus denses ou qui tombent moins.",
+          "Après la naissance, la baisse hormonale entraîne le retour d’un cycle plus habituel.",
+          "Les cheveux qui étaient restés plus longtemps en place peuvent tomber de façon plus groupée."
+        ],
+        quote:
+          "Ce n’est pas forcément que vous perdez tous vos cheveux : c’est souvent que beaucoup de cheveux arrivent en même temps à la phase de chute."
+      },
+      {
+        title: "À quel moment cela commence ?",
+        paragraphs: [
+          "La chute ne commence pas toujours immédiatement après l’accouchement.",
+          "Elle apparaît souvent quelques mois après la naissance, parfois autour du troisième ou quatrième mois.",
+          "Ce décalage peut surprendre, car on ne fait pas toujours le lien avec la grossesse.",
+          "La durée varie selon les femmes, le niveau de fatigue, l’état de santé, l’alimentation et le rythme de récupération."
+        ]
+      },
+      {
+        title: "Une chute parfois impressionnante",
+        paragraphs: [
+          "La quantité de cheveux perdus peut sembler très importante.",
+          "On peut avoir l’impression que les cheveux tombent par poignées, surtout au shampoing ou au brossage.",
+          "Cela peut donner une sensation de cheveux plus fins, de queue de cheval moins épaisse ou de tempes plus dégarnies.",
+          "Même si c’est impressionnant, la repousse est souvent progressive."
+        ]
+      },
+      {
+        title: "Est-ce que l’allaitement est responsable ?",
+        paragraphs: [
+          "L’allaitement est parfois accusé à tort.",
+          "La chute de cheveux post-partum est surtout liée aux changements hormonaux après la grossesse et au cycle naturel des cheveux.",
+          "L’allaitement peut coexister avec cette période, mais il n’est pas forcément la cause directe.",
+          "En revanche, la fatigue, les besoins nutritionnels et le rythme intense du post-partum peuvent jouer sur la perception de la chute."
+        ]
+      },
+      {
+        title: "Le rôle de la fatigue et du stress",
+        paragraphs: [
+          "Le manque de sommeil, le stress, les nuits fragmentées et la récupération physique peuvent fragiliser le corps.",
+          "Le cheveu est sensible aux grands changements : accouchement, fatigue, émotions, maladie, carences ou choc physique.",
+          "Cela ne veut pas dire que vous avez fait quelque chose de mal.",
+          "Cela montre surtout que le corps traverse une période très exigeante."
+        ]
+      },
+      {
+        title: "Alimentation, fer et carences",
+        paragraphs: [
+          "Une alimentation insuffisante ou certaines carences peuvent accentuer une chute de cheveux.",
+          "Après l’accouchement, une perte de sang, une fatigue importante, des repas sautés ou un manque de fer peuvent aussi jouer.",
+          "Il ne faut pas prendre de compléments au hasard, surtout en allaitant ou en cas de traitement.",
+          "Si la chute vous semble très forte ou si vous êtes très fatiguée, parlez-en à un professionnel qui pourra proposer un bilan si nécessaire."
+        ]
+      },
+      {
+        title: "Ce qu’on peut faire au quotidien",
+        paragraphs: [
+          "Il n’existe pas toujours de solution miracle, mais certains gestes peuvent aider à limiter la casse.",
+          "Utilisez un brossage doux, évitez de tirer sur les cheveux mouillés, limitez les coiffures très serrées et réduisez les appareils chauffants si possible.",
+          "Un shampoing doux et des coiffures protectrices peuvent rendre cette période plus confortable.",
+          "L’objectif n’est pas de bloquer totalement la chute, mais de préserver les cheveux qui repoussent et d’éviter de les fragiliser davantage."
+        ]
+      },
+      {
+        title: "Coiffures serrées et traction",
+        paragraphs: [
+          "Les chignons serrés, queues de cheval très tirées, tresses trop tendues ou extensions peuvent exercer une traction sur le cuir chevelu.",
+          "Quand les cheveux tombent déjà davantage, cette traction peut accentuer la casse ou dégarnir certaines zones.",
+          "Il vaut mieux privilégier des attaches souples et varier les coiffures.",
+          "Si vous observez des zones clairsemées au niveau des tempes ou du contour du visage, demandez un avis."
+        ]
+      },
+      {
+        title: "Faut-il couper ses cheveux ?",
+        paragraphs: [
+          "Couper les cheveux ne stoppe pas la chute, car celle-ci vient du cycle du cheveu.",
+          "Mais une coupe plus courte ou plus légère peut donner une impression de volume et rendre l’entretien plus simple.",
+          "Cela peut aussi limiter les nœuds et la sensation de cheveux partout.",
+          "Le bon choix est celui qui vous aide à vous sentir mieux, sans pression."
+        ]
+      },
+      {
+        title: "Les repousses",
+        paragraphs: [
+          "Après la phase de chute, de petits cheveux peuvent repousser autour du front, des tempes ou de la raie.",
+          "Ces repousses peuvent donner un aspect de petits cheveux rebelles, parfois difficiles à coiffer.",
+          "C’est souvent un signe que le cycle reprend.",
+          "La densité revient progressivement, mais cela demande du temps."
+        ],
+        quote:
+          "Les petits cheveux qui repoussent peuvent être agaçants à coiffer, mais ils sont souvent un signe encourageant."
+      },
+      {
+        title: "Attention aux produits miracles",
+        paragraphs: [
+          "La perte de cheveux post-partum peut rendre vulnérable aux promesses de produits miracles.",
+          "Compléments, lotions, huiles ou traitements coûteux ne sont pas toujours nécessaires ni adaptés.",
+          "Certains produits peuvent être déconseillés pendant l’allaitement ou interagir avec une situation médicale.",
+          "Avant de commencer un traitement, demandez conseil à un médecin, une sage-femme, un dermatologue ou un pharmacien."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il est utile de demander un avis si la chute est très importante, si elle dure longtemps, si vous observez des plaques sans cheveux ou si le cuir chevelu démange, brûle, suinte ou présente des croûtes.",
+          "Il faut aussi en parler si vous avez une grande fatigue, des vertiges, une pâleur, des règles très abondantes, une perte de poids importante ou des signes qui font penser à une carence ou à un problème thyroïdien.",
+          "Un professionnel pourra vérifier qu’il s’agit bien d’une chute post-partum habituelle et proposer un bilan si besoin.",
+          "Si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "L’impact sur l’image de soi",
+        paragraphs: [
+          "Perdre ses cheveux après l’accouchement peut être très difficile à vivre.",
+          "Cela arrive dans une période où le corps a déjà changé, où la fatigue est forte et où le regard sur soi peut être fragile.",
+          "Vous avez le droit de trouver cela dur, même si on vous dit que c’est normal.",
+          "Être rassurée médicalement n’empêche pas d’avoir besoin de soutien émotionnel."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en évitant les remarques sur les cheveux, le corps ou l’apparence.",
+          "Il peut rappeler que cette chute est souvent temporaire, mais sans minimiser ce que la mère ressent.",
+          "Il peut aussi soulager le quotidien avec des repas, du repos, de l’aide avec bébé ou les tâches de la maison.",
+          "Moins la mère porte seule la fatigue, plus elle peut traverser cette période avec douceur."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La perte de cheveux après l’accouchement est fréquente et souvent temporaire.",
+          "Elle est liée aux changements hormonaux et au retour du cycle normal du cheveu.",
+          "Elle apparaît souvent quelques mois après la naissance et peut être impressionnante.",
+          "Des soins doux, une alimentation suffisante et l’absence de coiffures trop serrées peuvent aider.",
+          "Chute très prolongée, plaques, cuir chevelu anormal, grande fatigue ou doute important doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "American Academy of Dermatology — Hair loss in new moms",
+        url: "https://www.aad.org/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
