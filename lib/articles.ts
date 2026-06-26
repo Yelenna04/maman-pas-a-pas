@@ -6125,6 +6125,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "perinee-apres-laccouchement-ce-qui-change-vraiment",
+    title: "Périnée après l’accouchement : ce qui change vraiment",
+    description:
+      "Après l’accouchement, le périnée peut être sensible, douloureux ou moins tonique. Comprendre ce qui change, ce qui est fréquent, quand reprendre doucement et quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après l’accouchement, le périnée a besoin de temps pour récupérer, même si la naissance s’est bien passée.",
+          "Douleurs, pesanteur, gêne, fuites urinaires, peur d’aller à la selle ou sensations différentes peuvent être fréquentes au début.",
+          "Une épisiotomie, une déchirure, une extraction instrumentale, une poussée longue ou un gros bébé peuvent rendre la récupération plus sensible.",
+          "La rééducation du périnée peut aider à retrouver du confort, du maintien et de la confiance.",
+          "Douleur importante, fièvre, mauvaise odeur, écoulement, sensation de boule, fuites importantes ou gêne qui s’aggrave doivent faire demander un avis."
+        ],
+        quote:
+          "Le périnée a travaillé pendant la grossesse et l’accouchement : il mérite une vraie récupération, pas une reprise forcée."
+      },
+      {
+        title: "Le périnée, c’est quoi exactement ?",
+        paragraphs: [
+          "Le périnée est un ensemble de muscles et de tissus situé entre le pubis et le coccyx.",
+          "Il soutient notamment la vessie, l’utérus et le rectum.",
+          "Il participe aussi à la continence, à la sexualité, à la posture et aux sensations dans le bassin.",
+          "Pendant la grossesse et l’accouchement, il est fortement sollicité, même lorsqu’il n’y a pas de déchirure."
+        ]
+      },
+      {
+        title: "Pourquoi il change après l’accouchement",
+        paragraphs: [
+          "Pendant la grossesse, le poids du bébé, de l’utérus et des liquides exerce une pression sur le périnée.",
+          "Lors de l’accouchement par voie basse, les tissus s’étirent beaucoup pour laisser passer le bébé.",
+          "Même après une césarienne, le périnée peut être fragilisé par la grossesse, les hormones et la pression abdominale.",
+          "Il est donc normal que les sensations soient différentes après la naissance."
+        ],
+        quote:
+          "Le périnée ne récupère pas en un jour : il a besoin de temps, de douceur et parfois d’un accompagnement."
+      },
+      {
+        title: "Douleurs et sensibilité",
+        paragraphs: [
+          "Les premiers jours, le périnée peut être douloureux, sensible, gonflé ou lourd.",
+          "La gêne peut être plus marquée après une déchirure, une épisiotomie, des points ou une naissance instrumentale.",
+          "S’asseoir, marcher, uriner ou aller à la selle peut être inconfortable.",
+          "Si la douleur est très forte, augmente ou ne s’améliore pas, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Les points, l’épisiotomie ou la déchirure",
+        paragraphs: [
+          "Lorsqu’il y a eu des points, il est normal de ressentir des tiraillements ou une sensibilité locale.",
+          "La cicatrisation doit cependant évoluer progressivement dans le bon sens.",
+          "Une douleur qui augmente, une rougeur importante, une mauvaise odeur, un écoulement, une fièvre ou une sensation de plaie qui s’ouvre doivent faire consulter.",
+          "Vous pouvez demander à une sage-femme ou à un médecin de vérifier la cicatrisation si vous avez le moindre doute."
+        ]
+      },
+      {
+        title: "La sensation de pesanteur",
+        paragraphs: [
+          "Certaines femmes ressentent une pesanteur dans le bas du ventre, le vagin ou le périnée.",
+          "Cette sensation peut apparaître en fin de journée, après avoir porté bébé, marché longtemps ou fait trop d’efforts.",
+          "Elle peut être liée à la fatigue des tissus, au périnée encore fragile ou à une pression abdominale importante.",
+          "Si cette sensation est forte, répétée ou associée à une impression de boule, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Les fuites urinaires",
+        paragraphs: [
+          "Des fuites urinaires peuvent apparaître après l’accouchement, notamment à l’effort, en toussant, en éternuant ou en riant.",
+          "Elles sont fréquentes, mais elles ne doivent pas être banalisées si elles persistent ou gênent le quotidien.",
+          "La rééducation du périnée peut aider à améliorer le contrôle et les sensations.",
+          "Il est important d’en parler, même si le sujet paraît intime ou gênant."
+        ]
+      },
+      {
+        title: "Aller à la selle après l’accouchement",
+        paragraphs: [
+          "La première selle après l’accouchement peut inquiéter.",
+          "La peur de la douleur, les points, les hémorroïdes, la constipation ou la fatigue peuvent rendre ce moment difficile.",
+          "Boire, manger suffisamment de fibres si vous les tolérez, bouger doucement et ne pas pousser trop fort peuvent aider.",
+          "Si la constipation est importante ou douloureuse, demandez conseil à une sage-femme, un médecin ou un pharmacien."
+        ]
+      },
+      {
+        title: "Hémorroïdes et inconfort",
+        paragraphs: [
+          "Les hémorroïdes peuvent apparaître ou s’aggraver après la grossesse et l’accouchement.",
+          "Elles peuvent provoquer douleur, brûlure, démangeaison ou gêne pour s’asseoir.",
+          "Elles sont fréquentes, mais des douleurs importantes ou des saignements doivent être signalés.",
+          "Un professionnel peut proposer des solutions compatibles avec le post-partum et l’allaitement si besoin."
+        ]
+      },
+      {
+        title: "Après une césarienne, le périnée compte aussi",
+        paragraphs: [
+          "Même en cas de césarienne, le périnée a été sollicité pendant la grossesse.",
+          "Le poids du bébé, les hormones et la pression sur le bassin peuvent modifier les sensations et le tonus.",
+          "La récupération abdominale et la récupération du périnée sont liées.",
+          "Il peut donc être utile d’évaluer le périnée même si bébé n’est pas passé par voie basse."
+        ]
+      },
+      {
+        title: "Ce qu’il vaut mieux éviter au début",
+        paragraphs: [
+          "Les premières semaines, il vaut mieux éviter les efforts importants, les charges lourdes, les abdominaux classiques et les reprises sportives trop rapides.",
+          "Ces efforts peuvent augmenter la pression vers le périnée et gêner la récupération.",
+          "Porter bébé est déjà une charge réelle : il faut donc éviter d’ajouter trop d’efforts autour.",
+          "En cas de doute sur ce que vous pouvez faire, demandez conseil avant de reprendre."
+        ]
+      },
+      {
+        title: "Respiration, posture et gestes du quotidien",
+        paragraphs: [
+          "De petits gestes peuvent protéger le périnée.",
+          "Se relever en passant par le côté, souffler pendant un effort, éviter de bloquer la respiration et ne pas pousser sur le ventre peuvent aider.",
+          "Ces réflexes sont particulièrement utiles quand on porte bébé, quand on se lève ou quand on va aux toilettes.",
+          "Un kinésithérapeute ou une sage-femme peut vous montrer les gestes adaptés."
+        ],
+        quote:
+          "Protéger le périnée, ce n’est pas ne rien faire : c’est apprendre à bouger sans pousser vers le bas."
+      },
+      {
+        title: "La rééducation du périnée",
+        paragraphs: [
+          "La rééducation du périnée permet de faire le point sur les sensations, le tonus, les fuites, les douleurs et la capacité à reprendre certaines activités.",
+          "Elle peut être réalisée par une sage-femme ou un kinésithérapeute formé.",
+          "Elle n’est pas là pour juger le corps, mais pour accompagner la récupération.",
+          "Le moment de commencer dépend de votre accouchement, de vos douleurs, de votre cicatrisation et de l’avis du professionnel."
+        ]
+      },
+      {
+        title: "Sexualité et sensations",
+        paragraphs: [
+          "Après l’accouchement, les sensations sexuelles peuvent être différentes.",
+          "La fatigue, les douleurs, la sécheresse vaginale, les points, l’allaitement, le moral ou la peur d’avoir mal peuvent jouer.",
+          "Il n’y a pas d’obligation de reprendre rapidement les rapports.",
+          "Si une douleur persiste, si la pénétration est impossible ou si vous avez peur, il est important d’en parler à un professionnel."
+        ]
+      },
+      {
+        title: "Le périnée et le sport",
+        paragraphs: [
+          "La reprise du sport doit être progressive.",
+          "Il est préférable de commencer par des mouvements doux, la marche et la récupération globale avant les impacts, les abdominaux intenses ou les charges lourdes.",
+          "Les sports avec sauts, course, gainage intense ou pression abdominale doivent attendre un avis adapté.",
+          "Un périnée encore fragile a besoin d’être accompagné avant d’être sollicité fortement."
+        ]
+      },
+      {
+        title: "Le regard sur son corps",
+        paragraphs: [
+          "Les changements du périnée peuvent être difficiles à vivre car ils touchent à l’intime.",
+          "Certaines femmes se sentent inquiètes, gênées, abîmées ou moins en confiance.",
+          "Ces ressentis méritent d’être entendus sans honte.",
+          "Le périnée peut récupérer, et il existe des professionnels pour accompagner cette étape."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il faut demander un avis si vous avez une douleur importante, des fuites urinaires gênantes, une sensation de pesanteur, une impression de boule, une gêne qui augmente ou une cicatrice qui vous inquiète.",
+          "Il faut aussi consulter si vous avez de la fièvre, une mauvaise odeur, un écoulement, une douleur qui s’aggrave ou des difficultés importantes à aller aux toilettes.",
+          "Une sage-femme, un médecin ou un kinésithérapeute formé peut vous aider à comprendre ce qui se passe.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en respectant la récupération de la mère.",
+          "Il peut éviter les remarques sur la reprise du sport, la sexualité ou le corps.",
+          "Il peut prendre le relais avec bébé, porter les charges lourdes, aider au ménage, préparer les repas ou accompagner aux rendez-vous.",
+          "Le soutien concret permet au corps de récupérer dans de meilleures conditions."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le périnée change après l’accouchement parce qu’il a été sollicité pendant la grossesse et la naissance.",
+          "Douleurs, gêne, pesanteur, fuites ou sensations différentes peuvent apparaître, mais elles méritent d’être accompagnées si elles persistent.",
+          "La rééducation du périnée peut aider à retrouver du confort et de la confiance.",
+          "Il vaut mieux éviter les efforts importants et les abdominaux trop tôt.",
+          "Douleur importante, fièvre, écoulement, mauvaise odeur, pesanteur forte ou fuites gênantes doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
+        url: "https://www.cngof.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
