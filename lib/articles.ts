@@ -211,11 +211,11 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -401,11 +401,11 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
   },
@@ -828,12 +828,12 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       }
     ]
   },
@@ -1044,7 +1044,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       }
     ]
   },
@@ -1247,12 +1247,12 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Haute Autorité de santé — Rééducation dans le cadre du post-partum",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Prescription d’activité physique et sportive pendant la grossesse et en post-partum",
+        url: "https://www.has-sante.fr/jcms/c_2859527/fr/prescription-d-activite-physique-et-sportive-pendant-la-grossesse-et-en-post-partum"
       },
       {
-        label: "Assurance Maladie — Rééducation périnéale après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "Collège National des Sages-Femmes de France",
@@ -1260,7 +1260,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       }
     ]
   },
@@ -1455,11 +1455,11 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -1677,12 +1677,12 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Allaitement maternel",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "1000 premiers jours — Allaitement",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — L’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/lallaitement"
       },
       {
         label: "Leche League France — Ressources allaitement",
@@ -1893,12 +1893,12 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Allaitement maternel",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "1000 premiers jours — Allaitement",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — L’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/lallaitement"
       },
       {
         label: "Leche League France — Engorgement et montée de lait",
@@ -2111,12 +2111,12 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Allaitement maternel",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "1000 premiers jours — Allaitement",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — L’allaitement",
+        url: "https://www.1000-premiers-jours.fr/fr/lallaitement"
       },
       {
         label: "Leche League France — Douleurs, crevasses et engorgement",
@@ -2325,16 +2325,16 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Alimentation du nouveau-né",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "1000 premiers jours — Nourrir son bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/nourrir-son-bebe"
       },
       {
         label: "ANSES — Préparation et conservation des biberons",
@@ -2537,16 +2537,16 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Alimentation du nouveau-né",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Nourrir son bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/nourrir-son-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -2764,12 +2764,12 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Allaitement maternel",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Nourrir son bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/nourrir-son-bebe"
       },
       {
         label: "Leche League France — Allaitement mixte et reprise du travail",
@@ -2981,12 +2981,12 @@ export const articles: Article[] = [
         url: "https://www.who.int/fr/health-topics/breastfeeding"
       },
       {
-        label: "Assurance Maladie — Allaitement maternel",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Nourrir son bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/nourrir-son-bebe"
       },
       {
         label: "Leche League France — Sevrage",
@@ -3186,20 +3186,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "1000 premiers jours — Dépression post-partum",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — La dépression post-partum",
+        url: "https://www.1000-premiers-jours.fr/fr/la-depression-post-partum"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -3395,20 +3395,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "1000 premiers jours — Dépression post-partum",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — La dépression post-partum",
+        url: "https://www.1000-premiers-jours.fr/fr/la-depression-post-partum"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -3604,20 +3604,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Dépression du post-partum et troubles psychiques",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "1000 premiers jours — Santé mentale après la naissance",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Être accompagné après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/fr/etre-accompagne-apres-laccouchement"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -3784,20 +3784,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "1000 premiers jours — Santé mentale après la naissance",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Être accompagné après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/fr/etre-accompagne-apres-laccouchement"
       },
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -3993,20 +3993,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "1000 premiers jours — Santé mentale après la naissance",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Être accompagné après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/fr/etre-accompagne-apres-laccouchement"
       },
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -4183,20 +4183,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "1000 premiers jours — Santé mentale après la naissance",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Être accompagné après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/fr/etre-accompagne-apres-laccouchement"
       },
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -4397,20 +4397,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "1000 premiers jours — Santé mentale après la naissance",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Être accompagné après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/fr/etre-accompagne-apres-laccouchement"
       },
       {
-        label: "Assurance Maladie — Dépression du post-partum",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Anxiété, baby-blues, dépression : comment être aidée ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/grossesse-sante-psychique/anxiete-baby-blues-depression-etre-aidee-pendant-et-apres-sa-grossesse"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
-        label: "Haute Autorité de santé — Repérage et prise en charge des troubles psychiques périnatals",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social pendant la grossesse et en postnatal",
+        url: "https://www.has-sante.fr/jcms/p_3492567/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal-recommandations"
       }
     ]
   },
@@ -4618,16 +4618,16 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "1000 premiers jours — Sommeil et sécurité du bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Le sommeil de bébé",
+        url: "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "Ministère de la Santé — Prévention de la mort inattendue du nourrisson",
@@ -4839,20 +4839,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       }
     ]
   },
@@ -5057,19 +5057,19 @@ export const articles: Article[] = [
     sources: [
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       }
     ]
   },
@@ -5261,20 +5261,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       }
     ]
   },
@@ -5475,20 +5475,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "1000 premiers jours — L’arrivée d’un bébé dans la famille",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       }
     ]
   },
@@ -5689,20 +5689,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -5894,20 +5894,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Retour à la maison après la naissance",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -6108,20 +6108,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
   },
@@ -6322,20 +6322,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       }
     ]
   },
@@ -6554,20 +6554,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Césarienne",
-        url: "https://www.cngof.fr/"
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       }
     ]
   },
@@ -6750,20 +6750,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "American Academy of Dermatology — Hair loss in new moms",
-        url: "https://www.aad.org/"
+        url: "https://www.aad.org/public/diseases/hair-loss/causes/new-moms"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
   },
@@ -6964,20 +6964,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
-        label: "American Academy of Dermatology — Skin changes during and after pregnancy",
-        url: "https://www.aad.org/"
+        label: "American Academy of Dermatology — Skin care during pregnancy",
+        url: "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
   },
@@ -7187,20 +7187,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
-        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       }
     ]
   },
@@ -7403,20 +7403,20 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Assurance Maladie — Suivi après l’accouchement",
-        url: "https://www.ameli.fr/"
+        label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+        url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
         label: "1000 premiers jours — Après l’accouchement",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/apres-laccouchement"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
-        url: "https://www.has-sante.fr/"
+        url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -12440,7 +12440,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -12681,7 +12681,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -12888,8 +12888,8 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/grossesse/grossesse-en-bonne-sante/suivi-medical-grossesse"
       },
       {
-        label: "1000 premiers jours — Grossesse et préparation à l’arrivée du bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Préparer l’arrivée de bébé",
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -13096,7 +13096,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Service Public — Déclaration de grossesse et prise en charge",
@@ -13310,7 +13310,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
@@ -13732,8 +13732,8 @@ export const articles: Article[] = [
         url: "https://www.acog.org/womens-health/faqs/how-your-fetus-grows-during-pregnancy"
       },
       {
-        label: "CNGOF — Suivi d’une grossesse normale",
-        url: "https://www.cngof.fr/"
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes selon les situations à risque",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
       }
     ]
   },
@@ -15780,7 +15780,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -15988,7 +15988,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -16198,7 +16198,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -16394,7 +16394,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -16602,7 +16602,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -16820,7 +16820,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -17237,7 +17237,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -17885,7 +17885,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -18099,7 +18099,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -18296,7 +18296,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Préparer l’arrivée de bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
       }
     ]
   },
@@ -18504,8 +18504,8 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "Haute Autorité de santé — Comment mieux informer les femmes enceintes ?",
@@ -18723,8 +18723,8 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Recommandations en obstétrique",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "Organisation mondiale de la santé — Intrapartum care for a positive childbirth experience",
@@ -18947,8 +18947,8 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne",
-        url: "https://www.cngof.fr/"
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
         label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
@@ -19176,8 +19176,8 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne",
-        url: "https://www.cngof.fr/"
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
         label: "Société Française d’Anesthésie et de Réanimation — Anesthésie obstétricale",
@@ -19377,8 +19377,8 @@ export const articles: Article[] = [
     ],
     sources: [
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Présentation du siège et accouchement",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
@@ -19574,8 +19574,8 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Césarienne et accouchement après césarienne",
-        url: "https://www.cngof.fr/"
+        label: "Haute Autorité de santé — Indications de la césarienne programmée à terme",
+        url: "https://www.has-sante.fr/jcms/c_1070417/fr/indications-de-la-cesarienne-programmee-a-terme"
       },
       {
         label: "Royal College of Obstetricians and Gynaecologists — Birth after previous caesarean",
@@ -19766,7 +19766,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Assurance Maladie — Après l’accouchement",
@@ -19912,7 +19912,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
@@ -20097,7 +20097,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
@@ -20281,8 +20281,8 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_1290110/fr/sortie-de-maternite-apres-accouchement"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "Assurance Maladie — Après l’accouchement",
@@ -20480,12 +20480,12 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Hémorragie du post-partum",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       }
     ]
   },
@@ -20681,12 +20681,12 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
       },
       {
-        label: "Collège National des Gynécologues et Obstétriciens Français — Prévention et protection périnéale en obstétrique",
-        url: "https://www.cngof.fr/"
+        label: "CNGOF — Recommandations pour la pratique clinique",
+        url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/"
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       }
     ]
   },
@@ -21087,7 +21087,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
         label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
@@ -21265,7 +21265,7 @@ export const articles: Article[] = [
     sources: [
       {
         label: "1000 premiers jours — Baby blues et dépression post-partum",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/baby-blues-et-depression-post-partum"
       },
       {
         label: "Haute Autorité de santé — Sortie de maternité après accouchement",
@@ -21277,7 +21277,7 @@ export const articles: Article[] = [
       },
       {
         label: "Santé publique France — Santé mentale périnatale",
-        url: "https://www.santepubliquefrance.fr/"
+        url: "https://www.santepubliquefrance.fr/maladies-et-traumatismes/sante-mentale"
       }
     ]
   },
@@ -21481,11 +21481,11 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les premiers jours avec bébé",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
       },
       {
-        label: "Santé publique France — Les 1000 premiers jours",
-        url: "https://www.santepubliquefrance.fr/"
+        label: "Santé publique France — La santé à tout âge : les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
       }
     ]
   },
@@ -22923,8 +22923,8 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/diabete-gestationnel/depistage-diagnostic"
       },
       {
-        label: "Haute Autorité de santé — Diabète gestationnel",
-        url: "https://www.has-sante.fr/"
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes selon les situations à risque",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
       },
       {
         label: "Collège national des gynécologues et obstétriciens français — Recommandations sur le diabète gestationnel",
@@ -25081,7 +25081,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les petits maux de la grossesse",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
       }
     ]
   },
@@ -25340,7 +25340,7 @@ export const articles: Article[] = [
       },
       {
         label: "1000 premiers jours — Les petits maux de la grossesse",
-        url: "https://www.1000-premiers-jours.fr/"
+        url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
       },
       {
         label: "CRAT — Médicaments utilisables pendant la grossesse",
@@ -25614,8 +25614,8 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/que-faire-quand-consulter"
       },
       {
-        label: "1000 premiers jours — Sommeil et grossesse",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
       },
       {
         label: "Haute Autorité de santé — Suivi et information des femmes enceintes",
@@ -25938,8 +25938,8 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/c_547976/fr/comment-mieux-informer-les-femmes-enceintes"
       },
       {
-        label: "1000 premiers jours — Bien-être psychique pendant la grossesse",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Les émotions pendant la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/les-emotions-pendant-la-grossesse"
       },
       {
         label: "Assurance Maladie — Dépression : symptômes et prise en charge",
@@ -26219,8 +26219,8 @@ export const articles: Article[] = [
         url: "https://www.service-public.fr/particuliers/actualites/A15841"
       },
       {
-        label: "1000 premiers jours — Les petits maux et signes d’alerte pendant la grossesse",
-        url: "https://www.1000-premiers-jours.fr/"
+        label: "1000 premiers jours — Les petits maux de la grossesse",
+        url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
       }
     ]
   }
