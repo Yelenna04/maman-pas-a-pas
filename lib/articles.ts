@@ -7204,6 +7204,222 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "poids-apres-grossesse-comment-vivre-son-corps-sans-pression",
+    title: "Poids après grossesse : comment vivre son corps sans pression ?",
+    description:
+      "Après une grossesse, le poids et le corps changent progressivement. Repères pour comprendre la récupération, éviter la pression, prendre soin de soi et demander un avis si besoin.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après une grossesse, il est normal que le corps ne retrouve pas immédiatement son poids ou sa forme d’avant.",
+          "Le poids après l’accouchement dépend de nombreux facteurs : grossesse, rétention d’eau, fatigue, sommeil, allaitement ou non, alimentation, activité, hormones et histoire personnelle.",
+          "Chercher à perdre vite peut fragiliser la récupération, surtout en période de fatigue ou d’allaitement.",
+          "L’objectif des premières semaines est d’abord de récupérer, manger suffisamment, dormir quand c’est possible et retrouver progressivement du mouvement.",
+          "Perte de poids rapide, grande fatigue, restriction alimentaire, obsession du poids, malaise ou souffrance importante doivent faire demander un avis."
+        ],
+        quote:
+          "Le corps d’après grossesse n’est pas un corps à corriger en urgence : c’est un corps qui récupère."
+      },
+      {
+        title: "Un corps qui a changé, c’est normal",
+        paragraphs: [
+          "Après l’accouchement, beaucoup de femmes se sentent déstabilisées par leur corps.",
+          "Le ventre peut rester gonflé, la peau peut être différente, le poids peut ne pas redescendre comme imaginé et les vêtements d’avant peuvent ne pas aller tout de suite.",
+          "Ces changements peuvent être difficiles à vivre, surtout quand on s’attend à retrouver rapidement son apparence d’avant.",
+          "Pourtant, le corps vient de traverser une grossesse, un accouchement et une période de récupération intense."
+        ]
+      },
+      {
+        title: "Le poids ne résume pas la récupération",
+        paragraphs: [
+          "Le chiffre sur la balance ne dit pas tout.",
+          "Il ne montre pas la fatigue, les douleurs, la cicatrisation, le périnée, l’allaitement, le manque de sommeil, le moral ou la charge mentale.",
+          "Deux femmes peuvent avoir le même poids et vivre des récupérations totalement différentes.",
+          "La santé post-partum ne se résume pas à perdre des kilos."
+        ],
+        quote:
+          "La balance mesure un poids, pas la récupération d’une mère."
+      },
+      {
+        title: "Pourquoi le poids peut rester plus élevé",
+        paragraphs: [
+          "Après la naissance, le poids peut rester plus élevé pour plusieurs raisons.",
+          "Le corps élimine progressivement les liquides, l’utérus reprend sa taille, les seins changent, les hormones varient et la fatigue peut modifier l’appétit.",
+          "Le manque de sommeil peut aussi influencer la faim, les envies alimentaires et l’énergie disponible pour bouger.",
+          "Ces éléments expliquent pourquoi la récupération peut être lente et irrégulière."
+        ]
+      },
+      {
+        title: "La rétention d’eau",
+        paragraphs: [
+          "Certaines femmes gardent une sensation de gonflement après l’accouchement.",
+          "La grossesse, les hormones, les perfusions éventuelles et les variations de liquides peuvent provoquer un gonflement temporaire.",
+          "Le poids peut donc varier sans refléter uniquement la masse graisseuse.",
+          "Un gonflement brutal, douloureux, asymétrique ou associé à un essoufflement, un malaise ou une douleur thoracique doit faire demander un avis rapidement."
+        ]
+      },
+      {
+        title: "Le ventre et la silhouette",
+        paragraphs: [
+          "Le ventre peut rester rond, mou ou gonflé pendant un certain temps.",
+          "Cela peut être lié à l’utérus, aux muscles abdominaux, à la peau, à la digestion, à la fatigue ou à un diastasis.",
+          "La silhouette peut aussi changer au niveau des hanches, de la poitrine, du bassin ou de la posture.",
+          "Ces changements ne signifient pas que le corps ne récupérera pas : ils montrent qu’il est encore en adaptation."
+        ]
+      },
+      {
+        title: "Les injonctions au corps d’avant",
+        paragraphs: [
+          "Les messages autour du corps après grossesse peuvent être très violents.",
+          "On parle souvent de “retrouver son corps”, comme si le corps post-partum n’était pas vraiment le sien.",
+          "Cette pression peut donner l’impression qu’il faut vite maigrir, cacher son ventre ou reprendre le sport avant d’être prête.",
+          "Vous n’avez pas à prouver que vous récupérez vite pour être une bonne mère ou une femme désirable."
+        ]
+      },
+      {
+        title: "Manger suffisamment",
+        paragraphs: [
+          "Après l’accouchement, le corps a besoin d’énergie.",
+          "Sauter des repas, se restreindre fortement ou suivre un régime strict peut augmenter la fatigue et rendre le quotidien plus difficile.",
+          "L’objectif est de manger suffisamment, de façon simple et régulière, même si les repas ne sont pas parfaits.",
+          "Des plats faciles, des collations, de l’eau et l’aide de l’entourage peuvent aider à tenir."
+        ],
+        quote:
+          "Se nourrir après l’accouchement n’est pas un manque de volonté : c’est une base de récupération."
+      },
+      {
+        title: "Allaitement et poids",
+        paragraphs: [
+          "L’allaitement peut influencer le poids, mais pas de la même façon pour toutes les femmes.",
+          "Certaines perdent du poids plus facilement, d’autres ont davantage faim, gardent du poids ou se sentent plus fatiguées.",
+          "Il ne faut pas utiliser l’allaitement comme une méthode de perte de poids.",
+          "Si vous allaitez, évitez les restrictions importantes sans avis professionnel, car vos besoins peuvent être plus élevés."
+        ]
+      },
+      {
+        title: "Le manque de sommeil joue aussi",
+        paragraphs: [
+          "Le sommeil fragmenté peut modifier l’appétit, la gestion des envies, l’humeur et la motivation.",
+          "Quand on dort peu, il est normal de chercher de l’énergie rapidement ou de ne pas avoir la force de cuisiner.",
+          "Ce n’est pas un manque de discipline.",
+          "Avant de se juger, il faut regarder le contexte réel : nuits hachées, bébé à porter, récupération physique et charge mentale."
+        ]
+      },
+      {
+        title: "Reprendre le mouvement doucement",
+        paragraphs: [
+          "Bouger peut aider à retrouver de l’énergie, mais la reprise doit être progressive.",
+          "La marche douce, les mouvements simples, la respiration et les gestes du quotidien peuvent être une première étape.",
+          "Les efforts intenses, les abdominaux classiques, la course ou les charges lourdes doivent attendre que le corps soit prêt et que le professionnel donne son avis si nécessaire.",
+          "Le but n’est pas de brûler des calories à tout prix, mais de retrouver du confort et de la confiance."
+        ]
+      },
+      {
+        title: "Attention aux régimes rapides",
+        paragraphs: [
+          "Les régimes stricts après l’accouchement peuvent être tentants quand on se sent mal dans son corps.",
+          "Mais une restriction importante peut aggraver la fatigue, favoriser les compulsions, diminuer l’énergie et fragiliser le moral.",
+          "Elle peut aussi être inadaptée en cas d’allaitement, de carence, de douleur ou de récupération difficile.",
+          "Si vous souhaitez être accompagnée sur l’alimentation ou le poids, il vaut mieux le faire avec un professionnel bienveillant."
+        ]
+      },
+      {
+        title: "Les vêtements d’avant",
+        paragraphs: [
+          "Ne pas rentrer dans ses vêtements d’avant ne signifie pas que le corps a échoué.",
+          "Les formes, le ventre, la poitrine, le bassin et la posture peuvent changer après la grossesse.",
+          "Il peut être plus doux de prévoir quelques vêtements confortables, adaptés au corps actuel.",
+          "S’habiller sans être compressée peut aider à se sentir moins en conflit avec son corps."
+        ]
+      },
+      {
+        title: "Se peser ou non ?",
+        paragraphs: [
+          "Pour certaines femmes, se peser rassure.",
+          "Pour d’autres, cela augmente l’angoisse, la comparaison ou la culpabilité.",
+          "Il n’y a pas d’obligation de suivre son poids de près si cela fait du mal.",
+          "Si la balance prend trop de place dans vos pensées, il peut être utile d’en parler à un professionnel."
+        ]
+      },
+      {
+        title: "Le regard des autres",
+        paragraphs: [
+          "Les remarques sur le poids, le ventre ou la silhouette peuvent blesser profondément.",
+          "Même lorsqu’elles sont présentées comme des compliments ou des conseils, elles peuvent renforcer la pression.",
+          "Vous avez le droit de poser une limite : “Je préfère qu’on ne commente pas mon corps.”",
+          "Le corps post-partum n’est pas un sujet public."
+        ]
+      },
+      {
+        title: "Quand le rapport au corps devient douloureux",
+        paragraphs: [
+          "Il est possible de ne pas aimer son corps tout de suite après l’accouchement.",
+          "Mais si le poids, l’image corporelle ou l’alimentation prennent toute la place, il faut chercher du soutien.",
+          "Culpabilité intense, restriction, crises alimentaires, peur de manger, pesées répétées, honte permanente ou évitement du miroir peuvent être des signaux à prendre au sérieux.",
+          "Un professionnel peut aider sans jugement."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il faut demander un avis si vous perdez du poids très rapidement sans le vouloir, si vous êtes très fatiguée, pâle, essoufflée, étourdie ou si vous avez des symptômes inhabituels.",
+          "Il faut aussi consulter si vous avez des difficultés alimentaires, une obsession du poids, une tristesse importante ou une honte corporelle qui devient envahissante.",
+          "Une sage-femme, un médecin, une diététicienne, un psychologue ou un professionnel formé au post-partum peut vous accompagner.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en ne commentant pas le poids, le ventre ou la silhouette.",
+          "Il peut soutenir concrètement la récupération : apporter des repas, laisser du temps pour se doucher, garder bébé pendant une sieste, aider au ménage ou accompagner aux rendez-vous.",
+          "Il peut aussi rappeler que le corps n’a pas à être jugé pendant qu’il récupère.",
+          "Un regard respectueux aide souvent plus qu’un conseil minceur."
+        ],
+        quote:
+          "Après une naissance, le meilleur soutien n’est pas de commenter le corps : c’est d’alléger ce qu’il porte."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le poids après grossesse varie beaucoup d’une femme à l’autre.",
+          "Le corps a besoin de temps pour récupérer, et la perte de poids ne doit pas devenir une urgence.",
+          "Manger suffisamment, dormir quand c’est possible, bouger progressivement et demander de l’aide sont des priorités plus utiles que la pression.",
+          "Les remarques sur le corps peuvent être blessantes : vous avez le droit de poser des limites.",
+          "Perte de poids rapide, fatigue importante, obsession du poids, restriction alimentaire ou grande souffrance corporelle doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "Santé publique France — Les 1000 premiers jours",
+        url: "https://www.santepubliquefrance.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
