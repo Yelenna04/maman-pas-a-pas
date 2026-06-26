@@ -6767,6 +6767,220 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "transpiration-hormones-peau-les-changements-apres-la-naissance",
+    title: "Transpiration, hormones, peau : les changements après la naissance",
+    description:
+      "Après la naissance, le corps change encore : transpiration, odeurs, peau sèche ou grasse, boutons, taches, démangeaisons. Comprendre ce qui peut être normal et quand demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, les hormones continuent de changer : cela peut influencer la transpiration, la peau, les cheveux, l’odeur corporelle et les sensations de chaleur.",
+          "Les sueurs nocturnes sont fréquentes les premières semaines, surtout quand le corps élimine progressivement les liquides accumulés pendant la grossesse.",
+          "La peau peut devenir plus sèche, plus sensible, plus grasse, réactive ou sujette aux boutons.",
+          "Les taches brunes, la ligne brune, les vergetures et certains changements de texture peuvent mettre du temps à s’estomper.",
+          "Fièvre, plaques douloureuses, démangeaisons importantes, jaunisse, gonflement brutal, malaise ou symptômes qui s’aggravent doivent faire demander un avis."
+        ],
+        quote:
+          "Après l’accouchement, le corps ne revient pas d’un coup à l’état d’avant : il traverse une vraie transition hormonale et physique."
+      },
+      {
+        title: "Un corps encore en transition",
+        paragraphs: [
+          "Après la naissance, beaucoup de femmes découvrent de nouveaux changements corporels.",
+          "On parle souvent du ventre, du périnée ou de la fatigue, mais moins de la transpiration, de la peau, des odeurs ou des sensations de chaleur.",
+          "Pourtant, ces changements sont fréquents et peuvent être très gênants au quotidien.",
+          "Ils sont souvent liés aux hormones, à l’élimination des liquides, au manque de sommeil et à la récupération du corps."
+        ]
+      },
+      {
+        title: "Les hormones chutent après la naissance",
+        paragraphs: [
+          "Pendant la grossesse, les hormones sont très élevées et influencent la peau, les cheveux, les muqueuses, la circulation et la température corporelle.",
+          "Après l’accouchement, cet équilibre change rapidement.",
+          "Cette variation hormonale peut provoquer des sueurs, une peau plus sensible, une sécheresse, des boutons ou des changements d’humeur.",
+          "Ces manifestations peuvent surprendre, mais elles font souvent partie de la période post-partum."
+        ],
+        quote:
+          "Le post-partum n’est pas seulement après la grossesse : c’est aussi une période hormonale à part entière."
+      },
+      {
+        title: "Les sueurs nocturnes",
+        paragraphs: [
+          "Les sueurs nocturnes sont fréquentes après l’accouchement.",
+          "Certaines femmes se réveillent trempées, doivent changer de pyjama ou de draps, ou ont l’impression d’avoir très chaud sans raison évidente.",
+          "Cela peut être lié aux changements hormonaux et à l’élimination progressive de l’excès de liquides accumulés pendant la grossesse.",
+          "Si les sueurs s’accompagnent de fièvre, frissons, douleur, malaise ou d’un état général inquiétant, il faut demander un avis."
+        ]
+      },
+      {
+        title: "Transpirer davantage dans la journée",
+        paragraphs: [
+          "La transpiration peut aussi être plus importante en journée.",
+          "Elle peut apparaître lors des tétées, des réveils nocturnes, des montées de stress, des efforts ou simplement dans les moments de fatigue.",
+          "Le corps récupère, dort peu et doit s’adapter à un nouveau rythme.",
+          "Porter des vêtements respirants, boire régulièrement et garder des changes faciles peut aider à mieux vivre cette période."
+        ]
+      },
+      {
+        title: "Une odeur corporelle différente",
+        paragraphs: [
+          "Certaines femmes remarquent que leur odeur corporelle change après la naissance.",
+          "Cela peut être lié à la transpiration, aux hormones, à la fatigue, au stress, aux lochies ou au rythme très intense des premiers jours.",
+          "Ce changement peut être gênant, surtout quand on ne se reconnaît plus dans son propre corps.",
+          "Une mauvaise odeur inhabituelle associée à des douleurs, de la fièvre, des pertes anormales ou une cicatrice inquiétante doit faire demander un avis."
+        ]
+      },
+      {
+        title: "La peau peut devenir plus sèche",
+        paragraphs: [
+          "Après l’accouchement, la peau peut devenir plus sèche, plus fragile ou plus inconfortable.",
+          "Le visage, les mains, le ventre, les jambes ou les zones de frottement peuvent tirer davantage.",
+          "La fatigue, les douches rapides, les variations hormonales et le manque de temps pour prendre soin de soi peuvent accentuer cette sensation.",
+          "Des soins simples, doux, sans parfum agressif, peuvent aider à limiter l’inconfort."
+        ]
+      },
+      {
+        title: "Boutons, peau grasse ou poussées d’acné",
+        paragraphs: [
+          "Certaines femmes voient apparaître des boutons ou une peau plus grasse après la naissance.",
+          "Les hormones, le stress, le manque de sommeil et les changements de routine peuvent favoriser ces poussées.",
+          "Il est préférable d’éviter les produits agressifs, les gommages trop forts ou les traitements non conseillés pendant l’allaitement.",
+          "Si l’acné est importante, douloureuse ou difficile à vivre, un médecin, un dermatologue ou un pharmacien peut proposer une solution adaptée."
+        ]
+      },
+      {
+        title: "Peau sensible et réactions",
+        paragraphs: [
+          "Le post-partum peut rendre la peau plus réactive.",
+          "Un produit auparavant bien toléré peut piquer, gratter ou provoquer des rougeurs.",
+          "Il peut être utile de simplifier la routine : nettoyer doucement, hydrater, éviter les parfums forts et introduire les nouveaux produits un par un.",
+          "Une réaction importante, douloureuse ou qui s’étend doit être montrée à un professionnel."
+        ]
+      },
+      {
+        title: "Taches brunes et ligne brune",
+        paragraphs: [
+          "Les taches brunes apparues pendant la grossesse peuvent mettre du temps à s’estomper.",
+          "La ligne brune sur le ventre peut aussi rester visible plusieurs semaines ou plusieurs mois.",
+          "Le soleil peut accentuer certaines taches, surtout sur le visage.",
+          "Une protection solaire adaptée et l’absence de traitements agressifs sans avis peuvent aider à protéger la peau."
+        ]
+      },
+      {
+        title: "Vergetures et texture de la peau",
+        paragraphs: [
+          "Les vergetures peuvent changer d’aspect après l’accouchement.",
+          "Elles peuvent être rouges, violacées, rosées, puis devenir plus claires avec le temps.",
+          "La peau du ventre, des seins, des hanches ou des cuisses peut aussi sembler plus fine, relâchée ou différente au toucher.",
+          "Ces marques font partie des changements possibles du corps après la grossesse."
+        ]
+      },
+      {
+        title: "Démangeaisons : quand s’inquiéter ?",
+        paragraphs: [
+          "Des démangeaisons peuvent apparaître si la peau est sèche, étirée, irritée ou en cours de cicatrisation.",
+          "Mais des démangeaisons importantes, généralisées, associées à une jaunisse, des urines foncées, une grande fatigue ou un malaise doivent faire demander un avis.",
+          "Il faut aussi consulter si une plaque devient douloureuse, chaude, suintante ou s’étend rapidement.",
+          "En cas de doute, il vaut mieux montrer la peau que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Sécheresse intime",
+        paragraphs: [
+          "Les changements hormonaux peuvent aussi provoquer une sécheresse intime.",
+          "Elle peut être plus marquée en cas d’allaitement, de fatigue, de baisse du désir ou de cicatrisation encore sensible.",
+          "Cela peut gêner le confort quotidien ou la reprise des rapports.",
+          "Des solutions existent : il est possible d’en parler à une sage-femme, un médecin ou un pharmacien sans honte."
+        ]
+      },
+      {
+        title: "Allaitement et changements corporels",
+        paragraphs: [
+          "L’allaitement peut influencer certaines sensations corporelles, notamment la soif, les sueurs, la sécheresse vaginale ou les variations de peau.",
+          "Il ne faut pas tout attribuer automatiquement à l’allaitement, mais il peut faire partie du contexte hormonal.",
+          "Si un symptôme est douloureux, intense ou inquiétant, il mérite un avis.",
+          "L’objectif est de trouver un équilibre qui protège à la fois la mère et le bébé."
+        ]
+      },
+      {
+        title: "Ce qui peut aider au quotidien",
+        paragraphs: [
+          "Quelques gestes simples peuvent rendre cette période plus confortable.",
+          "Prévoir des vêtements respirants, changer les draps si besoin, boire régulièrement, simplifier les soins de peau et éviter les produits irritants peut aider.",
+          "Il peut aussi être utile d’avoir des vêtements de nuit de rechange à portée de main en cas de sueurs nocturnes.",
+          "Ces gestes n’annulent pas les changements hormonaux, mais ils peuvent les rendre moins difficiles à vivre."
+        ]
+      },
+      {
+        title: "Ne pas se juger",
+        paragraphs: [
+          "Transpirer beaucoup, sentir une odeur différente, avoir des boutons ou une peau qui change peut être difficile à accepter.",
+          "Ces signes touchent à l’image de soi et peuvent donner l’impression de ne plus reconnaître son corps.",
+          "Il ne s’agit pas d’un manque d’hygiène ou d’un laisser-aller.",
+          "Le corps récupère, élimine, s’adapte et traverse une période de grande transformation."
+        ],
+        quote:
+          "Avoir un corps qui change après la naissance ne veut pas dire perdre le contrôle : cela veut dire que le corps récupère."
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il faut demander un avis si vous avez de la fièvre, des frissons, une grande fatigue inhabituelle, un malaise, une mauvaise odeur associée à des douleurs ou des pertes anormales.",
+          "Il faut aussi consulter si la peau présente des plaques douloureuses, un gonflement important, un écoulement, une rougeur qui s’étend ou des démangeaisons très fortes.",
+          "Un professionnel peut vérifier qu’il s’agit bien de changements post-partum habituels et proposer un traitement si nécessaire.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en évitant les remarques sur l’odeur, la peau, la transpiration ou l’apparence.",
+          "Il peut proposer du relais pour permettre à la mère de se doucher, se reposer, changer de vêtements ou prendre un rendez-vous si besoin.",
+          "Il peut aussi rappeler que ces changements ne définissent pas la mère et ne diminuent pas sa valeur.",
+          "Un soutien respectueux aide à traverser cette période avec moins de honte."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après la naissance, les hormones, la transpiration et la peau peuvent beaucoup changer.",
+          "Sueurs nocturnes, odeur différente, peau sèche, boutons, taches ou démangeaisons légères peuvent faire partie du post-partum.",
+          "Des soins simples, doux et non agressifs peuvent aider.",
+          "Ces changements ne sont pas un manque d’hygiène et ne doivent pas être une source de honte.",
+          "Fièvre, douleur, mauvaise odeur anormale, plaques qui s’étendent, jaunisse, malaise ou démangeaisons importantes doivent faire demander un avis."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "American Academy of Dermatology — Skin changes during and after pregnancy",
+        url: "https://www.aad.org/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Post-partum",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
