@@ -6339,6 +6339,238 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "cicatrice-de-cesarienne-soins-douleurs-et-evolution",
+    title: "Cicatrice de césarienne : soins, douleurs et évolution",
+    description:
+      "Après une césarienne, la cicatrice demande du temps et des soins adaptés. Douleurs, tiraillements, aspect, massage, reprise des mouvements : comprendre l’évolution normale et les signes qui doivent faire demander un avis.",
+    category: "Post-partum",
+    categorySlug: "post-partum",
+    subcategory: "Corps après l’accouchement",
+    subcategorySlug: "corps-apres-accouchement",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une césarienne est une chirurgie : la cicatrice extérieure et les tissus en profondeur ont besoin de temps pour récupérer.",
+          "Les tiraillements, une sensibilité, une gêne en se levant ou en portant bébé peuvent être fréquents au début.",
+          "La cicatrice doit progressivement devenir moins douloureuse, moins rouge et plus souple.",
+          "Il faut éviter les efforts importants, les charges lourdes et la reprise trop rapide des abdominaux.",
+          "Fièvre, rougeur qui s’étend, chaleur, écoulement, mauvaise odeur, douleur qui augmente ou ouverture de la cicatrice doivent faire demander un avis rapidement."
+        ],
+        quote:
+          "La cicatrice de césarienne ne se résume pas à une ligne sur la peau : c’est une zone qui récupère en surface et en profondeur."
+      },
+      {
+        title: "Une césarienne, c’est une chirurgie",
+        paragraphs: [
+          "La césarienne permet la naissance du bébé par une incision au niveau du bas du ventre.",
+          "Même lorsqu’elle s’est bien passée, elle reste une intervention chirurgicale.",
+          "Le corps doit récupérer de l’accouchement, de la grossesse, de l’anesthésie éventuelle et de la cicatrisation.",
+          "Il est donc normal d’avoir besoin de temps, de repos et d’un accompagnement adapté."
+        ]
+      },
+      {
+        title: "À quoi ressemble la cicatrice au début ?",
+        paragraphs: [
+          "Les premiers jours, la cicatrice peut être rouge, sensible, gonflée ou tirer lors des mouvements.",
+          "Elle peut être protégée par un pansement selon les consignes de la maternité.",
+          "L’aspect peut impressionner, surtout si c’est la première fois que vous voyez une cicatrice chirurgicale sur votre corps.",
+          "Si vous avez un doute sur son aspect, demandez à une sage-femme ou à un médecin de la vérifier."
+        ],
+        quote:
+          "Regarder sa cicatrice peut prendre du temps : il est normal d’avoir besoin d’y aller progressivement."
+      },
+      {
+        title: "Les douleurs après une césarienne",
+        paragraphs: [
+          "Après une césarienne, les douleurs peuvent se situer autour de la cicatrice, dans le bas du ventre ou lors de certains mouvements.",
+          "Se lever, tousser, rire, porter bébé ou changer de position peut tirer au début.",
+          "La douleur doit toutefois être prise en charge et s’améliorer progressivement.",
+          "Une douleur qui augmente, qui devient très forte ou qui s’accompagne de fièvre doit faire demander un avis."
+        ]
+      },
+      {
+        title: "Les tiraillements",
+        paragraphs: [
+          "Les tiraillements sont fréquents pendant la cicatrisation.",
+          "Ils peuvent apparaître quand vous vous levez, marchez, vous redressez, portez bébé ou changez de position.",
+          "Ils ne signifient pas forcément que la cicatrice s’ouvre.",
+          "Mais si les tiraillements deviennent très douloureux, si la peau rougit beaucoup ou si vous observez un écoulement, il faut consulter."
+        ]
+      },
+      {
+        title: "Les soins de la cicatrice",
+        paragraphs: [
+          "Les soins dépendent des consignes données par la maternité ou le professionnel qui vous suit.",
+          "Il faut généralement garder la zone propre et sèche, surveiller l’aspect de la cicatrice et éviter les frottements excessifs.",
+          "Ne mettez pas de crème, d’huile ou de produit sur la cicatrice récente sans avis.",
+          "Si vous ne savez pas comment nettoyer ou quand retirer un pansement, demandez conseil plutôt que d’improviser."
+        ]
+      },
+      {
+        title: "Surveiller les signes d’infection",
+        paragraphs: [
+          "Une cicatrice doit être surveillée les premières semaines.",
+          "Il faut demander rapidement un avis en cas de fièvre, rougeur qui s’étend, chaleur locale, gonflement important, écoulement, mauvaise odeur ou douleur qui augmente.",
+          "Une cicatrice qui s’ouvre ou qui saigne de façon inquiétante doit aussi être évaluée.",
+          "Mieux vaut montrer une cicatrice qui vous inquiète que rester seule avec un doute."
+        ]
+      },
+      {
+        title: "Se lever et bouger doucement",
+        paragraphs: [
+          "Les mouvements doivent reprendre progressivement.",
+          "Il est souvent plus confortable de se tourner sur le côté avant de se lever, puis de pousser avec les bras pour éviter de forcer sur le ventre.",
+          "Marcher doucement peut aider la récupération, la circulation et la digestion.",
+          "En revanche, les mouvements brusques et les efforts importants doivent être évités au début."
+        ]
+      },
+      {
+        title: "Porter bébé sans trop forcer",
+        paragraphs: [
+          "Porter bébé fait partie du quotidien, mais cela reste une charge après une chirurgie abdominale.",
+          "Essayez de rapprocher bébé de vous avant de le soulever, de garder le dos soutenu et d’éviter de porter autre chose en plus.",
+          "Les charges lourdes, les courses, les paniers de linge ou les aînés portés doivent être évités autant que possible au début.",
+          "L’entourage peut aider en portant ce qui n’est pas indispensable à la mère."
+        ]
+      },
+      {
+        title: "Tousser, rire ou éternuer",
+        paragraphs: [
+          "Tousser, rire ou éternuer peut tirer fortement sur la cicatrice.",
+          "Vous pouvez soutenir doucement le bas du ventre avec un coussin ou les mains si cela vous soulage.",
+          "Cela ne remplace pas un avis médical en cas de douleur importante, mais peut rendre ces moments plus supportables.",
+          "Si la douleur est très forte ou persistante, parlez-en à un professionnel."
+        ]
+      },
+      {
+        title: "Les vêtements et les frottements",
+        paragraphs: [
+          "Certains vêtements peuvent irriter la cicatrice.",
+          "Les tailles serrées, élastiques rigides ou coutures mal placées peuvent provoquer une gêne.",
+          "Des vêtements souples et une culotte taille haute peuvent parfois être plus confortables.",
+          "L’objectif est d’éviter les frottements inutiles pendant la cicatrisation."
+        ]
+      },
+      {
+        title: "Quand la cicatrice devient moins douloureuse",
+        paragraphs: [
+          "Avec le temps, la cicatrice devient généralement moins sensible.",
+          "Elle peut changer de couleur, s’aplatir, s’assouplir et devenir moins visible progressivement.",
+          "Chaque cicatrice évolue différemment selon la peau, la cicatrisation, les soins, les tensions et les antécédents.",
+          "Une gêne légère peut durer un certain temps, mais une douleur qui s’aggrave ou empêche les gestes du quotidien mérite un avis."
+        ]
+      },
+      {
+        title: "Massage de cicatrice : quand et comment ?",
+        paragraphs: [
+          "Le massage de la cicatrice peut parfois être proposé après cicatrisation complète, lorsque la peau est bien refermée et avec l’accord d’un professionnel.",
+          "Il peut aider à assouplir les tissus, diminuer certaines adhérences et mieux réinvestir cette zone du corps.",
+          "Il ne faut pas masser une cicatrice récente, ouverte, douloureuse, rouge, chaude ou qui suinte.",
+          "Une sage-femme, un kinésithérapeute ou un médecin peut vous dire quand commencer et comment faire."
+        ],
+        quote:
+          "La cicatrice se travaille seulement quand elle est prête : douceur et patience comptent plus que rapidité."
+      },
+      {
+        title: "Engourdissement ou sensibilité différente",
+        paragraphs: [
+          "Après une césarienne, la zone autour de la cicatrice peut être engourdie, hypersensible ou étrange au toucher.",
+          "Ces sensations sont fréquentes car les tissus et les petits nerfs ont été sollicités.",
+          "Elles peuvent évoluer lentement avec le temps.",
+          "Si une douleur nerveuse importante, des brûlures fortes ou une gêne persistante vous inquiètent, demandez un avis."
+        ]
+      },
+      {
+        title: "Cicatrice et ventre gonflé",
+        paragraphs: [
+          "Après une césarienne, le ventre peut rester gonflé et sensible.",
+          "La digestion peut être ralentie, les gaz peuvent être gênants et les tissus peuvent être inflammatoires autour de la zone opérée.",
+          "Cela peut donner une impression de ventre tendu ou lourd.",
+          "Une douleur abdominale importante, un ventre très dur, une fièvre ou un malaise doivent faire consulter."
+        ]
+      },
+      {
+        title: "Reprise du sport et des abdominaux",
+        paragraphs: [
+          "La reprise du sport doit être progressive et adaptée.",
+          "Les abdominaux classiques, les efforts intenses, les impacts et les charges lourdes ne doivent pas être repris trop tôt.",
+          "La récupération de la cicatrice, du périnée et de la sangle abdominale doit être prise en compte.",
+          "Avant de reprendre une activité soutenue, demandez conseil à un professionnel."
+        ]
+      },
+      {
+        title: "Sexualité et cicatrice",
+        paragraphs: [
+          "La cicatrice peut aussi influencer le rapport au corps, au toucher et à la sexualité.",
+          "La fatigue, les douleurs, le vécu de la césarienne, les saignements, le moral et la peur d’avoir mal peuvent jouer.",
+          "Il n’y a pas de délai unique pour se sentir prête.",
+          "Si une douleur, une peur ou une gêne persiste, vous pouvez en parler à une sage-femme, un médecin ou un professionnel formé."
+        ]
+      },
+      {
+        title: "Le vécu émotionnel de la césarienne",
+        paragraphs: [
+          "Une césarienne peut être bien vécue, mais aussi laisser une trace émotionnelle.",
+          "Certaines femmes se sentent soulagées, d’autres déçues, choquées, tristes ou déconnectées de leur accouchement.",
+          "Ces émotions sont légitimes, surtout si la césarienne a été imprévue ou vécue dans l’urgence.",
+          "Parler de son vécu avec un professionnel peut aider à remettre du sens sur ce qui s’est passé."
+        ]
+      },
+      {
+        title: "Quand demander un avis ?",
+        paragraphs: [
+          "Il faut demander un avis si la cicatrice devient plus rouge, chaude, gonflée, douloureuse ou si elle suinte.",
+          "Il faut aussi consulter en cas de fièvre, malaise, douleur abdominale importante, saignements très abondants, mauvaise odeur ou ouverture de la cicatrice.",
+          "Vous pouvez aussi demander de l’aide pour une douleur persistante, une sensation d’adhérence, une gêne au toucher ou une difficulté à bouger.",
+          "Si certains signes apparaissent ou si vous avez un doute, il vaut mieux demander un avis que rester seule avec l’inquiétude."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider la récupération après une césarienne en prenant en charge les tâches physiques.",
+          "Porter les charges, gérer les courses, s’occuper du linge, préparer les repas ou aider avec les aînés peut vraiment soulager.",
+          "Il peut aussi éviter les remarques sur la cicatrice, le ventre ou la façon dont la mère récupère.",
+          "Le soutien concret permet au corps de cicatriser dans de meilleures conditions."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Une cicatrice de césarienne évolue en surface et en profondeur.",
+          "Douleurs, tiraillements, sensibilité ou engourdissement peuvent être fréquents au début.",
+          "La cicatrice doit progressivement devenir moins douloureuse, moins rouge et plus souple.",
+          "Il faut éviter les efforts importants et demander conseil avant la reprise sportive intense.",
+          "Fièvre, rougeur qui s’étend, écoulement, mauvaise odeur, douleur qui augmente ou ouverture de la cicatrice doivent faire demander un avis rapidement."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi après l’accouchement",
+        url: "https://www.ameli.fr/"
+      },
+      {
+        label: "Haute Autorité de santé — Sortie de maternité après accouchement",
+        url: "https://www.has-sante.fr/"
+      },
+      {
+        label: "1000 premiers jours — Après l’accouchement",
+        url: "https://www.1000-premiers-jours.fr/"
+      },
+      {
+        label: "Collège national des gynécologues et obstétriciens français — Césarienne",
+        url: "https://www.cngof.fr/"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
