@@ -7828,6 +7828,227 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "conge-maternite-conge-paternite-les-demarches-a-prevoir",
+    title: "Congé maternité, congé paternité : les démarches à prévoir",
+    description:
+      "Congé maternité, congé de paternité et d’accueil de l’enfant : comprendre les démarches à anticiper, les délais à respecter, les documents à transmettre et les bons contacts à prévenir.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "11 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le congé maternité et le congé paternité doivent être anticipés avec l’employeur et, selon la situation, avec l’Assurance Maladie.",
+          "La déclaration de grossesse permet de déclencher une partie des droits et d’établir les dates prévisionnelles du congé maternité.",
+          "Le congé maternité dépend notamment du nombre d’enfants déjà à charge et du nombre d’enfants attendus.",
+          "Le congé de paternité et d’accueil de l’enfant doit être demandé à l’employeur dans les délais prévus, avec les dates choisies.",
+          "Les règles peuvent varier selon le statut : salariée, indépendant, fonction publique, demandeur d’emploi ou situation particulière."
+        ],
+        quote:
+          "Le plus important est d’anticiper les dates, les documents et les interlocuteurs pour éviter les démarches dans la fatigue des derniers jours."
+      },
+      {
+        title: "Pourquoi anticiper ces démarches ?",
+        paragraphs: [
+          "La grossesse et l’arrivée d’un bébé entraînent plusieurs démarches auprès de l’employeur, de l’Assurance Maladie et parfois d’autres organismes.",
+          "Anticiper permet de connaître les dates de congé, les justificatifs à fournir et les droits possibles selon la situation professionnelle.",
+          "Cela évite aussi de devoir chercher les informations au dernier moment, quand la fatigue, les rendez-vous médicaux ou la naissance prennent déjà beaucoup de place.",
+          "Même si certaines démarches sont simples, elles sont plus faciles à gérer quand elles sont préparées."
+        ]
+      },
+      {
+        title: "Le congé maternité : à quoi correspond-il ?",
+        paragraphs: [
+          "Le congé maternité est une période prévue avant et après l’accouchement.",
+          "Il permet à la mère de s’arrêter pour la fin de grossesse, l’accouchement et les premières semaines après la naissance.",
+          "Sa durée dépend notamment du nombre d’enfants déjà à charge et du nombre d’enfants attendus.",
+          "Une partie du congé est prise avant la naissance, et une autre après la naissance."
+        ]
+      },
+      {
+        title: "La déclaration de grossesse",
+        paragraphs: [
+          "La déclaration de grossesse est une étape importante.",
+          "Elle permet d’informer les organismes concernés et de mettre en place le suivi administratif de la grossesse.",
+          "Elle sert aussi de base pour calculer certaines dates, notamment la période du congé maternité.",
+          "Si vous êtes salariée, les informations transmises à l’Assurance Maladie permettent ensuite de préparer l’indemnisation selon votre situation."
+        ],
+        quote:
+          "La déclaration de grossesse est souvent le point de départ des démarches administratives liées au congé maternité."
+      },
+      {
+        title: "Informer son employeur",
+        paragraphs: [
+          "Il n’existe pas toujours d’obligation d’annoncer la grossesse à l’employeur dès le début.",
+          "Mais pour bénéficier des droits liés à la grossesse et organiser le congé maternité, l’employeur devra être informé à un moment donné.",
+          "Il est recommandé de transmettre les informations par écrit, avec les dates prévues si elles sont connues.",
+          "Cela permet d’éviter les malentendus et de garder une trace de la démarche."
+        ]
+      },
+      {
+        title: "Les dates du congé maternité",
+        paragraphs: [
+          "Les dates du congé maternité dépendent de la date présumée d’accouchement et de la situation familiale.",
+          "La durée n’est pas la même pour une première ou deuxième naissance, à partir du troisième enfant, ou en cas de grossesse multiple.",
+          "Des règles existent aussi pour certains reports ou aménagements, sous conditions médicales.",
+          "Le plus sûr est de vérifier les dates indiquées par l’Assurance Maladie et de les confirmer avec l’employeur."
+        ]
+      },
+      {
+        title: "Indemnisation du congé maternité",
+        paragraphs: [
+          "Pendant le congé maternité, des indemnités journalières peuvent être versées si les conditions sont remplies.",
+          "Les conditions dépendent notamment de l’affiliation, de l’activité professionnelle et des revenus ou cotisations.",
+          "Selon les conventions collectives ou l’employeur, un maintien de salaire peut parfois compléter les indemnités.",
+          "Il est utile de vérifier tôt ce qui s’applique à votre situation pour anticiper le budget."
+        ]
+      },
+      {
+        title: "Congé pathologique : de quoi parle-t-on ?",
+        paragraphs: [
+          "Dans certaines situations, un arrêt ou un congé pathologique peut être prescrit par un professionnel de santé.",
+          "Il ne se demande pas comme un congé classique : il dépend d’une indication médicale.",
+          "Il peut concerner une difficulté liée à la grossesse ou aux suites de l’accouchement, selon les règles applicables.",
+          "Si votre état de santé rend le travail difficile, parlez-en à votre médecin ou votre sage-femme."
+        ]
+      },
+      {
+        title: "Le congé paternité et d’accueil de l’enfant",
+        paragraphs: [
+          "Le congé de paternité et d’accueil de l’enfant permet au père, ou à la personne qui partage la vie de la mère dans certaines situations, de s’arrêter après la naissance.",
+          "Il s’ajoute au congé de naissance prévu à l’arrivée de l’enfant.",
+          "Il comprend une partie obligatoire à prendre immédiatement après le congé de naissance, puis une partie pouvant être prise selon les règles et délais prévus.",
+          "Les dates doivent être organisées avec l’employeur."
+        ]
+      },
+      {
+        title: "Qui peut bénéficier du congé paternité ?",
+        paragraphs: [
+          "Le congé paternité ne concerne pas uniquement le père biologique dans toutes les situations.",
+          "Il peut aussi concerner le conjoint de la mère, son partenaire de Pacs ou la personne vivant maritalement avec elle, selon les conditions prévues.",
+          "La situation familiale et professionnelle peut donc modifier les droits.",
+          "En cas de doute, il est préférable de vérifier la fiche officielle ou de contacter l’Assurance Maladie."
+        ]
+      },
+      {
+        title: "Prévenir l’employeur pour le congé paternité",
+        paragraphs: [
+          "Le salarié doit prévenir son employeur de la date prévisionnelle de l’accouchement et des dates souhaitées pour le congé paternité.",
+          "Cette information doit être transmise dans le délai prévu par les textes.",
+          "Il est préférable de le faire par écrit, afin de conserver une trace claire.",
+          "Après la naissance, certains justificatifs peuvent être demandés pour confirmer la situation."
+        ]
+      },
+      {
+        title: "Les documents à prévoir",
+        paragraphs: [
+          "Les documents demandés peuvent varier selon le congé et la situation.",
+          "Pour le congé maternité, les informations liées à la grossesse et à l’arrêt de travail sont généralement transmises dans le cadre du suivi médical et administratif.",
+          "Pour le congé paternité, l’employeur et l’Assurance Maladie peuvent demander des justificatifs comme l’acte de naissance ou une copie du livret de famille.",
+          "Il est utile de garder ensemble les documents liés à la grossesse, à la naissance et à l’état civil."
+        ]
+      },
+      {
+        title: "Salarié, indépendant, fonction publique : attention aux différences",
+        paragraphs: [
+          "Les règles ne sont pas toujours les mêmes selon le statut professionnel.",
+          "Salarié du privé, agent public, travailleur indépendant, demandeur d’emploi, profession libérale ou situation mixte : les démarches et l’indemnisation peuvent varier.",
+          "Il est donc important de consulter les informations correspondant exactement à votre statut.",
+          "Un article général donne des repères, mais ne remplace pas la vérification de votre situation personnelle."
+        ]
+      },
+      {
+        title: "Anticiper le budget pendant les congés",
+        paragraphs: [
+          "Les congés liés à la naissance peuvent modifier temporairement les revenus du foyer.",
+          "Même lorsqu’il existe une indemnisation, elle peut ne pas correspondre exactement au salaire habituel, selon la situation.",
+          "Il est utile de vérifier le montant prévisible, les dates de versement et l’éventuel maintien de salaire par l’employeur.",
+          "Anticiper permet d’éviter une mauvaise surprise au moment où les dépenses liées à bébé augmentent."
+        ]
+      },
+      {
+        title: "Préparer la transmission au travail",
+        paragraphs: [
+          "Avant le départ en congé, il peut être utile de préparer la transmission des dossiers, les contacts importants et les tâches à suivre.",
+          "Cette organisation dépend du métier, mais elle peut rendre le départ plus serein.",
+          "Il n’est pas nécessaire de tout porter seule : l’employeur doit aussi organiser l’activité pendant l’absence.",
+          "L’objectif est de partir en congé avec le moins de charge mentale possible."
+        ]
+      },
+      {
+        title: "Et si bébé arrive plus tôt ou plus tard ?",
+        paragraphs: [
+          "La date réelle de naissance peut modifier certains repères.",
+          "Si bébé naît plus tôt ou plus tard que prévu, les dates peuvent être ajustées selon les règles applicables.",
+          "Il faut alors prévenir les interlocuteurs concernés : employeur, Assurance Maladie ou organisme compétent selon la situation.",
+          "Gardez les justificatifs de naissance pour régulariser les démarches."
+        ]
+      },
+      {
+        title: "Les bons contacts à garder",
+        paragraphs: [
+          "Pendant la grossesse, il peut être utile de garder une liste de contacts administratifs.",
+          "Employeur ou service RH, Assurance Maladie, mutuelle, CAF, médecin, sage-femme et mairie peuvent être concernés à différents moments.",
+          "Notez aussi les identifiants utiles pour les démarches en ligne.",
+          "Ce petit travail d’organisation peut éviter beaucoup de stress après la naissance."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vous ne comprenez pas vos dates, si votre employeur vous donne une information qui vous semble contradictoire ou si votre situation professionnelle est particulière.",
+          "Vous pouvez contacter l’Assurance Maladie, votre service RH, votre convention collective, un représentant du personnel ou un service d’information officiel.",
+          "Il est aussi utile de demander conseil si vous êtes indépendante, en CDD, en intérim, au chômage ou en arrêt avant la grossesse.",
+          "Mieux vaut vérifier tôt que découvrir un problème au moment du départ en congé."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en préparant une liste des démarches, en rassemblant les documents ou en vérifiant les dates avec les parents.",
+          "Le coparent peut aussi prendre en charge une partie de l’administratif pour alléger la charge mentale de la mère.",
+          "Après la naissance, il peut aider à envoyer les justificatifs et à suivre les réponses des organismes.",
+          "Ces démarches peuvent sembler techniques, mais elles participent concrètement au soutien de la famille."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le congé maternité et le congé paternité doivent être anticipés avec les bons interlocuteurs.",
+          "La déclaration de grossesse, les dates de congé, l’information de l’employeur et les justificatifs sont les points principaux à préparer.",
+          "Les règles varient selon le statut professionnel et la situation familiale.",
+          "Le congé paternité doit être demandé dans les délais, avec les dates prévues.",
+          "En cas de doute, il faut consulter les pages officielles correspondant à votre situation ou contacter l’Assurance Maladie."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public — Congé maternité d’une salariée du secteur privé",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F2265"
+      },
+      {
+        label: "Service-Public — Congé de paternité et d’accueil de l’enfant d’un salarié du secteur privé",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F3156"
+      },
+      {
+        label: "Assurance Maladie — Congé maternité : vos indemnités journalières",
+        url: "https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-maternite"
+      },
+      {
+        label: "Assurance Maladie — Paternité et accueil de l’enfant : vos indemnités journalières",
+        url: "https://www.ameli.fr/assure/remboursements/indemnites-journalieres/conge-paternite"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
