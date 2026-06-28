@@ -7420,6 +7420,209 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "declaration-de-naissance-quand-ou-et-comment-la-faire",
+    title: "Déclaration de naissance : quand, où et comment la faire ?",
+    description:
+      "La déclaration de naissance est une démarche obligatoire après l’arrivée d’un bébé. Délais, mairie, documents, choix du nom, reconnaissance et formalités à prévoir : les repères simples pour ne rien oublier.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La déclaration de naissance est obligatoire pour tout enfant né en France.",
+          "Elle se fait à la mairie du lieu de naissance, généralement dans les 5 jours qui suivent le jour de l’accouchement.",
+          "Le jour de l’accouchement ne compte pas dans le délai, et si le dernier jour tombe un week-end ou un jour férié, le délai est prolongé au premier jour ouvrable suivant.",
+          "Les documents à prévoir sont notamment les pièces d’identité des parents, le certificat médical d’accouchement, le livret de famille si vous en avez un, et parfois une déclaration de choix de nom ou un acte de reconnaissance.",
+          "Après la déclaration, l’acte de naissance est établi : il servira ensuite pour les démarches auprès de la CAF, de l’Assurance Maladie, de la mutuelle ou du mode de garde."
+        ],
+        quote:
+          "La déclaration de naissance est la première démarche officielle de bébé : elle permet d’établir son acte de naissance."
+      },
+      {
+        title: "À quoi sert la déclaration de naissance ?",
+        paragraphs: [
+          "La déclaration de naissance permet d’inscrire officiellement la naissance de l’enfant à l’état civil.",
+          "Elle permet à l’officier d’état civil d’établir l’acte de naissance du bébé.",
+          "Cet acte sera ensuite utile pour de nombreuses démarches : livret de famille, droits sociaux, rattachement administratif, mutuelle, mode de garde ou demandes d’aides.",
+          "C’est donc une démarche importante à faire dans les délais."
+        ]
+      },
+      {
+        title: "Où faut-il déclarer la naissance ?",
+        paragraphs: [
+          "La déclaration se fait à la mairie du lieu de naissance de l’enfant.",
+          "Ce n’est pas forcément la mairie du domicile des parents.",
+          "Si le bébé naît dans une maternité située dans une autre commune, c’est la mairie de cette commune qui est concernée.",
+          "Beaucoup de maternités ont l’habitude d’expliquer la démarche ou de remettre les documents nécessaires avant la sortie."
+        ]
+      },
+      {
+        title: "Quel est le délai ?",
+        paragraphs: [
+          "En règle générale, la déclaration doit être faite dans les 5 jours qui suivent le jour de l’accouchement.",
+          "Le jour de la naissance ne compte pas dans ce délai.",
+          "Si le dernier jour tombe un samedi, un dimanche, un jour férié ou chômé, le délai est prolongé jusqu’au premier jour ouvrable suivant.",
+          "Dans certaines communes de Guyane, un délai particulier de 8 jours peut s’appliquer."
+        ],
+        quote:
+          "Le plus simple est de vérifier les consignes données par la maternité et la mairie du lieu de naissance dès les premiers jours."
+      },
+      {
+        title: "Qui peut faire la déclaration ?",
+        paragraphs: [
+          "La déclaration peut être faite par une personne ayant assisté à l’accouchement.",
+          "Il peut s’agir du père, de la deuxième mère dans un couple de femmes, d’un responsable de la maternité, d’un médecin, d’une sage-femme ou d’une autre personne présente.",
+          "Dans la pratique, la maternité explique souvent qui fait quoi et quels documents remettre.",
+          "La mère peut aussi être concernée selon la situation, mais la démarche ne doit pas être une charge supplémentaire si elle récupère de l’accouchement."
+        ]
+      },
+      {
+        title: "Quels documents préparer ?",
+        paragraphs: [
+          "Les documents peuvent varier selon la situation familiale.",
+          "Dans le cas général, il faut prévoir les pièces d’identité des parents, le certificat médical d’accouchement et le livret de famille si les parents en possèdent déjà un.",
+          "Si les parents souhaitent choisir le nom de famille de l’enfant, une déclaration conjointe de choix de nom peut être nécessaire.",
+          "Si une reconnaissance a été faite avant la naissance, l’acte de reconnaissance doit aussi être présenté."
+        ]
+      },
+      {
+        title: "Le certificat d’accouchement",
+        paragraphs: [
+          "Le certificat médical d’accouchement est généralement remis par la maternité, le médecin ou la sage-femme.",
+          "Il fait partie des documents demandés pour établir l’acte de naissance.",
+          "Il est important de le conserver avec les autres papiers administratifs jusqu’à la déclaration.",
+          "Si vous ne savez pas où le récupérer, demandez directement à l’équipe de la maternité."
+        ]
+      },
+      {
+        title: "Le livret de famille",
+        paragraphs: [
+          "Si vous avez déjà un livret de famille, il peut être demandé pour y inscrire l’enfant.",
+          "Si vous n’en avez pas encore, la naissance peut permettre d’en établir un selon votre situation.",
+          "La mairie vous indiquera comment le récupérer et dans quels délais.",
+          "Gardez-le ensuite dans un endroit accessible, car il pourra être utile pour d’autres démarches."
+        ]
+      },
+      {
+        title: "Choisir le nom de famille de bébé",
+        paragraphs: [
+          "Les parents peuvent, selon leur situation, choisir le nom de famille de l’enfant : nom de l’un des parents ou double nom dans l’ordre choisi.",
+          "Ce choix doit être fait selon les règles prévues et peut nécessiter une déclaration conjointe de choix de nom.",
+          "Il est préférable d’anticiper cette question avant la naissance pour éviter de décider dans la fatigue des premiers jours.",
+          "Si vous avez un doute, la mairie peut vous expliquer les options possibles."
+        ]
+      },
+      {
+        title: "La reconnaissance avant ou après la naissance",
+        paragraphs: [
+          "Pour les parents non mariés, la reconnaissance peut être une démarche importante pour établir la filiation.",
+          "Le père peut reconnaître l’enfant avant la naissance, au moment de la déclaration ou après.",
+          "La reconnaissance avant naissance peut simplifier les démarches au moment de la déclaration.",
+          "Les situations familiales peuvent être différentes : en cas de doute, il faut demander conseil à la mairie ou consulter la fiche officielle adaptée."
+        ]
+      },
+      {
+        title: "Et si la maternité propose de s’en occuper ?",
+        paragraphs: [
+          "Certaines maternités ou cliniques ont mis en place un service qui aide à déclarer la naissance en mairie.",
+          "Cela peut simplifier la démarche, mais il faut bien vérifier ce qui est pris en charge et ce qui reste à faire par les parents.",
+          "Demandez si vous devez remettre certains documents, signer un formulaire ou récupérer l’acte de naissance vous-même.",
+          "Ne partez pas de la maternité sans savoir clairement où en est la déclaration."
+        ]
+      },
+      {
+        title: "Que se passe-t-il après la déclaration ?",
+        paragraphs: [
+          "Après la déclaration, l’officier d’état civil rédige l’acte de naissance.",
+          "Des copies ou extraits peuvent ensuite être demandés si nécessaire.",
+          "L’acte de naissance servira souvent pour déclarer bébé auprès de l’Assurance Maladie, de la CAF, de la mutuelle ou pour d’autres formalités.",
+          "Il peut être utile de garder une version papier ou numérique des documents importants."
+        ]
+      },
+      {
+        title: "Les démarches à faire ensuite",
+        paragraphs: [
+          "La déclaration de naissance à la mairie ne remplace pas toujours les autres démarches.",
+          "Il peut ensuite falloir déclarer la naissance à la CAF, à l’Assurance Maladie, à la mutuelle, à l’employeur ou à l’organisme de garde selon votre situation.",
+          "Certaines démarches peuvent se faire en ligne, d’autres nécessitent un justificatif.",
+          "Le plus simple est de faire une petite liste après la naissance, avec les organismes à prévenir."
+        ]
+      },
+      {
+        title: "Si le délai est dépassé",
+        paragraphs: [
+          "Si la déclaration n’est pas faite dans les délais, la situation devient plus complexe.",
+          "L’officier d’état civil ne peut pas toujours régulariser lui-même la naissance.",
+          "Une procédure judiciaire peut alors être nécessaire pour obtenir un jugement déclaratif de naissance.",
+          "C’est pourquoi il est important de ne pas laisser passer le délai et d’appeler rapidement la mairie ou la maternité en cas de difficulté."
+        ]
+      },
+      {
+        title: "Quand appeler la mairie ou la maternité ?",
+        paragraphs: [
+          "Appelez si vous ne savez pas qui fait la déclaration, si vous n’avez pas reçu les documents, si le délai approche ou si votre situation familiale est particulière.",
+          "Il vaut mieux poser la question rapidement que découvrir trop tard qu’une pièce manque.",
+          "La mairie du lieu de naissance est le contact principal pour la déclaration.",
+          "La maternité peut aussi vous aider à comprendre les documents remis à la sortie."
+        ]
+      },
+      {
+        title: "Un repère simple pour les parents",
+        paragraphs: [
+          "Avant la naissance, vous pouvez préparer une pochette avec les papiers importants.",
+          "Après la naissance, notez la date limite de déclaration, le nom de la mairie concernée et les documents à remettre.",
+          "L’autre parent ou un proche peut prendre en charge cette démarche pour laisser la mère récupérer.",
+          "Ce petit repère évite de chercher les papiers dans la fatigue des premiers jours."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en préparant les documents, en appelant la mairie, en accompagnant le déclarant ou en gardant les aînés pendant la démarche.",
+          "Il peut aussi éviter de mettre la pression aux parents dans les premiers jours.",
+          "Une aide administrative simple peut vraiment soulager quand le retour à la maison est déjà intense.",
+          "L’objectif est que cette démarche soit faite dans les temps, sans ajouter de stress inutile."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La déclaration de naissance est obligatoire et permet d’établir l’acte de naissance du bébé.",
+          "Elle se fait à la mairie du lieu de naissance.",
+          "Le délai général est de 5 jours après le jour de l’accouchement, avec des règles particulières si le dernier jour tombe un week-end ou un jour férié.",
+          "Les documents à prévoir dépendent de la situation familiale, notamment en cas de choix de nom ou de reconnaissance.",
+          "Après la déclaration, d’autres organismes peuvent aussi être informés : CAF, Assurance Maladie, mutuelle, employeur ou mode de garde."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public — Déclaration de naissance",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F961"
+      },
+      {
+        label: "Service-Public — Choix du nom de famille d’un enfant",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F10505"
+      },
+      {
+        label: "Service-Public — Reconnaissance d’un enfant par un parent non marié",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F887"
+      },
+      {
+        label: "Service-Public — Acte de naissance : demande de copie intégrale ou d’extrait",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1427"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
@@ -12485,7 +12688,7 @@ export const articles: Article[] = [
       }
     ],
     sources: [
-      { label: "Santé publique France — Les 1000 premiers jours", url: "https://www.1000-premiers-jours.fr/" }
+      { label: "Santé publique France — La santé à tout âge : les 1000 premiers jours", url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours" }
     ]
   },
   {
@@ -13918,8 +14121,8 @@ export const articles: Article[] = [
     ],
     sources: [
       { label: "Inserm — Le développement embryonnaire et fœtal", url: "https://www.inserm.fr/" },
-      { label: "HAS — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées", url: "https://www.has-sante.fr/" },
-      { label: "CNGOF — Recommandations pour le suivi de grossesse", url: "https://www.cngof.fr/" }
+      { label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes selon les situations à risque", url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees" },
+      { label: "CNGOF — Recommandations pour la pratique clinique", url: "https://www.cngof.fr/pratiques-cliniques/recommandations-pour-la-pratique-clinique/" }
     ]
   },
 
