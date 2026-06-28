@@ -7623,6 +7623,211 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "reconnaissance-du-bebe-a-quoi-ca-sert-et-quand-la-faire",
+    title: "Reconnaissance du bébé : à quoi ça sert et quand la faire ?",
+    description:
+      "La reconnaissance d’un enfant concerne surtout les parents non mariés. Elle permet d’établir le lien de filiation, notamment pour le père. Avant la naissance, à la déclaration ou après : comprendre quand la faire et quels documents prévoir.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "La reconnaissance sert à établir officiellement le lien de filiation entre un parent et son enfant.",
+          "Pour un couple non marié, la filiation paternelle n’est pas automatique : le père doit reconnaître l’enfant.",
+          "La reconnaissance peut se faire avant la naissance, au moment de la déclaration de naissance ou après.",
+          "Elle peut être faite dans n’importe quelle mairie, avec un justificatif d’identité et un justificatif de domicile ou de résidence de moins de 3 mois.",
+          "Pour la mère, lorsque son nom figure dans l’acte de naissance de l’enfant, la filiation maternelle est automatique."
+        ],
+        quote:
+          "La reconnaissance n’est pas une formalité symbolique : elle établit officiellement le lien entre un parent et son enfant."
+      },
+      {
+        title: "À quoi sert la reconnaissance ?",
+        paragraphs: [
+          "La reconnaissance d’un enfant permet d’établir le lien de filiation entre l’enfant et le parent qui reconnaît.",
+          "La filiation est le lien juridique qui rattache un enfant à ses parents.",
+          "Elle a des conséquences importantes dans la vie de l’enfant : identité, état civil, droits et devoirs des parents, autorité parentale selon les situations, succession et démarches administratives.",
+          "C’est donc une démarche importante, surtout lorsque les parents ne sont pas mariés."
+        ]
+      },
+      {
+        title: "Qui est concerné ?",
+        paragraphs: [
+          "La reconnaissance concerne principalement les couples non mariés.",
+          "Quand les parents ne sont pas mariés, les liens de filiation maternelle et paternelle sont établis séparément.",
+          "Pour le père, la reconnaissance est nécessaire pour établir la filiation avec l’enfant.",
+          "Pour la mère, la filiation est généralement établie automatiquement lorsque son nom figure dans l’acte de naissance."
+        ]
+      },
+      {
+        title: "Couple marié ou non marié : quelle différence ?",
+        paragraphs: [
+          "Dans un couple marié, la filiation du père est en principe établie automatiquement par le mariage.",
+          "Dans un couple non marié, le père doit faire une reconnaissance pour que son lien avec l’enfant soit établi.",
+          "Cette différence peut surprendre, surtout lorsque les parents vivent ensemble depuis longtemps.",
+          "Le mariage et la vie commune ne produisent pas les mêmes effets pour l’état civil de l’enfant."
+        ],
+        quote:
+          "Vivre ensemble ne remplace pas forcément la reconnaissance : pour les parents non mariés, la démarche peut être essentielle."
+      },
+      {
+        title: "La reconnaissance avant la naissance",
+        paragraphs: [
+          "La reconnaissance peut être faite avant la naissance.",
+          "C’est souvent le moment le plus simple, car la démarche est anticipée avant la fatigue des premiers jours.",
+          "Elle peut se faire dans n’importe quelle mairie, quel que soit le lieu prévu de naissance, le domicile des parents ou leur nationalité.",
+          "Une copie de l’acte de reconnaissance est remise et devra être présentée lors de la déclaration de naissance."
+        ]
+      },
+      {
+        title: "Quels documents faut-il prévoir ?",
+        paragraphs: [
+          "Il faut généralement présenter un justificatif d’identité.",
+          "Il faut aussi présenter un justificatif de domicile ou de résidence de moins de 3 mois, au nom de la personne qui fait la démarche.",
+          "Pour une reconnaissance avant naissance, il n’est pas nécessaire de présenter un certificat de grossesse.",
+          "La mairie peut toutefois préciser ses modalités pratiques, notamment si un rendez-vous est nécessaire."
+        ]
+      },
+      {
+        title: "La reconnaissance au moment de la déclaration de naissance",
+        paragraphs: [
+          "Le père peut aussi reconnaître l’enfant au moment de la déclaration de naissance.",
+          "La reconnaissance est alors intégrée à l’acte de naissance de l’enfant.",
+          "Cette option peut être pratique si la démarche n’a pas été faite avant la naissance.",
+          "Il faut toutefois respecter les délais de déclaration de naissance, qui sont courts après l’accouchement."
+        ]
+      },
+      {
+        title: "La reconnaissance après la naissance",
+        paragraphs: [
+          "La reconnaissance peut aussi être faite après la déclaration de naissance.",
+          "Dans le cas général, le père peut reconnaître son enfant quel que soit son âge.",
+          "La démarche se fait en mairie, ou éventuellement devant un notaire dans certaines situations.",
+          "Après une reconnaissance tardive, la mairie de naissance ajoute la mention sur l’acte de naissance de l’enfant et dans le livret de famille."
+        ]
+      },
+      {
+        title: "La mère doit-elle reconnaître son enfant ?",
+        paragraphs: [
+          "Dans le cas général, la mère n’a pas de démarche de reconnaissance à faire après la naissance si son nom figure dans l’acte de naissance de l’enfant.",
+          "La filiation maternelle est alors automatique.",
+          "La mère peut toutefois faire une reconnaissance avant la naissance si elle le souhaite.",
+          "Des règles particulières existent en cas d’accouchement sous X."
+        ]
+      },
+      {
+        title: "Et pour un couple de femmes ?",
+        paragraphs: [
+          "Les couples de femmes ont des règles spécifiques.",
+          "Dans le cadre d’un projet parental avec assistance médicale à la procréation, une reconnaissance conjointe anticipée peut être nécessaire selon la situation.",
+          "Cette démarche doit être anticipée avant la naissance avec les professionnels compétents.",
+          "En cas de doute, il vaut mieux consulter la fiche officielle adaptée ou demander conseil à un notaire, à la mairie ou à un professionnel du droit."
+        ]
+      },
+      {
+        title: "Où faire la démarche ?",
+        paragraphs: [
+          "La reconnaissance peut se faire dans n’importe quelle mairie.",
+          "Elle n’a pas besoin d’être faite dans la mairie du domicile ou dans la commune de naissance de l’enfant.",
+          "Si les parents résident à l’étranger, la démarche peut se faire auprès de l’ambassade ou du consulat.",
+          "Il est conseillé de vérifier auprès de la mairie si un rendez-vous est nécessaire."
+        ]
+      },
+      {
+        title: "Quel lien avec la déclaration de naissance ?",
+        paragraphs: [
+          "La reconnaissance et la déclaration de naissance sont deux démarches différentes.",
+          "La déclaration de naissance sert à établir l’acte de naissance de l’enfant après l’accouchement.",
+          "La reconnaissance sert à établir la filiation du parent qui reconnaît l’enfant.",
+          "Si la reconnaissance a été faite avant la naissance, il faut présenter l’acte de reconnaissance lors de la déclaration de naissance."
+        ]
+      },
+      {
+        title: "Quel lien avec le nom de famille ?",
+        paragraphs: [
+          "Le nom de famille de l’enfant dépend de la filiation établie et des choix possibles selon la situation des parents.",
+          "Les parents peuvent, dans certains cas, choisir le nom de l’un des parents ou un double nom.",
+          "Pour éviter de décider dans l’urgence, il est utile d’en parler avant la naissance.",
+          "La mairie peut expliquer les conséquences de la reconnaissance et du choix de nom selon votre situation."
+        ]
+      },
+      {
+        title: "Quel lien avec l’autorité parentale ?",
+        paragraphs: [
+          "La reconnaissance peut avoir des conséquences sur l’exercice de l’autorité parentale.",
+          "L’autorité parentale correspond aux droits et devoirs des parents pour protéger l’enfant dans sa sécurité, sa santé et son éducation.",
+          "Les règles peuvent varier selon le moment où la filiation est établie et la situation familiale.",
+          "Si la reconnaissance est tardive ou si la situation est conflictuelle, il est préférable de demander un conseil juridique ou administratif adapté."
+        ]
+      },
+      {
+        title: "Pourquoi l’anticiper pendant la grossesse ?",
+        paragraphs: [
+          "Faire la reconnaissance avant la naissance peut alléger les démarches après l’accouchement.",
+          "Cela évite de courir à la mairie dans la fatigue, les douleurs, les nuits courtes ou le stress du retour à la maison.",
+          "C’est aussi l’occasion de vérifier les documents, de parler du nom de famille et de préparer la déclaration de naissance.",
+          "Pour beaucoup de familles, anticiper cette démarche apporte de la tranquillité."
+        ],
+        quote:
+          "Quand c’est possible, anticiper la reconnaissance permet de garder les premiers jours pour la récupération et l’accueil du bébé."
+      },
+      {
+        title: "Si la situation familiale est particulière",
+        paragraphs: [
+          "Certaines situations nécessitent des conseils spécifiques.",
+          "Couple de femmes, parent résidant à l’étranger, reconnaissance tardive, enfant déjà reconnu par une autre personne, accouchement sous X, séparation ou désaccord entre parents peuvent modifier les démarches.",
+          "Dans ces cas, il est préférable de contacter la mairie, un notaire, un professionnel du droit ou de consulter les fiches officielles adaptées.",
+          "Il vaut mieux poser la question tôt plutôt que de découvrir une difficulté au moment de la déclaration de naissance."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en rappelant les démarches, en gardant les documents ensemble ou en accompagnant le parent à la mairie si besoin.",
+          "Il peut aussi éviter les remarques culpabilisantes si les parents découvrent cette démarche tardivement.",
+          "Les formalités administratives peuvent être lourdes pendant la grossesse et après la naissance.",
+          "Une aide simple et concrète peut vraiment soulager les parents."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La reconnaissance sert à établir officiellement le lien de filiation entre un parent et son enfant.",
+          "Pour un couple non marié, le père doit reconnaître l’enfant pour établir sa filiation.",
+          "La reconnaissance peut se faire avant la naissance, au moment de la déclaration ou après.",
+          "Elle se fait en mairie avec un justificatif d’identité et un justificatif de domicile ou de résidence de moins de 3 mois.",
+          "En cas de situation familiale particulière, mieux vaut demander conseil à la mairie ou consulter les informations officielles."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public — Reconnaissance d’un enfant par un parent non marié",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F887"
+      },
+      {
+        label: "Service-Public — Déclaration de naissance",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F961"
+      },
+      {
+        label: "Service-Public — Choix du nom de famille d’un enfant",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F10505"
+      },
+      {
+        label: "Service-Public — Exercice de l’autorité parentale",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F3132"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
