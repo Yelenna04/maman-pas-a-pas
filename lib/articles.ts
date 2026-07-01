@@ -27073,7 +27073,225 @@ export const articles: Article[] = [
         url: "https://www.1000-premiers-jours.fr/fr/les-petits-maux-de-la-grossesse"
       }
     ]
-  }
+  },
+
+{
+  slug: "choisir-le-nom-de-famille-de-son-bebe-quelles-sont-les-regles",
+  title: "Choisir le nom de famille de son bébé : quelles sont les règles ?",
+  description:
+    "Nom du père, nom de la mère, double nom, absence de choix, parents non mariés : les règles à connaître pour choisir le nom de famille de son bébé.",
+  category: "Vie pratique",
+  categorySlug: "vie-pratique",
+  subcategory: "Démarches",
+  subcategorySlug: "demarches",
+  readingTime: "9 min",
+  publishedAt: "2026-07-01",
+  updatedAt: "2026-07-01",
+  tone: "sand",
+  sections: [
+    {
+      title: "L’essentiel en 30 secondes",
+      bullets: [
+        "En France, les parents peuvent choisir le nom de famille de leur premier enfant commun lorsque la filiation est établie à l’égard des deux parents.",
+        "L’enfant peut porter le nom du père, le nom de la mère ou les deux noms accolés, dans l’ordre choisi par les parents.",
+        "Si l’un des parents porte déjà un double nom, il ne peut transmettre qu’un seul nom à l’enfant.",
+        "Le choix se fait avec une déclaration conjointe de choix de nom, remise à l’officier d’état civil lors de la déclaration de naissance.",
+        "Le nom choisi pour le premier enfant commun s’applique ensuite aux autres enfants communs du même couple."
+      ],
+      quote:
+        "Choisir le nom de son bébé est une décision importante : l’essentiel est d’en parler avant la naissance pour éviter de décider dans la précipitation."
+    },
+    {
+      title: "Une décision à anticiper avant la naissance",
+      paragraphs: [
+        "Le choix du nom de famille peut sembler évident pour certains parents, mais il peut aussi soulever beaucoup de questions.",
+        "Nom du père, nom de la mère, double nom, ordre des noms, situation des parents non mariés : les règles ne sont pas toujours connues avant la naissance.",
+        "Pourtant, cette décision se prend souvent au moment de la déclaration de naissance, dans les jours qui suivent l’accouchement.",
+        "Il est donc préférable d’en discuter calmement pendant la grossesse, avant d’être dans la fatigue et l’émotion des premiers jours."
+      ]
+    },
+    {
+      title: "Quels noms peut-on donner à son bébé ?",
+      paragraphs: [
+        "Lorsque la filiation est établie à l’égard des deux parents, plusieurs choix sont possibles.",
+        "L’enfant peut porter le nom de son père, le nom de sa mère ou les deux noms accolés.",
+        "Lorsque les deux noms sont transmis, les parents choisissent aussi l’ordre des noms.",
+        "Le nom de famille de l’enfant doit toutefois venir de ses parents : il ne s’agit pas de choisir librement un autre nom."
+      ]
+    },
+    {
+      title: "Quelques exemples simples",
+      paragraphs: [
+        "Si la mère s’appelle Martin et le père Dubois, l’enfant peut s’appeler Martin, Dubois, Martin-Dubois ou Dubois-Martin.",
+        "Le choix dépend de ce que les parents souhaitent transmettre et de l’ordre qu’ils préfèrent.",
+        "Si l’un des parents porte déjà un double nom, il faut respecter une limite : chaque parent ne peut transmettre qu’un seul nom.",
+        "Cette règle évite que les noms de famille deviennent de plus en plus longs au fil des générations."
+      ]
+    },
+    {
+      title: "Comment faire le choix du nom ?",
+      paragraphs: [
+        "Pour choisir officiellement le nom de famille de leur bébé, les parents doivent remplir une déclaration conjointe de choix de nom.",
+        "Cette déclaration se fait avec le formulaire Cerfa n°15286.",
+        "Les deux parents doivent signer le formulaire à la même date.",
+        "La déclaration est remise à l’officier d’état civil au moment de la déclaration de naissance."
+      ],
+      quote:
+        "Le choix du nom doit être commun : les deux parents doivent être d’accord sur le nom transmis et sur l’ordre des noms."
+    },
+    {
+      title: "Quand faut-il faire cette déclaration ?",
+      paragraphs: [
+        "La déclaration de choix de nom est généralement remise au moment de la déclaration de naissance.",
+        "La déclaration de naissance doit être faite auprès de la mairie du lieu de naissance, dans le délai prévu après l’accouchement.",
+        "Si les parents savent déjà quel nom ils souhaitent donner, il peut être utile de préparer le formulaire avant la naissance.",
+        "En cas de doute, la mairie peut expliquer les documents à prévoir et la façon de remplir la déclaration."
+      ]
+    },
+    {
+      title: "Que se passe-t-il si les parents ne font pas de choix ?",
+      paragraphs: [
+        "Si les parents ne font pas de déclaration conjointe de choix de nom, une règle automatique s’applique.",
+        "Lorsque la filiation est établie en premier à l’égard d’un seul parent, l’enfant prend le nom de ce parent.",
+        "Lorsque la filiation est établie en même temps à l’égard des deux parents, l’enfant prend le nom du père.",
+        "L’absence de choix n’est donc pas neutre : elle entraîne l’application d’une règle prévue par la loi."
+      ]
+    },
+    {
+      title: "Et si les parents ne sont pas mariés ?",
+      paragraphs: [
+        "Lorsque les parents ne sont pas mariés, il faut distinguer la déclaration de naissance et la reconnaissance de l’enfant.",
+        "Pour la mère, la filiation est généralement établie lorsque son nom figure dans l’acte de naissance.",
+        "Pour le père, une reconnaissance est nécessaire si les parents ne sont pas mariés.",
+        "Cette reconnaissance peut être faite avant la naissance, au moment de la déclaration de naissance ou après."
+      ]
+    },
+    {
+      title: "Pourquoi la reconnaissance peut influencer le nom ?",
+      paragraphs: [
+        "Chez les parents non mariés, le moment où la filiation est établie peut avoir une conséquence sur le nom de famille de l’enfant.",
+        "Si aucun choix de nom n’est fait, l’enfant prend le nom du parent dont la filiation est établie en premier.",
+        "Si les deux filiations sont établies en même temps, l’enfant prend le nom du père.",
+        "C’est pourquoi il est important d’anticiper les démarches, surtout si les parents souhaitent un double nom ou le nom de la mère."
+      ]
+    },
+    {
+      title: "Le choix vaut-il pour les autres enfants ?",
+      paragraphs: [
+        "Oui. Le nom choisi pour le premier enfant commun s’applique ensuite aux autres enfants communs du même couple.",
+        "Les parents ne peuvent donc pas choisir un nom différent pour chaque enfant commun.",
+        "Si le premier enfant porte le nom du père, de la mère ou un double nom, les enfants suivants porteront en principe le même nom.",
+        "Cette règle permet que les frères et sœurs issus des mêmes parents aient le même nom de famille."
+      ],
+      quote:
+        "Le premier choix compte pour toute la fratrie commune : c’est une bonne raison de prendre le temps d’en parler avant la naissance."
+    },
+    {
+      title: "Peut-on changer d’avis après la naissance ?",
+      paragraphs: [
+        "Le choix du nom de famille n’est pas une décision à prendre en pensant qu’elle pourra être facilement changée plus tard.",
+        "Dans certaines situations, une modification peut être possible, notamment lorsque le second lien de filiation est établi après la naissance.",
+        "Les parents peuvent alors, pendant la minorité de l’enfant, faire une déclaration conjointe devant l’officier d’état civil pour modifier le nom dans les limites prévues par la loi.",
+        "Mais ces situations répondent à des règles précises : en cas de doute, il vaut mieux se renseigner auprès de la mairie ou d’un professionnel du droit."
+      ]
+    },
+    {
+      title: "Et si l’enfant a deux mères ?",
+      paragraphs: [
+        "Pour un enfant ayant deux mères, des règles spécifiques existent.",
+        "Les deux mères peuvent faire une déclaration conjointe de choix de nom.",
+        "Si aucun choix n’est fait, l’enfant prend un double nom composé des noms des deux mères, dans l’ordre alphabétique.",
+        "Lorsque l’une des deux mères porte déjà un double nom, seul son premier nom est retenu pour composer le nom de l’enfant."
+      ]
+    },
+    {
+      title: "Nom de famille et nom d’usage : quelle différence ?",
+      paragraphs: [
+        "Le nom de famille est le nom inscrit dans l’acte de naissance.",
+        "C’est le nom officiel de l’enfant à l’état civil.",
+        "Le nom d’usage est différent : il peut être utilisé dans la vie quotidienne ou sur certains documents, mais il ne remplace pas automatiquement le nom de famille.",
+        "Pour un bébé, la question principale au moment de la naissance concerne donc bien le nom de famille inscrit à l’état civil."
+      ]
+    },
+    {
+      title: "Comment choisir sereinement ?",
+      paragraphs: [
+        "Le choix du nom peut être pratique, symbolique, familial ou affectif.",
+        "Certains parents souhaitent transmettre les deux noms pour représenter les deux lignées familiales.",
+        "D’autres préfèrent un seul nom, pour des raisons de simplicité, d’histoire personnelle ou d’accord familial.",
+        "Il n’y a pas de bon ou de mauvais choix : l’important est de connaître les règles et de décider ensemble."
+      ]
+    },
+    {
+      title: "Les questions à se poser avant de décider",
+      paragraphs: [
+        "Avant la naissance, les parents peuvent prendre un moment pour parler de ce que représente le nom de famille pour chacun.",
+        "Souhaitez-vous transmettre un seul nom ou les deux noms ?",
+        "Si vous choisissez un double nom, dans quel ordre souhaitez-vous les mettre ?",
+        "Êtes-vous d’accord pour que ce choix s’applique aussi aux autres enfants communs ?"
+      ]
+    },
+    {
+      title: "Les démarches à prévoir",
+      paragraphs: [
+        "Si vous souhaitez choisir le nom de famille de votre bébé, pensez à télécharger ou demander le formulaire de déclaration conjointe de choix de nom.",
+        "Remplissez-le soigneusement avec les informations demandées.",
+        "Les deux parents doivent le signer à la même date.",
+        "Gardez-le avec les documents utiles pour la déclaration de naissance afin de l’avoir sous la main le moment venu."
+      ]
+    },
+    {
+      title: "En cas de désaccord ou de situation particulière",
+      paragraphs: [
+        "Certaines situations familiales peuvent rendre le choix du nom plus sensible.",
+        "Il peut y avoir un désaccord entre les parents, une reconnaissance tardive, une situation de séparation ou une histoire familiale compliquée.",
+        "Dans ces cas, il est préférable de demander conseil avant la naissance, auprès de la mairie, d’un professionnel du droit ou d’un service d’information juridique.",
+        "Cela permet d’éviter une décision mal comprise ou difficile à modifier ensuite."
+      ]
+    },
+    {
+      title: "À retenir",
+      paragraphs: [
+        "Le nom de famille du bébé peut être le nom du père, le nom de la mère ou les deux noms accolés.",
+        "Le choix se fait par une déclaration conjointe de choix de nom, signée par les deux parents.",
+        "Si aucun choix n’est fait, une règle automatique s’applique selon la situation de filiation.",
+        "Le nom choisi pour le premier enfant commun vaut aussi pour les autres enfants communs du couple.",
+        "Mieux vaut en discuter avant la naissance et préparer les documents nécessaires pour faire la déclaration sereinement."
+      ]
+    }
+  ],
+  sources: [
+    {
+      label: "Service-Public.fr — Choix du nom de famille d’un enfant par son père et sa mère",
+      url: "https://www.service-public.fr/particuliers/vosdroits/F10505"
+    },
+    {
+      label: "Service-Public.fr — Déclaration conjointe de choix d’un nom de famille",
+      url: "https://www.service-public.fr/particuliers/vosdroits/R32739"
+    },
+    {
+      label: "Légifrance — Code civil, article 311-21",
+      url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895575"
+    },
+    {
+      label: "Légifrance — Code civil, article 311-23",
+      url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895566"
+    },
+    {
+      label: "Justice.fr — Choix du nom de famille d’un enfant par ses deux mères",
+      url: "https://www.justice.fr/fiche/choix-nom-famille-enfantpar-2-meres"
+    },
+    {
+      label: "Justice.fr — Changement de nom",
+      url: "https://www.justice.fr/themes/changement-nom"
+    },
+    {
+      label: "Justice.fr — Différence entre nom de famille et nom d’usage",
+      url: "https://www.justice.fr/fiche/difference-entre-nom-famille-nom-usage"
+    }
+  ]
+}
+
 ];
 
 export const categories = [
