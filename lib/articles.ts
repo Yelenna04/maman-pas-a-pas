@@ -27482,75 +27482,6 @@ export const articles: Article[] = [
       }
     ]
   }
-];
-
-export const categories = [
-  {
-    slug: "avant-grossesse",
-    title: "Avant la grossesse",
-    description: "Projet bébé, fertilité, santé, PMA, hygiène de vie, vaccins et médicaments.",
-    tone: "rose",
-    subcategories: [
-      { slug: "projet-bebe", title: "Projet bébé", description: "Préparer son projet, savoir par où commencer et avancer sereinement." },
-      { slug: "fertilite-cycle", title: "Fertilité et cycle", description: "Comprendre le cycle, l’ovulation et les délais pour concevoir." },
-      { slug: "sante-rendez-vous", title: "Santé et rendez-vous", description: "Consultation préconceptionnelle, examens et professionnels à consulter." },
-      { slug: "pma-parcours-fertilite", title: "PMA et parcours de fertilité", description: "Comprendre l’AMP, l’insémination, la FIV, l’ICSI, les démarches et le vécu émotionnel." },
-      { slug: "hygiene-vie", title: "Hygiène de vie", description: "Alimentation, activité physique, sommeil, tabac et alcool." },
-      { slug: "vaccins-medicaments", title: "Vaccins et médicaments", description: "Faire le point sur ses vaccins, traitements et compléments." }
-    ]
-  },
-  {
-    slug: "pendant-grossesse",
-    title: "Pendant la grossesse",
-    description: "Suivi, examens, symptômes et bien-être, trimestre après trimestre.",
-    tone: "sage",
-    subcategories: [
-      { slug: "premier-trimestre", title: "Premier trimestre", description: "Les premières semaines, les symptômes et les premiers rendez-vous." },
-      { slug: "deuxieme-trimestre", title: "Deuxième trimestre", description: "L’évolution de la grossesse et les repères du milieu de parcours." },
-      { slug: "troisieme-trimestre", title: "Troisième trimestre", description: "Se préparer à la naissance et vivre les dernières semaines." },
-      { slug: "examens-suivi", title: "Examens et suivi", description: "Consultations, échographies, analyses et démarches médicales." },
-      { slug: "symptomes-bien-etre", title: "Symptômes et bien-être", description: "Comprendre les petits maux et savoir quand demander conseil." }
-    ]
-  },
-  {
-    slug: "accouchement",
-    title: "Accouchement",
-    description: "Préparation, début du travail, maternité et suites immédiates.",
-    tone: "sand",
-    subcategories: [
-      { slug: "preparation", title: "Préparation", description: "Projet de naissance, valise, cours et choix pour le jour J." },
-      { slug: "debut-travail", title: "Début du travail", description: "Contractions, perte des eaux et départ à la maternité." },
-      { slug: "maternite", title: "Maternité", description: "Accueil, accompagnement et déroulement du séjour." },
-      { slug: "voies-accouchement", title: "Voies d’accouchement", description: "Voie basse, césarienne, instruments et soulagement de la douleur." },
-      { slug: "suites-immediates", title: "Suites immédiates", description: "Les premières heures après la naissance pour le parent et le bébé." }
-    ]
-  },
-  {
-    slug: "post-partum",
-    title: "Post-partum",
-    description: "Récupération, alimentation du bébé, santé mentale et retour à la maison.",
-    tone: "rose",
-    subcategories: [
-      { slug: "recuperation", title: "Récupération", description: "Repos, douleurs, saignements et récupération physique." },
-      { slug: "alimentation-bebe", title: "Allaitement ou alimentation du bébé", description: "Allaitement, biberon et alimentation mixte sans culpabilité." },
-      { slug: "sante-mentale", title: "Santé mentale", description: "Baby blues, émotions, fatigue et signes qui doivent alerter." },
-      { slug: "retour-maison", title: "Retour à la maison", description: "Les premiers jours, l’aide, les visites et l’organisation." },
-      { slug: "corps-apres-accouchement", title: "Corps après l’accouchement", description: "Périnée, cicatrices, sexualité et changements corporels." }
-    ]
-  },
-  {
-    slug: "vie-pratique",
-    title: "Vie pratique",
-    description: "Démarches, organisation, matériel, budget et quotidien avec bébé.",
-    tone: "sage",
-    subcategories: [
-      { slug: "demarches", title: "Démarches", description: "Déclarations, droits, congés et formalités administratives." },
-      { slug: "organisation", title: "Organisation", description: "Répartir les tâches et alléger la charge mentale." },
-      { slug: "materiel", title: "Matériel", description: "Choisir l’essentiel pour bébé sans acheter inutilement." },
-      { slug: "budget", title: "Budget", description: "Anticiper les dépenses et connaître les aides possibles." },
-      { slug: "quotidien-bebe", title: "Quotidien avec bébé", description: "Sommeil, sorties, repas et rythme des premières semaines." }
-    ]
-  },
 
 {
   slug: "mode-de-garde-quand-commencer-les-demarches",
@@ -27564,7 +27495,7 @@ export const categories = [
   readingTime: "10 min",
   publishedAt: "2026-07-01",
   updatedAt: "2026-07-01",
-  tone: "sand",
+  tone: "sage",
   sections: [
     {
       title: "L’essentiel en 30 secondes",
@@ -27773,5 +27704,81 @@ export const categories = [
     }
   ]
 },
-
 ];
+
+export const categories = [
+  {
+    slug: "avant-grossesse",
+    title: "Avant la grossesse",
+    description: "Projet bébé, fertilité, santé, PMA, hygiène de vie, vaccins et médicaments.",
+    tone: "rose",
+    subcategories: [
+      { slug: "projet-bebe", title: "Projet bébé", description: "Préparer son projet, savoir par où commencer et avancer sereinement." },
+      { slug: "fertilite-cycle", title: "Fertilité et cycle", description: "Comprendre le cycle, l’ovulation et les délais pour concevoir." },
+      { slug: "sante-rendez-vous", title: "Santé et rendez-vous", description: "Consultation préconceptionnelle, examens et professionnels à consulter." },
+      { slug: "pma-parcours-fertilite", title: "PMA et parcours de fertilité", description: "Comprendre l’AMP, l’insémination, la FIV, l’ICSI, les démarches et le vécu émotionnel." },
+      { slug: "hygiene-vie", title: "Hygiène de vie", description: "Alimentation, activité physique, sommeil, tabac et alcool." },
+      { slug: "vaccins-medicaments", title: "Vaccins et médicaments", description: "Faire le point sur ses vaccins, traitements et compléments." }
+    ]
+  },
+  {
+    slug: "pendant-grossesse",
+    title: "Pendant la grossesse",
+    description: "Suivi, examens, symptômes et bien-être, trimestre après trimestre.",
+    tone: "sage",
+    subcategories: [
+      { slug: "premier-trimestre", title: "Premier trimestre", description: "Les premières semaines, les symptômes et les premiers rendez-vous." },
+      { slug: "deuxieme-trimestre", title: "Deuxième trimestre", description: "L’évolution de la grossesse et les repères du milieu de parcours." },
+      { slug: "troisieme-trimestre", title: "Troisième trimestre", description: "Se préparer à la naissance et vivre les dernières semaines." },
+      { slug: "examens-suivi", title: "Examens et suivi", description: "Consultations, échographies, analyses et démarches médicales." },
+      { slug: "symptomes-bien-etre", title: "Symptômes et bien-être", description: "Comprendre les petits maux et savoir quand demander conseil." }
+    ]
+  },
+  {
+    slug: "accouchement",
+    title: "Accouchement",
+    description: "Préparation, début du travail, maternité et suites immédiates.",
+    tone: "sand",
+    subcategories: [
+      { slug: "preparation", title: "Préparation", description: "Projet de naissance, valise, cours et choix pour le jour J." },
+      { slug: "debut-travail", title: "Début du travail", description: "Contractions, perte des eaux et départ à la maternité." },
+      { slug: "maternite", title: "Maternité", description: "Accueil, accompagnement et déroulement du séjour." },
+      { slug: "voies-accouchement", title: "Voies d’accouchement", description: "Voie basse, césarienne, instruments et soulagement de la douleur." },
+      { slug: "suites-immediates", title: "Suites immédiates", description: "Les premières heures après la naissance pour le parent et le bébé." }
+    ]
+  },
+  {
+    slug: "post-partum",
+    title: "Post-partum",
+    description: "Récupération, alimentation du bébé, santé mentale et retour à la maison.",
+    tone: "rose",
+    subcategories: [
+      { slug: "recuperation", title: "Récupération", description: "Repos, douleurs, saignements et récupération physique." },
+      { slug: "alimentation-bebe", title: "Allaitement ou alimentation du bébé", description: "Allaitement, biberon et alimentation mixte sans culpabilité." },
+      { slug: "sante-mentale", title: "Santé mentale", description: "Baby blues, émotions, fatigue et signes qui doivent alerter." },
+      { slug: "retour-maison", title: "Retour à la maison", description: "Les premiers jours, l’aide, les visites et l’organisation." },
+      { slug: "corps-apres-accouchement", title: "Corps après l’accouchement", description: "Périnée, cicatrices, sexualité et changements corporels." }
+    ]
+  },
+  {
+    slug: "vie-pratique",
+    title: "Vie pratique",
+    description: "Démarches, organisation, matériel, budget et quotidien avec bébé.",
+    tone: "sage",
+    subcategories: [
+      { slug: "demarches", title: "Démarches", description: "Déclarations, droits, congés et formalités administratives." },
+      { slug: "organisation", title: "Organisation", description: "Répartir les tâches et alléger la charge mentale." },
+      { slug: "materiel", title: "Matériel", description: "Choisir l’essentiel pour bébé sans acheter inutilement." },
+      { slug: "budget", title: "Budget", description: "Anticiper les dépenses et connaître les aides possibles." },
+      { slug: "quotidien-bebe", title: "Quotidien avec bébé", description: "Sommeil, sorties, repas et rythme des premières semaines." }
+    ]
+  }
+];
+
+export function getArticle(slug: string) {
+  return articles.find((article) => article.slug === slug);
+}
+
+export function getCategory(slug: string) {
+  return categories.find((category) => category.slug === slug);
+}
