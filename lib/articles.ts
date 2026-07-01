@@ -27897,7 +27897,231 @@ export const articles: Article[] = [
         url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
       }
     ]
-  }
+  },
+
+{
+  "slug": "apres-la-naissance-la-checklist-administrative-des-premieres-semaines",
+  "title": "Après la naissance : la checklist administrative des premières semaines",
+  "description": "Déclaration de naissance, acte de naissance, Assurance Maladie, Caf, mutuelle, employeur, congés, livret de famille et mode de garde : la checklist simple des démarches à faire après la naissance.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Démarches",
+  "subcategorySlug": "demarches",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-01",
+  "updatedAt": "2026-07-01",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La première démarche officielle est la déclaration de naissance, à faire à la mairie du lieu de naissance dans le délai légal.",
+        "Après la déclaration, pensez à récupérer plusieurs actes de naissance : ils peuvent être demandés par la Sécurité sociale, la mutuelle, la Caf, l’employeur ou certains organismes.",
+        "Déclarez ensuite votre enfant à l’Assurance Maladie pour le rattacher à une ou aux deux cartes Vitale des parents.",
+        "Pensez aussi à prévenir la Caf, la mutuelle, l’employeur, la crèche ou l’assistante maternelle si un mode de garde est prévu.",
+        "Le plus simple est de faire une petite checklist et de garder tous les justificatifs au même endroit pendant les premières semaines."
+      ],
+      "quote": "Après la naissance, l’objectif n’est pas de tout faire en une journée : il faut surtout traiter les démarches urgentes, puis avancer étape par étape."
+    },
+    {
+      "title": "Pourquoi préparer une checklist ?",
+      "paragraphs": [
+        "Les premières semaines avec un bébé sont souvent intenses.",
+        "Entre la fatigue, les rendez-vous, les nuits courtes et l’adaptation au nouveau rythme, les démarches administratives peuvent vite sembler lourdes.",
+        "Une checklist permet de savoir quoi faire en priorité, quoi garder comme document et quels organismes prévenir.",
+        "Elle évite aussi de devoir rechercher les mêmes informations plusieurs fois alors que l’on manque déjà de temps."
+      ]
+    },
+    {
+      "title": "Avant de sortir de la maternité",
+      "paragraphs": [
+        "Avant le retour à la maison, demandez quels documents vous sont remis par la maternité.",
+        "Selon les situations, vous pouvez recevoir un certificat médical d’accouchement ou les documents utiles pour la déclaration de naissance.",
+        "Vérifiez aussi les consignes de sortie, les rendez-vous de suivi, les contacts utiles en cas de question et les documents concernant le bébé.",
+        "Rangez tout dans une pochette dédiée : cela évite de chercher un papier important au mauvais moment."
+      ]
+    },
+    {
+      "title": "La déclaration de naissance",
+      "paragraphs": [
+        "La déclaration de naissance est la démarche prioritaire après l’arrivée du bébé.",
+        "Elle se fait auprès de la mairie du lieu de naissance, parfois directement au sein de la maternité lorsqu’un service d’état civil est présent.",
+        "Elle permet d’établir l’acte de naissance de l’enfant.",
+        "Le délai est court : il faut donc vérifier dès la maternité qui s’en charge et à quel moment."
+      ],
+      "quote": "La déclaration de naissance est la première démarche à ne pas repousser, car elle ouvre ensuite l’accès aux autres formalités."
+    },
+    {
+      "title": "Les documents à prévoir pour la mairie",
+      "paragraphs": [
+        "Les documents demandés peuvent varier selon les situations familiales.",
+        "En général, il faut prévoir le certificat établi par le médecin ou la sage-femme, les pièces d’identité des parents et les documents liés au choix du nom si cela concerne votre situation.",
+        "Le livret de famille peut aussi être demandé si vous en avez déjà un.",
+        "En cas de reconnaissance anticipée, de parents non mariés ou de situation particulière, vérifiez les pièces nécessaires auprès de la mairie ou de la maternité."
+      ]
+    },
+    {
+      "title": "Récupérer plusieurs actes de naissance",
+      "paragraphs": [
+        "Une fois la naissance déclarée, demandez plusieurs copies intégrales ou extraits d’acte de naissance.",
+        "Ces documents peuvent être demandés pour rattacher l’enfant à l’Assurance Maladie, l’ajouter à une mutuelle, prévenir certains organismes ou finaliser des démarches liées au travail.",
+        "Il est utile d’en garder quelques exemplaires papier et une version scannée.",
+        "Même si beaucoup de démarches se font en ligne, avoir les documents prêts fait gagner du temps."
+      ]
+    },
+    {
+      "title": "Mettre à jour ou récupérer le livret de famille",
+      "paragraphs": [
+        "Si vous avez déjà un livret de famille, la naissance peut y être ajoutée.",
+        "Si c’est le premier enfant et que votre situation y donne droit, un livret de famille peut être établi.",
+        "Les délais peuvent varier selon les mairies et les maternités.",
+        "Gardez ce document dans un endroit facile à retrouver, car il peut être demandé lors de certaines démarches familiales."
+      ]
+    },
+    {
+      "title": "Déclarer le bébé à l’Assurance Maladie",
+      "paragraphs": [
+        "Après la déclaration de naissance, l’enfant doit être déclaré à l’Assurance Maladie.",
+        "La démarche se fait généralement depuis le compte ameli du parent, dans les démarches liées au changement de situation familiale.",
+        "L’enfant peut être rattaché à la carte Vitale d’un parent, et il est conseillé de demander le rattachement aux deux parents lorsque c’est possible.",
+        "Après validation, pensez à mettre à jour la carte Vitale en pharmacie ou chez un professionnel équipé."
+      ]
+    },
+    {
+      "title": "Prévenir la mutuelle",
+      "paragraphs": [
+        "La mutuelle doit aussi être prévenue de la naissance si vous souhaitez ajouter votre enfant au contrat.",
+        "Elle peut demander un acte de naissance, une attestation de droits ou d’autres justificatifs selon le contrat.",
+        "Comparez les conditions si les deux parents ont une mutuelle : garanties, délai d’ajout, tarif, prime éventuelle de naissance et prise en charge des soins du bébé.",
+        "Ne laissez pas cette démarche trop longtemps de côté, surtout si des frais médicaux sont prévus."
+      ]
+    },
+    {
+      "title": "Prévenir la Caf",
+      "paragraphs": [
+        "La naissance doit aussi être déclarée à la Caf si vous êtes allocataire ou si vous souhaitez faire étudier vos droits.",
+        "Selon votre situation, cela peut concerner la Paje, les allocations familiales, le complément de libre choix du mode de garde ou d’autres aides.",
+        "Connectez-vous à votre espace Caf pour vérifier votre situation, vos informations familiales et les démarches à effectuer.",
+        "Même si certaines informations ont déjà été transmises pendant la grossesse, vérifiez que la naissance est bien prise en compte."
+      ]
+    },
+    {
+      "title": "Informer l’employeur",
+      "paragraphs": [
+        "L’employeur doit être informé de la naissance selon votre situation professionnelle et les congés concernés.",
+        "Cela peut concerner le congé maternité, le congé paternité et d’accueil de l’enfant, les autorisations d’absence, les justificatifs à fournir ou l’organisation du retour au travail.",
+        "Demandez à votre service RH ou à votre employeur quels documents sont nécessaires : acte de naissance, justificatif de situation, formulaire interne ou attestation.",
+        "Gardez une trace écrite des échanges importants."
+      ]
+    },
+    {
+      "title": "Congé paternité et accueil de l’enfant",
+      "paragraphs": [
+        "Le parent concerné par le congé paternité et d’accueil de l’enfant doit respecter les délais et modalités de demande prévus selon son statut.",
+        "Les règles peuvent différer selon que l’on est salarié, indépendant, agent public ou dans une autre situation.",
+        "Il est important de vérifier les dates, les justificatifs et la manière dont le congé doit être fractionné ou posé.",
+        "En cas de doute, consultez les informations officielles ou demandez confirmation à l’employeur et à l’Assurance Maladie."
+      ]
+    },
+    {
+      "title": "Mettre à jour les impôts et les organismes utiles",
+      "paragraphs": [
+        "La naissance modifie la composition du foyer.",
+        "Selon votre situation, il peut être utile de mettre à jour votre espace personnel auprès des impôts, de votre assurance habitation, de votre banque ou d’autres organismes.",
+        "Certaines démarches ne sont pas urgentes dès les premiers jours, mais elles peuvent éviter des oublis plus tard.",
+        "Notez-les dans une deuxième partie de checklist, à traiter lorsque les démarches prioritaires sont terminées."
+      ]
+    },
+    {
+      "title": "Mode de garde : vérifier où vous en êtes",
+      "paragraphs": [
+        "Si un mode de garde est prévu, la naissance peut être le moment de confirmer certaines informations.",
+        "Pour une crèche, vérifiez si la structure demande un acte de naissance ou une confirmation de la date de naissance.",
+        "Pour une assistante maternelle, anticipez les documents liés au contrat, à Pajemploi, aux aides de la Caf et à l’organisation de l’adaptation.",
+        "Si aucune solution n’est encore trouvée, notez les démarches à relancer dès que possible, sans attendre la fin du congé."
+      ]
+    },
+    {
+      "title": "Faire une pochette administrative bébé",
+      "paragraphs": [
+        "Une pochette dédiée peut vraiment simplifier les premières semaines.",
+        "Vous pouvez y ranger les actes de naissance, le livret de famille, les documents de maternité, les comptes-rendus médicaux, les ordonnances, les attestations et les courriers importants.",
+        "Ajoutez aussi une version numérique dans un dossier sécurisé sur votre ordinateur ou votre téléphone.",
+        "L’objectif est de retrouver rapidement les documents demandés, sans fouiller partout."
+      ]
+    },
+    {
+      "title": "Checklist simple des premières semaines",
+      "bullets": [
+        "Déclarer la naissance à la mairie du lieu de naissance.",
+        "Demander plusieurs actes de naissance.",
+        "Mettre à jour ou récupérer le livret de famille.",
+        "Déclarer l’enfant à l’Assurance Maladie et mettre à jour la carte Vitale.",
+        "Demander le rattachement aux deux parents si souhaité et possible.",
+        "Ajouter l’enfant à la mutuelle choisie.",
+        "Déclarer la naissance à la Caf ou vérifier que le dossier est à jour.",
+        "Informer l’employeur et transmettre les justificatifs nécessaires.",
+        "Vérifier les congés, aides et droits selon votre situation.",
+        "Prévenir la crèche, l’assistante maternelle ou relancer les démarches de mode de garde.",
+        "Scanner et ranger tous les documents importants."
+      ]
+    },
+    {
+      "title": "Ce qui peut attendre un peu",
+      "paragraphs": [
+        "Toutes les démarches n’ont pas le même niveau d’urgence.",
+        "La déclaration de naissance, l’acte de naissance, l’Assurance Maladie et les justificatifs nécessaires aux congés sont à traiter rapidement.",
+        "D’autres mises à jour, comme certains contrats ou organismes secondaires, peuvent être faites dans les semaines suivantes.",
+        "L’important est de ne pas se mettre une pression inutile : avancez par priorité."
+      ]
+    },
+    {
+      "title": "Quand demander de l’aide ?",
+      "paragraphs": [
+        "Demandez de l’aide si vous ne comprenez pas une démarche, si vous avez une situation familiale particulière ou si vous avez peur de rater un délai.",
+        "La mairie, l’Assurance Maladie, la Caf, la maternité, la PMI, votre employeur ou votre mutuelle peuvent vous orienter selon la démarche concernée.",
+        "L’autre parent ou un proche peut aussi prendre en charge une partie des formalités.",
+        "Après une naissance, déléguer l’administratif quand c’est possible est une vraie aide concrète."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Après la naissance, les démarches administratives se font par étapes.",
+        "La déclaration de naissance est prioritaire, puis viennent les actes de naissance, l’Assurance Maladie, la mutuelle, la Caf et les justificatifs professionnels.",
+        "Garder tous les documents dans une pochette et une version numérique évite beaucoup de stress.",
+        "Il est utile de vérifier les droits liés aux aides, aux congés et au mode de garde selon votre situation.",
+        "Vous n’avez pas à tout gérer seule : l’administratif fait aussi partie des tâches que l’entourage peut aider à porter."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service-public.fr — Je deviens parent",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F16225"
+    },
+    {
+      "label": "Service-public.fr — Déclaration de naissance",
+      "url": "https://www.service-public.fr/particuliers/vosdroits/F961"
+    },
+    {
+      "label": "Assurance Maladie — Déclaration de son enfant à l’Assurance Maladie",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/declaration-de-son-enfant"
+    },
+    {
+      "label": "Assurance Maladie — Rattachement de l’enfant sur la carte Vitale des parents",
+      "url": "https://www.ameli.fr/assure/remboursements/etre-bien-rembourse/carte-vitale/rattachement-de-l-enfant-sur-la-carte-vitale-des-parents"
+    },
+    {
+      "label": "Caf — J’attends un enfant",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/ma-situation/vie-personnelle/j-attends-un-enfant"
+    },
+    {
+      "label": "Caf — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    }
+  ]
+}
 
 ];
 
