@@ -8049,6 +8049,227 @@ export const articles: Article[] = [
       }
     ]
   },
+
+{
+    slug: "caf-cpam-mutuelle-que-declarer-apres-la-naissance",
+    title: "CAF, CPAM, mutuelle : que déclarer après la naissance ?",
+    description:
+      "Après la naissance, plusieurs organismes doivent être informés : CAF, Assurance Maladie, mutuelle, employeur ou complémentaire santé. Voici les démarches à prévoir, les documents utiles et les bons réflexes pour ne rien oublier.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "10 min",
+    publishedAt: "2026-06-19",
+    updatedAt: "2026-06-19",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, la déclaration en mairie ne suffit pas toujours : il faut aussi informer certains organismes.",
+          "La CAF doit être informée de l’arrivée de l’enfant pour actualiser le dossier et ouvrir ou ajuster les droits éventuels.",
+          "L’Assurance Maladie permet de rattacher le bébé à la carte Vitale d’un ou des deux parents.",
+          "La mutuelle doit aussi être prévenue pour ajouter le bébé au contrat, selon les garanties choisies.",
+          "L’acte de naissance ou le livret de famille est souvent demandé : gardez plusieurs copies ou versions numériques."
+        ],
+        quote:
+          "Après la naissance, l’objectif n’est pas de tout faire en une journée, mais de savoir quels organismes prévenir et dans quel ordre."
+      },
+      {
+        title: "Pourquoi faire ces déclarations ?",
+        paragraphs: [
+          "La naissance d’un bébé modifie la situation familiale.",
+          "Certains organismes ont besoin d’être informés pour mettre à jour le dossier des parents, ouvrir des droits, adapter les remboursements ou rattacher l’enfant.",
+          "Ces démarches peuvent concerner la CAF, l’Assurance Maladie, la mutuelle, l’employeur, la crèche ou d’autres organismes selon votre situation.",
+          "Les faire rapidement permet d’éviter des retards de remboursement ou de versement."
+        ]
+      },
+      {
+        title: "Avant tout : avoir l’acte de naissance",
+        paragraphs: [
+          "La plupart des démarches commencent après la déclaration de naissance en mairie.",
+          "Une fois l’acte de naissance établi, vous pouvez l’utiliser comme justificatif auprès des organismes.",
+          "Selon les démarches, une copie de l’acte de naissance ou le livret de famille peut être demandé.",
+          "Il est pratique de garder une version numérique dans un dossier sécurisé, avec les autres documents importants."
+        ]
+      },
+      {
+        title: "Informer la CAF",
+        paragraphs: [
+          "Si vous avez un dossier CAF, il faut déclarer la naissance de l’enfant pour mettre à jour votre situation.",
+          "Cette déclaration peut permettre d’actualiser les droits existants ou d’ouvrir certains droits si les conditions sont remplies.",
+          "La CAF peut notamment être concernée par les prestations liées à l’accueil du jeune enfant, les aides familiales ou les aides selon les ressources.",
+          "Les démarches se font généralement depuis l’espace personnel CAF."
+        ],
+        quote:
+          "La CAF ne connaît pas automatiquement toutes les informations de votre foyer : déclarer la naissance permet de mettre le dossier à jour."
+      },
+      {
+        title: "Prime de naissance et prestations",
+        paragraphs: [
+          "Selon votre situation et vos ressources, certaines aides peuvent être versées autour de l’arrivée de l’enfant.",
+          "La prime à la naissance fait partie de la prestation d’accueil du jeune enfant, sous conditions.",
+          "D’autres aides peuvent dépendre de votre composition familiale, de vos revenus, de votre mode de garde ou de votre situation professionnelle.",
+          "Il est préférable de vérifier directement dans votre espace CAF ou sur les fiches officielles, car les droits varient selon les situations."
+        ]
+      },
+      {
+        title: "Informer l’Assurance Maladie",
+        paragraphs: [
+          "Après la naissance, le bébé doit être rattaché à l’Assurance Maladie.",
+          "Le rattachement permet de faciliter les remboursements des soins du bébé.",
+          "Il est possible de rattacher l’enfant à la carte Vitale d’un parent ou des deux parents.",
+          "La démarche se fait généralement depuis le compte ameli ou avec les documents demandés par votre caisse."
+        ]
+      },
+      {
+        title: "Rattacher bébé à la carte Vitale",
+        paragraphs: [
+          "Le rattachement du bébé à la carte Vitale permet de simplifier les consultations, les remboursements et les passages en pharmacie.",
+          "Lorsque l’enfant est rattaché aux deux parents, chacun peut utiliser sa carte Vitale pour les soins du bébé.",
+          "Après validation du rattachement, pensez à mettre à jour la carte Vitale en pharmacie ou sur une borne adaptée.",
+          "En cas de difficulté, contactez votre CPAM pour vérifier les pièces à fournir."
+        ]
+      },
+      {
+        title: "Choisir le médecin de bébé",
+        paragraphs: [
+          "Le suivi médical du bébé doit être organisé rapidement après la naissance.",
+          "Selon votre situation, bébé peut être suivi par un médecin généraliste, un pédiatre, la PMI ou un autre professionnel.",
+          "Certaines démarches d’Assurance Maladie peuvent aussi concerner le choix du médecin traitant de l’enfant, selon son âge et les règles en vigueur.",
+          "Le plus important est d’avoir un professionnel identifié pour les consultations et les questions de santé."
+        ]
+      },
+      {
+        title: "Prévenir la mutuelle",
+        paragraphs: [
+          "La mutuelle ou complémentaire santé doit être informée de la naissance pour ajouter le bébé au contrat si vous le souhaitez.",
+          "Cela permet de compléter les remboursements de santé selon les garanties prévues.",
+          "Les documents demandés varient selon les organismes : acte de naissance, livret de famille, formulaire ou demande depuis l’espace client.",
+          "Vérifiez aussi la date d’effet de l’ajout, afin d’éviter une période non couverte."
+        ]
+      },
+      {
+        title: "Comparer les options de mutuelle",
+        paragraphs: [
+          "Si les deux parents ont une mutuelle, il peut être utile de comparer les garanties avant de rattacher bébé.",
+          "Regardez les remboursements de consultations, pharmacie, hospitalisation, pédiatrie, lunettes plus tard, ostéopathie si votre contrat le prévoit, et les délais de carence éventuels.",
+          "Le bébé peut parfois être rattaché à l’un ou l’autre contrat, ou aux deux selon les règles de coordination.",
+          "En cas de doute, demandez aux mutuelles une réponse écrite."
+        ]
+      },
+      {
+        title: "Prévenir l’employeur si nécessaire",
+        paragraphs: [
+          "Selon votre situation, l’employeur peut aussi avoir besoin d’un justificatif de naissance.",
+          "Cela peut concerner le congé de naissance, le congé paternité, l’ajout d’un ayant droit à une mutuelle d’entreprise ou certaines démarches internes.",
+          "Le service RH peut vous indiquer les documents nécessaires.",
+          "Gardez une trace des envois, surtout si les dates de congé ou les droits dépendent de ces documents."
+        ]
+      },
+      {
+        title: "Et pour le mode de garde ?",
+        paragraphs: [
+          "Si vous avez une demande de crèche, une inscription ou un dossier de garde en cours, la naissance peut devoir être confirmée.",
+          "Certains organismes demandent l’acte de naissance pour finaliser le dossier.",
+          "Si vous embauchez une assistante maternelle, d’autres démarches administratives pourront s’ajouter plus tard.",
+          "Il est utile de noter les échéances, surtout si le mode de garde est prévu quelques mois après la naissance."
+        ]
+      },
+      {
+        title: "Quels documents garder sous la main ?",
+        paragraphs: [
+          "Après la naissance, certains documents reviennent souvent dans les démarches.",
+          "Gardez l’acte de naissance, le livret de famille, les numéros de Sécurité sociale des parents, les identifiants CAF et ameli, les coordonnées de la mutuelle et les justificatifs envoyés.",
+          "Une pochette papier et un dossier numérique peuvent vraiment simplifier les premières semaines.",
+          "Cela évite de chercher les mêmes documents à chaque démarche."
+        ]
+      },
+      {
+        title: "Dans quel ordre faire les démarches ?",
+        paragraphs: [
+          "L’ordre peut varier, mais un repère simple consiste à commencer par la déclaration de naissance en mairie.",
+          "Ensuite, vous pouvez déclarer la naissance à la CAF, demander le rattachement à l’Assurance Maladie, puis ajouter bébé à la mutuelle.",
+          "Prévenez aussi l’employeur ou le service RH si un justificatif est nécessaire.",
+          "Toutes les démarches n’ont pas la même urgence, mais mieux vaut les noter pour ne pas les oublier."
+        ]
+      },
+      {
+        title: "Si les parents sont séparés ou ont deux foyers",
+        paragraphs: [
+          "Certaines situations familiales peuvent rendre les démarches plus spécifiques.",
+          "Rattachement à l’Assurance Maladie, adresse de référence, droits CAF, résidence de l’enfant ou mutuelle peuvent nécessiter des précisions.",
+          "Dans ce cas, il vaut mieux contacter directement les organismes concernés plutôt que de se baser sur une règle générale.",
+          "Une réponse écrite peut aider à éviter les malentendus."
+        ]
+      },
+      {
+        title: "Si vous êtes indépendant, étudiant ou sans emploi",
+        paragraphs: [
+          "Les démarches peuvent être différentes selon votre statut.",
+          "Travail indépendant, chômage, études, situation mixte, couverture par un conjoint ou absence de mutuelle : chaque situation peut modifier les organismes à prévenir.",
+          "Il est important de vérifier vos droits directement auprès de la CAF, de l’Assurance Maladie et de votre complémentaire santé.",
+          "Ne restez pas seule si vous ne savez pas quel organisme contacter en premier."
+        ]
+      },
+      {
+        title: "Éviter les retards",
+        paragraphs: [
+          "Les retards administratifs arrivent souvent parce qu’un document manque ou qu’un organisme n’a pas été prévenu.",
+          "Pour les éviter, notez la date d’envoi, le canal utilisé, les pièces transmises et la réponse reçue.",
+          "Gardez aussi les accusés de réception ou captures d’écran des démarches en ligne.",
+          "Cette petite organisation peut faire gagner beaucoup de temps en cas de problème."
+        ]
+      },
+      {
+        title: "Quand demander de l’aide ?",
+        paragraphs: [
+          "Demandez de l’aide si vous ne comprenez pas une démarche, si vos droits ne semblent pas à jour ou si un remboursement tarde.",
+          "La CAF, la CPAM, la mutuelle ou le service RH peuvent être contactés directement.",
+          "Une assistante sociale, la PMI ou une maison France Services peuvent aussi aider dans certaines situations.",
+          "Il vaut mieux demander tôt que laisser s’accumuler les courriers et les inquiétudes."
+        ]
+      },
+      {
+        title: "Ce que l’entourage peut faire",
+        paragraphs: [
+          "L’entourage peut aider en rassemblant les documents, en scannant l’acte de naissance, en notant les démarches ou en gardant bébé pendant un appel administratif.",
+          "Le coparent peut prendre en charge une partie des déclarations, surtout quand la mère récupère de l’accouchement.",
+          "Une aide concrète sur l’administratif peut soulager autant qu’une aide pour les repas ou le ménage.",
+          "L’objectif est d’éviter que toute la charge mentale repose sur une seule personne."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après la naissance, il faut souvent prévenir plusieurs organismes : CAF, Assurance Maladie, mutuelle, employeur ou mode de garde.",
+          "L’acte de naissance est le document central à garder sous la main.",
+          "La CAF permet d’actualiser les droits, la CPAM de rattacher bébé à la carte Vitale, et la mutuelle de compléter la couverture santé.",
+          "Les démarches peuvent varier selon le statut professionnel, la situation familiale et les contrats.",
+          "Garder une trace des démarches évite les oublis et facilite les relances."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "CAF — Déclarer un changement de situation",
+        url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/declarer-un-changement-de-situation"
+      },
+      {
+        label: "CAF — La prestation d’accueil du jeune enfant",
+        url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prestation-d-accueil-du-jeune-enfant-paje"
+      },
+      {
+        label: "Assurance Maladie — Inscrire votre enfant sur votre carte Vitale",
+        url: "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/inscrire-enfant-carte-vitale"
+      },
+      {
+        label: "Service-Public — Déclaration de naissance",
+        url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F961"
+      }
+    ]
+  },
   {
     slug: "parler-projet-bebe-avec-partenaire",
     title: "Comment parler du projet bébé avec son ou sa partenaire ?",
