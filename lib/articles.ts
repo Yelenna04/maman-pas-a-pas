@@ -27290,7 +27290,358 @@ export const articles: Article[] = [
       url: "https://www.justice.fr/fiche/difference-entre-nom-famille-nom-usage"
     }
   ]
-}
+},
+
+{
+    slug: "livret-de-famille-acte-de-naissance-que-faut-il-recuperer",
+    title: "Livret de famille, acte de naissance : que faut-il récupérer ?",
+    description:
+      "Après la naissance, plusieurs documents peuvent être remis ou demandés : livret de famille, acte de naissance, copies intégrales, extraits et documents utiles pour les démarches.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "9 min",
+    publishedAt: "2026-07-01",
+    updatedAt: "2026-07-01",
+    tone: "sand",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Après la naissance, la déclaration de naissance permet d’établir l’acte de naissance de l’enfant.",
+          "Le livret de famille est remis aux parents non mariés lors de la naissance de leur premier enfant commun, ou mis à jour si les parents en ont déjà un.",
+          "Il est utile de demander plusieurs copies ou extraits d’acte de naissance pour les démarches auprès de la Caf, de la CPAM, de la mutuelle, de l’employeur ou de la crèche.",
+          "Les documents remis peuvent varier selon la mairie et la situation familiale.",
+          "Avant de quitter la maternité ou dans les jours qui suivent, gardez tous les documents de naissance au même endroit pour ne rien perdre."
+        ],
+        quote:
+          "Après la naissance, les démarches sont plus simples quand les documents importants sont regroupés dès le départ."
+      },
+      {
+        title: "Pourquoi ces documents sont importants ?",
+        paragraphs: [
+          "Après la naissance, plusieurs démarches administratives doivent être faites pour déclarer le bébé auprès des organismes et mettre à jour la situation familiale.",
+          "L’acte de naissance et le livret de famille sont les documents les plus souvent demandés.",
+          "Ils permettent de prouver officiellement la naissance, l’identité de l’enfant et le lien avec ses parents.",
+          "Les garder accessibles évite de devoir chercher dans la précipitation au moment d’envoyer un dossier."
+        ]
+      },
+      {
+        title: "L’acte de naissance",
+        paragraphs: [
+          "L’acte de naissance est le document officiel établi par l’état civil après la déclaration de naissance.",
+          "Il mentionne notamment l’identité de l’enfant, sa date et son lieu de naissance, ainsi que les informations relatives aux parents.",
+          "Selon les démarches, on peut vous demander une copie intégrale ou un extrait d’acte de naissance.",
+          "Certaines démarches acceptent aussi un justificatif transmis directement par la mairie ou un document remis après la déclaration."
+        ]
+      },
+      {
+        title: "Le livret de famille",
+        paragraphs: [
+          "Le livret de famille regroupe les informations d’état civil de la famille.",
+          "Si les parents sont mariés, ils ont généralement déjà un livret de famille : il doit alors être mis à jour avec la naissance de l’enfant.",
+          "Si les parents ne sont pas mariés, un livret de famille est remis lors de la naissance du premier enfant commun.",
+          "Il doit être conservé soigneusement, car il peut être demandé pour de nombreuses démarches."
+        ]
+      },
+      {
+        title: "Quels documents demander en mairie ?",
+        paragraphs: [
+          "Au moment de la déclaration de naissance ou juste après, vous pouvez demander comment récupérer les actes de naissance.",
+          "Il peut être utile de demander plusieurs exemplaires, car plusieurs organismes peuvent en avoir besoin en même temps.",
+          "Les besoins exacts varient selon les démarches, mais il est fréquent d’avoir besoin d’une copie ou d’un extrait pour la Caf, la CPAM, la mutuelle, l’employeur, la crèche ou certaines assurances.",
+          "La mairie peut vous expliquer les formats disponibles et la manière de faire une nouvelle demande plus tard si nécessaire."
+        ]
+      },
+      {
+        title: "Les démarches où ces documents peuvent servir",
+        paragraphs: [
+          "L’acte de naissance peut être demandé pour rattacher le bébé à l’Assurance Maladie, mettre à jour la mutuelle, déclarer la naissance à la Caf ou informer l’employeur.",
+          "Il peut aussi être utile pour les dossiers de crèche, les démarches de congé ou certains contrats d’assurance.",
+          "Le livret de famille peut servir de justificatif de composition familiale.",
+          "Comme chaque organisme peut demander une pièce différente, il vaut mieux vérifier la liste exacte des documents attendus."
+        ]
+      },
+      {
+        title: "Comment s’organiser simplement ?",
+        paragraphs: [
+          "Préparez une pochette ou un dossier numérique pour regrouper les documents liés à la naissance.",
+          "Vous pouvez y mettre le livret de famille, les copies d’acte de naissance, les documents remis par la maternité, les papiers de sécurité sociale, la mutuelle et les justificatifs de domicile.",
+          "Notez aussi les organismes à prévenir : Caf, CPAM, mutuelle, employeur, crèche ou mode de garde.",
+          "Cette organisation évite de refaire plusieurs fois les mêmes recherches."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’acte de naissance est établi après la déclaration de naissance.",
+          "Le livret de famille est remis ou mis à jour selon la situation des parents.",
+          "Plusieurs copies ou extraits d’acte de naissance peuvent être utiles pour les démarches.",
+          "Les documents demandés varient selon les organismes : il faut vérifier chaque dossier.",
+          "Le plus simple est de tout regrouper dans une pochette dès les premiers jours."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public.fr — Déclaration de naissance",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F961"
+      },
+      {
+        label: "Service-Public.fr — Livret de famille",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F11994"
+      },
+      {
+        label: "Service-Public.fr — Acte de naissance : demande de copie intégrale ou d’extrait",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F1427"
+      },
+      {
+        label: "Assurance Maladie — Déclarer la naissance de votre enfant",
+        url: "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/declarer-naissance-enfant"
+      }
+    ]
+  },
+
+{
+    slug: "mode-de-garde-quand-commencer-les-demarches",
+    title: "Mode de garde : quand commencer les démarches ?",
+    description:
+      "Crèche, assistant maternel, garde à domicile, relais petite enfance : quand commencer les démarches pour trouver un mode de garde et comment s’organiser pendant la grossesse.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "10 min",
+    publishedAt: "2026-07-01",
+    updatedAt: "2026-07-01",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il est conseillé de commencer les recherches de mode de garde le plus tôt possible pendant la grossesse.",
+          "Les délais peuvent être longs, surtout pour les places en crèche ou dans certaines communes.",
+          "Les solutions possibles sont variées : crèche, micro-crèche, assistant maternel, garde à domicile, garde partagée ou accueil occasionnel.",
+          "Le relais petite enfance, la mairie, la Caf et le site monenfant.fr peuvent aider à identifier les solutions disponibles près de chez vous.",
+          "Même si rien n’est encore définitif, anticiper permet de comparer les options, les coûts, les horaires et les démarches."
+        ],
+        quote:
+          "Chercher un mode de garde tôt ne veut pas dire tout décider tout de suite : cela permet surtout de ne pas subir les délais."
+      },
+      {
+        title: "Pourquoi commencer tôt ?",
+        paragraphs: [
+          "Trouver un mode de garde peut prendre du temps.",
+          "Selon les villes, les places en crèche sont très demandées et les commissions d’attribution peuvent avoir lieu à des périodes précises.",
+          "Les assistants maternels peuvent aussi avoir des disponibilités limitées, surtout pour un accueil à temps plein.",
+          "Commencer tôt permet de se renseigner sans pression et d’avoir plus de choix."
+        ]
+      },
+      {
+        title: "À quel moment s’y prendre ?",
+        paragraphs: [
+          "L’idéal est de commencer à se renseigner pendant la grossesse, parfois dès les premiers mois si vous savez que vous aurez besoin d’un accueil après le congé maternité ou parental.",
+          "Vous pouvez d’abord chercher les options existantes dans votre commune, puis demander les conditions d’inscription.",
+          "Certaines communes acceptent les préinscriptions pendant la grossesse, d’autres demandent d’attendre un certain terme ou la naissance.",
+          "Il faut donc vérifier localement, car les règles pratiques varient selon les territoires."
+        ]
+      },
+      {
+        title: "Les questions à se poser avant de choisir",
+        paragraphs: [
+          "Avant de déposer des demandes, il est utile de réfléchir à vos besoins.",
+          "À quelle date le bébé devra-t-il être gardé ? Combien de jours par semaine ? Sur quels horaires ? Aurez-vous besoin d’un accueil tôt le matin, tard le soir ou pendant les vacances ?",
+          "Le lieu compte aussi : près du domicile, du travail, des transports ou d’un proche.",
+          "Ces réponses aideront à comparer les solutions et à éviter de choisir un mode de garde trop difficile à tenir au quotidien."
+        ]
+      },
+      {
+        title: "Les principales solutions possibles",
+        paragraphs: [
+          "Les crèches accueillent les enfants dans une structure collective avec une équipe de professionnels.",
+          "Les micro-crèches proposent un accueil en petit groupe, avec des conditions et un coût qui peuvent varier selon le type de structure.",
+          "L’assistant maternel accueille l’enfant à son domicile ou en maison d’assistants maternels, après agrément.",
+          "La garde à domicile ou la garde partagée peuvent convenir à certaines familles, notamment lorsque les horaires sont atypiques ou que plusieurs enfants doivent être gardés."
+        ]
+      },
+      {
+        title: "Qui contacter ?",
+        paragraphs: [
+          "La mairie ou le service petite enfance peut vous renseigner sur les crèches municipales, les modalités d’inscription et les commissions d’attribution.",
+          "Le relais petite enfance peut orienter les parents vers les assistants maternels et expliquer les démarches d’employeur particulier.",
+          "Le site monenfant.fr permet de chercher des modes d’accueil et des informations pratiques.",
+          "La Caf peut aussi informer sur les aides possibles selon le mode de garde choisi."
+        ]
+      },
+      {
+        title: "Penser aussi au budget",
+        paragraphs: [
+          "Le coût varie beaucoup selon le mode de garde, les revenus, le nombre d’enfants et le type de structure.",
+          "En crèche collective financée par la Caf, la participation familiale est généralement calculée selon les ressources et la composition du foyer.",
+          "Pour un assistant maternel, une garde à domicile ou certaines micro-crèches, le complément de libre choix du mode de garde peut aider sous conditions.",
+          "Avant de choisir, il est utile de demander une estimation ou de vérifier les aides possibles."
+        ]
+      },
+      {
+        title: "Prévoir un plan B",
+        paragraphs: [
+          "Il peut arriver de ne pas obtenir la place souhaitée ou de devoir attendre quelques semaines.",
+          "Prévoir une solution de secours peut éviter beaucoup de stress au moment de la reprise.",
+          "Cela peut être une autre structure, un assistant maternel, une garde temporaire, un congé parental plus long ou une organisation familiale transitoire.",
+          "Même si le plan B n’est pas idéal, il peut aider à sécuriser les premières semaines."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les démarches de mode de garde doivent être commencées tôt, idéalement pendant la grossesse.",
+          "Les délais et règles d’inscription varient selon les communes et les structures.",
+          "Crèche, assistant maternel, garde à domicile ou micro-crèche : chaque solution a ses avantages, contraintes et coûts.",
+          "Mairie, relais petite enfance, monenfant.fr et Caf sont des interlocuteurs utiles.",
+          "Anticiper permet de choisir plus sereinement et d’éviter de se retrouver sans solution à la reprise."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "monenfant.fr — Les démarches administratives au cours de la grossesse",
+        url: "https://monenfant.fr/les-demarches-administratives-au-cours-de-la-grossesse"
+      },
+      {
+        label: "monenfant.fr — Faire une demande de mode de garde en ligne",
+        url: "https://monenfant.fr/faire-une-demande-de-mode-de-garde-en-ligne"
+      },
+      {
+        label: "Service-Public.fr — J’ai besoin de faire garder mes enfants",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F601"
+      },
+      {
+        label: "Caf — Le complément de libre choix du mode de garde",
+        url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+      }
+    ]
+  },
+
+{
+    slug: "inscription-en-creche-comment-sy-prendre",
+    title: "Inscription en crèche : comment s’y prendre ?",
+    description:
+      "Préinscription, dossier, mairie, commission, documents à fournir, choix des crèches et réponse d’admission : les étapes pour inscrire son bébé en crèche.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "10 min",
+    publishedAt: "2026-07-01",
+    updatedAt: "2026-07-01",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "L’inscription en crèche dépend de la commune, du type de crèche et des places disponibles.",
+          "Dans beaucoup de villes, il faut faire une préinscription auprès de la mairie ou du service petite enfance.",
+          "Le dossier peut demander plusieurs justificatifs : identité, domicile, situation familiale, revenus, grossesse ou naissance de l’enfant.",
+          "Les places sont souvent attribuées lors d’une commission, selon des critères locaux.",
+          "Il est utile de faire les démarches tôt et de prévoir une solution alternative si aucune place n’est proposée."
+        ],
+        quote:
+          "Une demande de crèche se prépare comme un dossier : plus les informations sont claires, plus le suivi est simple."
+      },
+      {
+        title: "À qui s’adresser ?",
+        paragraphs: [
+          "Pour une crèche municipale ou publique, le premier interlocuteur est souvent la mairie ou le service petite enfance.",
+          "Certaines communes proposent une démarche en ligne, d’autres demandent un rendez-vous ou un dossier papier.",
+          "Pour une crèche privée ou associative, il faut généralement contacter directement la structure ou suivre sa procédure d’inscription.",
+          "Le site monenfant.fr peut aider à repérer les structures proches du domicile ou du travail."
+        ]
+      },
+      {
+        title: "Quand faire la demande ?",
+        paragraphs: [
+          "Il est préférable de se renseigner pendant la grossesse, car les délais peuvent être longs.",
+          "Certaines communes permettent une préinscription avant la naissance, parfois à partir d’un terme précis.",
+          "D’autres demandent de confirmer le dossier après la naissance avec l’acte de naissance de l’enfant.",
+          "Comme les règles varient selon les communes, le plus sûr est de contacter le service petite enfance dès que le besoin de garde est connu."
+        ]
+      },
+      {
+        title: "Les informations à préparer",
+        paragraphs: [
+          "Avant de remplir le dossier, rassemblez les informations principales.",
+          "Vous aurez souvent besoin de la date prévue d’accouchement ou de la date de naissance, de la date souhaitée d’entrée en crèche, des jours et horaires demandés, de vos coordonnées et de votre situation professionnelle.",
+          "Il peut aussi être demandé de préciser plusieurs choix de structures.",
+          "Plus le besoin est clair, plus le dossier sera facile à suivre."
+        ]
+      },
+      {
+        title: "Les documents souvent demandés",
+        paragraphs: [
+          "Les documents exacts varient selon les communes et les crèches.",
+          "On peut vous demander une pièce d’identité, un justificatif de domicile, un justificatif de grossesse ou l’acte de naissance, le livret de famille, un avis d’imposition ou des informations sur les revenus.",
+          "Après l’admission, le carnet de santé ou les justificatifs de vaccinations peuvent aussi être demandés pour l’accueil de l’enfant.",
+          "Il faut toujours vérifier la liste officielle donnée par la structure ou la mairie."
+        ]
+      },
+      {
+        title: "Comment sont attribuées les places ?",
+        paragraphs: [
+          "Les places en crèche sont limitées et les demandes peuvent être nombreuses.",
+          "Dans les communes, les dossiers sont souvent étudiés en commission selon des critères locaux.",
+          "Ces critères peuvent prendre en compte la situation familiale, professionnelle, sociale, le lieu de résidence, l’âge de l’enfant, les disponibilités de la structure ou les horaires demandés.",
+          "Une demande déposée ne garantit donc pas automatiquement une place."
+        ]
+      },
+      {
+        title: "Que faire après la demande ?",
+        paragraphs: [
+          "Après le dépôt du dossier, gardez une trace de la demande et des échanges.",
+          "Notez les dates importantes : confirmation de naissance, commission, réponse attendue, documents à renvoyer.",
+          "Si votre situation change, par exemple date de reprise, horaires ou adresse, prévenez le service concerné.",
+          "Un dossier non confirmé ou incomplet peut parfois être mis en attente."
+        ]
+      },
+      {
+        title: "Et si la place est refusée ?",
+        paragraphs: [
+          "Un refus de place en crèche est fréquent dans certaines zones, car les demandes sont nombreuses.",
+          "Vous pouvez demander à rester sur liste d’attente, contacter d’autres structures ou vous tourner vers un assistant maternel, une micro-crèche ou une garde à domicile.",
+          "Le relais petite enfance peut vous aider à explorer d’autres solutions.",
+          "Prévoir une alternative dès le départ permet de limiter le stress en cas de réponse négative."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "L’inscription en crèche dépend des règles locales et du type de structure.",
+          "La mairie ou le service petite enfance est souvent le premier contact pour une crèche municipale.",
+          "Il faut préparer les informations sur la famille, les revenus, la date d’entrée souhaitée et les horaires.",
+          "La liste des documents varie selon les communes : il faut toujours vérifier la procédure officielle.",
+          "Une demande ne garantit pas une place, donc il est important de prévoir une solution alternative."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "monenfant.fr — L’accueil en crèche",
+        url: "https://monenfant.fr/l-accueil-en-creche"
+      },
+      {
+        label: "monenfant.fr — Faire une demande de mode de garde en ligne",
+        url: "https://monenfant.fr/faire-une-demande-de-mode-de-garde-en-ligne"
+      },
+      {
+        label: "Service-Public.fr — J’ai besoin de faire garder mes enfants",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F601"
+      },
+      {
+        label: "Caf — Le complément de libre choix du mode de garde",
+        url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+      }
+    ]
+  }
 
 ];
 
