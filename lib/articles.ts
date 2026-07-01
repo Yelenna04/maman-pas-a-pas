@@ -27641,6 +27641,262 @@ export const articles: Article[] = [
         url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
       }
     ]
+  },
+
+{
+    slug: "assistante-maternelle-demarches-contrat-et-points-a-verifier",
+    title: "Assistante maternelle : démarches, contrat et points à vérifier",
+    description:
+      "Trouver une assistante maternelle, vérifier l’agrément, préparer le contrat, déclarer l’embauche et clarifier les horaires : les étapes pour avancer sans oublier l’essentiel.",
+    category: "Vie pratique",
+    categorySlug: "vie-pratique",
+    subcategory: "Démarches",
+    subcategorySlug: "demarches",
+    readingTime: "12 min",
+    publishedAt: "2026-07-01",
+    updatedAt: "2026-07-01",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une assistante maternelle doit avoir un agrément en cours de validité pour accueillir des enfants à son domicile ou en maison d’assistantes maternelles.",
+          "Avant de signer, il faut vérifier l’agrément, les disponibilités, le lieu d’accueil, les horaires, les vacances, les tarifs et les habitudes autour de bébé.",
+          "Le contrat de travail doit être écrit et signé : il fixe notamment les horaires, la rémunération, les congés, les absences et les conditions d’accueil.",
+          "Les parents deviennent particuliers employeurs : ils doivent effectuer les démarches nécessaires, notamment auprès de Pajemploi, et déclarer la rémunération.",
+          "Un bon contrat ne remplace pas le dialogue : les repas, le sommeil, les sorties, les écrans, la maladie et les transmissions doivent être abordés clairement."
+        ],
+        quote:
+          "Choisir une assistante maternelle, ce n’est pas seulement trouver une place : c’est construire un cadre clair, sécurisant et réaliste pour le bébé comme pour les parents."
+      },
+      {
+        title: "Un mode de garde très encadré",
+        paragraphs: [
+          "L’assistante maternelle est une professionnelle de la petite enfance qui accueille des enfants, généralement à son domicile ou en maison d’assistantes maternelles.",
+          "Son activité est encadrée : elle doit disposer d’un agrément délivré par le conseil départemental, après avis des services de protection maternelle et infantile.",
+          "Pour les parents, ce mode de garde peut offrir un accueil plus individualisé qu’une crèche, avec un cadre familial et des horaires parfois plus souples.",
+          "Mais il demande aussi des démarches administratives, car les parents deviennent employeurs."
+        ]
+      },
+      {
+        title: "Commencer par chercher autour de chez soi",
+        paragraphs: [
+          "La recherche peut commencer auprès du relais petite enfance, de la mairie, du site monenfant.fr, du bouche-à-oreille ou des listes transmises par certains services locaux.",
+          "Il est utile de noter les besoins avant d’appeler : date de début souhaitée, nombre de jours, horaires, vacances, trajets et éventuelles contraintes particulières.",
+          "Plus la demande est précise, plus il est facile de savoir rapidement si l’accueil est possible.",
+          "Dans les zones où les places sont rares, il peut être nécessaire de contacter plusieurs professionnelles en parallèle."
+        ]
+      },
+      {
+        title: "Vérifier l’agrément",
+        paragraphs: [
+          "Avant de s’engager, il faut vérifier que l’assistante maternelle dispose bien d’un agrément en cours de validité.",
+          "L’agrément indique notamment le nombre d’enfants pouvant être accueillis, parfois leur âge, et les conditions d’accueil autorisées.",
+          "Il est possible de demander à voir l’attestation d’agrément et de vérifier que les informations correspondent à la situation proposée.",
+          "Si l’accueil se fait en maison d’assistantes maternelles, l’agrément doit aussi permettre cet exercice."
+        ],
+        quote:
+          "L’agrément n’est pas un détail administratif : c’est la base qui autorise l’accueil de votre enfant."
+      },
+      {
+        title: "Le premier échange",
+        paragraphs: [
+          "Le premier échange sert à vérifier les disponibilités, les horaires, le secteur et les grandes lignes du projet d’accueil.",
+          "Vous pouvez demander depuis quand elle exerce, combien d’enfants sont accueillis, comment se déroulent les journées et quelles sont ses périodes de congés habituelles.",
+          "Il est aussi utile de parler du rythme de votre enfant, même s’il changera avec le temps.",
+          "L’objectif n’est pas de mener un interrogatoire, mais de voir si vos besoins et son cadre de travail peuvent se rejoindre."
+        ]
+      },
+      {
+        title: "Visiter le lieu d’accueil",
+        paragraphs: [
+          "La visite permet de se projeter concrètement.",
+          "Regardez où l’enfant dormira, où il mangera, où il jouera, comment les sorties sont organisées et comment les autres enfants sont accueillis.",
+          "Vous pouvez poser des questions sur la sécurité, les escaliers, les animaux, le tabac, les écrans, le jardin, les trajets en voiture ou les sorties au parc.",
+          "Il n’est pas nécessaire que tout ressemble à une crèche : l’important est que le cadre soit clair, adapté et sécurisant."
+        ]
+      },
+      {
+        title: "Parler du rythme de l’enfant",
+        paragraphs: [
+          "Avant de signer, il faut parler du sommeil, des repas, des temps d’éveil, des promenades et des habitudes de réconfort.",
+          "Si votre bébé est encore petit, son rythme évoluera beaucoup : le contrat ne doit pas tout figer, mais il peut poser des repères.",
+          "Demandez comment l’assistante maternelle accompagne les siestes, les pleurs, les transitions, la séparation du matin et les retrouvailles du soir.",
+          "Ces échanges permettent d’éviter des malentendus une fois l’accueil commencé."
+        ]
+      },
+      {
+        title: "Clarifier les horaires dès le départ",
+        paragraphs: [
+          "Les horaires sont un point essentiel du contrat.",
+          "Il faut préciser les jours d’accueil, l’heure d’arrivée, l’heure de départ, le nombre d’heures par semaine et le fonctionnement en cas de retard ou de modification exceptionnelle.",
+          "Si vos horaires varient, il faut en parler clairement avant la signature, car toutes les professionnelles ne peuvent pas accepter des plannings changeants.",
+          "Un planning flou peut vite créer des tensions, surtout lorsque les journées sont longues ou que plusieurs familles sont accueillies."
+        ]
+      },
+      {
+        title: "Le contrat de travail",
+        paragraphs: [
+          "Le contrat de travail doit être écrit et signé par les parents employeurs et l’assistante maternelle.",
+          "Il précise les conditions d’accueil, la rémunération, les horaires, les congés, les absences, la période d’essai éventuelle et les modalités de rupture.",
+          "Il peut être précédé d’un engagement réciproque si les deux parties souhaitent réserver la place avant le début de l’accueil.",
+          "Il est important de lire le contrat tranquillement, de poser les questions avant de signer et de conserver un exemplaire."
+        ],
+        quote:
+          "Un contrat bien rempli protège tout le monde : l’enfant, les parents et l’assistante maternelle."
+      },
+      {
+        title: "Les éléments à ne pas oublier dans le contrat",
+        bullets: [
+          "L’identité des parents employeurs et de l’assistante maternelle.",
+          "Les informations concernant l’enfant accueilli.",
+          "La date de début du contrat et la période d’essai si elle est prévue.",
+          "Les jours et horaires d’accueil.",
+          "Le salaire horaire, la mensualisation et les indemnités éventuelles.",
+          "Les congés payés, jours fériés et absences.",
+          "Les règles en cas de maladie de l’enfant ou de l’assistante maternelle.",
+          "Les autorisations de sortie, de transport, de soins ou d’administration de médicaments selon les règles applicables.",
+          "Les modalités de transmission entre parents et assistante maternelle."
+        ]
+      },
+      {
+        title: "Salaire, mensualisation et indemnités",
+        paragraphs: [
+          "La rémunération doit être définie clairement avant le début de l’accueil.",
+          "Le salaire est généralement mensualisé, afin de lisser la rémunération sur l’année selon les jours et horaires prévus.",
+          "Des indemnités peuvent s’ajouter, par exemple pour l’entretien, les repas si l’assistante maternelle les fournit, ou certains frais selon ce qui est convenu.",
+          "Avant de signer, il est utile de faire une simulation et de vérifier que le budget reste compatible avec vos aides éventuelles."
+        ]
+      },
+      {
+        title: "Les démarches Pajemploi",
+        paragraphs: [
+          "Lorsque vous employez une assistante maternelle, vous devez effectuer les démarches administratives en tant que particulier employeur.",
+          "Pajemploi permet notamment de déclarer la rémunération de l’assistante maternelle et de gérer une partie des formalités liées aux cotisations.",
+          "Selon votre situation, vous pouvez aussi demander le complément de libre choix du mode de garde auprès de la Caf ou de la MSA.",
+          "Il vaut mieux vérifier les démarches avant le premier mois d’accueil pour éviter les retards de déclaration ou de paiement."
+        ]
+      },
+      {
+        title: "Les congés et absences",
+        paragraphs: [
+          "Les congés doivent être abordés dès le départ, car ils ont un impact direct sur l’organisation familiale.",
+          "Il faut parler des semaines de congés de l’assistante maternelle, des vôtres, des ponts éventuels, des jours fériés et des absences prévues.",
+          "Les absences de l’enfant pour maladie ou convenance personnelle doivent aussi être encadrées par le contrat et les règles applicables.",
+          "Plus les situations sont anticipées, moins elles deviennent conflictuelles au moment où elles arrivent."
+        ]
+      },
+      {
+        title: "Maladie, médicaments et urgence",
+        paragraphs: [
+          "Avant le début de l’accueil, il faut clarifier ce qui se passe si l’enfant est malade.",
+          "L’assistante maternelle accepte-t-elle certains petits symptômes ? À partir de quand demande-t-elle aux parents de garder l’enfant ? Comment prévenir en cas de fièvre ?",
+          "Les médicaments ne doivent pas être donnés n’importe comment : les règles doivent être respectées et les autorisations nécessaires anticipées.",
+          "Il faut aussi transmettre les contacts d’urgence, les informations médicales utiles et les consignes en cas de problème."
+        ]
+      },
+      {
+        title: "Repas, lait et diversification",
+        paragraphs: [
+          "Les repas doivent être discutés simplement : qui fournit le lait, les repas, les goûters, l’eau, les biberons ou les contenants ?",
+          "Si l’enfant est allaité, vous pouvez parler du lait maternel tiré, de sa conservation, des quantités et du rythme souhaité.",
+          "Si la diversification alimentaire commence pendant l’accueil, il est utile de décider comment les nouveaux aliments seront introduits et transmis.",
+          "Le but est d’éviter que les parents découvrent le soir un aliment ou une organisation qu’ils n’avaient pas validés."
+        ]
+      },
+      {
+        title: "Sommeil et sécurité",
+        paragraphs: [
+          "Le sommeil est un point à aborder en détail.",
+          "Demandez où dort l’enfant, dans quel type de lit, avec quelles habitudes et comment sont respectées les recommandations de sécurité du sommeil.",
+          "Il est aussi important de parler des doudous, tétines, gigoteuses, rituels et réveils.",
+          "Si votre enfant a des besoins particuliers ou un sommeil difficile, mieux vaut le dire avant le début de l’accueil."
+        ]
+      },
+      {
+        title: "Sorties, transport et écrans",
+        paragraphs: [
+          "Certaines assistantes maternelles sortent beaucoup : parc, relais petite enfance, bibliothèque, école des plus grands ou promenades.",
+          "Il faut savoir si l’enfant peut être transporté en voiture, dans quelles conditions, et quelles autorisations sont nécessaires.",
+          "Vous pouvez aussi demander la place des écrans dans la journée, même si la réponse peut sembler évidente.",
+          "Ces sujets font partie du cadre éducatif et méritent d’être abordés avant de commencer."
+        ]
+      },
+      {
+        title: "La période d’adaptation",
+        paragraphs: [
+          "La période d’adaptation permet à l’enfant, aux parents et à l’assistante maternelle de se découvrir progressivement.",
+          "Elle peut commencer par un temps court avec le parent, puis un accueil seul de plus en plus long.",
+          "Elle n’empêche pas les pleurs, mais elle aide à installer des repères et à transmettre les habitudes de l’enfant.",
+          "Le rythme de cette adaptation dépend de l’âge de l’enfant, de son tempérament, de vos contraintes et des disponibilités de l’assistante maternelle."
+        ]
+      },
+      {
+        title: "Les transmissions au quotidien",
+        paragraphs: [
+          "Les transmissions permettent de faire le lien entre la maison et le lieu d’accueil.",
+          "Elles peuvent concerner les repas, les siestes, les changes, l’humeur, les sorties, les petits bobos ou les progrès du jour.",
+          "Certaines familles aiment un cahier, d’autres préfèrent un échange oral rapide.",
+          "Le plus important est que les informations essentielles circulent sans transformer chaque fin de journée en réunion interminable."
+        ]
+      },
+      {
+        title: "Les signaux à prendre au sérieux",
+        paragraphs: [
+          "Certains signaux doivent vous faire ralentir avant de signer ou vous faire réévaluer la situation.",
+          "Un refus de montrer l’agrément, un contrat flou, des tarifs incompréhensibles, des réponses changeantes ou une difficulté à parler de sécurité doivent interroger.",
+          "Un décalage très fort entre vos besoins et son organisation peut aussi devenir compliqué, même si la personne semble très bien.",
+          "Il est normal de vouloir faire confiance, mais vous avez aussi le droit de poser des questions et de prendre le temps de décider."
+        ],
+        quote:
+          "Une bonne relation de garde commence souvent par des questions claires, pas par des non-dits."
+      },
+      {
+        title: "Et si l’accueil ne se passe pas comme prévu ?",
+        paragraphs: [
+          "Malgré un bon départ, des ajustements peuvent être nécessaires.",
+          "Il peut s’agir d’horaires à clarifier, de transmissions insuffisantes, d’un sommeil difficile, de repas compliqués ou d’une séparation qui reste douloureuse.",
+          "Le premier réflexe est souvent d’en parler calmement, avec des exemples précis et une recherche de solution commune.",
+          "Si la situation devient vraiment problématique, il faut se référer au contrat, aux règles applicables et demander conseil auprès des interlocuteurs compétents."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Choisir une assistante maternelle demande à la fois une recherche pratique, une vérification administrative et un vrai dialogue.",
+          "L’agrément, le contrat écrit, les horaires, la rémunération, les congés et les démarches Pajemploi sont les bases à sécuriser.",
+          "Les sujets du quotidien comptent autant : sommeil, repas, sorties, maladie, transmissions et période d’adaptation.",
+          "Un contrat clair évite beaucoup de tensions, mais la relation repose aussi sur la confiance et la communication.",
+          "Si un point vous semble flou, posez la question avant de signer plutôt que d’espérer que cela s’arrangera ensuite."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Service-Public.fr — Contrat de travail et formalités d’embauche de l’assistante maternelle",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F16841"
+      },
+      {
+        label: "Service-Public.fr — Assistante maternelle",
+        url: "https://www.service-public.fr/particuliers/vosdroits/N20383"
+      },
+      {
+        label: "Service-Public.fr — Salaire de l’assistante maternelle employée par un particulier",
+        url: "https://www.service-public.fr/particuliers/vosdroits/F12812"
+      },
+      {
+        label: "monenfant.fr — Droits et obligations du parent employeur et de l’assistant maternel",
+        url: "https://monenfant.fr/les-droits-et-obligations-du-parent-employeur-et-de-l-assistant-maternel"
+      },
+      {
+        label: "Urssaf service Pajemploi — Employeur d’assistante maternelle",
+        url: "https://www.pajemploi.urssaf.fr/"
+      },
+      {
+        label: "Caf — Le complément de libre choix du mode de garde",
+        url: "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+      }
+    ]
   }
 
 ];
