@@ -27481,7 +27481,7 @@ export const articles: Article[] = [
         url: "https://www.ameli.fr/assure/droits-demarches/famille/rattacher-enfant-carte-vitale"
       }
     ]
-  }
+  },
 
 {
   slug: "mode-de-garde-quand-commencer-les-demarches",
