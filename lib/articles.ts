@@ -28339,6 +28339,1077 @@ export const articles: Article[] = [
       url: "https://www.caf.fr/allocataires/aides-et-demarches/ma-situation/vie-personnelle/j-attends-un-enfant"
     }
   ]
+},
+
+{
+  "slug": "preparer-la-maison-avant-la-naissance-les-essentiels",
+  "title": "Préparer la maison avant la naissance : les essentiels",
+  "description": "Préparer la maison avant l’arrivée de bébé sans tout acheter ni tout bouleverser : les essentiels pour dormir, changer, nourrir, laver et sécuriser le quotidien.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Préparer la maison ne veut pas dire tout acheter : il faut surtout prévoir des espaces simples, sûrs et faciles à utiliser.",
+        "Les priorités sont le sommeil, le change, l’alimentation, le bain, les vêtements de base et quelques produits utiles.",
+        "Il est préférable de préparer petit à petit plutôt que de vouloir une maison parfaite avant la naissance.",
+        "Chaque objet doit être choisi pour son utilité réelle, la sécurité et la facilité d’entretien.",
+        "Une maison prête, c’est surtout une maison où les parents peuvent se reposer, trouver facilement les affaires et demander de l’aide."
+      ],
+      "quote": "L’objectif n’est pas d’avoir une maison parfaite, mais une maison qui simplifie les premiers jours."
+    },
+    {
+      "title": "Commencer par les vrais besoins",
+      "paragraphs": [
+        "Avant la naissance, il est facile de se sentir envahie par les listes d’achats et les conseils contradictoires.",
+        "Pourtant, un nouveau-né a surtout besoin d’un endroit sûr pour dormir, de quoi être changé, nourri, habillé, lavé et transporté.",
+        "Le reste peut souvent attendre, être emprunté, acheté plus tard ou adapté à votre façon de vivre.",
+        "Commencer par les besoins réels aide à éviter les achats inutiles et la charge mentale."
+      ]
+    },
+    {
+      "title": "Préparer l’espace sommeil",
+      "paragraphs": [
+        "L’espace sommeil doit être simple, stable et adapté aux recommandations de sécurité.",
+        "Préparez le lit, les draps, les turbulettes adaptées à la saison et un accès facile pendant la nuit.",
+        "Évitez de remplir le lit d’objets décoratifs qui compliquent l’installation ou peuvent gêner la sécurité.",
+        "L’important est que bébé puisse dormir dans un espace prévu pour lui et que les parents puissent le coucher facilement."
+      ]
+    },
+    {
+      "title": "Créer un coin change pratique",
+      "paragraphs": [
+        "Le coin change doit surtout être pratique et sécurisé.",
+        "Gardez à portée de main les couches, les lingettes ou cotons, le produit de change si vous en utilisez, les vêtements de rechange et un sac pour le linge sale.",
+        "Il n’est pas obligatoire d’avoir une grande table à langer si votre logement ne s’y prête pas : l’essentiel est d’avoir une surface stable et de ne jamais laisser bébé seul.",
+        "Un panier simple avec les indispensables peut suffire, surtout les premières semaines."
+      ]
+    },
+    {
+      "title": "Prévoir les repas de bébé",
+      "paragraphs": [
+        "Si vous allaitez, prévoyez surtout de quoi vous installer confortablement : coussins, bouteille d’eau, encas, lange et lumière douce pour la nuit.",
+        "Si vous donnez le biberon, préparez un espace propre pour les biberons, le lait, l’eau adaptée, les doses et le nettoyage du matériel.",
+        "Si vous ne savez pas encore comment vous nourrirez bébé, vous pouvez rester souple et éviter les achats trop nombreux à l’avance.",
+        "Le plus utile est d’avoir une organisation simple, visible et compréhensible par l’autre parent ou une personne qui aide."
+      ]
+    },
+    {
+      "title": "Trier les vêtements sans exagérer",
+      "paragraphs": [
+        "Un nouveau-né n’a pas besoin d’une garde-robe immense.",
+        "Quelques bodies, pyjamas, gilets, bonnets selon la saison, chaussettes et langes suffisent souvent pour commencer.",
+        "Rangez les vêtements par taille pour éviter de chercher au dernier moment.",
+        "Gardez seulement ce qui est vraiment utilisable au début, et mettez le reste de côté."
+      ]
+    },
+    {
+      "title": "Préparer la salle de bain",
+      "paragraphs": [
+        "Pour le bain, il faut surtout un endroit stable, une serviette, un produit lavant doux si vous en utilisez, du coton ou des compresses selon les conseils reçus, et des vêtements prêts à proximité.",
+        "Le bain peut être impressionnant au début, mais il n’a pas besoin d’un matériel compliqué.",
+        "Préparez toujours l’espace avant de déshabiller bébé.",
+        "Cela évite de devoir chercher quelque chose avec un bébé mouillé ou fatigué."
+      ]
+    },
+    {
+      "title": "Penser aux parents aussi",
+      "paragraphs": [
+        "Préparer la maison, ce n’est pas seulement préparer les affaires du bébé.",
+        "Il est utile de prévoir des repas faciles, des protections post-partum, une gourde, des vêtements confortables, des médicaments autorisés si prescrits et des numéros utiles.",
+        "Un coin repos pour la mère, avec ce dont elle a besoin à portée de main, peut vraiment aider.",
+        "Les premiers jours, le confort des parents compte autant que le rangement de la chambre."
+      ],
+      "quote": "Une maison prête est aussi une maison qui protège la récupération des parents."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les essentiels avant la naissance sont ceux qui facilitent le sommeil, le change, l’alimentation, le bain et le repos.",
+        "Il vaut mieux une organisation simple qu’une maison trop remplie.",
+        "Préparer par zones aide à se sentir moins dépassée.",
+        "Les achats peuvent être progressifs : beaucoup de besoins apparaissent vraiment après la naissance.",
+        "Le plus important est que les parents puissent trouver facilement les affaires et récupérer autant que possible."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "organiser-les-premieres-semaines-avec-bebe-sans-sepuiser",
+  "title": "Organiser les premières semaines avec bébé sans s’épuiser",
+  "description": "Les premières semaines avec bébé peuvent être intenses. Voici comment alléger le quotidien, limiter la fatigue, accepter de l’aide et garder une organisation réaliste.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les premières semaines ne sont pas faites pour tout gérer : elles servent à récupérer, nourrir bébé et trouver un rythme petit à petit.",
+        "L’organisation doit être minimale, souple et centrée sur les besoins essentiels.",
+        "Repas, ménage, visites et démarches peuvent être simplifiés ou délégués.",
+        "Accepter de l’aide concrète protège la récupération et diminue la charge mentale.",
+        "Si la fatigue devient écrasante ou si le moral chute, il faut demander de l’aide rapidement."
+      ],
+      "quote": "Les premières semaines ne se réussissent pas en faisant tout : elles se traversent en gardant l’essentiel."
+    },
+    {
+      "title": "Revoir ses attentes",
+      "paragraphs": [
+        "Avec un nouveau-né, les journées peuvent sembler courtes, décousues et imprévisibles.",
+        "Il est normal de ne pas faire tout ce qui était prévu.",
+        "Le sommeil est fragmenté, les repas sont parfois pris tard, les soins prennent du temps et les émotions peuvent varier.",
+        "Réduire les attentes évite de transformer chaque journée en échec."
+      ]
+    },
+    {
+      "title": "Prioriser trois choses",
+      "paragraphs": [
+        "Au début, il peut être utile de se concentrer sur trois priorités : bébé est nourri, les parents mangent, la mère récupère autant que possible.",
+        "Le reste peut souvent être reporté ou fait de manière imparfaite.",
+        "Une maison un peu en désordre n’est pas un problème si tout le monde est en sécurité.",
+        "Cette façon de penser aide à sortir de la pression de performance."
+      ]
+    },
+    {
+      "title": "Préparer des repas simples",
+      "paragraphs": [
+        "Les repas sont souvent l’un des premiers points qui épuisent les parents.",
+        "Avant ou après la naissance, prévoyez des repas faciles : plats congelés, soupes, féculents, œufs, conserves utiles, fruits, yaourts, encas nourrissants.",
+        "Il est aussi possible de demander aux proches d’apporter un repas plutôt que des cadeaux ou des visites longues.",
+        "Manger suffisamment aide à récupérer et à mieux supporter les nuits coupées."
+      ]
+    },
+    {
+      "title": "Limiter le ménage",
+      "paragraphs": [
+        "Le ménage peut vite devenir une source de tension.",
+        "Les premières semaines, gardez seulement l’hygiène indispensable : vaisselle, linge utile, poubelles, surfaces nécessaires au bébé.",
+        "Le grand rangement, les vitres, les placards ou les tâches longues peuvent attendre.",
+        "Si quelqu’un propose de l’aide, donnez une tâche concrète plutôt qu’une réponse vague."
+      ]
+    },
+    {
+      "title": "Organiser les nuits",
+      "paragraphs": [
+        "Les nuits avec un nouveau-né sont souvent irrégulières.",
+        "Préparez un espace simple pour les changes et les repas de nuit afin de limiter les déplacements.",
+        "Quand c’est possible, répartissez les rôles avec le coparent : changement de couche, biberon, installation pour l’allaitement, rot, rendormissement ou relais le matin.",
+        "Même une petite tranche de sommeil protégée peut changer la journée."
+      ]
+    },
+    {
+      "title": "Gérer les visites",
+      "paragraphs": [
+        "Les visites peuvent faire plaisir, mais elles peuvent aussi fatiguer.",
+        "Il est possible de limiter leur durée, de reporter, de demander aux personnes de venir avec un repas ou de prévenir que vous ne serez pas disponibles longtemps.",
+        "Les proches qui aident vraiment ne devraient pas être reçus comme des invités.",
+        "Protéger le repos n’est pas impoli : c’est une nécessité."
+      ]
+    },
+    {
+      "title": "Prévoir une liste d’aide",
+      "paragraphs": [
+        "Quand on est épuisée, il est difficile de savoir quoi demander.",
+        "Préparez une petite liste de tâches faciles à déléguer : courses, pharmacie, repas, linge, aînés, sortie du chien, trajet à un rendez-vous.",
+        "Ainsi, lorsqu’un proche propose de l’aide, vous pouvez répondre clairement.",
+        "Cela évite aussi que toute l’organisation repose sur la mère."
+      ],
+      "quote": "L’aide utile est souvent très concrète : un repas, une lessive, une course, une heure de repos."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les premières semaines avec bébé demandent une organisation très simple.",
+        "Il faut réduire les attentes, simplifier les repas, limiter les visites et déléguer autant que possible.",
+        "Le sommeil et la récupération doivent être protégés.",
+        "Une organisation souple vaut mieux qu’un planning impossible à tenir.",
+        "Si la fatigue ou le moral deviennent trop lourds, un professionnel peut aider."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "comment-repartir-les-taches-avec-le-coparent",
+  "title": "Comment répartir les tâches avec le coparent ?",
+  "description": "Après l’arrivée de bébé, la répartition des tâches peut devenir une source de fatigue et de tensions. Voici comment en parler, partager la charge mentale et ajuster l’organisation.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La répartition des tâches doit être discutée avant et après la naissance, car les besoins changent vite.",
+        "Il ne s’agit pas seulement d’aider, mais de partager réellement la responsabilité du quotidien.",
+        "Les tâches visibles et invisibles doivent être prises en compte : repas, linge, rendez-vous, nuits, démarches, matériel, charge mentale.",
+        "Une organisation écrite ou très concrète peut éviter les malentendus.",
+        "La répartition doit rester ajustable selon la fatigue, l’allaitement, le travail, la récupération et le rythme de bébé."
+      ],
+      "quote": "Le coparent n’aide pas la mère : il prend sa place de parent dans l’organisation familiale."
+    },
+    {
+      "title": "Pourquoi en parler tôt ?",
+      "paragraphs": [
+        "Après la naissance, la fatigue rend les discussions plus difficiles.",
+        "Parler de la répartition avant l’arrivée de bébé permet d’éviter que tout repose naturellement sur la même personne.",
+        "Il est utile d’aborder les nuits, les repas, les courses, le ménage, les démarches, les visites et les rendez-vous.",
+        "Même si tout ne se passe pas comme prévu, avoir une base commune aide à ajuster."
+      ]
+    },
+    {
+      "title": "Lister les tâches visibles",
+      "paragraphs": [
+        "Les tâches visibles sont celles que l’on remarque facilement : donner un biberon, changer une couche, lancer une machine, préparer un repas, faire les courses, ranger.",
+        "Elles doivent être réparties de manière réaliste selon les horaires, la récupération et l’énergie de chacun.",
+        "Dire “je t’aiderai” reste souvent trop flou.",
+        "Il vaut mieux définir qui fait quoi, quand, et ce qui doit être fait sans qu’on ait besoin de le demander."
+      ]
+    },
+    {
+      "title": "Ne pas oublier la charge mentale",
+      "paragraphs": [
+        "La charge mentale correspond à tout ce qu’il faut penser, anticiper, vérifier et organiser.",
+        "Par exemple : savoir combien il reste de couches, prendre les rendez-vous, penser au carnet de santé, prévoir les vêtements à la bonne taille, vérifier les papiers ou organiser les visites.",
+        "Si une seule personne pense à tout, même avec de l’aide ponctuelle, elle peut s’épuiser.",
+        "Partager la charge mentale signifie que chacun prend la responsabilité complète de certains sujets."
+      ]
+    },
+    {
+      "title": "Partager les nuits",
+      "paragraphs": [
+        "Les nuits sont souvent le point le plus sensible.",
+        "Selon l’allaitement, le biberon, le travail et la récupération, la répartition peut prendre plusieurs formes.",
+        "Le coparent peut changer bébé, l’apporter pour une tétée, gérer le rot, rendormir, prendre le relais tôt le matin ou assurer une plage de sommeil.",
+        "L’important est de protéger au moins quelques temps de récupération pour chacun."
+      ]
+    },
+    {
+      "title": "Mettre des responsabilités complètes",
+      "paragraphs": [
+        "Une responsabilité complète signifie qu’une personne gère une tâche du début à la fin.",
+        "Par exemple, gérer les couches veut dire voir le stock, acheter, ranger et prévenir en cas de changement de taille.",
+        "Gérer les repas veut dire décider, faire les courses et préparer, pas seulement aider quand on le demande.",
+        "Cette méthode réduit les rappels constants et les frustrations."
+      ]
+    },
+    {
+      "title": "Prévoir une réunion courte",
+      "paragraphs": [
+        "Une fois bébé arrivé, l’organisation doit être revue régulièrement.",
+        "Un point de dix minutes peut suffire : qu’est-ce qui nous épuise ? Qu’est-ce qui fonctionne ? Qu’est-ce qu’on délègue ? Qui prend quoi cette semaine ?",
+        "Ce temps évite d’attendre que la fatigue devienne une dispute.",
+        "Il doit rester concret, pas devenir un procès."
+      ]
+    },
+    {
+      "title": "Quand l’un des deux travaille",
+      "paragraphs": [
+        "Le travail extérieur ne supprime pas le besoin de partager la vie familiale.",
+        "La personne qui reste avec bébé peut aussi être en récupération, en manque de sommeil et sollicitée toute la journée.",
+        "Il est donc utile de prévoir des relais en dehors des heures de travail : matin, soir, nuit, week-end, démarches ou tâches de maison.",
+        "La répartition doit tenir compte de la fatigue réelle, pas seulement du planning professionnel."
+      ],
+      "quote": "S’occuper d’un nouveau-né toute la journée n’est pas une pause : c’est un travail de soin continu."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Répartir les tâches avec le coparent demande une discussion claire et régulière.",
+        "Il faut partager les tâches visibles et la charge mentale.",
+        "Les responsabilités complètes évitent que l’un pense pour deux.",
+        "L’organisation doit rester souple selon la récupération, les nuits et le rythme de bébé.",
+        "Un coparent impliqué protège la santé de toute la famille."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "visites-repas-menage-comment-poser-ses-limites",
+  "title": "Visites, repas, ménage : comment poser ses limites ?",
+  "description": "Après la naissance, les visites, les repas et le ménage peuvent vite épuiser. Voici comment poser des limites simples, protéger le repos et demander une aide vraiment utile.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Après la naissance, poser des limites est une façon de protéger la récupération, pas un manque de politesse.",
+        "Les visites peuvent être courtes, espacées, reportées ou conditionnées à une aide concrète.",
+        "Les repas et le ménage doivent être simplifiés autant que possible.",
+        "Des phrases préparées à l’avance aident à dire non sans se justifier longuement.",
+        "Les proches les plus utiles sont ceux qui respectent le rythme des parents et ne rajoutent pas de charge."
+      ],
+      "quote": "Dire non à une visite peut être dire oui au repos, à la récupération et au calme."
+    },
+    {
+      "title": "Pourquoi les limites sont importantes",
+      "paragraphs": [
+        "Après l’accouchement, la fatigue, les douleurs, les nuits coupées et les émotions rendent les journées plus fragiles.",
+        "Recevoir du monde, préparer à manger ou ranger avant une visite peut devenir très lourd.",
+        "Même les proches bien intentionnés peuvent ajouter de la fatigue s’ils restent longtemps ou donnent beaucoup de conseils.",
+        "Poser des limites permet de protéger l’énergie disponible pour le bébé et pour la récupération."
+      ]
+    },
+    {
+      "title": "Limiter les visites",
+      "paragraphs": [
+        "Vous pouvez décider de ne pas recevoir tout de suite, ou de recevoir seulement certaines personnes.",
+        "Il est possible de fixer une durée courte, par exemple une visite de trente minutes.",
+        "Vous pouvez aussi demander à prévenir avant de venir et refuser les passages imprévus.",
+        "Une visite réussie est une visite qui respecte le rythme du bébé et des parents."
+      ]
+    },
+    {
+      "title": "Demander une aide concrète",
+      "paragraphs": [
+        "Beaucoup de proches demandent quoi faire, mais les parents épuisés ne savent pas toujours répondre.",
+        "Préparez une liste simple : apporter un repas, faire une course, lancer une lessive, promener l’aîné, vider le lave-vaisselle, passer à la pharmacie.",
+        "Cela transforme une visite fatigante en soutien réel.",
+        "Une personne qui vient aider ne devrait pas être reçue comme une invitée."
+      ]
+    },
+    {
+      "title": "Simplifier les repas",
+      "paragraphs": [
+        "Les repas des premières semaines doivent être faciles.",
+        "Il est possible d’accepter des plats préparés par les proches, de congeler à l’avance ou de prévoir des aliments simples.",
+        "Il n’est pas nécessaire de cuisiner pour les visiteurs.",
+        "Un proche qui vient voir le bébé peut aussi apporter de quoi nourrir les parents."
+      ]
+    },
+    {
+      "title": "Accepter une maison imparfaite",
+      "paragraphs": [
+        "La maison peut être moins rangée que d’habitude.",
+        "Cela ne dit rien de votre capacité à être parent.",
+        "Le minimum suffit : un espace propre pour les soins, du linge utile, de quoi manger et se reposer.",
+        "Le reste peut attendre ou être délégué."
+      ]
+    },
+    {
+      "title": "Préparer des phrases simples",
+      "paragraphs": [
+        "Quand on est fatiguée, dire non peut être difficile.",
+        "Préparer quelques phrases aide : “Aujourd’hui on se repose, on vous proposera un autre moment.”, “On préfère des visites courtes pour l’instant.”, “Si tu veux aider, un repas nous soulagerait beaucoup.”",
+        "Vous n’avez pas besoin de justifier chaque limite.",
+        "Une limite claire est souvent mieux comprise qu’une explication longue."
+      ]
+    },
+    {
+      "title": "Quand les proches insistent",
+      "paragraphs": [
+        "Certains proches peuvent se vexer ou insister.",
+        "Le coparent peut jouer un rôle important en protégeant le calme et en répondant aux messages.",
+        "Il est possible de répéter la même phrase sans entrer dans un débat.",
+        "La priorité reste la santé des parents et le bien-être du bébé."
+      ],
+      "quote": "Les limites n’ont pas besoin d’être validées par tout le monde pour être légitimes."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les visites, les repas et le ménage doivent s’adapter au post-partum, pas l’inverse.",
+        "Les limites protègent la récupération et évitent l’épuisement.",
+        "Une aide concrète vaut mieux qu’une visite longue.",
+        "Les repas simples et la maison imparfaite sont normaux.",
+        "Le coparent peut aider à faire respecter les limites."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "creer-une-routine-souple-avec-un-nouveau-ne",
+  "title": "Créer une routine souple avec un nouveau-né",
+  "description": "Avec un nouveau-né, les journées sont rarement prévisibles. Voici comment créer une routine souple, rassurante et réaliste sans imposer un planning rigide.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Un nouveau-né n’a pas encore de rythme stable : la routine doit rester souple.",
+        "L’objectif n’est pas de contrôler les horaires, mais de créer des repères répétitifs et rassurants.",
+        "Les repères peuvent concerner le réveil, les repas, les changes, la lumière, les sorties et le coucher.",
+        "Une routine souple aide aussi les parents à moins se sentir perdus.",
+        "Si un planning devient source de stress ou de culpabilité, il faut le simplifier."
+      ],
+      "quote": "Avec un nouveau-né, une routine n’est pas un emploi du temps : c’est une suite de repères qui rassurent."
+    },
+    {
+      "title": "Comprendre le rythme du nouveau-né",
+      "paragraphs": [
+        "Les premières semaines, bébé alterne sommeil, repas, changes, éveil court et besoin de contact.",
+        "Il peut dormir beaucoup puis réclamer souvent, surtout le soir ou la nuit.",
+        "Chercher à imposer un rythme strict trop tôt peut créer plus de stress que de soulagement.",
+        "Il est plus réaliste d’observer bébé et de construire de petits repères."
+      ]
+    },
+    {
+      "title": "Commencer par les besoins de base",
+      "paragraphs": [
+        "Une routine souple commence par les besoins essentiels : nourrir, changer, apaiser, dormir, prendre soin des parents.",
+        "Il peut être utile de penser en petits cycles plutôt qu’en horaires fixes.",
+        "Par exemple : repas, rot ou pause, change si besoin, câlin, sommeil ou temps calme.",
+        "Cette logique aide à se repérer même lorsque les journées changent."
+      ]
+    },
+    {
+      "title": "Différencier doucement le jour et la nuit",
+      "paragraphs": [
+        "Sans chercher à faire dormir bébé toute la nuit, vous pouvez installer des repères jour-nuit.",
+        "Le jour, ouvrez les volets, parlez normalement et gardez une ambiance vivante.",
+        "La nuit, privilégiez une lumière douce, peu de stimulation et des gestes calmes.",
+        "Ces repères aident progressivement bébé à comprendre les moments de la journée."
+      ]
+    },
+    {
+      "title": "Prévoir des moments pour les parents",
+      "paragraphs": [
+        "La routine ne doit pas seulement tourner autour du bébé.",
+        "Elle doit aussi inclure des moments pour manger, boire, se laver, se reposer et respirer.",
+        "Même dix minutes de relais peuvent aider.",
+        "Une routine qui oublie les parents finit souvent par les épuiser."
+      ]
+    },
+    {
+      "title": "Accepter que tout change",
+      "paragraphs": [
+        "Le rythme d’un nouveau-né change souvent.",
+        "Une routine qui fonctionne une semaine peut être à ajuster la suivante.",
+        "Les pics de croissance, les douleurs, les rendez-vous, les visites ou la fatigue peuvent bouleverser la journée.",
+        "Une routine souple accepte les imprévus sans tout remettre en question."
+      ]
+    },
+    {
+      "title": "Utiliser des repères simples",
+      "paragraphs": [
+        "Certains repères peuvent aider : une petite phrase avant le coucher, une lumière douce, un lange, une chanson, un bain à certains moments si cela convient, une promenade courte.",
+        "Ces habitudes n’ont pas besoin d’être nombreuses.",
+        "Le plus important est leur répétition et leur simplicité.",
+        "Trop de rituels peuvent devenir une charge supplémentaire."
+      ]
+    },
+    {
+      "title": "Ne pas confondre routine et pression",
+      "paragraphs": [
+        "Une routine doit alléger, pas culpabiliser.",
+        "Si vous vous sentez en échec parce que bébé ne suit pas le programme, c’est peut-être que le programme est trop rigide.",
+        "Un nouveau-né ne fait pas exprès de déranger l’organisation.",
+        "La routine doit rester au service de la famille, pas l’inverse."
+      ],
+      "quote": "La bonne routine est celle qui aide, pas celle qui donne l’impression de rater sa journée."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Un nouveau-né a besoin de repères souples, pas d’un planning strict.",
+        "Observer bébé aide à construire une routine réaliste.",
+        "Les repères jour-nuit, les gestes répétés et les moments de repos des parents sont utiles.",
+        "La routine doit évoluer avec bébé.",
+        "Si elle devient stressante, elle doit être simplifiée."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "preparer-son-retour-de-maternite-ce-qui-aide-vraiment",
+  "title": "Préparer son retour de maternité : ce qui aide vraiment",
+  "description": "Le retour de maternité peut être émouvant et fatigant. Voici ce qui aide vraiment : repas, aide, suivi, repos, matériel, limites et organisation simple à la maison.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le retour de maternité se prépare surtout avec du repos, de l’aide concrète et une maison simple à utiliser.",
+        "Il est utile d’avoir les numéros de la maternité, de la sage-femme, de la PMI et des urgences à portée de main.",
+        "Les repas, les courses, le linge et les visites doivent être anticipés ou allégés.",
+        "Le suivi médical de la mère et du bébé doit être prévu avant la sortie ou rapidement après.",
+        "Le plus aidant est souvent de limiter les attentes et de ne pas rester seule avec les inquiétudes."
+      ],
+      "quote": "Le retour à la maison n’est pas le moment de tout réussir : c’est le moment d’être entourée."
+    },
+    {
+      "title": "Anticiper avant la sortie",
+      "paragraphs": [
+        "Avant de quitter la maternité, vérifiez les consignes reçues pour vous et pour bébé.",
+        "Notez les signes qui doivent faire consulter, les rendez-vous prévus, les traitements éventuels et les contacts à appeler en cas de doute.",
+        "Demandez aussi comment se passe le suivi à domicile si une sage-femme est prévue.",
+        "Ces informations évitent de chercher dans la fatigue du retour."
+      ]
+    },
+    {
+      "title": "Préparer les repas",
+      "paragraphs": [
+        "Les repas sont l’un des soutiens les plus concrets.",
+        "Prévoir quelques plats simples, des produits faciles à assembler et des encas peut aider les premiers jours.",
+        "Si des proches veulent aider, un repas prêt à réchauffer est souvent plus utile qu’une longue visite.",
+        "Manger correctement aide à récupérer, surtout avec les nuits coupées."
+      ]
+    },
+    {
+      "title": "Organiser l’aide",
+      "paragraphs": [
+        "L’aide doit être concrète et acceptée sans culpabilité.",
+        "Courses, pharmacie, linge, repas, ménage léger, trajet ou prise en charge des aînés peuvent être délégués.",
+        "Il est utile de dire clairement ce dont vous avez besoin plutôt que d’attendre que les autres devinent.",
+        "Une aide bien organisée évite que toute la charge repose sur les parents."
+      ]
+    },
+    {
+      "title": "Limiter les visites",
+      "paragraphs": [
+        "Le retour de maternité peut donner envie aux proches de venir vite.",
+        "Vous avez le droit de limiter les visites, de les reporter ou de demander des passages courts.",
+        "La mère peut avoir besoin de repos, d’intimité, de soins, de pleurer, d’allaiter ou simplement de dormir.",
+        "Le bébé n’a pas besoin de voir tout le monde dans les premiers jours."
+      ]
+    },
+    {
+      "title": "Installer les espaces utiles",
+      "paragraphs": [
+        "À la maison, préparez les zones les plus utilisées : change, sommeil, repas, salle de bain et coin repos.",
+        "Mettez les affaires simples à portée de main pour éviter de chercher partout.",
+        "Un panier mobile avec couches, langes, eau et petites affaires peut aider.",
+        "L’objectif est de rendre les gestes répétitifs plus faciles."
+      ]
+    },
+    {
+      "title": "Prévoir le suivi de bébé",
+      "paragraphs": [
+        "Le bébé doit être suivi médicalement dans les premiers jours et premières semaines.",
+        "Gardez le carnet de santé accessible et notez les rendez-vous, les questions et les observations importantes.",
+        "Si bébé boit peu, mouille peu ses couches, semble très somnolent ou vous inquiète, demandez un avis sans attendre.",
+        "Le suivi est aussi un moment pour poser toutes vos questions."
+      ]
+    },
+    {
+      "title": "Prévoir le suivi de la mère",
+      "paragraphs": [
+        "La récupération de la mère doit aussi être surveillée.",
+        "Saignements, douleurs, cicatrice, périnée, allaitement, fatigue et moral méritent une attention réelle.",
+        "Fièvre, douleur qui s’aggrave, malaise, saignements abondants ou idées noires doivent faire consulter rapidement.",
+        "Le retour à la maison ne signifie pas que la mère doit se débrouiller seule."
+      ],
+      "quote": "Une mère qui rentre à la maison reste en période de récupération : elle a encore besoin de soins et de soutien."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Préparer le retour de maternité, c’est surtout préparer de l’aide, des repas, des contacts utiles et du repos.",
+        "La maison n’a pas besoin d’être parfaite.",
+        "Les visites doivent respecter la récupération.",
+        "Le suivi médical de la mère et du bébé doit être clair.",
+        "En cas de doute, il faut appeler : les parents ne doivent pas rester seuls avec une inquiétude."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "faire-une-liste-de-naissance-utile-quoi-mettre-quoi-eviter",
+  "title": "Faire une liste de naissance utile : quoi mettre, quoi éviter ?",
+  "description": "Une liste de naissance peut vraiment aider si elle reste simple et adaptée à votre quotidien. Voici quoi mettre, quoi éviter et comment limiter les achats inutiles.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Une liste de naissance utile doit partir de votre logement, votre budget, votre mode de vie et vos vrais besoins.",
+        "Les priorités sont le sommeil, le change, les repas, les vêtements de base, le transport et quelques soins simples.",
+        "Il vaut mieux éviter les objets trop spécifiques avant de savoir ce qui conviendra à bébé.",
+        "Les cadeaux immatériels peuvent être très utiles : repas, aide, ménage, garde d’un aîné, participation à un achat important.",
+        "Une bonne liste évite les doublons, les achats inutiles et la surcharge d’objets."
+      ],
+      "quote": "Une liste de naissance réussie n’est pas la plus longue : c’est celle qui vous simplifie vraiment la vie."
+    },
+    {
+      "title": "Partir de son quotidien",
+      "paragraphs": [
+        "Avant de remplir une liste, observez votre logement et vos habitudes.",
+        "Avez-vous beaucoup de place ? Des escaliers ? Une voiture ? Un ascenseur ? Un sèche-linge ? Un mode de garde prévu ?",
+        "Les besoins ne seront pas les mêmes selon les familles.",
+        "Une liste utile est une liste adaptée à votre vie, pas à une vitrine idéale."
+      ]
+    },
+    {
+      "title": "Les essentiels à envisager",
+      "paragraphs": [
+        "Les essentiels concernent surtout le sommeil, le change, les repas, les sorties et les vêtements.",
+        "On peut prévoir des draps, turbulettes, langes, couches, matelas à langer, quelques bodies et pyjamas, une poussette ou un moyen de portage selon les choix, et du matériel de repas si besoin.",
+        "Il n’est pas nécessaire de tout acheter en avance.",
+        "Certains besoins apparaissent vraiment après la naissance."
+      ]
+    },
+    {
+      "title": "Les cadeaux utiles aux parents",
+      "paragraphs": [
+        "Les parents ont aussi besoin de soutien.",
+        "Une liste peut inclure des repas livrés, des heures de ménage, une participation à une séance photo, une aide pour les courses ou un bon pour une pharmacie.",
+        "Ces cadeaux sont parfois moins visibles, mais beaucoup plus utiles dans les premières semaines.",
+        "Ils montrent aussi que la récupération des parents compte."
+      ]
+    },
+    {
+      "title": "Éviter les doublons",
+      "paragraphs": [
+        "Les vêtements en petite taille, les doudous, les peluches et les couvertures arrivent souvent en grand nombre.",
+        "Il peut être utile de préciser ce dont vous avez vraiment besoin et les tailles souhaitées.",
+        "Une liste partagée évite que plusieurs personnes offrent le même objet.",
+        "N’hésitez pas à écrire que certains articles ne sont pas nécessaires."
+      ]
+    },
+    {
+      "title": "Ce qu’on peut attendre d’acheter",
+      "paragraphs": [
+        "Certains objets peuvent attendre : transat, tire-lait personnel, chauffe-biberon, robots, jouets d’éveil, accessoires très spécifiques.",
+        "Selon votre bébé, votre alimentation, votre logement et vos habitudes, ils seront utiles ou non.",
+        "Attendre permet de mieux choisir et d’éviter les dépenses inutiles.",
+        "Emprunter ou acheter d’occasion peut aussi être une bonne option pour certains articles."
+      ]
+    },
+    {
+      "title": "Penser à la sécurité",
+      "paragraphs": [
+        "Tous les objets pour bébé ne se valent pas en matière de sécurité.",
+        "Vérifiez l’état du matériel, les normes, les rappels éventuels, la stabilité et l’adaptation à l’âge.",
+        "Soyez particulièrement vigilants pour le sommeil, le siège auto, la poussette et les objets d’occasion.",
+        "Un objet joli mais peu sûr ou peu pratique n’est pas un bon cadeau."
+      ]
+    },
+    {
+      "title": "Prévoir plusieurs budgets",
+      "paragraphs": [
+        "Une liste accessible propose plusieurs prix.",
+        "Les proches peuvent ainsi choisir un petit cadeau utile ou participer à un achat plus important.",
+        "Vous pouvez aussi prévoir une cagnotte pour le matériel coûteux.",
+        "Cela évite de se retrouver avec beaucoup de petits objets peu utiles alors qu’un achat essentiel manque encore."
+      ],
+      "quote": "Un petit cadeau utile vaut mieux qu’un grand objet qui ne servira jamais."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Une liste de naissance doit rester simple, pratique et adaptée à votre quotidien.",
+        "Les essentiels concernent surtout sommeil, change, repas, vêtements et sorties.",
+        "Les cadeaux de soutien aux parents sont très précieux.",
+        "Il vaut mieux éviter les achats trop spécifiques avant la naissance.",
+        "La sécurité et l’utilité doivent passer avant le coup de cœur."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "Assurance Maladie — Suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent"
+    },
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    }
+  ]
+},
+
+{
+  "slug": "organiser-les-rendez-vous-de-bebe-sans-se-sentir-depassee",
+  "title": "Organiser les rendez-vous de bébé sans se sentir dépassée",
+  "description": "Les premiers mois de bébé sont rythmés par les consultations, vaccins, pesées et questions. Voici comment organiser les rendez-vous sans charge mentale excessive.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le suivi médical de bébé est régulier les premiers mois : mieux vaut noter les rendez-vous dès que possible.",
+        "Le carnet de santé doit être gardé accessible et apporté à chaque consultation.",
+        "Un calendrier partagé peut aider à répartir la charge mentale avec le coparent.",
+        "Préparer les questions avant le rendez-vous évite d’oublier dans la fatigue.",
+        "En cas de fièvre, mauvaise alimentation, somnolence inhabituelle ou inquiétude, il ne faut pas attendre le prochain rendez-vous prévu."
+      ],
+      "quote": "Organiser les rendez-vous de bébé, c’est surtout créer un système simple pour ne pas tout garder dans sa tête."
+    },
+    {
+      "title": "Pourquoi il y a beaucoup de rendez-vous",
+      "paragraphs": [
+        "Les premiers mois, bébé est suivi de près pour surveiller sa croissance, son alimentation, son développement et ses vaccinations.",
+        "Ces consultations permettent aussi aux parents de poser leurs questions.",
+        "Elles peuvent sembler nombreuses, surtout avec la fatigue du post-partum.",
+        "Une organisation simple évite de se sentir noyée."
+      ]
+    },
+    {
+      "title": "Utiliser le carnet de santé",
+      "paragraphs": [
+        "Le carnet de santé est un document important.",
+        "Il rassemble les informations de suivi, les courbes, les vaccinations, les conseils et les observations des professionnels.",
+        "Gardez-le toujours au même endroit et apportez-le à chaque rendez-vous.",
+        "Vous pouvez aussi y glisser une petite feuille avec vos questions."
+      ]
+    },
+    {
+      "title": "Mettre les dates dans un calendrier",
+      "paragraphs": [
+        "Dès qu’un rendez-vous est pris, notez-le dans un calendrier papier ou numérique.",
+        "Un calendrier partagé avec le coparent permet que l’information ne repose pas sur une seule personne.",
+        "Ajoutez l’adresse, le nom du professionnel et les documents à apporter.",
+        "Un rappel la veille peut éviter les oublis."
+      ]
+    },
+    {
+      "title": "Préparer les questions",
+      "paragraphs": [
+        "Dans la fatigue, il est fréquent d’oublier ce que l’on voulait demander.",
+        "Notez les questions au fur et à mesure : sommeil, alimentation, couches, pleurs, peau, régurgitations, poids, vaccins, médicaments.",
+        "Au rendez-vous, commencez par les questions les plus importantes.",
+        "Aucune question de parent n’est trop simple si elle vous inquiète."
+      ]
+    },
+    {
+      "title": "Répartir avec le coparent",
+      "paragraphs": [
+        "Le suivi médical de bébé ne doit pas être porté par une seule personne si vous êtes deux.",
+        "Le coparent peut prendre des rendez-vous, accompagner, noter les consignes, gérer les documents ou poser aussi ses questions.",
+        "Cela aide à partager la charge mentale et à mieux retenir les informations.",
+        "Quand les deux parents savent ce qui est prévu, le quotidien est plus léger."
+      ]
+    },
+    {
+      "title": "Préparer le sac de rendez-vous",
+      "paragraphs": [
+        "Pour éviter le stress, préparez un petit sac simple : carnet de santé, carte Vitale ou documents nécessaires, couches, change, lange, biberon si besoin, tétine si utilisée, tenue adaptée.",
+        "Il n’est pas nécessaire d’emporter toute la maison.",
+        "L’objectif est d’avoir ce qui permet de gérer l’attente, le change et le repas éventuel.",
+        "Un sac prêt à l’avance peut servir pour plusieurs sorties."
+      ]
+    },
+    {
+      "title": "Ne pas attendre en cas d’inquiétude",
+      "paragraphs": [
+        "Les rendez-vous prévus sont importants, mais ils ne remplacent pas un avis rapide si quelque chose inquiète.",
+        "Un bébé qui boit peu, mouille peu ses couches, est très somnolent, respire mal, a de la fièvre ou change brutalement de comportement doit être évalué.",
+        "En cas de doute, appelez le médecin, la PMI, la maternité ou les urgences selon la situation.",
+        "Il vaut mieux demander un avis trop tôt que rester seule avec une inquiétude."
+      ],
+      "quote": "Un rendez-vous prévu dans quelques jours ne doit pas faire attendre un signe qui inquiète aujourd’hui."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les rendez-vous de bébé se gèrent mieux avec un système simple.",
+        "Carnet de santé, calendrier partagé, questions notées et sac prêt réduisent la charge mentale.",
+        "Le coparent peut prendre une vraie part dans le suivi.",
+        "Les consultations sont aussi un espace pour poser vos questions.",
+        "En cas de signe inquiétant, il faut demander un avis sans attendre."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Assurance Maladie — 3 examens de suivi médical jusqu’aux 2 mois du nourrisson",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent/suivi-medical-jusqu-aux-2-mois-du-nourrisson"
+    },
+    {
+      "label": "Assurance Maladie — Examen du nourrisson dans les 8 jours suivant sa naissance",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent/examen-du-nourrisson-dans-les-8-jours-qui-suivent-sa-naissance"
+    },
+    {
+      "label": "Assurance Maladie — 20 examens de suivi médical de l’enfant et de l’adolescent",
+      "url": "https://www.ameli.fr/assure/sante/themes/suivi-medical-de-l-enfant-et-de-l-adolescent/enfant-et-adolescent-20-examens-de-suivi-medical"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    }
+  ]
+},
+
+{
+  "slug": "quand-on-a-deja-un-enfant-comment-organiser-le-quotidien",
+  "title": "Quand on a déjà un enfant : comment organiser le quotidien ?",
+  "description": "Accueillir un bébé quand on a déjà un enfant demande une organisation particulière : préparer l’aîné, gérer les repas, les trajets, la fatigue, les jalousies et les temps de qualité.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Organisation",
+  "subcategorySlug": "organisation",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Quand un bébé arrive, l’aîné a besoin d’être préparé, rassuré et inclus sans être responsabilisé comme un adulte.",
+        "L’organisation doit anticiper la garde pendant l’accouchement, les trajets, les repas, les couchers et les imprévus.",
+        "Des temps courts mais réguliers avec l’aîné peuvent aider à sécuriser le lien.",
+        "La jalousie, les régressions ou les demandes d’attention peuvent être normales.",
+        "L’aide extérieure est souvent indispensable pour éviter l’épuisement."
+      ],
+      "quote": "Accueillir un bébé quand il y a déjà un enfant, c’est organiser le quotidien tout en rassurant chacun sur sa place."
+    },
+    {
+      "title": "Préparer l’aîné avant la naissance",
+      "paragraphs": [
+        "Selon son âge, l’aîné peut comprendre plus ou moins ce qui va changer.",
+        "Expliquez simplement que le bébé va arriver, qu’il aura besoin de beaucoup de soins et que les parents pourront être plus fatigués.",
+        "Il est utile de dire qui s’occupera de lui pendant l’accouchement et comment se passera le retour.",
+        "Les explications simples et répétées rassurent davantage qu’un long discours."
+      ]
+    },
+    {
+      "title": "Prévoir la garde pendant l’accouchement",
+      "paragraphs": [
+        "La garde de l’aîné pendant l’accouchement doit être anticipée.",
+        "Prévoyez une personne principale et une solution de secours.",
+        "Préparez un sac avec vêtements, doudou, repas ou informations utiles selon l’âge.",
+        "Expliquez à l’enfant où il ira ou qui viendra, pour qu’il ne découvre pas tout dans l’urgence."
+      ]
+    },
+    {
+      "title": "Simplifier les repas et les trajets",
+      "paragraphs": [
+        "Avec un nouveau-né et un aîné, les repas et les trajets peuvent vite devenir épuisants.",
+        "Préparez des repas simples, acceptez l’aide des proches et anticipez les courses.",
+        "Pour l’école, la crèche ou les activités, voyez si quelqu’un peut prendre le relais quelques jours.",
+        "Même une aide ponctuelle peut alléger fortement les premières semaines."
+      ]
+    },
+    {
+      "title": "Garder des repères pour l’aîné",
+      "paragraphs": [
+        "L’arrivée d’un bébé change beaucoup de choses, mais certains repères peuvent rester.",
+        "Le rituel du coucher, une histoire, un câlin du matin ou un petit moment avec un parent peuvent aider.",
+        "Il n’est pas nécessaire de tout garder comme avant, mais conserver quelques habitudes rassure.",
+        "Ces repères montrent à l’aîné qu’il n’a pas perdu sa place."
+      ]
+    },
+    {
+      "title": "Accepter les réactions de l’aîné",
+      "paragraphs": [
+        "Un enfant peut réagir par de la jalousie, des colères, des pleurs, une régression, des demandes de bras ou des troubles du sommeil.",
+        "Cela ne veut pas dire qu’il n’aime pas le bébé.",
+        "Il exprime souvent qu’il a besoin d’être rassuré.",
+        "Accueillir ses émotions, poser un cadre et lui montrer qu’il compte toujours peut aider."
+      ]
+    },
+    {
+      "title": "Inclure sans responsabiliser",
+      "paragraphs": [
+        "L’aîné peut participer s’il en a envie : choisir un body, apporter une couche, chanter une chanson, montrer un jouet.",
+        "Mais il ne doit pas devenir responsable du bébé ni être obligé d’aider.",
+        "Il reste un enfant lui aussi.",
+        "L’inclure doit être une façon de lui donner une place, pas une charge."
+      ]
+    },
+    {
+      "title": "Prévoir des temps courts de qualité",
+      "paragraphs": [
+        "Avec un nouveau-né, il est difficile de passer de longs moments avec l’aîné.",
+        "Des temps courts mais vraiment disponibles peuvent suffire : lire une histoire, faire un puzzle, prendre un goûter ensemble, aller marcher dix minutes.",
+        "Il vaut mieux un petit moment calme et régulier qu’une grande activité impossible à tenir.",
+        "Ces temps renforcent le lien et diminuent parfois les demandes d’attention."
+      ],
+      "quote": "Un enfant n’a pas toujours besoin de beaucoup de temps : il a besoin de sentir que ce temps lui appartient vraiment."
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Quand il y a déjà un enfant, l’organisation doit anticiper la garde, les repas, les trajets et les repères du quotidien.",
+        "L’aîné a besoin d’être préparé, rassuré et inclus sans être chargé.",
+        "Les réactions émotionnelles sont fréquentes et ne doivent pas être dramatisées.",
+        "Des temps courts de qualité peuvent aider à sécuriser le lien.",
+        "L’aide extérieure est précieuse pour protéger l’équilibre de toute la famille."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — La vie de famille après la naissance",
+      "url": "https://www.1000-premiers-jours.fr/fr/la-vie-de-famille-apres-la-naissance"
+    },
+    {
+      "label": "1000 premiers jours — L’accompagnement à domicile pour les parents",
+      "url": "https://www.1000-premiers-jours.fr/fr/laccompagnement-domicile-pour-les-parents"
+    },
+    {
+      "label": "1000 premiers jours — Se préparer à l’accouchement et au post-partum",
+      "url": "https://www.1000-premiers-jours.fr/fr/se-pr%C3%A9parer-accouchement-post-partum"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    }
+  ]
 }
 
 ];
