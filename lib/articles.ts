@@ -13299,46 +13299,6 @@ export const articles: Article[] = [
     ]
   },
   {
-    slug: "organiser-quotidien-jeune-parent",
-    title: "Organiser le quotidien sans s’épuiser",
-    description: "Des méthodes souples pour alléger la charge mentale pendant les premières semaines.",
-    category: "Vie pratique",
-    categorySlug: "vie-pratique",
-    subcategory: "Organisation",
-    subcategorySlug: "organisation",
-    readingTime: "6 min",
-    publishedAt: "2026-04-02",
-    updatedAt: "2026-05-02",
-    tone: "sage",
-    sections: [
-      {
-        title: "Choisir trois priorités par jour",
-        paragraphs: [
-          "Une liste très courte aide à distinguer l’essentiel du reste. Selon les jours, se nourrir, se reposer et prendre une douche peuvent déjà constituer un programme complet."
-        ]
-      },
-      {
-        title: "Rendre les tâches visibles",
-        bullets: [
-          "Lister toutes les tâches, y compris celles de planification.",
-          "Attribuer clairement les responsabilités.",
-          "Prévoir une solution minimale pour les jours difficiles.",
-          "Réévaluer l’organisation chaque semaine."
-        ]
-      },
-      {
-        title: "Faire simple",
-        paragraphs: [
-          "Les repas répétitifs, les courses livrées ou le linge non plié peuvent être des choix utiles, pas des renoncements.",
-          "L’organisation doit soutenir la famille et non devenir une nouvelle source de pression."
-        ]
-      }
-    ],
-    sources: [
-      { label: "Santé publique France — La santé à tout âge : les 1000 premiers jours", url: "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours" }
-    ]
-  },
-  {
     slug: "comment-preparer-son-projet-de-naissance",
     title: "Comment préparer son projet de naissance ?",
     description:
@@ -14933,7 +14893,6 @@ export const articles: Article[] = [
       }
     ]
   },
-
 
   {
     slug: "quand-annoncer-grossesse-proches-employeur",
@@ -28381,7 +28340,6 @@ export const articles: Article[] = [
     }
   ]
 }
-
 
 ];
 
