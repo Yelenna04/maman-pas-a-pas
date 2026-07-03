@@ -2,6 +2,35 @@ export function getArticleImage(
   categorySlug: string,
   slug?: string
 ) {
+
+  if (slug === "que-se-passe-t-il-a-larrivee-a-la-maternite") {
+    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite.png";
+  }
+
+  if (slug === "comment-se-deroule-lexamen-du-col") {
+    return "/images/articleImages/comment-se-deroule-lexamen-du-col.png";
+  }
+
+  if (slug === "monitoring-pendant-le-travail-a-quoi-sert-il") {
+    return "/images/articleImages/monitoring-pendant-le-travail-a-quoi-sert-il.png";
+  }
+
+  if (slug === "peridurale-comment-se-deroule-la-pose") {
+    return "/images/articleImages/peridurale-comment-se-deroule-la-pose.png";
+  }
+
+  if (slug === "peut-on-manger-boire-et-bouger-pendant-le-travail") {
+    return "/images/articleImages/peut-on-manger-boire-et-bouger-pendant-le-travail.png";
+  }
+
+  if (slug === "declenchement-de-laccouchement-pourquoi-et-comment") {
+    return "/images/articleImages/declenchement-de-laccouchement-pourquoi-et-comment.png";
+  }
+
+  if (slug === "quel-est-le-role-de-la-sage-femme-pendant-laccouchement") {
+    return "/images/articleImages/quel-est-le-role-de-la-sage-femme-pendant-laccouchement.png";
+  }
+
   if (slug === "quand-annoncer-grossesse-proches-employeur") {
     return "/images/premier-trimestre-quand-annoncer-grossesse.png";
   }
@@ -385,19 +414,6 @@ export function getArticleImage(
     slug === "role-personne-accompagnante-pendant-accouchement"
   ) {
     return "/images/accouchement-preparation-personne-accompagnante.png";
-  }
-
-
-  if (slug === "quand-partir-a-la-maternite") {
-    return "/images/articleImages/quand-partir-a-la-maternite.png";
-  }
-
-  if (slug === "que-faire-pendant-le-debut-du-travail-a-la-maison") {
-    return "/images/articleImages/que-faire-pendant-le-debut-du-travail-a-la-maison.png";
-  }
-
-  if (slug === "que-se-passe-t-il-si-le-terme-est-depasse") {
-    return "/images/articleImages/que-se-passe-t-il-si-le-terme-est-depasse.png";
   }
 
   const images: Record<string, string> = {
