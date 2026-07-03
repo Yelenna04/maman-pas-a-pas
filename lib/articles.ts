@@ -31707,6 +31707,1164 @@ export const articles: Article[] = [
       "url": "https://www.1000-premiers-jours.fr/fr"
     }
   ]
+},
+
+{
+  "slug": "sortir-avec-un-nouveau-ne-quand-et-comment-sorganiser",
+  "title": "Sortir avec un nouveau-né : quand et comment s’organiser ?",
+  "description": "Les premières sorties avec un nouveau-né peuvent faire peur. Voici comment choisir le bon moment, préparer le sac, adapter la sortie et repérer quand rester au calme.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "On peut sortir avec un nouveau-né si lui et le parent vont bien, en adaptant la durée, le lieu et la météo.",
+        "Les premières sorties peuvent être courtes : quelques minutes dehors suffisent pour prendre confiance.",
+        "Il faut prévoir de quoi nourrir, changer, couvrir ou découvrir bébé selon la température.",
+        "Évitez les lieux très bondés, bruyants ou avec beaucoup de personnes malades au début.",
+        "En cas de fièvre, bébé très somnolent, difficultés à boire ou parent très épuisé, il vaut mieux demander un avis avant de sortir."
+      ],
+      "quote": "Une sortie réussie avec un nouveau-né n’a pas besoin d’être longue : elle doit surtout être simple, calme et adaptable."
+    },
+    {
+      "title": "Quand peut-on commencer ?",
+      "paragraphs": [
+        "Il n’existe pas une date unique valable pour toutes les familles.",
+        "Si le bébé va bien, qu’il se nourrit correctement et que le parent se sent capable, une petite sortie peut être envisagée assez tôt.",
+        "Après un accouchement difficile, une césarienne, une grande fatigue ou un bébé fragile, il est préférable d’y aller plus progressivement.",
+        "Le plus important est de respecter le rythme de récupération et les consignes reçues à la maternité."
+      ]
+    },
+    {
+      "title": "Commencer petit",
+      "paragraphs": [
+        "La première sortie peut simplement être un tour devant la maison, quelques minutes dans le quartier ou un petit trajet jusqu’à la pharmacie.",
+        "Il n’est pas nécessaire de prévoir une longue promenade ou plusieurs courses dès le départ.",
+        "Une sortie courte permet de tester le sac, l’habillage, la poussette ou le porte-bébé sans pression.",
+        "Si bébé pleure ou si vous êtes fatiguée, rentrer rapidement n’est pas un échec."
+      ]
+    },
+    {
+      "title": "Choisir le bon moment",
+      "paragraphs": [
+        "Essayez de choisir un moment où bébé vient de boire, où il est changé et où vous n’êtes pas trop pressée.",
+        "Certains bébés dorment facilement dehors, d’autres ont besoin de calme.",
+        "Le matin ou le début d’après-midi peut être plus simple si les soirées sont difficiles.",
+        "Gardez une marge : avec un nouveau-né, tout peut prendre plus de temps que prévu."
+      ]
+    },
+    {
+      "title": "Adapter la sortie à la météo",
+      "paragraphs": [
+        "Le nouveau-né régule moins bien sa température qu’un adulte.",
+        "En hiver, protégez-le du froid, du vent et de l’humidité sans trop le couvrir dans un espace fermé ou chauffé.",
+        "En été, évitez les heures chaudes, le soleil direct et les endroits mal ventilés.",
+        "Vérifiez régulièrement la nuque de bébé : chaude et humide, il a peut-être trop chaud ; froide, il peut avoir besoin d’une couche supplémentaire."
+      ]
+    },
+    {
+      "title": "Les lieux à privilégier",
+      "paragraphs": [
+        "Les premières sorties sont souvent plus simples dans des lieux calmes et faciles à quitter.",
+        "Une promenade courte, un rendez-vous médical, une visite chez une personne proche ou une petite course peuvent suffire.",
+        "Les centres commerciaux bondés, les lieux très bruyants ou les grandes réunions familiales peuvent attendre si cela vous stresse.",
+        "Vous avez le droit de protéger votre rythme et celui du bébé."
+      ]
+    },
+    {
+      "title": "Ce qu’il faut prévoir",
+      "bullets": [
+        "Des couches et des lingettes ou du coton.",
+        "Une tenue ou un body de rechange.",
+        "Une petite couverture ou un lange selon la saison.",
+        "De quoi nourrir bébé si besoin.",
+        "Un sac pour les vêtements sales.",
+        "Le carnet de santé pour les rendez-vous."
+      ]
+    },
+    {
+      "title": "Si bébé pleure dehors",
+      "paragraphs": [
+        "Un bébé peut pleurer dehors pour les mêmes raisons qu’à la maison : faim, couche, inconfort, fatigue, besoin de contact ou stimulation.",
+        "Cherchez d’abord un endroit calme pour le prendre contre vous, vérifier la couche ou proposer à boire.",
+        "Les regards des autres peuvent être gênants, mais ils ne veulent pas dire que vous faites mal.",
+        "Vous pouvez rentrer, faire une pause ou demander de l’aide si vous êtes accompagnée."
+      ]
+    },
+    {
+      "title": "Les signes qu’il vaut mieux reporter",
+      "paragraphs": [
+        "Il vaut mieux éviter une sortie non urgente si bébé a de la fièvre, boit mal, semble très somnolent ou respire difficilement.",
+        "Côté parent, une douleur importante, des saignements abondants, un malaise ou un épuisement profond doivent aussi faire ralentir.",
+        "Dans ces situations, demandez conseil à la maternité, à une sage-femme, à la PMI ou à un médecin.",
+        "La sortie peut attendre : la santé et la récupération passent d’abord."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les premières sorties avec un nouveau-né doivent rester simples, courtes et adaptées.",
+        "Il vaut mieux prévoir peu, garder de la marge et choisir un lieu facile à quitter.",
+        "Le sac de base, la météo, l’alimentation et le rythme de bébé sont les repères principaux.",
+        "Sortir peut faire du bien, mais il n’y a aucune obligation à aller vite."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "prendre-la-voiture-avec-bebe-les-precautions-essentielles",
+  "title": "Prendre la voiture avec bébé : les précautions essentielles",
+  "description": "Siège auto, installation, trajets courts ou longs, pauses et chaleur : les repères pour prendre la voiture avec bébé de façon plus sereine.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Bébé doit toujours voyager dans un dispositif adapté à son âge, sa taille et son poids.",
+        "Le siège auto doit être correctement fixé, avec un harnais ajusté et sans manteau épais sous les sangles.",
+        "Les trajets longs demandent des pauses régulières pour sortir bébé du siège, le nourrir et le changer si besoin.",
+        "Ne laissez jamais bébé seul dans la voiture, même quelques minutes.",
+        "Chaleur, somnolence inhabituelle, pleurs inconsolables ou difficulté à respirer doivent faire s’arrêter et vérifier bébé."
+      ],
+      "quote": "En voiture, le bon matériel compte, mais la bonne installation compte tout autant."
+    },
+    {
+      "title": "Le siège auto est indispensable",
+      "paragraphs": [
+        "Un bébé ne voyage jamais dans les bras, même pour un court trajet.",
+        "Il doit être installé dans un siège auto adapté et homologué, choisi selon sa taille et son poids.",
+        "Avant la première utilisation, prenez le temps de lire la notice du siège et celle de la voiture.",
+        "Une mauvaise installation peut réduire fortement la protection du siège."
+      ]
+    },
+    {
+      "title": "Bien installer bébé",
+      "paragraphs": [
+        "Le harnais doit être bien ajusté, sans être vrillé.",
+        "Les sangles doivent maintenir bébé près du corps, sans gros manteau ni combinaison épaisse entre lui et le harnais.",
+        "En hiver, il vaut mieux attacher bébé sans manteau épais puis ajouter une couverture par-dessus si besoin.",
+        "La tête doit rester bien positionnée et les voies respiratoires dégagées."
+      ]
+    },
+    {
+      "title": "Dos à la route",
+      "paragraphs": [
+        "Pour les tout-petits, le transport dos à la route est le plus protecteur et doit être respecté selon les limites du siège utilisé.",
+        "Vérifiez l’angle d’inclinaison recommandé pour éviter que la tête de bébé ne tombe trop en avant.",
+        "Si le siège est installé à l’avant, l’airbag passager doit être désactivé lorsque cela est nécessaire.",
+        "En cas de doute, demandez conseil à un professionnel formé ou au fabricant."
+      ]
+    },
+    {
+      "title": "Préparer le trajet",
+      "bullets": [
+        "Prévoir une couche propre avant de partir.",
+        "Garder à portée de main le nécessaire pour changer bébé.",
+        "Prévoir de quoi le nourrir si le trajet dure.",
+        "Éviter de partir dans la précipitation.",
+        "Choisir si possible des horaires où bébé est plus calme."
+      ]
+    },
+    {
+      "title": "Les pauses",
+      "paragraphs": [
+        "Même si bébé dort, les longs trajets doivent être coupés par des pauses.",
+        "Une pause permet de sortir bébé du siège, vérifier son confort, le changer et le nourrir.",
+        "Elle permet aussi au parent de souffler, surtout en période de post-partum.",
+        "Un trajet avec bébé prend souvent plus de temps : mieux vaut l’accepter dès le départ."
+      ]
+    },
+    {
+      "title": "Chaleur et voiture",
+      "paragraphs": [
+        "La voiture peut chauffer très vite.",
+        "Bébé ne doit jamais rester seul dans un véhicule, même pour une courte course.",
+        "En été, aérez, évitez les heures les plus chaudes et vérifiez régulièrement sa température.",
+        "Un pare-soleil peut aider, mais il ne remplace pas la surveillance."
+      ]
+    },
+    {
+      "title": "Si bébé pleure en voiture",
+      "paragraphs": [
+        "Certains bébés supportent mal la voiture.",
+        "Si les pleurs deviennent intenses, il vaut mieux s’arrêter dans un endroit sécurisé plutôt que de se retourner ou de détacher bébé en roulant.",
+        "Vérifiez la couche, la faim, la température, la position et le harnais.",
+        "Parfois, le trajet doit simplement être raccourci ou fractionné."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le siège auto adapté, bien fixé et bien utilisé est la priorité.",
+        "Bébé doit être attaché à chaque trajet, même très court.",
+        "Les pauses, la surveillance de la chaleur et l’anticipation rendent les trajets plus sereins.",
+        "En cas de doute sur l’installation, il faut vérifier avant de prendre la route."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sécurité routière — Transport des enfants en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-aux-usagers/reglementation-des-enfants-en-voiture"
+    },
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    }
+  ]
+},
+
+{
+  "slug": "les-premieres-courses-avec-bebe-comment-faire-simple",
+  "title": "Les premières courses avec bébé : comment faire simple ?",
+  "description": "Faire les courses avec un nouveau-né peut sembler compliqué. Voici comment simplifier, réduire la fatigue et éviter de se mettre trop de pression.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les premières courses avec bébé doivent rester courtes et simples.",
+        "Préparer une liste évite les allers-retours et les oublis.",
+        "Choisir un horaire calme peut réduire le stress et la fatigue.",
+        "Le drive, la livraison ou l’aide d’un proche peuvent être très utiles au début.",
+        "Si bébé pleure ou si vous êtes épuisée, il est possible d’écourter : tout n’a pas besoin d’être parfait."
+      ],
+      "quote": "Avec un nouveau-né, une course réussie est souvent une course courte, utile et sans pression."
+    },
+    {
+      "title": "Accepter que ce soit différent",
+      "paragraphs": [
+        "Faire les courses avec un bébé ne ressemble pas toujours aux courses d’avant.",
+        "Il faut parfois gérer les pleurs, la faim, une couche, la poussette, le cosy ou la fatigue.",
+        "Cela peut donner l’impression que tout devient compliqué.",
+        "C’est normal : le quotidien se réorganise petit à petit."
+      ]
+    },
+    {
+      "title": "Préparer une liste courte",
+      "paragraphs": [
+        "Une liste courte aide à aller à l’essentiel.",
+        "Notez d’abord les indispensables : repas simples, couches, lait si besoin, produits d’hygiène, médicaments ou choses urgentes.",
+        "Le reste peut attendre ou être commandé plus tard.",
+        "Moins il y a d’objectifs, plus la sortie a des chances de rester gérable."
+      ]
+    },
+    {
+      "title": "Choisir le bon moment",
+      "paragraphs": [
+        "Essayez de partir après une tétée ou un biberon, avec une couche propre.",
+        "Les horaires calmes, en semaine ou tôt dans la journée, peuvent être plus confortables.",
+        "Évitez si possible les heures de forte affluence, surtout au début.",
+        "Gardez une marge pour rentrer si bébé a besoin de calme."
+      ]
+    },
+    {
+      "title": "Simplifier le transport",
+      "paragraphs": [
+        "Selon votre organisation, la poussette, le porte-bébé ou le cosy peuvent être plus ou moins pratiques.",
+        "Le porte-bébé peut libérer les mains, mais il doit être bien réglé et confortable.",
+        "La poussette peut porter le sac, mais elle prend plus de place.",
+        "Choisissez ce qui vous fatigue le moins ce jour-là."
+      ]
+    },
+    {
+      "title": "Prévoir le minimum dans le sac",
+      "bullets": [
+        "Une couche.",
+        "De quoi nettoyer bébé.",
+        "Un lange.",
+        "Une tenue de rechange.",
+        "De quoi nourrir bébé si la sortie dure.",
+        "Un sac pour les déchets ou vêtements sales."
+      ]
+    },
+    {
+      "title": "Utiliser les solutions qui soulagent",
+      "paragraphs": [
+        "Le drive, la livraison, les courses faites par un proche ou les repas déjà prêts peuvent vraiment aider.",
+        "Ce ne sont pas des solutions de facilité au mauvais sens du terme : ce sont des outils pour préserver l’énergie.",
+        "Les premières semaines, le but n’est pas de tout faire comme avant.",
+        "Le but est de nourrir la famille sans s’épuiser."
+      ]
+    },
+    {
+      "title": "Si bébé pleure dans le magasin",
+      "paragraphs": [
+        "Un bébé qui pleure en magasin n’est pas un échec.",
+        "Cherchez un endroit calme si possible, vérifiez la faim, la couche, la chaleur ou le besoin de contact.",
+        "Vous pouvez aussi décider de passer en caisse et de rentrer.",
+        "Les courses peuvent être terminées plus tard ou autrement."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les premières courses avec bébé gagnent à être courtes, préparées et flexibles.",
+        "Une liste simple, un horaire calme et une solution de secours peuvent faire la différence.",
+        "Demander de l’aide ou utiliser le drive est souvent une très bonne idée.",
+        "Vous n’avez pas à prouver que vous savez déjà tout gérer."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "bain-de-bebe-quand-comment-et-a-quelle-frequence",
+  "title": "Bain de bébé : quand, comment et à quelle fréquence ?",
+  "description": "Le bain de bébé soulève beaucoup de questions : fréquence, température, sécurité, soins et bons gestes. Voici les repères simples pour les premières semaines.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le bain n’a pas besoin d’être donné tous les jours si bébé va bien et que sa peau est propre.",
+        "La sécurité passe d’abord par une surveillance permanente : ne jamais laisser bébé seul dans l’eau.",
+        "Préparez tout avant de commencer pour garder une main et une attention sur bébé.",
+        "L’eau doit être tiède et la pièce suffisamment chauffée.",
+        "Si la peau est très sèche, irritée ou si le cordon pose question, demandez conseil à un professionnel."
+      ],
+      "quote": "Le bain de bébé n’est pas une performance : c’est un soin simple, court et toujours surveillé."
+    },
+    {
+      "title": "À quelle fréquence ?",
+      "paragraphs": [
+        "Il n’est pas obligatoire de donner un bain tous les jours à un nouveau-né.",
+        "Deux à trois bains par semaine peuvent suffire selon les habitudes, la peau de bébé et les conseils reçus.",
+        "Entre les bains, une toilette douce du visage, du cou, des mains, des plis et du siège peut être suffisante.",
+        "Si bébé aime le bain, il peut devenir un moment agréable, mais il ne doit pas abîmer sa peau ni épuiser les parents."
+      ]
+    },
+    {
+      "title": "Préparer avant de commencer",
+      "bullets": [
+        "Une serviette à portée de main.",
+        "Les vêtements propres.",
+        "La couche.",
+        "Le nécessaire de toilette.",
+        "Un thermomètre de bain si vous en utilisez un.",
+        "Un espace sécurisé pour poser bébé après le bain."
+      ]
+    },
+    {
+      "title": "La température",
+      "paragraphs": [
+        "La pièce doit être assez chaude pour éviter que bébé se refroidisse.",
+        "L’eau doit être tiède, agréable au toucher, sans être chaude.",
+        "Mélangez bien l’eau et vérifiez la température avant d’y installer bébé.",
+        "Pendant le bain, surveillez aussi les signes de froid : bébé marbré, tremblements, pleurs ou inconfort."
+      ]
+    },
+    {
+      "title": "La sécurité avant tout",
+      "paragraphs": [
+        "Un bébé ne doit jamais être laissé seul dans le bain, même quelques secondes.",
+        "Il ne faut pas s’éloigner pour répondre au téléphone, ouvrir la porte ou chercher une serviette oubliée.",
+        "Gardez toujours une main ou une attention directe sur lui.",
+        "Si vous devez quitter la pièce, sortez bébé de l’eau et enveloppez-le dans une serviette."
+      ]
+    },
+    {
+      "title": "Comment laver bébé ?",
+      "paragraphs": [
+        "Utilisez des gestes doux, sans frotter fort.",
+        "Lavez les zones qui se salissent le plus : cou, plis, mains, siège, cheveux si besoin.",
+        "Rincez bien les produits lavants et séchez en tamponnant, surtout dans les plis.",
+        "Un produit simple, adapté aux nourrissons, est souvent suffisant."
+      ]
+    },
+    {
+      "title": "Le cordon",
+      "paragraphs": [
+        "Les consignes pour le cordon peuvent varier selon la maternité.",
+        "Il faut généralement le garder propre et sec, et surveiller son aspect.",
+        "Une mauvaise odeur, une rougeur importante, un écoulement ou de la fièvre doivent faire demander un avis.",
+        "Suivez les consignes données à la sortie et posez la question à une sage-femme si vous hésitez."
+      ]
+    },
+    {
+      "title": "Si bébé n’aime pas le bain",
+      "paragraphs": [
+        "Certains bébés pleurent dans le bain, surtout au début.",
+        "Cela peut venir du froid, de la faim, de la fatigue, de la position ou de la sensation d’être déshabillé.",
+        "Essayez un bain court, dans une pièce chaude, à un moment où bébé est calme.",
+        "Si le bain est trop stressant, il peut être espacé et remplacé par une toilette simple."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le bain peut être donné quelques fois par semaine, sans obligation quotidienne.",
+        "Tout doit être préparé avant, et bébé ne doit jamais rester seul dans l’eau.",
+        "La température, la douceur des gestes et le séchage des plis sont les points essentiels.",
+        "En cas de doute sur la peau, le cordon ou le confort de bébé, demandez conseil."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "changer-une-couche-gestes-simples-et-erreurs-frequentes",
+  "title": "Changer une couche : gestes simples et erreurs fréquentes",
+  "description": "Changer une couche paraît simple, mais les premières fois peuvent poser question. Voici les bons gestes, les erreurs fréquentes et les signes à surveiller.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Préparez tout avant de poser bébé sur la table à langer.",
+        "Gardez toujours une main sur bébé : une chute peut arriver très vite.",
+        "Nettoyez doucement, sans frotter, et séchez bien les plis.",
+        "Changez la couche dès qu’elle est souillée, surtout en cas de selles.",
+        "Rougeur qui s’aggrave, plaies, fièvre ou bébé douloureux doivent faire demander un avis."
+      ],
+      "quote": "Le change est un geste quotidien, mais la sécurité reste la priorité à chaque fois."
+    },
+    {
+      "title": "Préparer le nécessaire",
+      "bullets": [
+        "Une couche propre.",
+        "Du coton, de l’eau ou un produit adapté.",
+        "Une serviette ou un lange.",
+        "Une tenue de rechange si besoin.",
+        "Un sac ou une poubelle pour la couche sale.",
+        "Une crème seulement si elle est utile ou conseillée."
+      ]
+    },
+    {
+      "title": "Sécuriser la table à langer",
+      "paragraphs": [
+        "Un bébé peut bouger brusquement, même très petit.",
+        "Ne le laissez jamais seul sur une table à langer, un lit ou un canapé.",
+        "Gardez toujours une main sur lui si vous devez attraper quelque chose.",
+        "Le plus sûr est d’avoir tout à portée de main avant de commencer."
+      ]
+    },
+    {
+      "title": "Nettoyer doucement",
+      "paragraphs": [
+        "Pour l’urine, un nettoyage simple peut suffire selon la situation.",
+        "En cas de selles, nettoyez soigneusement sans frotter fort.",
+        "Chez les filles, on nettoie de l’avant vers l’arrière pour limiter le risque de ramener des selles vers la vulve.",
+        "Chez les garçons, nettoyez les plis sans forcer sur le prépuce."
+      ]
+    },
+    {
+      "title": "Bien sécher",
+      "paragraphs": [
+        "L’humidité favorise les irritations.",
+        "Après le nettoyage, séchez délicatement en tamponnant, surtout dans les plis.",
+        "Il n’est pas nécessaire de frotter.",
+        "Laisser la peau respirer quelques instants peut aider si bébé est irrité, en restant toujours près de lui."
+      ]
+    },
+    {
+      "title": "Mettre la couche",
+      "paragraphs": [
+        "La couche doit être ajustée sans serrer le ventre.",
+        "Les attaches doivent tenir, mais vous devez pouvoir passer un doigt au niveau de la taille.",
+        "Vérifiez que les ailettes autour des cuisses sont bien sorties pour limiter les fuites.",
+        "Si les marques sont fortes ou les fuites fréquentes, la taille n’est peut-être pas adaptée."
+      ]
+    },
+    {
+      "title": "Erreurs fréquentes",
+      "bullets": [
+        "Oublier de préparer le matériel avant le change.",
+        "Laisser bébé seul quelques secondes.",
+        "Frotter trop fort une peau irritée.",
+        "Mettre trop de produits différents.",
+        "Serrer la couche trop fort.",
+        "Changer de marque ou de crème sans comprendre la cause d’une irritation."
+      ]
+    },
+    {
+      "title": "Rougeurs du siège",
+      "paragraphs": [
+        "Les rougeurs sont fréquentes, surtout lors des selles répétées, poussées dentaires ou épisodes de diarrhée.",
+        "Changer plus souvent, nettoyer doucement et bien sécher peut aider.",
+        "Une crème protectrice peut être utile selon l’état de la peau.",
+        "Si la rougeur s’étend, suinte, forme des plaies ou ne s’améliore pas, demandez un avis."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le change doit être simple, doux et sécurisé.",
+        "La préparation du matériel évite de quitter bébé des yeux.",
+        "Nettoyer sans agresser, sécher correctement et choisir une couche adaptée limitent les irritations.",
+        "Toute rougeur importante ou douloureuse doit être surveillée."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "habiller-bebe-selon-la-temperature-comment-savoir",
+  "title": "Habiller bébé selon la température : comment savoir ?",
+  "description": "Trop chaud, trop froid, nuit, sortie, maison : comprendre comment habiller bébé selon la température sans multiplier les couches inutilement.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Bébé régule moins bien sa température qu’un adulte, surtout les premières semaines.",
+        "La nuque est un bon repère : chaude et humide, bébé a peut-être trop chaud ; froide, il peut manquer d’une couche.",
+        "Les mains et les pieds peuvent être frais sans que bébé ait forcément froid.",
+        "À la maison, évitez de trop couvrir bébé, surtout pour dormir.",
+        "Fièvre, bébé très chaud, très froid, mou ou inhabituel doivent faire demander un avis."
+      ],
+      "quote": "Habiller bébé, c’est chercher le confort : ni trop couvert, ni exposé au froid."
+    },
+    {
+      "title": "Pourquoi c’est difficile au début",
+      "paragraphs": [
+        "Les parents ont souvent peur que bébé ait froid.",
+        "Mais trop couvrir peut aussi le rendre inconfortable, surtout dans une pièce chauffée ou une poussette fermée.",
+        "La température ressentie dépend du lieu, du vent, du soleil, de l’humidité et de l’activité.",
+        "Il faut donc ajuster plutôt que suivre une règle fixe."
+      ]
+    },
+    {
+      "title": "Le repère de la nuque",
+      "paragraphs": [
+        "Pour savoir si bébé est confortable, touchez sa nuque ou le haut de son dos.",
+        "Si la peau est chaude et moite, il a peut-être trop chaud.",
+        "Si la nuque est froide, il peut avoir besoin d’être davantage couvert.",
+        "Les mains fraîches seules ne suffisent pas toujours à conclure qu’il a froid."
+      ]
+    },
+    {
+      "title": "À la maison",
+      "paragraphs": [
+        "À la maison, adaptez les vêtements à la température de la pièce.",
+        "Un body et un pyjama peuvent suffire dans une pièce confortable.",
+        "Évitez d’ajouter trop de couches si bébé est déjà au chaud.",
+        "Pour dormir, privilégiez une gigoteuse adaptée à la saison plutôt qu’une couverture libre."
+      ]
+    },
+    {
+      "title": "Pour sortir",
+      "paragraphs": [
+        "Dehors, pensez au vent, à la pluie et aux changements de température.",
+        "En hiver, superposez des couches faciles à retirer si vous entrez dans un magasin ou une voiture.",
+        "En été, protégez bébé du soleil direct, choisissez des vêtements légers et évitez les heures chaudes.",
+        "La poussette peut créer un espace plus chaud qu’on ne l’imagine."
+      ]
+    },
+    {
+      "title": "En voiture",
+      "paragraphs": [
+        "En voiture, évitez les manteaux épais sous le harnais du siège auto.",
+        "Ils empêchent souvent les sangles d’être bien ajustées.",
+        "Attachez bébé avec des vêtements pas trop épais, puis ajoutez une couverture par-dessus si besoin.",
+        "Surveillez la chaleur dans l’habitacle, surtout en été."
+      ]
+    },
+    {
+      "title": "La nuit",
+      "paragraphs": [
+        "La nuit, l’objectif est que bébé dorme dans un environnement sûr et à température adaptée.",
+        "Évitez les couvertures, couettes ou oreillers dans le lit du bébé.",
+        "Choisissez une gigoteuse adaptée à la saison et aux recommandations du fabricant.",
+        "Si bébé transpire ou a la nuque très chaude, il est probablement trop couvert."
+      ]
+    },
+    {
+      "title": "Signes d’inconfort",
+      "bullets": [
+        "Bébé transpire ou a les cheveux humides.",
+        "Il a la nuque très chaude ou froide.",
+        "Il pleure sans autre cause évidente.",
+        "Il est rouge et agité.",
+        "Il semble mou, inhabituel ou difficile à réveiller."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "La nuque est un meilleur repère que les mains.",
+        "Il vaut mieux ajuster régulièrement que trop couvrir par peur.",
+        "La voiture, la poussette et les pièces chauffées peuvent vite tenir chaud.",
+        "Un bébé inhabituellement chaud, froid ou somnolent doit être surveillé et faire demander un avis si besoin."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "pleurs-du-soir-comment-accompagner-bebe",
+  "title": "Pleurs du soir : comment accompagner bébé ?",
+  "description": "Les pleurs du soir sont fréquents chez les nourrissons et peuvent épuiser les parents. Voici comment les comprendre, apaiser bébé et savoir quand consulter.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les pleurs du soir sont fréquents les premières semaines et ne signifient pas forcément que vous faites mal.",
+        "Bébé peut pleurer parce qu’il est fatigué, surstimulé, a besoin de contact ou décharge sa journée.",
+        "Le portage, le calme, la lumière douce, les bercements et une présence rassurante peuvent aider.",
+        "Si vous sentez que vous perdez patience, posez bébé en sécurité et demandez de l’aide.",
+        "Fièvre, refus de boire, vomissements importants, bébé inconsolable ou comportement inhabituel doivent faire consulter."
+      ],
+      "quote": "Les pleurs du soir sont parfois une tempête à traverser, pas un problème que les parents doivent résoudre parfaitement."
+    },
+    {
+      "title": "Pourquoi le soir est souvent difficile",
+      "paragraphs": [
+        "Beaucoup de bébés pleurent davantage en fin de journée.",
+        "La fatigue, les stimulations, les transitions et le besoin de contact peuvent s’accumuler.",
+        "Les parents sont aussi souvent plus fatigués à ce moment-là.",
+        "Cela peut rendre les pleurs particulièrement difficiles à supporter."
+      ]
+    },
+    {
+      "title": "Vérifier les besoins de base",
+      "bullets": [
+        "Bébé a-t-il faim ?",
+        "La couche est-elle propre ?",
+        "A-t-il trop chaud ou trop froid ?",
+        "A-t-il besoin d’être porté ?",
+        "Est-il gêné par un rot, des gaz ou une position ?"
+      ]
+    },
+    {
+      "title": "Créer un environnement plus calme",
+      "paragraphs": [
+        "Réduire la lumière, le bruit et les passages peut aider.",
+        "Parlez doucement, limitez les stimulations et évitez de multiplier les bras si bébé semble débordé.",
+        "Un bain, une tétée, un biberon ou un câlin peuvent faire partie d’un rituel, sans obligation.",
+        "L’objectif est de proposer de la régularité, pas une méthode parfaite."
+      ]
+    },
+    {
+      "title": "Le portage et le contact",
+      "paragraphs": [
+        "Certains bébés s’apaisent mieux contre un adulte.",
+        "Le portage, les bercements, le peau-à-peau ou simplement les bras peuvent aider à traverser le moment.",
+        "Cela ne donne pas de mauvaises habitudes à un nouveau-né.",
+        "Un bébé qui pleure a souvent besoin de sécurité et de proximité."
+      ]
+    },
+    {
+      "title": "Quand rien ne marche",
+      "paragraphs": [
+        "Il arrive que bébé continue à pleurer malgré tout.",
+        "Dans ce cas, l’objectif devient de l’accompagner en sécurité, pas de trouver absolument la solution.",
+        "Respirez, changez de relais si possible, baissez les exigences et protégez-vous de l’épuisement.",
+        "Les pleurs peuvent finir par diminuer même si vous n’avez pas tout compris."
+      ]
+    },
+    {
+      "title": "Quand le parent n’en peut plus",
+      "paragraphs": [
+        "Les pleurs répétés peuvent mettre les nerfs à rude épreuve.",
+        "Si vous sentez que vous perdez patience, posez bébé sur le dos dans son lit, en sécurité, et éloignez-vous quelques minutes.",
+        "Appelez quelqu’un : coparent, proche, sage-femme, PMI, médecin ou urgence si vous craignez de faire un geste dangereux.",
+        "Ne secouez jamais un bébé."
+      ]
+    },
+    {
+      "title": "Quand consulter ?",
+      "paragraphs": [
+        "Il faut demander un avis si les pleurs sont inhabituels, très aigus, associés à de la fièvre, des vomissements, un refus de boire ou une grande somnolence.",
+        "Consultez aussi si bébé semble douloureux, respire mal ou si votre intuition vous dit que quelque chose ne va pas.",
+        "Côté parent, il faut demander de l’aide si les pleurs vous font peur ou vous épuisent profondément.",
+        "Vous n’avez pas à gérer cela seule."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les pleurs du soir sont fréquents et souvent éprouvants.",
+        "Calme, contact, portage, baisse des stimulations et relais peuvent aider.",
+        "Si rien ne marche, accompagner bébé en sécurité est déjà beaucoup.",
+        "Un parent à bout doit poser bébé en sécurité et demander de l’aide sans attendre."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les pleurs de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-pleurs-de-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "recevoir-des-proches-avec-un-bebe-comment-poser-un-cadre",
+  "title": "Recevoir des proches avec un bébé : comment poser un cadre ?",
+  "description": "Les visites après la naissance peuvent aider ou épuiser. Voici comment poser un cadre clair, protéger le repos et accueillir les proches sans culpabilité.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Après la naissance, les visites doivent s’adapter au bébé et à la récupération du parent.",
+        "Vous pouvez limiter la durée, le nombre de personnes et les horaires.",
+        "Il est possible de demander aux proches de reporter leur visite s’ils sont malades.",
+        "Les proches peuvent aider concrètement : repas, courses, ménage, aînés, relais.",
+        "Poser un cadre n’est pas être impolie : c’est protéger une période fragile."
+      ],
+      "quote": "Une bonne visite après la naissance est une visite qui respecte le repos, le bébé et les parents."
+    },
+    {
+      "title": "Pourquoi les visites peuvent peser",
+      "paragraphs": [
+        "Après la naissance, le sommeil est fragmenté, le corps récupère et les émotions sont fortes.",
+        "Même des proches bien intentionnés peuvent fatiguer sans s’en rendre compte.",
+        "Recevoir, ranger, discuter et passer le bébé de bras en bras peut devenir trop lourd.",
+        "Il est normal d’avoir besoin de calme."
+      ]
+    },
+    {
+      "title": "Définir les règles avant",
+      "paragraphs": [
+        "Vous pouvez annoncer simplement vos règles avant la visite.",
+        "Par exemple : visites courtes, pas trop de monde, prévenir avant de venir, éviter les parfums forts, se laver les mains, ne pas venir malade.",
+        "Dire les choses à l’avance évite souvent les malaises.",
+        "Le coparent peut aussi transmettre le cadre pour soulager la mère."
+      ]
+    },
+    {
+      "title": "Limiter la durée",
+      "paragraphs": [
+        "Une visite de trente minutes peut être largement suffisante au début.",
+        "Il n’est pas obligatoire de proposer un repas ou un café long.",
+        "Vous pouvez dire dès le départ que vous êtes fatigués et que la visite sera courte.",
+        "Les proches qui respectent votre rythme vous aident vraiment."
+      ]
+    },
+    {
+      "title": "Demander une aide concrète",
+      "bullets": [
+        "Apporter un repas.",
+        "Passer prendre des courses.",
+        "Lancer une lessive.",
+        "S’occuper des aînés.",
+        "Tenir bébé pendant une douche si vous en avez envie.",
+        "Repartir sans laisser de bazar."
+      ]
+    },
+    {
+      "title": "Protéger bébé",
+      "paragraphs": [
+        "Demandez aux personnes malades de reporter leur visite.",
+        "Le lavage des mains est un réflexe simple avant de toucher bébé.",
+        "Vous pouvez refuser les bisous, surtout sur le visage et les mains.",
+        "Vous pouvez aussi limiter les bras si bébé dort, pleure ou semble surstimulé."
+      ]
+    },
+    {
+      "title": "Gérer les remarques",
+      "paragraphs": [
+        "Les conseils non demandés peuvent vite peser : allaitement, biberon, sommeil, bras, poids, organisation.",
+        "Vous pouvez répondre simplement : “On fait comme ça pour le moment” ou “On suit les conseils de notre professionnel”.",
+        "Vous n’avez pas à justifier chaque choix.",
+        "Le post-partum a besoin de soutien, pas d’un débat permanent."
+      ]
+    },
+    {
+      "title": "Quand dire non",
+      "paragraphs": [
+        "Vous pouvez refuser une visite si vous êtes épuisée, douloureuse, anxieuse ou si bébé a besoin de calme.",
+        "Vous pouvez aussi annuler au dernier moment.",
+        "Dire non protège votre récupération et votre famille.",
+        "Les visites peuvent attendre, les besoins du bébé et du parent passent avant."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les visites doivent soutenir, pas épuiser.",
+        "Un cadre clair sur la durée, l’hygiène, les horaires et l’aide attendue peut beaucoup soulager.",
+        "Vous avez le droit de refuser, raccourcir ou reporter.",
+        "Les proches les plus aidants sont ceux qui respectent vos limites."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
+},
+
+{
+  "slug": "voyager-avec-un-bebe-a-partir-de-quand-et-que-prevoir",
+  "title": "Voyager avec un bébé : à partir de quand et que prévoir ?",
+  "description": "Voyager avec un bébé demande surtout de l’anticipation : rythme, santé, trajets, matériel, alimentation, sommeil et marge pour s’adapter.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Il n’y a pas un âge unique pour voyager avec bébé : cela dépend de sa santé, de votre récupération et du type de trajet.",
+        "Les premiers voyages doivent rester simples, avec des pauses et un programme allégé.",
+        "Préparez les documents, le carnet de santé, les repas, les changes, le couchage et les traitements éventuels.",
+        "Évitez de surcharger les journées : bébé garde son rythme de sommeil, de repas et de besoin de contact.",
+        "Fièvre, bébé fragile, parent épuisé ou trajet compliqué nécessitent parfois de reporter ou demander un avis."
+      ],
+      "quote": "Voyager avec un bébé demande moins de tout prévoir parfaitement que de garder assez de marge pour s’adapter."
+    },
+    {
+      "title": "À partir de quand ?",
+      "paragraphs": [
+        "Tout dépend du bébé, de la naissance, de la récupération du parent et du voyage prévu.",
+        "Un petit trajet chez des proches n’a rien à voir avec un long déplacement, un avion ou un séjour loin des soins.",
+        "Si bébé est né prématurément, a un souci de santé ou si vous avez un doute, demandez un avis médical avant de partir.",
+        "Il est aussi important de prendre en compte votre fatigue."
+      ]
+    },
+    {
+      "title": "Choisir une destination simple",
+      "paragraphs": [
+        "Pour un premier voyage, une destination proche, calme et équipée peut être plus rassurante.",
+        "La présence d’une machine à laver, d’un lit adapté, d’une pharmacie ou d’un médecin accessible peut faciliter le séjour.",
+        "Évitez de prévoir trop d’activités ou de changements de lieux.",
+        "Le meilleur voyage avec un bébé est souvent celui qui laisse du temps libre."
+      ]
+    },
+    {
+      "title": "Préparer les documents",
+      "bullets": [
+        "Carnet de santé.",
+        "Carte Vitale ou attestation selon la situation.",
+        "Ordonnances et traitements si besoin.",
+        "Papiers d’identité selon le trajet.",
+        "Coordonnées du médecin, de la maternité ou du pédiatre si utile."
+      ]
+    },
+    {
+      "title": "Le trajet",
+      "paragraphs": [
+        "En voiture, prévoyez des pauses régulières et vérifiez l’installation du siège auto.",
+        "En train, gardez le nécessaire de change et d’alimentation accessible.",
+        "En avion ou long trajet, renseignez-vous sur les règles de la compagnie et les documents nécessaires.",
+        "Dans tous les cas, prévoyez plus de temps que d’habitude."
+      ]
+    },
+    {
+      "title": "Le sommeil",
+      "paragraphs": [
+        "Bébé peut être perturbé par le changement de lieu.",
+        "Essayez de garder quelques repères : gigoteuse habituelle, rituel simple, lumière douce, bruit familier si vous en utilisez un.",
+        "Un couchage sûr et adapté doit être prévu.",
+        "Même en voyage, évitez les oreillers, couvertures libres ou couchages improvisés dangereux."
+      ]
+    },
+    {
+      "title": "Alimentation et changes",
+      "paragraphs": [
+        "Prévoyez plus que le strict minimum, surtout si le trajet peut durer.",
+        "Pour l’allaitement, pensez à votre confort : eau, vêtements pratiques, pauses.",
+        "Pour les biberons, anticipez l’eau, les doses, le nettoyage et la conservation selon votre situation.",
+        "Les couches, sacs, tenues de rechange et langes doivent rester faciles d’accès."
+      ]
+    },
+    {
+      "title": "Santé et imprévus",
+      "paragraphs": [
+        "Repérez avant le départ où consulter en cas de problème.",
+        "Préparez une petite trousse avec le nécessaire conseillé pour bébé, sans automédication inutile.",
+        "En cas de fièvre chez un tout-petit, de difficultés à boire, de somnolence inhabituelle ou de gêne respiratoire, demandez un avis rapidement.",
+        "Mieux vaut simplifier ou reporter qu’ajouter du stress à une période déjà fragile."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le bon moment pour voyager dépend du bébé, du parent et du type de trajet.",
+        "Un voyage simple, proche et flexible est souvent plus confortable au début.",
+        "Documents, couchage sûr, alimentation, changes et pauses sont les points clés.",
+        "Le programme doit s’adapter à bébé, pas l’inverse."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Sécurité routière — Enfants en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-aux-usagers/reglementation-des-enfants-en-voiture"
+    }
+  ]
+},
+
+{
+  "slug": "premieres-sorties-promenades-rendez-vous-le-sac-a-langer-utile",
+  "title": "Premières sorties, promenades, rendez-vous : le sac à langer utile",
+  "description": "Que mettre dans le sac à langer pour les premières sorties avec bébé ? Voici une liste utile, simple et sans excès pour éviter d’oublier l’essentiel.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Quotidien avec bébé",
+  "subcategorySlug": "quotidien-bebe",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le sac à langer doit contenir l’essentiel sans devenir trop lourd.",
+        "Les indispensables sont les couches, le change, de quoi nettoyer, un lange, une tenue de rechange et de quoi nourrir bébé si besoin.",
+        "Adaptez le contenu à la durée de la sortie, à la saison et au lieu.",
+        "Gardez les affaires les plus urgentes faciles d’accès.",
+        "Après chaque sortie, remettez une couche, une tenue et les consommables pour éviter les oublis."
+      ],
+      "quote": "Un bon sac à langer n’est pas le plus rempli : c’est celui qui vous permet de gérer simplement les besoins de bébé."
+    },
+    {
+      "title": "La base pour une sortie courte",
+      "bullets": [
+        "Deux ou trois couches.",
+        "Du coton, de l’eau ou des lingettes adaptées.",
+        "Un lange.",
+        "Une tenue de rechange.",
+        "Un sac pour couche ou vêtement sale.",
+        "Une petite couverture selon la saison."
+      ]
+    },
+    {
+      "title": "Pour nourrir bébé",
+      "paragraphs": [
+        "Si vous allaitez, pensez surtout à votre confort : eau, coussin léger si utile, lange, vêtements pratiques.",
+        "Si bébé prend le biberon, prévoyez le nécessaire selon la durée de sortie et les règles de préparation que vous suivez.",
+        "Pour un rendez-vous qui peut durer, ajoutez une marge.",
+        "Il vaut mieux avoir de quoi gérer un repas imprévu que rentrer stressée."
+      ]
+    },
+    {
+      "title": "Pour le change",
+      "paragraphs": [
+        "Un tapis de change nomade peut être utile dans les lieux peu équipés.",
+        "Le minimum est de pouvoir poser bébé sur une surface propre et confortable.",
+        "Une tenue complète de rechange évite de se retrouver bloquée en cas de fuite.",
+        "Pensez aussi à un haut de rechange pour le parent si bébé régurgite beaucoup, surtout sur les longues sorties."
+      ]
+    },
+    {
+      "title": "Selon la météo",
+      "bullets": [
+        "Un bonnet léger ou chaud selon la saison.",
+        "Une couverture ou une gigoteuse de sortie adaptée.",
+        "Un chapeau en été.",
+        "Un vêtement de pluie pour la poussette si nécessaire.",
+        "Une couche supplémentaire facile à retirer en cas de changement de température."
+      ]
+    },
+    {
+      "title": "Pour les rendez-vous médicaux",
+      "paragraphs": [
+        "Le carnet de santé doit être pris pour les rendez-vous de bébé.",
+        "Ajoutez les ordonnances, documents ou résultats demandés si besoin.",
+        "Prévoyez aussi une couche et un change, car l’attente peut être plus longue que prévu.",
+        "Un lange peut servir à couvrir, essuyer ou installer bébé plus confortablement."
+      ]
+    },
+    {
+      "title": "Ce qu’on met souvent en trop",
+      "paragraphs": [
+        "On peut vite remplir le sac avec trop de jouets, trop de vêtements ou trop de produits.",
+        "Pour un nouveau-né, les besoins restent souvent simples : manger, être changé, être couvert, être rassuré.",
+        "Un sac trop lourd fatigue inutilement, surtout en post-partum.",
+        "Adaptez le contenu à la sortie plutôt que de tout transporter à chaque fois."
+      ]
+    },
+    {
+      "title": "Organisation pratique",
+      "paragraphs": [
+        "Rangez les couches et le change au même endroit pour les trouver vite.",
+        "Gardez un petit sac pour les vêtements sales.",
+        "Après chaque retour, remplacez ce qui a été utilisé.",
+        "Cette petite habitude évite beaucoup d’oublis au moment de repartir."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le sac à langer utile contient l’essentiel : change, hygiène, tenue, alimentation et protection selon la météo.",
+        "Il doit être adapté à la durée de la sortie et rester facile à porter.",
+        "Pour les rendez-vous, le carnet de santé est à ajouter systématiquement.",
+        "Le but est de se sentir prête, pas de transporter toute la maison."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Les premiers jours avec bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      "url": "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      "label": "Santé publique France — Les 1000 premiers jours",
+      "url": "https://www.santepubliquefrance.fr/la-sante-a-tout-age/la-sante-a-tout-age/les-1000-premiers-jours"
+    }
+  ]
 }
 
 ];
