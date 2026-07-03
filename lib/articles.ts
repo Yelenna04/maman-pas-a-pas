@@ -30580,6 +30580,185 @@ export const articles: Article[] = [
     }
   ]
 }
+,
+{
+  "slug": "acheter-doccasion-pour-bebe-quoi-accepter-quoi-eviter",
+  "title": "Acheter d’occasion pour bébé : quoi accepter, quoi éviter ?",
+  "description": "Acheter d’occasion pour bébé peut faire économiser, mais tout ne se récupère pas. Siège auto, lit, matelas, vêtements, jouets, biberons : les points à vérifier avant d’acheter.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "11 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Acheter d’occasion peut être une très bonne idée pour réduire le budget bébé, mais certains produits doivent être choisis avec beaucoup de prudence.",
+        "Les vêtements, livres, meubles simples, baignoire, tapis d’éveil lavable ou certains jouets peuvent souvent être achetés d’occasion s’ils sont propres, complets et en bon état.",
+        "Le siège auto est le point le plus délicat : il faut connaître son historique, son homologation, sa notice et être sûr qu’il n’a jamais subi d’accident.",
+        "Pour le couchage, le lit doit être stable et conforme, et le matelas doit être ferme, aux bonnes dimensions et en parfait état.",
+        "Évitez les objets abîmés, incomplets, sans notice, très anciens, rappelés, ou dont la sécurité dépend d’un mécanisme que vous ne pouvez pas vérifier."
+      ],
+      "quote": "L’occasion peut être utile et économique, mais pour bébé, le prix ne doit jamais passer avant la sécurité."
+    },
+    {
+      "title": "Pourquoi acheter d’occasion ?",
+      "paragraphs": [
+        "L’arrivée d’un bébé peut entraîner beaucoup d’achats, parfois très coûteux.",
+        "Acheter d’occasion permet de réduire le budget, d’éviter les achats inutiles et de donner une seconde vie à du matériel souvent utilisé peu de temps.",
+        "C’est aussi une manière de consommer plus simplement, surtout quand on reçoit déjà beaucoup de conseils contradictoires sur ce qu’il faudrait absolument acheter.",
+        "Mais tous les objets de puériculture ne présentent pas le même niveau de risque."
+      ]
+    },
+    {
+      "title": "La règle de base avant d’acheter",
+      "paragraphs": [
+        "Avant d’acheter un article d’occasion, prenez le temps de vérifier son état réel.",
+        "L’objet doit être propre, stable, complet, sans pièce cassée, sans vis manquante, sans fissure et sans odeur forte de tabac, d’humidité ou de moisissure.",
+        "La notice doit être disponible, surtout pour les objets qui se montent, se règlent ou se fixent.",
+        "Si vous avez un doute sur la sécurité, mieux vaut renoncer, même si le prix est intéressant."
+      ],
+      "quote": "Un bon achat d’occasion est un achat que l’on peut vérifier, nettoyer, comprendre et utiliser sans doute."
+    },
+    {
+      "title": "Ce qu’on peut souvent acheter d’occasion",
+      "paragraphs": [
+        "Certains achats se prêtent très bien à l’occasion.",
+        "Les vêtements, bodies, pyjamas, gigoteuses en bon état, couvertures pour les temps d’éveil, livres cartonnés, tapis d’éveil lavable, meubles simples ou baignoire bébé peuvent souvent être récupérés ou achetés d’occasion.",
+        "Il faut surtout vérifier l’état, la propreté, la possibilité de lavage et l’absence de pièces dangereuses.",
+        "Pour les textiles, un lavage avant utilisation est indispensable."
+      ]
+    },
+    {
+      "title": "Vêtements et textiles",
+      "paragraphs": [
+        "Les vêtements de bébé sont souvent portés très peu de temps, ce qui rend l’occasion intéressante.",
+        "Vérifiez les pressions, fermetures, cordons, boutons, élastiques et coutures.",
+        "Évitez les vêtements très usés, avec petits éléments qui se détachent, cordons longs ou odeur persistante.",
+        "Les gigoteuses peuvent aussi être achetées d’occasion si elles sont adaptées à la taille du bébé, en bon état et lavables."
+      ]
+    },
+    {
+      "title": "Le couchage : prudence avec le lit et le matelas",
+      "paragraphs": [
+        "Un lit d’occasion peut être envisagé s’il est stable, complet, avec un sommier solide, sans barreau cassé et sans système abîmé.",
+        "Il faut éviter les lits très anciens, bricolés, repeints avec un produit inconnu ou dont les pièces ne sont plus d’origine.",
+        "Le matelas doit être ferme, adapté exactement aux dimensions du lit, sans espace sur les côtés, sans affaissement, sans tache importante et sans odeur d’humidité.",
+        "En cas de doute sur le matelas, il est souvent plus rassurant d’en choisir un neuf, adapté au lit."
+      ]
+    },
+    {
+      "title": "Siège auto : l’achat d’occasion le plus délicat",
+      "paragraphs": [
+        "Le siège auto est l’un des achats d’occasion les plus risqués si son historique est inconnu.",
+        "Il ne faut pas acheter un siège dont on ne connaît pas l’historique, qui a pu subir un accident, qui est fissuré, incomplet, sans notice ou dont les sangles sont abîmées.",
+        "Vérifiez l’homologation, la compatibilité avec votre voiture, la présence de toutes les pièces, la notice et le bon fonctionnement du harnais ou de la fixation.",
+        "Si vous n’êtes pas absolument sûre de son état et de son historique, mieux vaut éviter l’occasion pour ce produit."
+      ],
+      "quote": "Un siège auto protège seulement s’il est adapté, complet, bien installé et en parfait état."
+    },
+    {
+      "title": "Poussette et porte-bébé",
+      "paragraphs": [
+        "Une poussette d’occasion peut être une bonne option si elle est stable, complète et facile à plier et déplier.",
+        "Vérifiez les freins, roues, harnais, attaches, système de pliage, tissus, châssis et compatibilité des accessoires.",
+        "Pour un porte-bébé, vérifiez l’état des sangles, boucles, coutures, clips et réglages.",
+        "Essayez toujours le matériel avant achat si possible, car un défaut de fermeture ou de réglage peut être dangereux."
+      ]
+    },
+    {
+      "title": "Biberons, tétines et accessoires d’alimentation",
+      "paragraphs": [
+        "Les biberons en très bon état peuvent parfois être récupérés, mais les tétines doivent généralement être remplacées.",
+        "Le caoutchouc ou le silicone s’use, se fend, se déforme et peut devenir moins sûr avec le temps.",
+        "Vérifiez que les biberons ne sont pas rayés, fissurés, jaunis ou incompatibles avec les tétines actuelles.",
+        "Pour les accessoires électriques comme chauffe-biberon ou tire-lait, vérifiez l’état, la notice, le nettoyage possible et le bon fonctionnement."
+      ]
+    },
+    {
+      "title": "Jouets, transat, parc et objets d’éveil",
+      "paragraphs": [
+        "Les jouets doivent être adaptés à l’âge du bébé et en bon état.",
+        "Évitez les petits éléments détachables, piles accessibles, coutures ouvertes, peinture qui s’écaille ou objets sans indication claire.",
+        "Pour un transat ou un parc, vérifiez la stabilité, le harnais, les coutures, les systèmes de verrouillage et l’absence de pièce cassée.",
+        "Un objet d’éveil doit pouvoir être nettoyé facilement, surtout s’il passe dans les mains ou la bouche de bébé."
+      ]
+    },
+    {
+      "title": "Table à langer, baignoire et petits meubles",
+      "paragraphs": [
+        "Une table à langer d’occasion doit être parfaitement stable, sans vis manquante, sans planche fragile et avec une hauteur confortable pour les parents.",
+        "Une baignoire bébé peut être récupérée si elle n’est pas fissurée, glissante ou abîmée.",
+        "Les meubles doivent être solides et, si besoin, pouvoir être fixés pour éviter un basculement quand l’enfant grandira.",
+        "Évitez les meubles bricolés ou modifiés si vous ne pouvez pas vérifier leur solidité."
+      ]
+    },
+    {
+      "title": "Les produits à éviter en occasion",
+      "paragraphs": [
+        "Évitez les produits très anciens, incomplets, sans notice, cassés, réparés de façon artisanale ou dont la norme de sécurité est inconnue.",
+        "Évitez aussi les matelas affaissés, les sièges auto à historique inconnu, les tétines usagées, les objets électriques douteux et les produits rappelés.",
+        "Méfiez-vous des accessoires présentés comme miracles : cale-bébé, coussins, réducteurs non nécessaires ou objets qui encombrent le couchage.",
+        "Pour le sommeil, le plus sûr reste simple : un lit adapté, un matelas ferme et une gigoteuse."
+      ]
+    },
+    {
+      "title": "Questions à poser au vendeur",
+      "paragraphs": [
+        "Demandez depuis quand l’objet a été acheté, combien d’enfants l’ont utilisé, s’il a été stocké dans un endroit sec, s’il manque des pièces et si la notice est disponible.",
+        "Pour une poussette ou un siège auto, demandez s’il y a eu une chute, un choc, un accident ou une réparation.",
+        "Demandez aussi la référence exacte pour vérifier la notice ou un éventuel rappel produit.",
+        "Un vendeur qui ne sait rien de l’objet ou refuse les questions doit faire réfléchir."
+      ]
+    },
+    {
+      "title": "Avant la première utilisation",
+      "paragraphs": [
+        "Nettoyez les textiles, surfaces et objets lavables avant de les utiliser avec bébé.",
+        "Remontez le matériel avec la notice, vérifiez toutes les pièces et testez les systèmes de verrouillage.",
+        "Installez les objets dans les conditions réelles d’utilisation : lit, poussette, table à langer, siège, transat.",
+        "Si quelque chose bouge, bloque, sent mauvais ou semble fragile, n’utilisez pas l’objet."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Acheter d’occasion pour bébé peut être très utile pour réduire le budget et éviter les achats inutiles.",
+        "Les vêtements, livres, meubles simples, baignoire et certains jouets sont souvent de bons achats d’occasion.",
+        "Le siège auto, le matelas, les tétines et les objets abîmés demandent beaucoup plus de prudence.",
+        "Un article doit être complet, propre, stable, avec notice si nécessaire, et adapté à l’âge du bébé.",
+        "En cas de doute sur la sécurité, il vaut mieux ne pas acheter."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "DGCCRF — Articles de puériculture : les clés pour choisir des produits sûrs",
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/articles-de-puericulture-les-cles-pour-choisir-des-produits-surs"
+    },
+    {
+      "label": "Sécurité routière — Transporter un enfant en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    },
+    {
+      "label": "Sécurité routière — Siège auto : les dispositifs de retenue",
+      "url": "https://www.securite-routiere.gouv.fr/chacun-sa-conduite/conseils-sur-la-route-avec-les-enfants/siege-auto-les-dispositifs-de-retenue"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Éviter les accidents domestiques des enfants",
+      "url": "https://www.1000-premiers-jours.fr/fr/eviter-les-accidents-domestiques-des-enfants"
+    }
+  ]
+}
+
 ];
 
 export const categories = [
