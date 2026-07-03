@@ -4,7 +4,7 @@ export function getArticleImage(
 ) {
 
   if (slug === "que-se-passe-t-il-a-larrivee-a-la-maternite") {
-    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite.png";
+    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite-v2.png";
   }
 
   if (slug === "comment-se-deroule-lexamen-du-col") {
