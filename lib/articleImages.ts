@@ -2,9 +2,8 @@ export function getArticleImage(
   categorySlug: string,
   slug?: string
 ) {
-
   if (slug === "que-se-passe-t-il-a-larrivee-a-la-maternite") {
-    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite-v2.png";
+    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite-v3.png";
   }
 
   if (slug === "comment-se-deroule-lexamen-du-col") {
@@ -31,7 +30,7 @@ export function getArticleImage(
     return "/images/articleImages/quel-est-le-role-de-la-sage-femme-pendant-laccouchement.png";
   }
 
-  if (slug === "quand-annoncer-grossesse-proches-employeur") {
+if (slug === "quand-annoncer-grossesse-proches-employeur") {
     return "/images/premier-trimestre-quand-annoncer-grossesse.png";
   }
 
