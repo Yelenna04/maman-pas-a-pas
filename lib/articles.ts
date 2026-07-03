@@ -30757,6 +30757,956 @@ export const articles: Article[] = [
       "url": "https://www.1000-premiers-jours.fr/fr/eviter-les-accidents-domestiques-des-enfants"
     }
   ]
+},
+
+{
+  "slug": "combien-coute-larrivee-dun-bebe",
+  "title": "Combien coûte l’arrivée d’un bébé ?",
+  "description": "L’arrivée d’un bébé entraîne des dépenses très variables : matériel, vêtements, soins, couches, lait, garde, démarches et imprévus. Voici comment estimer sans paniquer.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le coût d’arrivée d’un bébé dépend surtout de ce que vous achetez neuf, d’occasion ou ce que l’on vous prête.",
+        "Les achats vraiment utiles concernent le couchage sécurisé, les repas, le change, les vêtements de base, les soins simples et les déplacements.",
+        "Les plus grosses dépenses peuvent être le mode de garde, le siège auto, la poussette et certains frais non remboursés.",
+        "Il est préférable de prévoir un budget par priorité plutôt qu’une longue liste d’objets.",
+        "Des aides peuvent exister selon la situation : Paje, prime à la naissance, CMG, mutuelle, aide locale ou entourage."
+      ],
+      "quote": "Un bébé n’a pas besoin d’une maison remplie d’objets : il a besoin de sécurité, de soins, de présence et de parents soutenus."
+    },
+    {
+      "title": "Pourquoi le budget varie autant ?",
+      "paragraphs": [
+        "Il n’existe pas un coût unique pour l’arrivée d’un bébé.",
+        "Une famille qui achète tout neuf n’aura pas le même budget qu’une famille qui récupère, emprunte ou achète d’occasion.",
+        "Le budget dépend aussi du mode de garde, de la taille du logement, de la voiture, de l’allaitement ou du biberon, de la saison de naissance et des aides reçues.",
+        "L’objectif n’est donc pas de donner un chiffre parfait, mais d’aider à repérer les postes qui comptent vraiment."
+      ]
+    },
+    {
+      "title": "Les dépenses avant la naissance",
+      "paragraphs": [
+        "Avant la naissance, les dépenses concernent souvent le couchage, les vêtements de naissance, le change, le bain, les soins, les sorties et parfois l’aménagement de la chambre.",
+        "Certains achats peuvent attendre : transat, chauffe-biberon, décoration, jouets, grand stock de couches ou accessoires très spécialisés.",
+        "Le plus utile est de préparer ce qui servira dès les premiers jours.",
+        "Tout le reste peut être ajusté après la naissance, quand vous connaîtrez mieux vos besoins."
+      ]
+    },
+    {
+      "title": "Les dépenses après la naissance",
+      "paragraphs": [
+        "Après la naissance, le budget devient plus régulier.",
+        "Il peut inclure les couches, les produits de soin simples, le lait infantile si bébé n’est pas allaité, les vêtements à renouveler, les rendez-vous, les transports et le mode de garde.",
+        "Certaines dépenses sont petites mais reviennent souvent, comme les couches ou le lait.",
+        "D’autres sont ponctuelles mais importantes, comme un siège auto adapté ou l’entrée en crèche ou chez une assistante maternelle."
+      ]
+    },
+    {
+      "title": "Ce qui vaut la peine d’être priorisé",
+      "paragraphs": [
+        "Les priorités sont la sécurité du sommeil, les trajets sécurisés, l’alimentation, l’hygiène, les soins et un minimum de vêtements adaptés.",
+        "Le design, la décoration ou les accessoires de confort peuvent venir après, si le budget le permet.",
+        "Un article cher n’est pas forcément plus utile.",
+        "Avant d’acheter, demandez-vous s’il servira dès les premières semaines, s’il est sûr, facile à nettoyer et adapté à votre logement."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le coût d’arrivée d’un bébé est très variable et dépend surtout des choix d’achat.",
+        "Il est possible de réduire fortement le budget en priorisant l’essentiel, en empruntant et en achetant d’occasion avec prudence.",
+        "Le mode de garde et les dépenses récurrentes peuvent peser plus lourd que les achats de naissance.",
+        "Faire une liste simple et évolutive permet d’éviter les achats inutiles.",
+        "En cas de petit budget, mieux vaut demander les aides possibles tôt et accepter l’aide concrète autour de soi."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "budget-bebe-les-depenses-a-prevoir-avant-la-naissance",
+  "title": "Budget bébé : les dépenses à prévoir avant la naissance",
+  "description": "Avant la naissance, certaines dépenses sont utiles, d’autres peuvent attendre. Voici les postes à anticiper pour préparer bébé sans acheter trop vite.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Avant la naissance, préparez surtout le sommeil, le change, les vêtements de base, le transport et l’alimentation.",
+        "Le siège auto, s’il est nécessaire, doit être choisi avec attention et en bon état.",
+        "Les achats de décoration, jouets, accessoires et grands stocks peuvent attendre.",
+        "Un budget de naissance se construit mieux en trois colonnes : indispensable, utile selon votre quotidien, à voir plus tard.",
+        "La liste de naissance peut aider à éviter les doublons et orienter l’entourage vers des achats vraiment utiles."
+      ],
+      "quote": "Préparer le budget avant la naissance, ce n’est pas tout acheter : c’est choisir ce qui servira vraiment au départ."
+    },
+    {
+      "title": "Commencer par les besoins des premiers jours",
+      "paragraphs": [
+        "Les premières semaines, bébé a surtout besoin de dormir en sécurité, d’être nourri, changé, habillé et transporté correctement.",
+        "La chambre complète n’est pas toujours nécessaire dès le retour à la maison.",
+        "Beaucoup de familles utilisent peu d’objets au début, puis ajustent selon leur bébé et leur organisation.",
+        "Acheter moins au départ permet aussi de mieux choisir ensuite."
+      ]
+    },
+    {
+      "title": "Le couchage",
+      "paragraphs": [
+        "Le couchage doit être prioritaire car il touche à la sécurité.",
+        "Prévoyez un lit ou berceau adapté, un matelas ferme et aux bonnes dimensions, des draps-housses et des gigoteuses adaptées à la saison.",
+        "Les oreillers, couvertures épaisses, tours de lit rembourrés et accessoires non nécessaires sont à éviter dans le couchage du nouveau-né.",
+        "Mieux vaut investir dans un couchage simple et sûr que dans une chambre très décorée."
+      ]
+    },
+    {
+      "title": "Le change et les soins",
+      "paragraphs": [
+        "Pour le change, il faut surtout un espace stable, des couches, du coton ou des lingettes adaptées, de l’eau, quelques protections et des vêtements de rechange.",
+        "Une table à langer peut être pratique, mais elle n’est pas obligatoire si vous avez un espace sûr à hauteur confortable.",
+        "Pour les soins, une petite trousse simple suffit au départ.",
+        "Évitez d’acheter beaucoup de produits cosmétiques avant de savoir ce que la peau de bébé tolère."
+      ]
+    },
+    {
+      "title": "Transport et sorties",
+      "paragraphs": [
+        "Si vous utilisez une voiture, le siège auto est une priorité majeure.",
+        "La poussette ou le porte-bébé dépendront de votre logement, de vos déplacements, de votre ville et de votre confort.",
+        "Il n’est pas toujours nécessaire d’avoir tout dès la maternité, mais il faut avoir une solution sûre pour rentrer avec bébé.",
+        "Demandez conseil si vous hésitez entre plusieurs équipements coûteux."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Avant la naissance, concentrez le budget sur les besoins réels des premières semaines.",
+        "Sommeil sécurisé, transport, change, vêtements de base et alimentation passent avant les accessoires.",
+        "Acheter progressivement évite les doublons et les objets inutilisés.",
+        "Une liste de naissance courte et utile peut soulager le budget.",
+        "Le meilleur achat est celui qui correspond à votre quotidien, pas à une liste parfaite trouvée en ligne."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "liste-de-naissance-comment-eviter-les-achats-inutiles",
+  "title": "Liste de naissance : comment éviter les achats inutiles ?",
+  "description": "La liste de naissance peut vraiment aider, à condition de rester simple. Voici comment choisir des cadeaux utiles, éviter les doublons et ne pas accumuler trop d’objets.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Une bonne liste de naissance doit être courte, claire et centrée sur vos vrais besoins.",
+        "Mélangez petits prix, achats utiles du quotidien et participations à de gros équipements.",
+        "Évitez les objets très spécialisés que vous n’êtes pas sûre d’utiliser.",
+        "Privilégiez les articles évolutifs, lavables, simples et adaptés à votre logement.",
+        "Il est possible d’ajouter aussi de l’aide concrète : repas, garde d’aîné, courses, heures de ménage ou cagnotte."
+      ],
+      "quote": "Une liste de naissance utile ne cherche pas à tout prévoir : elle aide l’entourage à offrir ce qui soulage vraiment."
+    },
+    {
+      "title": "Pourquoi faire une liste ?",
+      "paragraphs": [
+        "La liste de naissance permet d’éviter les doublons et les cadeaux qui ne correspondent pas à vos besoins.",
+        "Elle peut aussi orienter l’entourage vers des achats vraiment utiles, dans différents budgets.",
+        "Elle n’oblige personne à offrir, mais elle donne un cadre.",
+        "Elle peut être particulièrement utile si vous voulez limiter l’accumulation d’objets."
+      ]
+    },
+    {
+      "title": "Mettre les indispensables en priorité",
+      "paragraphs": [
+        "Commencez par ce qui servira souvent : gigoteuses, draps-housses, langes, couches lavables si vous en voulez, sortie de bain, thermomètre, petits vêtements, bavoirs ou matériel d’alimentation selon votre choix.",
+        "Les cadeaux peuvent aussi financer une poussette, un siège auto, un porte-bébé ou une chaise haute plus tard.",
+        "Il est préférable d’avoir quelques articles vraiment utiles que beaucoup d’objets décoratifs.",
+        "Pensez aussi à ce qui s’use vite ou se renouvelle."
+      ]
+    },
+    {
+      "title": "Prévoir plusieurs budgets",
+      "paragraphs": [
+        "Une liste pratique propose des idées à petits prix, moyens prix et participations libres.",
+        "Cela permet à chacun de contribuer selon ses moyens.",
+        "Les petites choses utiles sont souvent très appréciées : langes, bavoirs, draps, produits simples, livres bébé, repas livrés aux parents.",
+        "Les cagnottes peuvent aider pour les gros achats sans imposer un montant."
+      ]
+    },
+    {
+      "title": "Ce qu’on peut éviter",
+      "paragraphs": [
+        "Évitez d’ajouter trop d’articles très précis que vous n’êtes pas sûre d’utiliser : gadgets de sommeil, machines coûteuses, jouets nombreux, vêtements en grande quantité ou accessoires déjà dépendants du caractère de bébé.",
+        "Certains objets seront peut-être très utiles pour une famille et inutiles pour une autre.",
+        "Attendre la naissance permet parfois d’acheter plus juste.",
+        "Une liste peut rester évolutive : vous pouvez ajouter plus tard ce qui manque vraiment."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Une liste de naissance utile est simple, priorisée et adaptée à votre quotidien.",
+        "Elle doit éviter les doublons et orienter vers des achats qui serviront vraiment.",
+        "Les petits prix et les participations libres sont importants.",
+        "L’aide concrète peut être aussi précieuse qu’un objet.",
+        "La meilleure liste est celle qui allège les premières semaines, pas celle qui remplit la maison."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "bebe-sans-se-ruiner-les-achats-vraiment-prioritaires",
+  "title": "Bébé sans se ruiner : les achats vraiment prioritaires",
+  "description": "Quand le budget est serré, il est possible d’accueillir bébé sans tout acheter. Voici les achats prioritaires et ceux qui peuvent attendre.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les priorités sont le sommeil sécurisé, le transport sécurisé, l’alimentation, le change, les soins simples et les vêtements de base.",
+        "Beaucoup d’accessoires peuvent attendre ou être empruntés.",
+        "Acheter d’occasion peut aider, mais certains équipements de sécurité doivent être vérifiés avec prudence.",
+        "Un petit budget demande surtout de prioriser, pas de culpabiliser.",
+        "Les aides, dons, prêts, listes utiles et achats progressifs peuvent vraiment alléger la dépense."
+      ],
+      "quote": "Accueillir un bébé avec un petit budget est possible : l’essentiel n’est pas d’avoir tout, mais d’avoir ce qui protège et simplifie vraiment."
+    },
+    {
+      "title": "Faire une liste très courte",
+      "paragraphs": [
+        "Lorsque le budget est serré, commencez par une liste minimale.",
+        "Demandez-vous ce qui servira dès le retour à la maison et ce qui peut attendre plusieurs semaines.",
+        "Un nouveau-né a peu de besoins matériels au départ.",
+        "Une liste courte évite les achats sous pression et les dépenses éparpillées."
+      ]
+    },
+    {
+      "title": "Les achats à prioriser",
+      "paragraphs": [
+        "Le couchage doit être sûr : lit ou berceau adapté, matelas ferme et gigoteuse.",
+        "Le transport doit être adapté : siège auto conforme si vous utilisez une voiture, ou solution de portage ou poussette selon votre quotidien.",
+        "Pour le change, quelques couches, un espace stable, de l’eau et des protections suffisent au départ.",
+        "Pour les vêtements, quelques bodies, pyjamas et tenues simples adaptés à la saison sont plus utiles qu’une grande garde-robe."
+      ]
+    },
+    {
+      "title": "Les achats qui peuvent attendre",
+      "paragraphs": [
+        "Beaucoup d’objets peuvent être achetés plus tard : transat, chauffe-biberon, stérilisateur, babyphone selon le logement, tapis d’éveil, jouets, décoration, chaise haute ou vaisselle de diversification.",
+        "Attendre permet de savoir ce qui manque vraiment.",
+        "Cela évite aussi d’acheter un objet que bébé n’aime pas ou qui ne convient pas à votre espace.",
+        "L’achat progressif est souvent le meilleur allié d’un petit budget."
+      ]
+    },
+    {
+      "title": "Emprunter et acheter d’occasion",
+      "paragraphs": [
+        "Emprunter peut être très utile pour les objets utilisés peu de temps.",
+        "L’occasion est intéressante pour les vêtements, certains meubles, le bain, les livres, les langes ou les accessoires faciles à laver.",
+        "Pour le siège auto, le matelas ou certains équipements de sécurité, il faut être beaucoup plus prudent et vérifier l’état, l’historique et les normes.",
+        "Un objet moins cher n’est pas un bon choix s’il n’est pas sûr."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "On peut préparer l’arrivée de bébé sans tout acheter neuf.",
+        "Les priorités sont la sécurité, l’alimentation, le change, les soins simples et quelques vêtements.",
+        "Les accessoires peuvent attendre.",
+        "L’occasion, le prêt et la liste de naissance peuvent réduire fortement le budget.",
+        "Un petit budget ne fait pas de moins bons parents."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "aides-financieres-pendant-la-grossesse-et-apres-la-naissance",
+  "title": "Aides financières pendant la grossesse et après la naissance",
+  "description": "Pendant la grossesse et après la naissance, certaines aides peuvent soutenir les familles : prime à la naissance, Paje, CMG, prise en charge santé, mutuelle ou aides locales.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La prime à la naissance de la Paje peut être versée sous conditions de ressources pendant la grossesse.",
+        "La déclaration de grossesse permet l’étude de certains droits auprès de l’Assurance Maladie et de la Caf.",
+        "À partir du 6e mois de grossesse et jusqu’au 12e jour après l’accouchement, les frais médicaux remboursables sont pris en charge à 100 % au titre de l’assurance maternité, dans les limites prévues.",
+        "Le CMG peut aider à financer une partie du mode de garde pour un enfant de moins de 6 ans.",
+        "Selon votre situation, il peut aussi exister des aides de la mutuelle, de la commune, du département, de l’employeur ou de la PMI."
+      ],
+      "quote": "Les aides ne tombent pas toujours automatiquement : les demander tôt permet d’éviter les mauvaises surprises."
+    },
+    {
+      "title": "Commencer par la déclaration de grossesse",
+      "paragraphs": [
+        "La déclaration de grossesse est une étape importante pour ouvrir ou étudier certains droits.",
+        "Elle est généralement faite par le médecin ou la sage-femme, en ligne ou sur formulaire papier.",
+        "Elle doit être transmise avant la fin du troisième mois de grossesse.",
+        "Elle permet notamment à l’Assurance Maladie et à la Caf d’être informées de la grossesse."
+      ]
+    },
+    {
+      "title": "La prime à la naissance",
+      "paragraphs": [
+        "La prime à la naissance fait partie de la Paje.",
+        "Elle est versée sous conditions de ressources, pendant la grossesse, pour aider à préparer l’arrivée de l’enfant.",
+        "Son montant et les plafonds peuvent évoluer, il faut donc vérifier les informations à jour sur Service Public ou la Caf.",
+        "La demande dépend de votre situation Caf ou MSA et de la déclaration de grossesse."
+      ]
+    },
+    {
+      "title": "La prise en charge des soins",
+      "paragraphs": [
+        "La grossesse donne droit à une prise en charge spécifique par l’Assurance Maladie.",
+        "Les examens obligatoires de suivi sont pris en charge selon les règles prévues.",
+        "À partir du 6e mois de grossesse et jusqu’au 12e jour après l’accouchement, les frais médicaux remboursables sont pris en charge à 100 % au titre de l’assurance maternité, dans les limites de l’Assurance Maladie.",
+        "Les dépassements d’honoraires peuvent rester à votre charge selon votre complémentaire."
+      ]
+    },
+    {
+      "title": "Les aides pour le mode de garde",
+      "paragraphs": [
+        "Lorsque l’enfant sera gardé par une assistante maternelle, une garde à domicile, une micro-crèche ou une structure éligible, le CMG peut aider à financer une partie des frais.",
+        "Le montant dépend de plusieurs critères : revenus, nombre d’enfants, âge de l’enfant, mode de garde et situation familiale.",
+        "Il est important de faire des simulations avant de signer un contrat de garde.",
+        "Le reste à charge réel peut varier fortement selon la ville, le nombre d’heures et les frais annexes."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les principales aides à vérifier sont la prime à la naissance, la Paje, le CMG et la prise en charge maternité.",
+        "Les droits dépendent souvent des ressources, de la situation familiale et du mode de garde.",
+        "Les montants peuvent évoluer, il faut vérifier les pages officielles au moment de la demande.",
+        "Certaines aides locales ou mutuelles peuvent aussi exister.",
+        "Faire les démarches tôt évite de découvrir les droits trop tard."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "prime-de-naissance-conditions-montant-et-demarches",
+  "title": "Prime de naissance : conditions, montant et démarches",
+  "description": "La prime de naissance de la Paje aide à préparer l’arrivée de bébé. Conditions, montant, versement et démarches : les repères à connaître.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La prime à la naissance de la Paje est versée sous conditions de ressources pendant la grossesse.",
+        "Il faut avoir effectué le premier examen prénatal et déclaré la grossesse avant la fin du troisième mois.",
+        "Selon Service Public, son montant net est de 1 093,11 € pour un enfant, montant vérifié au 1er avril 2026.",
+        "En cas de naissance multiple, la prime est versée autant de fois que d’enfants à naître, selon les conditions prévues.",
+        "La demande se fait auprès de la Caf ou de la MSA selon votre régime."
+      ],
+      "quote": "La prime de naissance aide à financer les premiers achats, mais elle dépend de conditions précises : mieux vaut vérifier ses droits tôt."
+    },
+    {
+      "title": "À quoi sert la prime de naissance ?",
+      "paragraphs": [
+        "La prime de naissance est une aide de la Paje destinée à préparer l’arrivée de l’enfant.",
+        "Elle peut aider à financer une partie des premières dépenses : couchage, vêtements, change, transport, soins ou matériel de base.",
+        "Elle ne couvre pas forcément tous les frais liés à l’arrivée d’un bébé.",
+        "Elle doit donc être intégrée dans un budget global, avec les autres dépenses à prévoir."
+      ]
+    },
+    {
+      "title": "Les conditions principales",
+      "paragraphs": [
+        "Pour y avoir droit, il faut respecter des conditions liées à la grossesse, aux ressources et à la résidence en France.",
+        "Le premier examen prénatal doit être effectué pendant la grossesse.",
+        "La grossesse doit être déclarée avant la fin du troisième mois.",
+        "Les ressources ne doivent pas dépasser les plafonds fixés selon la composition du foyer et la situation familiale."
+      ]
+    },
+    {
+      "title": "Le montant",
+      "paragraphs": [
+        "Le montant peut être revalorisé, il faut donc toujours vérifier la page officielle au moment de la demande.",
+        "Selon Service Public, le montant net indiqué au 1er avril 2026 est de 1 093,11 € pour un enfant.",
+        "En cas de jumeaux, triplés ou plus, il est versé autant de primes que d’enfants à naître, selon les justificatifs demandés.",
+        "Un simulateur officiel peut aider à estimer les droits."
+      ]
+    },
+    {
+      "title": "Quand est-elle versée ?",
+      "paragraphs": [
+        "La prime est versée pendant la grossesse selon le calendrier prévu par la Caf ou la MSA.",
+        "Service Public indique qu’elle est versée avant le dernier jour du mois civil suivant le sixième mois de grossesse.",
+        "Le versement suppose que le dossier soit complet et que les conditions soient remplies.",
+        "En cas de doute, consultez votre espace Caf ou MSA."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "La prime de naissance est une aide utile mais soumise à conditions.",
+        "La déclaration de grossesse et le premier examen prénatal sont indispensables.",
+        "Les ressources du foyer sont prises en compte selon des plafonds officiels.",
+        "Le montant doit être vérifié sur Service Public ou la Caf, car il peut évoluer.",
+        "Ne comptez pas uniquement sur cette prime : construisez aussi un budget réaliste pour les premiers mois."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "creche-assistante-maternelle-garde-quel-budget-prevoir",
+  "title": "Crèche, assistante maternelle, garde : quel budget prévoir ?",
+  "description": "Le mode de garde peut devenir l’une des plus grosses dépenses après la naissance. Crèche, assistante maternelle, garde à domicile : comment anticiper le budget.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le budget de garde dépend du mode choisi, du nombre d’heures, des revenus, de la ville et des aides possibles.",
+        "La crèche applique généralement un tarif calculé selon les revenus et la composition familiale.",
+        "Avec une assistante maternelle, il faut prévoir salaire, indemnités, congés payés et parfois frais de repas ou d’entretien.",
+        "Le CMG peut aider à financer une partie des dépenses de garde pour un enfant de moins de 6 ans.",
+        "Le reste à charge doit être calculé avant de signer, avec des simulations et toutes les indemnités."
+      ],
+      "quote": "Le bon budget de garde n’est pas seulement le tarif horaire : c’est le coût réel après aides et frais annexes."
+    },
+    {
+      "title": "Pourquoi anticiper tôt ?",
+      "paragraphs": [
+        "Le mode de garde demande souvent des démarches plusieurs mois avant la reprise du travail.",
+        "Le budget peut influencer le choix entre crèche, assistante maternelle, garde à domicile, garde partagée ou organisation familiale.",
+        "Certaines solutions sont plus souples mais plus coûteuses, d’autres moins chères mais plus difficiles à obtenir.",
+        "Anticiper permet de comparer calmement."
+      ]
+    },
+    {
+      "title": "La crèche",
+      "paragraphs": [
+        "En crèche collective ou municipale, le tarif est souvent calculé selon les revenus, le nombre d’enfants et le volume d’accueil.",
+        "Le coût peut donc être très différent d’une famille à l’autre.",
+        "Il faut aussi vérifier les horaires, les jours de fermeture, les repas, les couches et les modalités d’adaptation.",
+        "Le coût apparent ne suffit pas : l’organisation réelle compte aussi."
+      ]
+    },
+    {
+      "title": "L’assistante maternelle",
+      "paragraphs": [
+        "Avec une assistante maternelle, les parents deviennent employeurs.",
+        "Le budget comprend le salaire, les congés payés, les indemnités d’entretien, parfois les repas et les frais liés au contrat.",
+        "Le salaire horaire varie selon les régions, l’expérience, la demande et le nombre d’heures.",
+        "Le CMG peut réduire le reste à charge si les conditions sont remplies."
+      ]
+    },
+    {
+      "title": "La garde à domicile",
+      "paragraphs": [
+        "La garde à domicile peut être plus coûteuse, mais elle peut convenir à certains horaires ou à plusieurs enfants.",
+        "La garde partagée permet parfois de diviser une partie des frais entre deux familles.",
+        "Il faut prévoir le salaire, les cotisations, les congés, les frais éventuels et les aides possibles.",
+        "Là aussi, une simulation est indispensable avant de s’engager."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le mode de garde peut être l’un des plus gros postes du budget bébé.",
+        "Il faut comparer le coût réel après aides, pas seulement le tarif brut.",
+        "Crèche, assistante maternelle et garde à domicile n’ont pas les mêmes frais ni la même souplesse.",
+        "Le CMG peut aider selon la situation.",
+        "Avant de signer, demandez un calcul complet du reste à charge mensuel."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "acheter-neuf-ou-doccasion-comment-faire-les-bons-choix",
+  "title": "Acheter neuf ou d’occasion : comment faire les bons choix ?",
+  "description": "Pour réduire le budget bébé, l’occasion peut être très utile. Mais certains équipements doivent être choisis avec prudence. Voici comment décider entre neuf et occasion.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "L’occasion est intéressante pour les vêtements, livres, certains meubles, langes, petits accessoires et objets lavables.",
+        "Le neuf peut être préférable pour le matelas, les produits d’hygiène, certaines tétines et les équipements dont l’historique est inconnu.",
+        "Le siège auto d’occasion doit être accepté seulement si l’historique est parfaitement connu et s’il n’a jamais subi d’accident.",
+        "Vérifiez toujours l’état, les pièces, la notice, les rappels produits et la stabilité.",
+        "Le bon choix est celui qui réduit le budget sans réduire la sécurité."
+      ],
+      "quote": "Acheter d’occasion est une bonne idée quand l’objet est propre, complet, sûr et adapté à bébé."
+    },
+    {
+      "title": "Pourquoi l’occasion peut aider",
+      "paragraphs": [
+        "Les bébés grandissent vite et beaucoup d’objets servent peu de temps.",
+        "Acheter d’occasion peut donc réduire fortement le budget, surtout pour les vêtements, gigoteuses, livres, jouets simples ou certains équipements de bain.",
+        "Cela permet aussi de consommer moins et de récupérer des objets déjà utilisés par d’autres familles.",
+        "Mais tout ne se choisit pas de la même façon."
+      ]
+    },
+    {
+      "title": "Ce qui se prête bien à l’occasion",
+      "paragraphs": [
+        "Les vêtements, bodies, pyjamas, manteaux, couvertures hors couchage, livres cartonnés, langes, baignoire bébé ou meuble en bon état peuvent souvent être achetés d’occasion.",
+        "Il faut vérifier la propreté, l’absence de moisissure, la solidité, les boutons, les pressions et les petites pièces détachables.",
+        "L’objet doit pouvoir être lavé ou désinfecté correctement.",
+        "S’il manque une pièce ou une notice importante, mieux vaut éviter."
+      ]
+    },
+    {
+      "title": "Ce qui demande plus de prudence",
+      "paragraphs": [
+        "Le matelas de bébé doit être ferme, propre, adapté aux dimensions du lit et en excellent état.",
+        "Les tétines, biberons abîmés, produits de soin ouverts ou objets difficiles à nettoyer doivent être évités.",
+        "Le siège auto d’occasion est délicat : il faut connaître son historique, être sûre qu’il n’a pas eu d’accident et qu’il n’est pas trop ancien ni incomplet.",
+        "La sécurité doit passer avant l’économie."
+      ]
+    },
+    {
+      "title": "Les vérifications à faire",
+      "paragraphs": [
+        "Avant d’acheter, vérifiez l’état général, les fixations, la stabilité, les sangles, les fermetures et l’absence de pièces cassées.",
+        "Cherchez la notice, la marque, le modèle et l’année si possible.",
+        "Regardez si le produit a fait l’objet d’un rappel ou d’un problème de sécurité.",
+        "N’achetez pas un objet si vous avez un doute sérieux."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "L’occasion peut vraiment aider à réduire le budget bébé.",
+        "Elle est surtout intéressante pour les objets lavables, peu techniques et faciles à vérifier.",
+        "Pour le sommeil, le transport et les équipements de sécurité, la prudence est indispensable.",
+        "Un objet incomplet, abîmé ou dont l’historique est inconnu peut coûter plus cher qu’il ne rapporte.",
+        "Le bon équilibre consiste à acheter d’occasion ce qui peut l’être, et neuf ce qui protège vraiment."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "couches-lait-soins-le-budget-des-premiers-mois",
+  "title": "Couches, lait, soins : le budget des premiers mois",
+  "description": "Les premiers mois, certaines dépenses reviennent souvent : couches, lait infantile, soins, vêtements, pharmacie. Voici comment les anticiper sans surstocker.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les couches, le lait infantile si bébé n’est pas allaité, les vêtements et les petits soins sont les dépenses les plus régulières.",
+        "Évitez les gros stocks avant de connaître la taille, la peau et la tolérance de bébé.",
+        "Les produits de soin peuvent rester très simples : inutile de multiplier les crèmes et lotions.",
+        "Le lait infantile représente un budget important si bébé est nourri au biberon.",
+        "Comparer les prix est utile, mais la tolérance de bébé et les conseils professionnels passent avant les promotions."
+      ],
+      "quote": "Les petites dépenses répétées pèsent parfois plus que les gros achats de naissance."
+    },
+    {
+      "title": "Les couches",
+      "paragraphs": [
+        "Les couches sont une dépense régulière dès les premiers jours.",
+        "Le nombre utilisé varie selon l’âge de bébé, son transit et les habitudes de change.",
+        "Il peut être tentant de faire de gros stocks, mais bébé change vite de taille et certaines marques peuvent moins convenir à sa peau.",
+        "Commencer avec une quantité raisonnable évite le gaspillage."
+      ]
+    },
+    {
+      "title": "Le lait infantile",
+      "paragraphs": [
+        "Si bébé prend du lait infantile, ce poste peut devenir important chaque mois.",
+        "Le type de lait doit être adapté à l’âge et à la situation de bébé.",
+        "Il est préférable de demander conseil avant de changer plusieurs fois de lait pour des pleurs, régurgitations ou inconforts.",
+        "Les promotions peuvent aider, mais il faut éviter de stocker trop longtemps sans être sûre que le lait convient."
+      ]
+    },
+    {
+      "title": "Les soins du quotidien",
+      "paragraphs": [
+        "Pour les soins, il n’est pas nécessaire d’avoir beaucoup de produits.",
+        "Un thermomètre, des compresses, du sérum physiologique, de quoi nettoyer doucement et quelques produits simples peuvent suffire au départ.",
+        "Les crèmes, lotions parfumées ou produits multiples ne sont pas indispensables.",
+        "Moins de produits peut aussi limiter les irritations."
+      ]
+    },
+    {
+      "title": "Les vêtements à renouveler",
+      "paragraphs": [
+        "Les vêtements représentent aussi une dépense régulière, car bébé grandit vite.",
+        "Il est inutile d’avoir trop de tenues dans chaque taille.",
+        "Quelques bodies, pyjamas, gilets ou brassières selon la saison suffisent souvent au début.",
+        "L’occasion, les prêts et les lots peuvent réduire fortement ce budget."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les premiers mois, le budget se joue beaucoup sur les dépenses répétées.",
+        "Couches, lait, soins et vêtements doivent être anticipés, mais sans surstocker.",
+        "La simplicité est souvent suffisante pour les soins.",
+        "Le lait et les couches doivent convenir à bébé avant d’être achetés en grande quantité.",
+        "Suivre les dépenses pendant un mois peut aider à ajuster le budget réel."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
+},
+
+{
+  "slug": "preparer-larrivee-de-bebe-avec-un-petit-budget",
+  "title": "Préparer l’arrivée de bébé avec un petit budget",
+  "description": "Quand le budget est serré, l’arrivée d’un bébé peut inquiéter. Voici une méthode simple pour prioriser, récupérer, demander de l’aide et éviter les achats inutiles.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Budget",
+  "subcategorySlug": "budget",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Avec un petit budget, il faut séparer l’indispensable, l’utile et ce qui peut attendre.",
+        "Le couchage sécurisé, le transport, le change, l’alimentation et quelques vêtements passent en priorité.",
+        "Les prêts, dons, achats d’occasion, listes de naissance utiles et aides sociales peuvent réduire fortement les dépenses.",
+        "Il vaut mieux acheter progressivement que tout avant la naissance.",
+        "Demander de l’aide n’est pas honteux : la période de naissance mérite d’être entourée."
+      ],
+      "quote": "Préparer bébé avec peu de moyens, c’est possible en allant à l’essentiel et en refusant la pression d’acheter trop."
+    },
+    {
+      "title": "Faire un tri en trois colonnes",
+      "paragraphs": [
+        "Prenez une feuille et séparez les achats en trois colonnes : indispensable dès la naissance, utile selon votre quotidien, à voir plus tard.",
+        "Cette méthode aide à sortir de la liste interminable d’Internet.",
+        "Elle permet aussi de voir ce qui peut être emprunté ou offert.",
+        "Tout ce qui n’est pas nécessaire les premières semaines peut attendre."
+      ]
+    },
+    {
+      "title": "Chercher ce qui peut être donné ou prêté",
+      "paragraphs": [
+        "Avant d’acheter, demandez autour de vous si certains objets peuvent être prêtés ou donnés.",
+        "Les vêtements de naissance, gigoteuses, baignoires, langes, livres et petits accessoires circulent souvent entre familles.",
+        "Il faut vérifier l’état et la propreté, mais cela peut soulager énormément le budget.",
+        "Accepter un prêt ne vous oblige pas à garder un objet qui ne vous convient pas."
+      ]
+    },
+    {
+      "title": "Utiliser la liste de naissance autrement",
+      "paragraphs": [
+        "Une liste de naissance peut être très utile avec un petit budget.",
+        "Vous pouvez y mettre des objets simples, des participations libres ou des aides concrètes comme des repas, des courses ou du ménage.",
+        "L’entourage ne sait pas toujours ce qui aide vraiment : la liste permet de l’orienter.",
+        "Mieux vaut demander peu de choses utiles que beaucoup de cadeaux décoratifs."
+      ]
+    },
+    {
+      "title": "Vérifier les aides possibles",
+      "paragraphs": [
+        "Selon votre situation, vous pouvez vérifier la prime à la naissance, la Paje, le CMG pour le mode de garde, les aides locales, la mutuelle, le comité d’entreprise ou le service social.",
+        "Les droits dépendent souvent des revenus et de la composition du foyer.",
+        "Les montants changent parfois, donc il faut consulter les sites officiels au moment de la demande.",
+        "Une assistante sociale, la Caf, la PMI ou la mairie peuvent aider à orienter."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Un petit budget demande de prioriser, pas de tout supprimer.",
+        "Les essentiels sont le sommeil sécurisé, le transport, l’alimentation, le change, les soins simples et quelques vêtements.",
+        "Les achats progressifs, l’occasion et les prêts réduisent beaucoup la pression.",
+        "Les aides doivent être vérifiées tôt.",
+        "Bébé n’a pas besoin de tout avoir neuf pour être accueilli avec soin."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Service Public — Prime à la naissance de la Paje",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2550"
+    },
+    {
+      "label": "CAF — La prime à la naissance",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
+    },
+    {
+      "label": "CAF — Le complément de libre choix du mode de garde (CMG)",
+      "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/le-complement-de-libre-choix-du-mode-de-garde-cmg"
+    },
+    {
+      "label": "Assurance Maladie — Grossesse : démarches et accompagnement",
+      "url": "https://www.ameli.fr/assure/droits-demarches/famille/maternite-paternite-adoption/grossesse"
+    },
+    {
+      "label": "1000 premiers jours — Préparer l’arrivée de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr"
+    }
+  ]
 }
 
 ];
