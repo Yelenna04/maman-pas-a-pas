@@ -28121,7 +28121,267 @@ export const articles: Article[] = [
       "url": "https://www.caf.fr/allocataires/aides-et-demarches/droits-et-prestations/vie-personnelle/la-prime-la-naissance"
     }
   ]
+},
+
+{
+  slug: "sorganiser-avant-larrivee-de-bebe-par-quoi-commencer",
+  title: "S’organiser avant l’arrivée de bébé : par quoi commencer ?",
+  description:
+    "Préparer l’arrivée de bébé sans se perdre : priorités, maison, démarches, matériel, valise, repas, soutien, budget et organisation du quotidien avant la naissance.",
+  category: "Vie pratique",
+  categorySlug: "vie-pratique",
+  subcategory: "Organisation",
+  subcategorySlug: "organisation",
+  readingTime: "11 min",
+  publishedAt: "2026-06-22",
+  updatedAt: "2026-06-22",
+  tone: "sage",
+  sections: [
+    {
+      title: "L’essentiel en 30 secondes",
+      bullets: [
+        "Avant l’arrivée de bébé, l’objectif n’est pas que tout soit parfait, mais que les premières semaines soient plus simples à vivre.",
+        "Commencez par les priorités : suivi médical, démarches importantes, lieu de sommeil du bébé, matériel vraiment utile, valise de maternité et organisation du retour à la maison.",
+        "Préparer quelques repas, ranger les documents importants et anticiper les contacts utiles peut beaucoup alléger la charge mentale.",
+        "Il est utile de répartir les tâches avec le coparent ou l’entourage avant la naissance, plutôt que d’attendre d’être épuisés après.",
+        "Chaque famille avance à son rythme : il n’est pas nécessaire de tout acheter, tout prévoir ou tout contrôler avant le jour J."
+      ],
+      quote:
+        "S’organiser avant l’arrivée de bébé, ce n’est pas chercher la perfection : c’est préparer un environnement plus doux pour les premières semaines."
+    },
+    {
+      title: "Pourquoi s’organiser un peu avant la naissance ?",
+      paragraphs: [
+        "Les dernières semaines de grossesse peuvent être remplies de rendez-vous, de fatigue, d’impatience et parfois d’inquiétudes.",
+        "Préparer certains points à l’avance permet de limiter les décisions urgentes au moment où le bébé sera là.",
+        "L’idée n’est pas de transformer la maison en catalogue parfait, mais de rendre le quotidien plus simple.",
+        "Un minimum d’organisation aide souvent à mieux vivre le retour de maternité, surtout quand le sommeil est fragmenté."
+      ]
+    },
+    {
+      title: "Commencer par les vraies priorités",
+      paragraphs: [
+        "Quand on pense à l’arrivée d’un bébé, la liste peut sembler immense.",
+        "Pour éviter de se sentir débordée, commencez par distinguer ce qui est vraiment indispensable de ce qui peut attendre.",
+        "Les priorités sont généralement : un endroit sûr pour dormir, de quoi changer et habiller bébé, de quoi le nourrir, les documents importants, la valise de maternité et un minimum d’aide pour le retour.",
+        "Le reste peut souvent être ajusté après la naissance, quand vous connaîtrez mieux vos besoins réels."
+      ]
+    },
+    {
+      title: "Faire le point sur les rendez-vous et le suivi",
+      paragraphs: [
+        "Avant la naissance, gardez sous la main les informations liées au suivi de grossesse : maternité, sage-femme, médecin, échographies, bilans et consignes particulières.",
+        "Notez les numéros utiles : maternité, salle de naissance, urgences, sage-femme libérale, pharmacie, PMI si vous l’avez déjà identifiée.",
+        "Si une surveillance particulière est prévue, rangez les comptes rendus et documents importants dans une pochette facile à emporter.",
+        "Le but est de ne pas chercher les informations au dernier moment."
+      ]
+    },
+    {
+      title: "Préparer les documents importants",
+      paragraphs: [
+        "Une pochette administrative peut vraiment simplifier les derniers jours et le séjour à la maternité.",
+        "Vous pouvez y mettre les papiers d’identité, la carte Vitale, la carte de mutuelle, les documents de suivi de grossesse, les résultats demandés, le dossier maternité et les informations utiles pour la déclaration de naissance.",
+        "Il peut aussi être pratique de garder une version numérique de certains documents sur votre téléphone ou dans un espace sécurisé.",
+        "Cette pochette pourra ensuite servir pour les démarches après la naissance."
+      ]
+    },
+    {
+      title: "Prévoir la valise de maternité",
+      paragraphs: [
+        "La valise de maternité peut être préparée progressivement, sans attendre les tout derniers jours.",
+        "Prévoyez les affaires demandées par votre maternité pour vous, le bébé et l’accompagnant si besoin.",
+        "Il est utile de séparer les affaires du jour de naissance, du séjour et du retour à la maison.",
+        "Gardez aussi une petite liste visible pour les choses à ajouter au dernier moment, comme le chargeur, les lunettes, certains papiers ou les affaires de toilette."
+      ],
+      quote:
+        "Une valise simple, claire et adaptée aux consignes de la maternité suffit largement."
+    },
+    {
+      title: "Préparer l’espace de sommeil du bébé",
+      paragraphs: [
+        "Le sommeil du bébé est l’un des premiers points à organiser.",
+        "Prévoyez un couchage adapté, stable, avec un matelas ferme et un espace dégagé selon les recommandations de prévention du couchage à risque.",
+        "Il n’est pas nécessaire d’avoir une chambre entièrement terminée avant la naissance si le bébé dort d’abord près de vous.",
+        "L’essentiel est que le lieu de sommeil soit prêt, simple et sécurisé."
+      ]
+    },
+    {
+      title: "Préparer un coin change simple",
+      paragraphs: [
+        "Le coin change n’a pas besoin d’être grand ni très équipé.",
+        "Il doit surtout être pratique, stable et facile à utiliser, avec les couches, les cotons ou lingettes adaptées, les vêtements de rechange et un sac ou une poubelle à portée de main.",
+        "Gardez toujours une main sur le bébé lorsqu’il est en hauteur.",
+        "Si vous manquez de place, un système simple et mobile peut suffire."
+      ]
+    },
+    {
+      title: "Trier le matériel : utile, pratique, optionnel",
+      paragraphs: [
+        "On peut vite avoir l’impression qu’un bébé nécessite beaucoup d’achats.",
+        "Pour alléger le budget et l’espace, classez le matériel en trois catégories : indispensable dès le retour, utile selon votre mode de vie, et optionnel.",
+        "Un lit ou berceau adapté, des couches, quelques vêtements, de quoi laver, changer, transporter et nourrir bébé suffisent souvent pour commencer.",
+        "Certains achats peuvent attendre de voir comment bébé dort, mange, se déplace et ce qui vous manque réellement."
+      ]
+    },
+    {
+      title: "Ne pas acheter trop de vêtements au départ",
+      paragraphs: [
+        "Les vêtements de naissance sont adorables, mais les bébés grandissent vite et les tailles varient beaucoup.",
+        "Prévoyez quelques bodies, pyjamas, gilets, chaussettes, bonnets selon la saison, mais évitez d’acheter trop en une seule taille.",
+        "Pensez au côté pratique : vêtements faciles à ouvrir, matières confortables, lavage simple.",
+        "Après la naissance, vous pourrez compléter selon le poids du bébé, la saison et vos habitudes."
+      ]
+    },
+    {
+      title: "Préparer l’alimentation du bébé",
+      paragraphs: [
+        "Selon votre projet, l’organisation ne sera pas la même.",
+        "Si vous souhaitez allaiter, il peut être utile de connaître les ressources d’aide : sage-femme, maternité, consultante en lactation, PMI ou associations spécialisées.",
+        "Si vous prévoyez le biberon, renseignez-vous sur le matériel nécessaire, la préparation et les consignes d’hygiène.",
+        "Si vous hésitez, vous avez le droit de garder une organisation souple et d’être accompagnée après la naissance."
+      ]
+    },
+    {
+      title: "Anticiper les repas des parents",
+      paragraphs: [
+        "Après la naissance, les repas des parents passent souvent au second plan, alors qu’ils sont essentiels pour récupérer.",
+        "Préparer quelques repas simples à congeler, remplir un placard de bases faciles ou organiser une aide pour les courses peut beaucoup soulager.",
+        "Pensez aux aliments faciles à manger rapidement : soupes, plats simples, fruits, yaourts, compotes, pain, œufs, féculents, plats déjà prêts si besoin.",
+        "Le but n’est pas de manger parfaitement, mais de ne pas se retrouver sans énergie."
+      ],
+      quote:
+        "Préparer des repas pour les parents, c’est aussi préparer l’arrivée du bébé."
+    },
+    {
+      title: "Répartir les tâches avant d’être fatigués",
+      paragraphs: [
+        "Il est plus simple de parler d’organisation avant la naissance qu’au milieu de la fatigue.",
+        "Avec le coparent, si présent, discutez des nuits, des repas, du ménage, des courses, des lessives, des démarches, des visites et du relais avec le bébé.",
+        "Essayez de nommer les tâches concrètement plutôt que de rester sur des phrases générales comme “on verra”.",
+        "Une organisation pourra évoluer, mais une base claire évite beaucoup de tensions."
+      ]
+    },
+    {
+      title: "Prévoir l’aide de l’entourage",
+      paragraphs: [
+        "L’entourage peut être une vraie ressource si l’aide est concrète et respectueuse.",
+        "Avant la naissance, vous pouvez réfléchir aux personnes à appeler pour un repas, une course, une garde d’aîné, un trajet, une lessive ou une présence calme.",
+        "Il peut aussi être utile de dire clairement ce dont vous ne voulez pas : visites trop longues, conseils non demandés, passages à l’improviste.",
+        "Un bébé n’a pas besoin d’une maison pleine de visiteurs : ses parents ont surtout besoin de soutien."
+      ]
+    },
+    {
+      title: "Organiser les visites",
+      paragraphs: [
+        "Les visites peuvent faire plaisir, mais elles peuvent aussi fatiguer beaucoup.",
+        "Vous pouvez décider à l’avance de limiter les visites les premiers jours, de fixer des horaires courts ou de demander aux proches de prévenir avant de passer.",
+        "Il est aussi possible de dire que vous verrez selon la fatigue et l’état du bébé.",
+        "Préparer cette limite avant la naissance évite de devoir se justifier quand vous serez déjà épuisés."
+      ]
+    },
+    {
+      title: "Si vous avez déjà un enfant",
+      paragraphs: [
+        "L’arrivée d’un bébé demande aussi d’anticiper l’organisation des aînés.",
+        "Prévoyez qui pourra les garder au moment du départ à la maternité, qui les accompagnera à l’école ou aux activités, et comment les préparer à votre absence.",
+        "Préparer un petit sac, une liste de contacts et quelques repères de routine peut aider la personne qui prendra le relais.",
+        "Après la naissance, les aînés auront aussi besoin de temps, d’attention et d’explications simples."
+      ]
+    },
+    {
+      title: "Anticiper les animaux de compagnie",
+      paragraphs: [
+        "Si vous avez un animal, pensez à son organisation pendant le séjour à la maternité et au retour à la maison.",
+        "Prévoyez qui pourra le nourrir, le sortir ou le garder si besoin.",
+        "Au retour, l’objectif est de garder des interactions calmes, progressives et toujours surveillées avec le bébé.",
+        "Cette anticipation évite d’ajouter une urgence pratique au moment de la naissance."
+      ]
+    },
+    {
+      title: "Préparer un minimum de budget",
+      paragraphs: [
+        "L’arrivée d’un bébé peut entraîner des dépenses nombreuses, parfois petites mais répétées.",
+        "Il peut être utile de lister les achats vraiment nécessaires, les choses que vous pouvez emprunter, récupérer ou acheter d’occasion, et les dépenses à venir comme couches, lait éventuel, mutuelle ou mode de garde.",
+        "Vérifiez aussi les aides possibles selon votre situation et les démarches Caf ou employeur à prévoir.",
+        "Un budget simple évite les achats sous pression."
+      ]
+    },
+    {
+      title: "Penser au mode de garde sans attendre trop longtemps",
+      paragraphs: [
+        "Même si la reprise paraît lointaine, le mode de garde peut demander du temps.",
+        "Selon votre commune, vos horaires et vos besoins, les démarches peuvent être différentes : crèche, assistante maternelle, garde partagée, famille ou autre solution.",
+        "Il est utile de noter les dates d’inscription, les contacts, les documents demandés et les questions importantes à poser.",
+        "Vous n’avez pas besoin d’avoir tout finalisé avant la naissance, mais commencer à vous renseigner peut éviter une pression supplémentaire après."
+      ]
+    },
+    {
+      title: "Préparer le retour à la maison",
+      paragraphs: [
+        "Le retour à la maison est souvent un moment fort, parfois très émouvant et fatigant.",
+        "Préparez simplement ce qui peut rendre les premiers jours plus doux : lit prêt, couches disponibles, quelques vêtements propres, repas faciles, numéros utiles et aide possible.",
+        "Il peut aussi être utile de ranger un minimum les espaces les plus utilisés, sans chercher à faire une maison parfaite.",
+        "Les priorités seront le repos, l’alimentation du bébé, les soins et l’adaptation au nouveau rythme."
+      ]
+    },
+    {
+      title: "Accepter que tout ne soit pas prêt",
+      paragraphs: [
+        "Beaucoup de parents ont l’impression qu’ils devraient avoir tout prévu avant la naissance.",
+        "En réalité, une partie de l’organisation se construit avec le bébé, son rythme, son tempérament et vos besoins réels.",
+        "Il est normal d’ajuster, de changer d’avis, de compléter plus tard ou de découvrir qu’un objet prévu ne sert finalement pas.",
+        "Un bébé a surtout besoin de sécurité, de soins, de nourriture, de présence et de parents soutenus."
+      ],
+      quote:
+        "Tout ne doit pas être prêt pour que vous soyez prêts à accueillir votre bébé."
+    },
+    {
+      title: "Une petite checklist pour commencer",
+      paragraphs: [
+        "Pour avancer sans vous disperser, vous pouvez commencer par quelques actions simples.",
+        "Préparer une pochette de documents importants.",
+        "Faire la valise de maternité selon la liste de votre maternité.",
+        "Préparer un espace de sommeil sûr et un coin change simple.",
+        "Prévoir quelques repas faciles et les numéros utiles.",
+        "Lister les personnes qui peuvent aider concrètement.",
+        "Faire le point sur les démarches, le mode de garde et les achats vraiment nécessaires."
+      ]
+    },
+    {
+      title: "À retenir",
+      paragraphs: [
+        "Avant l’arrivée de bébé, il n’est pas nécessaire de tout prévoir dans les moindres détails.",
+        "Commencez par les priorités : suivi, documents, valise, sommeil, change, alimentation, repas et aide au retour.",
+        "Répartir les tâches et poser des limites sur les visites peut beaucoup alléger les premières semaines.",
+        "Le matériel peut rester simple : beaucoup d’achats peuvent attendre la naissance.",
+        "Une bonne organisation n’est pas une organisation parfaite, c’est une organisation qui vous soutient."
+      ]
+    }
+  ],
+  sources: [
+    {
+      label: "1000 premiers jours — Préparer l’arrivée de bébé",
+      url: "https://www.1000-premiers-jours.fr/fr/preparer-larrivee-de-bebe"
+    },
+    {
+      label: "1000 premiers jours — Les premiers jours avec bébé",
+      url: "https://www.1000-premiers-jours.fr/fr/les-premiers-jours-avec-bebe"
+    },
+    {
+      label: "Service-public.fr — Je deviens parent",
+      url: "https://www.service-public.fr/particuliers/vosdroits/F16225"
+    },
+    {
+      label: "Assurance Maladie — Après l’accouchement et suivi du nouveau-né",
+      url: "https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne"
+    },
+    {
+      label: "Caf — J’attends un enfant",
+      url: "https://www.caf.fr/allocataires/aides-et-demarches/ma-situation/vie-personnelle/j-attends-un-enfant"
+    }
+  ]
 }
+
 
 ];
 
