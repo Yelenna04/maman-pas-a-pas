@@ -29411,7 +29411,1175 @@ export const articles: Article[] = [
     }
   ]
 }
+,
 
+{
+  "slug": "materiel-bebe-les-vrais-indispensables-pour-les-premieres-semaines",
+  "title": "Matériel bébé : les vrais indispensables pour les premières semaines",
+  "description": "Une liste simple pour préparer l’arrivée de bébé sans acheter trop : sommeil, change, vêtements, sorties, repas, soins et sécurité.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les vrais indispensables sont ceux qui servent dès les premières semaines : dormir, être changé, être habillé, être transporté, être nourri et être soigné simplement.",
+        "Il vaut mieux choisir peu de matériel, mais sûr, facile à laver et adapté à un nouveau-né.",
+        "Le couchage doit rester très simple : un lit adapté, un matelas ferme, un drap-housse et une gigoteuse à la bonne taille.",
+        "Le siège auto est indispensable dès la sortie de maternité si vous rentrez en voiture.",
+        "Beaucoup d’achats peuvent attendre de connaître votre bébé, votre logement et votre quotidien."
+      ],
+      "quote": "Préparer bébé, ce n’est pas remplir la maison : c’est prévoir l’essentiel pour commencer sereinement."
+    },
+    {
+      "title": "Commencer par les besoins de base",
+      "paragraphs": [
+        "Pour les premières semaines, le plus utile est de penser aux gestes répétés chaque jour.",
+        "Bébé aura besoin de dormir en sécurité, d’être changé souvent, d’être habillé simplement, d’être nourri et d’être transporté.",
+        "Cette approche évite de se perdre dans les listes interminables et les achats “au cas où”.",
+        "Vous pourrez compléter ensuite selon votre bébé, votre place et vos habitudes."
+      ]
+    },
+    {
+      "title": "Pour dormir",
+      "paragraphs": [
+        "Le couchage peut rester très simple.",
+        "Prévoyez un lit ou berceau adapté, un matelas ferme aux bonnes dimensions, des draps-housses et une gigoteuse adaptée à la taille de bébé et à la saison.",
+        "Évitez les oreillers, couvertures, tours de lit, coussins, cale-bébé et objets mous dans le lit.",
+        "Un espace de sommeil simple est souvent le choix le plus sûr."
+      ]
+    },
+    {
+      "title": "Pour le change",
+      "paragraphs": [
+        "Pour le change, il faut surtout un endroit stable, des couches, de quoi nettoyer bébé, des carrés de coton ou lingettes adaptées, une serviette et une tenue de rechange à portée de main.",
+        "Une table à langer peut être pratique, mais un matelas à langer posé sur une surface sécurisée peut suffire si l’espace est petit.",
+        "Le plus important est de ne jamais laisser bébé seul en hauteur.",
+        "Préparer les affaires avant de commencer limite le stress."
+      ]
+    },
+    {
+      "title": "Pour les vêtements",
+      "paragraphs": [
+        "Les premiers vêtements doivent être simples à enfiler et faciles à laver.",
+        "Quelques bodies, pyjamas, chaussettes, bonnets selon la saison et gilets suffisent souvent pour commencer.",
+        "Les tailles naissance ne servent pas toujours longtemps, donc il est utile de ne pas en acheter trop.",
+        "Mieux vaut prévoir un peu de 1 mois, et ajuster après la naissance selon le poids et la taille de bébé."
+      ]
+    },
+    {
+      "title": "Pour les sorties",
+      "paragraphs": [
+        "Le matériel de sortie dépend beaucoup de votre mode de vie.",
+        "Si vous avez une voiture, le siège auto adapté est prioritaire et doit être choisi avant la naissance.",
+        "Une poussette ou un porte-bébé peut être utile, mais le choix dépend de votre logement, des escaliers, des trajets et de votre confort.",
+        "Il vaut mieux tester la maniabilité et vérifier la sécurité plutôt que choisir uniquement sur l’esthétique."
+      ]
+    },
+    {
+      "title": "Pour nourrir bébé",
+      "paragraphs": [
+        "Si vous allaitez, il n’est pas nécessaire d’acheter beaucoup de matériel au départ.",
+        "Quelques langes, des coussinets si besoin et un endroit confortable peuvent suffire.",
+        "Si bébé prend des biberons, prévoyez quelques biberons, des tétines adaptées et de quoi les nettoyer correctement.",
+        "Le chauffe-biberon, le stérilisateur ou d’autres accessoires ne sont pas indispensables pour toutes les familles."
+      ]
+    },
+    {
+      "title": "Pour les soins",
+      "paragraphs": [
+        "Une petite trousse de soin suffit au début.",
+        "On peut prévoir un thermomètre, du sérum physiologique, des compresses, de quoi couper les ongles avec prudence quand c’est nécessaire, et les produits recommandés par la maternité.",
+        "Évitez d’accumuler des crèmes, huiles ou produits parfumés sans besoin précis.",
+        "En cas de doute, demandez conseil à la sage-femme, au médecin ou au pharmacien."
+      ]
+    },
+    {
+      "title": "Ce qui peut attendre",
+      "paragraphs": [
+        "Beaucoup d’objets peuvent attendre : transat, parc, tapis d’éveil, robot, chauffe-biberon, deuxième poussette ou nombreux jouets.",
+        "Certains seront très utiles chez vous, d’autres pas du tout.",
+        "Attendre permet aussi d’éviter les doublons avec les cadeaux et la liste de naissance.",
+        "Acheter progressivement est souvent plus économique et plus adapté."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les vrais indispensables couvrent le sommeil, le change, les vêtements, les repas, les sorties et les soins simples.",
+        "Le matériel doit être sûr, pratique, lavable et adapté à votre quotidien.",
+        "Le couchage et le siège auto méritent une attention particulière.",
+        "Il n’est pas nécessaire de tout acheter avant la naissance.",
+        "Un équipement simple et bien choisi suffit largement pour commencer."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Le sommeil de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    },
+    {
+      "label": "Sécurité routière — Transporter un enfant en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    },
+    {
+      "label": "ANSES — Préparations en poudre pour nourrissons",
+      "url": "https://www.anses.fr/fr/content/preparations-en-poudre-pour-nourrissons-les-recommandations-de-lanses-pour-ameliorer-la"
+    }
+  ]
+}
+,
+{
+  "slug": "ce-quon-achete-souvent-trop-vite-pour-bebe",
+  "title": "Ce qu’on achète souvent trop vite pour bébé",
+  "description": "Avant la naissance, on peut vite acheter trop. Voici les objets à attendre, les doublons fréquents et les questions à se poser avant d’acheter.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Beaucoup d’achats bébé peuvent attendre la naissance et les vrais besoins du quotidien.",
+        "Les objets “pratiques” ne le sont pas pour toutes les familles : cela dépend du logement, de l’alimentation, des sorties et du rythme.",
+        "Les vêtements naissance, les gadgets de repas, les gros accessoires et les jouets sont souvent achetés en trop grande quantité.",
+        "Pour le sommeil et la voiture, il faut privilégier la sécurité plutôt que les accessoires tendance.",
+        "Une bonne question avant d’acheter : est-ce que cela répond à un besoin immédiat, ou à une peur de ne pas être prête ?"
+      ],
+      "quote": "Acheter moins avant la naissance, ce n’est pas manquer d’organisation : c’est se laisser la possibilité d’ajuster."
+    },
+    {
+      "title": "Pourquoi on achète trop",
+      "paragraphs": [
+        "Avant l’arrivée de bébé, les listes peuvent donner l’impression qu’il faut tout prévoir.",
+        "Les réseaux sociaux, les proches et les magasins ajoutent parfois de la pression.",
+        "On achète alors pour se rassurer, même quand l’objet n’est pas encore utile.",
+        "Pourtant, les besoins réels deviennent souvent plus clairs après la naissance."
+      ]
+    },
+    {
+      "title": "Les vêtements en trop grande quantité",
+      "paragraphs": [
+        "Les vêtements de naissance sont souvent achetés trop vite.",
+        "Certains bébés ne portent presque pas la taille naissance, tandis que d’autres y restent quelques semaines.",
+        "Les tenues compliquées, jolies mais peu pratiques, servent rarement au quotidien.",
+        "Les premiers jours, les bodies et pyjamas confortables sont souvent les plus utilisés."
+      ]
+    },
+    {
+      "title": "Les accessoires de sommeil",
+      "paragraphs": [
+        "Pour dormir, bébé a surtout besoin d’un couchage simple et sécurisé.",
+        "Les tours de lit, coussins, couvertures, cale-bébé, réducteurs et objets décoratifs dans le lit ne sont pas nécessaires et peuvent être dangereux.",
+        "Un lit adapté, un matelas ferme, un drap-housse et une gigoteuse suffisent.",
+        "La sécurité du sommeil doit passer avant la décoration."
+      ]
+    },
+    {
+      "title": "Les gadgets de biberon",
+      "paragraphs": [
+        "Si vous prévoyez des biberons, quelques biberons et tétines adaptés suffisent souvent pour commencer.",
+        "Chauffe-biberon, égouttoirs spéciaux, préparateurs, stérilisateurs ou nombreux modèles de tétines peuvent attendre.",
+        "Certains bébés acceptent un modèle, d’autres non.",
+        "Acheter peu au départ évite d’avoir un placard rempli de matériel inutilisé."
+      ]
+    },
+    {
+      "title": "La poussette parfaite",
+      "paragraphs": [
+        "La poussette idéale n’existe pas pour tout le monde.",
+        "Une famille en appartement sans ascenseur n’a pas les mêmes besoins qu’une famille qui marche beaucoup ou utilise surtout la voiture.",
+        "Avant d’acheter, il faut vérifier le poids, le pliage, la place dans le coffre, les roues, la maniabilité et la compatibilité avec votre quotidien.",
+        "Un achat très coûteux n’est pas forcément le plus adapté."
+      ]
+    },
+    {
+      "title": "Le transat, le parc et les gros accessoires",
+      "paragraphs": [
+        "Le transat, le parc, le tapis d’éveil ou certains meubles peuvent être utiles, mais pas forcément dès la naissance.",
+        "Certains bébés aiment y rester quelques minutes, d’autres préfèrent les bras ou le portage.",
+        "Ces objets prennent aussi de la place.",
+        "Il peut être plus sage d’attendre de voir votre organisation réelle à la maison."
+      ]
+    },
+    {
+      "title": "Les soins et cosmétiques",
+      "paragraphs": [
+        "La peau d’un nouveau-né n’a pas besoin de nombreux produits.",
+        "Accumuler lotions, parfums, crèmes, huiles et lingettes spéciales n’est pas toujours utile.",
+        "Une routine simple, avec les produits conseillés par la maternité ou un professionnel, suffit souvent.",
+        "En cas de peau fragile, mieux vaut demander un avis avant de multiplier les soins."
+      ]
+    },
+    {
+      "title": "Les jouets des premières semaines",
+      "paragraphs": [
+        "Les premières semaines, bébé a surtout besoin de sommeil, de nourriture, de contact et de sécurité.",
+        "Les jouets peuvent attendre, car un nouveau-né est vite stimulé.",
+        "Un ou deux objets simples peuvent suffire plus tard.",
+        "Les cadeaux de naissance couvrent souvent largement cette catégorie."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "On achète souvent trop vite les vêtements naissance, les accessoires de sommeil, les gadgets de repas et les gros objets.",
+        "Le matériel doit répondre à un besoin réel, pas à une pression extérieure.",
+        "Pour commencer, mieux vaut choisir peu, simple, sûr et évolutif.",
+        "Vous pourrez compléter après la naissance selon votre bébé et votre quotidien."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Le sommeil de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    },
+    {
+      "label": "ANSES — Préparations en poudre pour nourrissons",
+      "url": "https://www.anses.fr/fr/content/preparations-en-poudre-pour-nourrissons-les-recommandations-de-lanses-pour-ameliorer-la"
+    },
+    {
+      "label": "ANSES — Recommandations d’hygiène pour la préparation et la conservation des biberons",
+      "url": "https://www.anses.fr/fr/system/files/MIC-Ra-BIB.pdf"
+    },
+    {
+      "label": "Sécurité routière — Transporter un enfant en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    }
+  ]
+}
+,
+{
+  "slug": "couchage-de-bebe-lit-matelas-gigoteuse-que-choisir",
+  "title": "Couchage de bébé : lit, matelas, gigoteuse, que choisir ?",
+  "description": "Lit, matelas, gigoteuse, température, objets à éviter : les repères simples pour préparer un couchage sûr pour bébé.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Bébé doit dormir sur le dos, à plat, dans son propre lit, avec un matelas ferme et adapté aux dimensions du lit.",
+        "La gigoteuse doit être adaptée à la taille de bébé et à la saison.",
+        "Il ne faut pas mettre d’oreiller, couverture, tour de lit, coussin, cale-bébé, réducteur ou objet mou dans le lit.",
+        "La chambre est idéalement autour de 18 à 20 °C.",
+        "Pour les six premiers mois, il est recommandé que bébé dorme dans la chambre des parents, dans son propre couchage."
+      ],
+      "quote": "Le meilleur couchage pour bébé est souvent le plus simple : ferme, plat, dégagé et adapté à sa taille."
+    },
+    {
+      "title": "Le lit ou le berceau",
+      "paragraphs": [
+        "Le lit doit être adapté à l’âge de bébé et en bon état.",
+        "Les barreaux, le fond et la stabilité doivent être vérifiés, surtout en cas de matériel d’occasion.",
+        "Le couchage doit permettre à bébé de dormir sur une surface plane et sécurisée.",
+        "Évitez les installations improvisées pour la nuit."
+      ]
+    },
+    {
+      "title": "Le matelas",
+      "paragraphs": [
+        "Le matelas doit être ferme et parfaitement adapté aux dimensions du lit.",
+        "Il ne doit pas laisser d’espace sur les côtés où bébé pourrait se coincer.",
+        "Pour un lit parapluie, il ne faut pas ajouter un matelas supplémentaire si ce n’est pas prévu par le fabricant.",
+        "Le drap-housse doit être bien ajusté."
+      ]
+    },
+    {
+      "title": "La gigoteuse",
+      "paragraphs": [
+        "La gigoteuse, aussi appelée turbulette, remplace la couverture.",
+        "Elle doit être adaptée à la taille de bébé pour éviter qu’il glisse à l’intérieur.",
+        "Choisissez son épaisseur selon la saison et la température de la chambre.",
+        "Il vaut mieux avoir deux gigoteuses faciles à laver plutôt que beaucoup de modèles décoratifs."
+      ]
+    },
+    {
+      "title": "Ce qu’on ne met pas dans le lit",
+      "paragraphs": [
+        "Le lit de bébé doit rester dégagé.",
+        "Évitez oreiller, couverture, tour de lit, coussins, peluches, doudous près du visage, cale-bébé, cale-tête et réducteurs.",
+        "Ces objets peuvent augmenter le risque d’étouffement ou gêner la respiration.",
+        "La décoration peut rester autour du lit, mais pas dans l’espace où bébé dort."
+      ]
+    },
+    {
+      "title": "La position de sommeil",
+      "paragraphs": [
+        "Bébé doit être couché sur le dos, à plat.",
+        "Le couchage sur le ventre ou sur le côté n’est pas recommandé pour dormir.",
+        "Même en cas de régurgitations, les recommandations restent de coucher bébé sur le dos, sans surélever sa tête.",
+        "En cas de situation médicale particulière, suivez les consignes du médecin."
+      ]
+    },
+    {
+      "title": "La température de la chambre",
+      "paragraphs": [
+        "Une température autour de 18 à 20 °C est souvent recommandée pour la chambre.",
+        "Bébé ne doit pas être trop couvert.",
+        "On adapte les vêtements, le body, le pyjama et la gigoteuse à la saison.",
+        "Un bébé qui transpire beaucoup, a la nuque très chaude ou semble inconfortable peut être trop couvert."
+      ]
+    },
+    {
+      "title": "Dans la chambre des parents",
+      "paragraphs": [
+        "Il est conseillé, si possible, de garder le lit de bébé dans la chambre des parents les premiers mois.",
+        "Bébé dort dans son propre couchage, pas dans le lit parental sans aménagement adapté.",
+        "Cela facilite aussi les réveils, les tétées ou biberons et la surveillance.",
+        "Chaque famille adapte selon son logement, mais la sécurité du couchage reste prioritaire."
+      ]
+    },
+    {
+      "title": "Matériel d’occasion",
+      "paragraphs": [
+        "Un lit ou un berceau d’occasion peut être une bonne solution, mais il faut vérifier son état.",
+        "Le matelas doit être propre, ferme, non affaissé et aux bonnes dimensions.",
+        "Vérifiez aussi qu’il n’y a pas de pièce cassée, d’espace dangereux ou de montage instable.",
+        "En cas de doute sur la sécurité, mieux vaut ne pas l’utiliser."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le couchage de bébé doit être simple, ferme, plat et dégagé.",
+        "Un lit adapté, un matelas ferme, un drap-housse et une gigoteuse suffisent.",
+        "Bébé dort sur le dos, dans son propre lit, sans objet mou autour de lui.",
+        "La sécurité passe avant la décoration ou les accessoires."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Le sommeil de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    }
+  ]
+}
+,
+{
+  "slug": "poussette-porte-bebe-siege-auto-comment-sy-retrouver",
+  "title": "Poussette, porte-bébé, siège auto : comment s’y retrouver ?",
+  "description": "Poussette, porte-bébé, cosy, siège auto : les critères pour choisir selon votre quotidien, votre sécurité et votre budget.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "11 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Le siège auto est indispensable si bébé voyage en voiture, dès la sortie de maternité.",
+        "Il doit être homologué, adapté à la taille et au poids de l’enfant, et correctement installé.",
+        "La poussette se choisit selon le logement, les trajets, le coffre, les escaliers et la maniabilité.",
+        "Le porte-bébé doit respecter la position de bébé et rester confortable pour l’adulte.",
+        "Il vaut mieux choisir du matériel adapté à votre quotidien plutôt que suivre uniquement les tendances."
+      ],
+      "quote": "Le bon matériel de sortie est celui qui protège bébé et simplifie vraiment vos trajets."
+    },
+    {
+      "title": "Commencer par votre mode de vie",
+      "paragraphs": [
+        "Avant de choisir, observez vos vrais trajets.",
+        "Avez-vous un ascenseur ? Un petit coffre ? Des escaliers ? Prenez-vous souvent la voiture, les transports ou la marche ?",
+        "Ces réponses orientent davantage le choix que la marque ou la mode.",
+        "Un matériel très complet peut être inutile s’il est trop lourd ou trop encombrant au quotidien."
+      ]
+    },
+    {
+      "title": "Le siège auto",
+      "paragraphs": [
+        "Le siège auto est obligatoire pour les enfants en voiture et doit être adapté à leur morphologie.",
+        "Il doit être correctement installé à chaque trajet.",
+        "Vérifiez l’homologation, la compatibilité avec votre voiture et la facilité d’installation.",
+        "Un siège mal installé protège moins, même s’il est de bonne qualité."
+      ]
+    },
+    {
+      "title": "Cosy ou siège auto évolutif",
+      "paragraphs": [
+        "Le cosy est souvent utilisé pour les premiers mois, notamment pour la sortie de maternité.",
+        "Certains sièges évolutifs peuvent aussi convenir dès la naissance s’ils sont adaptés au gabarit du bébé.",
+        "Le choix dépend de votre voiture, de votre budget et de l’usage prévu.",
+        "L’important est que bébé soit bien maintenu et que le siège soit installé selon la notice."
+      ]
+    },
+    {
+      "title": "La poussette",
+      "paragraphs": [
+        "La poussette doit être facile à manier, plier et ranger.",
+        "Vérifiez le poids, la largeur, les roues, la place dans le coffre et la facilité à monter un trottoir.",
+        "Si vous vivez en ville, la maniabilité et le pliage peuvent être prioritaires.",
+        "Si vous marchez sur des chemins irréguliers, les roues et les suspensions comptent davantage."
+      ]
+    },
+    {
+      "title": "Nacelle, cosy, hamac : faut-il tout prendre ?",
+      "paragraphs": [
+        "Les packs complets peuvent sembler pratiques, mais tout n’est pas indispensable.",
+        "La nacelle peut être utile pour certains usages, mais elle prend de la place.",
+        "Le cosy sert surtout à la voiture et aux déplacements courts, pas à faire dormir bébé longtemps hors surveillance.",
+        "Avant d’acheter un trio, demandez-vous si chaque élément servira vraiment."
+      ]
+    },
+    {
+      "title": "Le porte-bébé",
+      "paragraphs": [
+        "Le porte-bébé peut être très utile pour garder les mains libres, apaiser bébé ou sortir facilement.",
+        "Il doit être adapté à un nouveau-né si vous l’utilisez dès les premières semaines.",
+        "Bébé doit être bien soutenu, avec les voies respiratoires dégagées et une position confortable.",
+        "L’adulte doit aussi se sentir à l’aise, sans douleur importante au dos ou aux épaules."
+      ]
+    },
+    {
+      "title": "Tester avant d’acheter",
+      "paragraphs": [
+        "Quand c’est possible, testez la poussette, le pliage, le portage ou l’installation du siège auto.",
+        "Un objet peut sembler parfait en ligne et être peu pratique chez vous.",
+        "Demandez aussi l’avis de personnes qui ont un quotidien proche du vôtre.",
+        "Le meilleur choix est souvent très personnel."
+      ]
+    },
+    {
+      "title": "L’occasion : prudence pour la sécurité",
+      "paragraphs": [
+        "La poussette ou le porte-bébé peuvent parfois être achetés d’occasion si l’état est bon.",
+        "Pour le siège auto, la prudence est beaucoup plus importante.",
+        "Un siège ayant subi un accident, abîmé, incomplet ou trop ancien peut ne plus protéger correctement.",
+        "Vérifiez toujours la notice, les pièces et l’historique si vous envisagez l’occasion."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Le siège auto est prioritaire si vous utilisez la voiture.",
+        "La poussette et le porte-bébé se choisissent selon vos trajets réels.",
+        "Le confort de bébé, la sécurité et la simplicité d’usage passent avant le design.",
+        "Tester le matériel évite souvent les achats coûteux et peu adaptés."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "Sécurité routière — Transporter un enfant en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    },
+    {
+      "label": "Sécurité routière — Siège auto : les dispositifs de retenue",
+      "url": "https://www.securite-routiere.gouv.fr/chacun-sa-conduite/conseils-sur-la-route-avec-les-enfants/siege-auto-les-dispositifs-de-retenue"
+    },
+    {
+      "label": "1000 premiers jours — Éviter les accidents domestiques des enfants",
+      "url": "https://www.1000-premiers-jours.fr/fr/eviter-les-accidents-domestiques-des-enfants"
+    }
+  ]
+}
+,
+{
+  "slug": "biberons-tetines-chauffe-biberon-que-faut-il-vraiment",
+  "title": "Biberons, tétines, chauffe-biberon : que faut-il vraiment ?",
+  "description": "Biberons, tétines, chauffe-biberon, stérilisation, nettoyage : ce qui est utile au départ et ce qui peut attendre selon votre bébé.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "10 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Quelques biberons et tétines adaptés suffisent souvent pour commencer.",
+        "Le chauffe-biberon n’est pas indispensable pour toutes les familles.",
+        "Le plus important est de respecter les règles d’hygiène, de préparation et de conservation.",
+        "Le débit de la tétine doit être adapté à bébé pour éviter qu’il boive trop vite ou se fatigue.",
+        "Il vaut mieux acheter peu au départ, puis ajuster selon le rythme et les préférences de bébé."
+      ],
+      "quote": "Pour les biberons, le plus important n’est pas d’avoir beaucoup d’accessoires, mais une préparation sûre et un bébé confortable."
+    },
+    {
+      "title": "Combien de biberons prévoir ?",
+      "paragraphs": [
+        "Pour commencer, quelques biberons suffisent.",
+        "Le nombre dépendra du rythme de bébé, de votre organisation de lavage et du fait que l’alimentation soit au biberon exclusif ou mixte.",
+        "Acheter un gros lot avant la naissance n’est pas toujours utile, car certains bébés préfèrent une forme de tétine plutôt qu’une autre.",
+        "Vous pourrez compléter ensuite."
+      ]
+    },
+    {
+      "title": "Quelle taille de biberon ?",
+      "paragraphs": [
+        "Les petits biberons peuvent suffire au début.",
+        "Les plus grands deviennent utiles quand les quantités augmentent.",
+        "Il n’est pas nécessaire d’avoir toutes les tailles en grande quantité dès la naissance.",
+        "Le plus pratique est souvent d’avoir un petit stock simple et facile à laver."
+      ]
+    },
+    {
+      "title": "Les tétines",
+      "paragraphs": [
+        "La tétine doit être adaptée à l’âge et au débit dont bébé a besoin.",
+        "Un débit trop rapide peut faire tousser, boire trop vite ou gêner la digestion.",
+        "Un débit trop lent peut fatiguer ou agacer bébé.",
+        "Si les repas sont difficiles, demandez conseil avant de changer plusieurs fois de modèle."
+      ]
+    },
+    {
+      "title": "Chauffe-biberon : indispensable ou non ?",
+      "paragraphs": [
+        "Le chauffe-biberon peut être pratique, mais il n’est pas indispensable pour tout le monde.",
+        "Certains bébés acceptent le lait à température ambiante, selon les consignes de préparation et le type de lait.",
+        "D’autres préfèrent un lait tiédi.",
+        "Avant d’acheter, demandez-vous si vous aurez vraiment besoin d’un appareil dédié ou si une méthode simple suffit."
+      ]
+    },
+    {
+      "title": "Stérilisateur : faut-il en acheter un ?",
+      "paragraphs": [
+        "Les recommandations actuelles insistent surtout sur le lavage soigneux des mains, du matériel et la bonne préparation des biberons.",
+        "Un stérilisateur peut rassurer certaines familles, mais il n’est pas toujours indispensable.",
+        "Le plus important est de nettoyer correctement le biberon, la bague et la tétine après chaque usage.",
+        "Suivez les consignes données par la maternité, la PMI ou votre professionnel de santé."
+      ]
+    },
+    {
+      "title": "Préparer un biberon en sécurité",
+      "paragraphs": [
+        "La préparation doit respecter les doses indiquées et les consignes du lait utilisé.",
+        "Lavez-vous les mains, utilisez un plan propre et du matériel propre.",
+        "Ne modifiez pas les proportions d’eau et de poudre.",
+        "Un biberon préparé ou conservé trop longtemps peut présenter un risque."
+      ]
+    },
+    {
+      "title": "Les accessoires utiles",
+      "paragraphs": [
+        "Un goupillon, un espace de séchage propre et éventuellement des boîtes doseuses peuvent être utiles.",
+        "Un sac isotherme peut servir pour certains déplacements, selon les consignes de conservation.",
+        "En revanche, beaucoup d’accessoires peuvent attendre.",
+        "Le quotidien vous montrera vite ce qui vous manque vraiment."
+      ]
+    },
+    {
+      "title": "Si vous allaitez",
+      "paragraphs": [
+        "Si vous allaitez exclusivement, il n’est pas obligatoire d’acheter tout le matériel biberon avant la naissance.",
+        "Vous pouvez prévoir un ou deux biberons au cas où, ou attendre selon votre projet.",
+        "En cas d’allaitement mixte ou de tire-allaitement, les besoins seront différents.",
+        "Une sage-femme ou consultante en lactation peut vous aider à organiser les choses."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Quelques biberons, quelques tétines adaptées et de quoi nettoyer correctement suffisent souvent au départ.",
+        "Le chauffe-biberon, le stérilisateur et les accessoires peuvent attendre.",
+        "L’hygiène et les consignes de préparation sont prioritaires.",
+        "Observez bébé avant d’acheter plusieurs modèles en grande quantité."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "ANSES — Préparations en poudre pour nourrissons",
+      "url": "https://www.anses.fr/fr/content/preparations-en-poudre-pour-nourrissons-les-recommandations-de-lanses-pour-ameliorer-la"
+    },
+    {
+      "label": "ANSES — Recommandations d’hygiène pour la préparation et la conservation des biberons",
+      "url": "https://www.anses.fr/fr/system/files/MIC-Ra-BIB.pdf"
+    },
+    {
+      "label": "1000 premiers jours — Nourrir son bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/nourrir-son-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Les premiers mois de votre bébé : du lait uniquement",
+      "url": "https://www.ameli.fr/assure/sante/themes/alimentation/alimentation-0-3-ans/premiers-mois-lait-uniquement"
+    },
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    }
+  ]
+}
+,
+{
+  "slug": "table-a-langer-baignoire-transat-utile-ou-pas-indispensable",
+  "title": "Table à langer, baignoire, transat : utile ou pas indispensable ?",
+  "description": "Table à langer, baignoire, transat, tapis d’éveil : comment distinguer le pratique de l’indispensable selon votre logement et votre bébé.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La table à langer, la baignoire et le transat peuvent être pratiques, mais ne sont pas indispensables dans toutes les familles.",
+        "Le plus important est la sécurité : bébé ne doit jamais être laissé seul en hauteur, dans l’eau ou dans un transat.",
+        "Un matelas à langer stable peut suffire si l’espace est petit.",
+        "La baignoire dépend de votre salle de bain, de votre confort et de la sécurité d’installation.",
+        "Le transat doit rester un usage court et surveillé, pas un endroit de sommeil."
+      ],
+      "quote": "Un objet utile est un objet qui simplifie vraiment votre quotidien, pas seulement un objet présent sur une liste de naissance."
+    },
+    {
+      "title": "La table à langer",
+      "paragraphs": [
+        "La table à langer est pratique si elle est stable, à bonne hauteur et bien organisée.",
+        "Elle permet de garder les couches, vêtements et soins à portée de main.",
+        "Mais elle prend de la place et n’est pas obligatoire.",
+        "Un matelas à langer posé sur une surface stable peut suffire, tant que la sécurité est respectée."
+      ]
+    },
+    {
+      "title": "La règle de sécurité du change",
+      "paragraphs": [
+        "Pendant le change, bébé ne doit jamais rester seul en hauteur, même quelques secondes.",
+        "Préparez tout avant de commencer : couche, coton, vêtement, sac ou poubelle.",
+        "Gardez toujours une main sur bébé si vous devez attraper quelque chose.",
+        "Les chutes de table à langer peuvent arriver très vite."
+      ]
+    },
+    {
+      "title": "La baignoire bébé",
+      "paragraphs": [
+        "La baignoire bébé peut rassurer et éviter de remplir une grande baignoire.",
+        "Elle peut être utile si elle est stable, facile à vider et adaptée à votre salle de bain.",
+        "Certaines familles préfèrent une grande bassine adaptée ou un transat de bain, selon les conseils reçus.",
+        "L’important est de ne jamais laisser bébé seul dans l’eau."
+      ]
+    },
+    {
+      "title": "Le bain : ce qui compte vraiment",
+      "paragraphs": [
+        "Le bain demande surtout une organisation simple et sécurisée.",
+        "Préparez la serviette, les vêtements et la couche avant de commencer.",
+        "Vérifiez la température de l’eau et gardez toujours bébé sous surveillance rapprochée.",
+        "Un appel, une sonnette ou un oubli ne justifie jamais de s’éloigner en laissant bébé dans l’eau."
+      ]
+    },
+    {
+      "title": "Le transat",
+      "paragraphs": [
+        "Le transat peut être pratique pour poser bébé quelques minutes sous surveillance.",
+        "Il ne doit pas remplacer les bras, le lit ou un espace de sommeil sécurisé.",
+        "Il faut respecter les consignes de poids, d’âge, d’attache et d’inclinaison.",
+        "Si bébé s’endort, il est préférable de le transférer dans son couchage adapté."
+      ]
+    },
+    {
+      "title": "Le tapis d’éveil",
+      "paragraphs": [
+        "Le tapis d’éveil n’est pas indispensable dès la naissance, mais il peut devenir utile plus tard.",
+        "Il permet à bébé d’être posé au sol, sur le dos, puis progressivement d’explorer ses mouvements.",
+        "Choisissez un modèle simple, lavable et pas trop stimulant.",
+        "Les premières semaines, bébé a surtout besoin de calme, de contact et de sommeil."
+      ]
+    },
+    {
+      "title": "Penser à la place disponible",
+      "paragraphs": [
+        "Avant d’acheter, regardez votre logement.",
+        "Un gros meuble ou une baignoire encombrante peut vite devenir gênant.",
+        "Il vaut mieux choisir du matériel facile à ranger, à nettoyer et à utiliser seule si besoin.",
+        "Un objet qui complique les gestes du quotidien sera vite abandonné."
+      ]
+    },
+    {
+      "title": "Acheter après la naissance",
+      "paragraphs": [
+        "Certains achats peuvent attendre.",
+        "Vous pourrez voir si vous changez bébé plutôt dans la chambre ou la salle de bain, si le bain est simple, si bébé accepte le transat ou si vous préférez le portage.",
+        "Attendre permet de mieux cibler les besoins.",
+        "Cela évite aussi d’acheter plusieurs objets qui se ressemblent."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Table à langer, baignoire et transat peuvent aider, mais ne sont pas obligatoires.",
+        "La sécurité passe avant le confort d’achat.",
+        "Bébé ne doit jamais être laissé seul en hauteur, dans l’eau ou dans un transat.",
+        "Choisissez selon votre logement, votre dos, votre place et vos gestes réels."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Le sommeil de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    },
+    {
+      "label": "1000 premiers jours — Éviter les accidents domestiques des enfants",
+      "url": "https://www.1000-premiers-jours.fr/fr/eviter-les-accidents-domestiques-des-enfants"
+    }
+  ]
+}
+,
+{
+  "slug": "vetements-de-naissance-combien-prevoir-et-quelles-tailles-choisir",
+  "title": "Vêtements de naissance : combien prévoir et quelles tailles choisir ?",
+  "description": "Bodies, pyjamas, taille naissance ou 1 mois, saison, lessives : une liste simple pour habiller bébé sans trop acheter.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Les premiers jours, les bodies et pyjamas confortables sont les vêtements les plus utiles.",
+        "La taille naissance ne sert pas toujours longtemps : il vaut mieux ne pas en acheter trop.",
+        "Prévoir surtout du 1 mois est souvent plus prudent, avec quelques pièces naissance si bébé est estimé petit.",
+        "Choisissez des vêtements faciles à enfiler, à ouvrir et à laver.",
+        "La saison compte : bonnet, gilet, chaussettes ou gigoteuse doivent être adaptés à la température."
+      ],
+      "quote": "Pour les vêtements de naissance, le confort et la simplicité servent plus que les tenues parfaites."
+    },
+    {
+      "title": "Les vêtements vraiment utiles",
+      "paragraphs": [
+        "Pour commencer, les bodies et les pyjamas sont les plus pratiques.",
+        "Bébé dort beaucoup et a besoin d’être changé facilement.",
+        "Les tenues habillées peuvent être jolies, mais elles servent rarement dans les premières semaines.",
+        "Un petit stock simple suffit largement."
+      ]
+    },
+    {
+      "title": "Combien prévoir ?",
+      "paragraphs": [
+        "Le nombre dépend de votre rythme de lessive et des petits accidents.",
+        "En général, quelques bodies et pyjamas en taille adaptée permettent de tourner les premiers jours.",
+        "Il vaut mieux prévoir assez pour ne pas laver chaque jour, sans remplir les placards.",
+        "Les cadeaux complètent souvent rapidement la garde-robe."
+      ]
+    },
+    {
+      "title": "Taille naissance ou 1 mois ?",
+      "paragraphs": [
+        "La taille naissance peut être utile pour les bébés petits ou de poids estimé bas.",
+        "Mais beaucoup de bébés passent vite au 1 mois, voire le portent dès la maternité.",
+        "Acheter trop de naissance peut donc être inutile.",
+        "Un bon compromis est de prévoir quelques pièces naissance et davantage de 1 mois."
+      ]
+    },
+    {
+      "title": "Et le 3 mois ?",
+      "paragraphs": [
+        "Le 3 mois sert souvent rapidement, mais pas forcément dès la naissance.",
+        "Il peut être utile d’en avoir un peu d’avance, surtout si vous souhaitez limiter les achats après l’arrivée de bébé.",
+        "Cependant, les saisons doivent correspondre.",
+        "Un pyjama chaud en 3 mois ne servira pas forcément si bébé atteint cette taille en plein été."
+      ]
+    },
+    {
+      "title": "Les ouvertures pratiques",
+      "paragraphs": [
+        "Les vêtements avec ouverture devant ou pressionnée sont souvent plus faciles au début.",
+        "Les premiers changes peuvent impressionner, surtout quand bébé est tout petit.",
+        "Évitez les vêtements difficiles à passer par la tête ou avec trop de boutons.",
+        "Le confort du parent compte aussi, surtout la nuit."
+      ]
+    },
+    {
+      "title": "Adapter à la saison",
+      "paragraphs": [
+        "En hiver, prévoyez des pyjamas plus chauds, gilets, bonnet pour les sorties et chaussettes.",
+        "En été, des matières légères et respirantes sont plus adaptées.",
+        "La gigoteuse doit aussi correspondre à la température de la chambre.",
+        "Il faut éviter de trop couvrir bébé, mais aussi tenir compte de son âge et de l’environnement."
+      ]
+    },
+    {
+      "title": "Les matières",
+      "paragraphs": [
+        "Les matières douces et faciles à laver sont les plus pratiques.",
+        "Le coton est souvent choisi pour les premiers vêtements.",
+        "Évitez les matières irritantes, les coutures gênantes ou les vêtements très serrés.",
+        "Bébé doit pouvoir bouger et être à l’aise."
+      ]
+    },
+    {
+      "title": "Laver avant la naissance",
+      "paragraphs": [
+        "Il est préférable de laver les vêtements avant la première utilisation.",
+        "Choisissez une lessive adaptée et évitez les parfums trop forts si la peau de bébé est fragile.",
+        "Inutile de tout laver en avance si vous avez acheté beaucoup de tailles différentes.",
+        "Préparez surtout les vêtements des premières semaines."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Bodies, pyjamas et quelques vêtements de saison suffisent au départ.",
+        "N’achetez pas trop de taille naissance.",
+        "Privilégiez les vêtements simples, confortables et faciles à laver.",
+        "Les besoins exacts s’ajusteront après la naissance selon le poids de bébé et votre rythme."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    }
+  ]
+}
+,
+{
+  "slug": "trousse-de-soin-bebe-que-mettre-dedans",
+  "title": "Trousse de soin bébé : que mettre dedans ?",
+  "description": "Thermomètre, sérum physiologique, compresses, soin du cordon, ongles, peau : quoi prévoir dans une trousse de soin simple pour bébé.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "9 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "Une trousse de soin bébé doit rester simple et contenir surtout le nécessaire du quotidien.",
+        "Le thermomètre est indispensable pour vérifier la température en cas de doute.",
+        "Le sérum physiologique et les compresses servent souvent pour les soins simples.",
+        "Évitez d’acheter beaucoup de crèmes, huiles ou produits parfumés sans indication.",
+        "En cas de fièvre, difficulté à respirer, bébé très somnolent ou comportement inhabituel, il faut demander un avis rapidement."
+      ],
+      "quote": "Une bonne trousse de soin bébé n’est pas la plus remplie : c’est celle qui contient le nécessaire sûr et utile."
+    },
+    {
+      "title": "Le thermomètre",
+      "paragraphs": [
+        "Le thermomètre est l’un des éléments les plus importants.",
+        "Il permet de vérifier la température lorsque bébé semble chaud, froid, abattu ou inhabituel.",
+        "Choisissez un modèle fiable et apprenez à l’utiliser correctement.",
+        "En cas de fièvre chez un tout petit bébé, demandez rapidement un avis médical."
+      ]
+    },
+    {
+      "title": "Sérum physiologique",
+      "paragraphs": [
+        "Le sérum physiologique est souvent utilisé pour nettoyer doucement le nez ou les yeux selon les conseils reçus.",
+        "Les unidoses sont pratiques et évitent de conserver un flacon ouvert trop longtemps.",
+        "Il faut utiliser des gestes doux et ne pas forcer.",
+        "Si bébé respire mal, boit peu ou semble gêné, demandez un avis."
+      ]
+    },
+    {
+      "title": "Compresses et coton",
+      "paragraphs": [
+        "Des compresses stériles peuvent servir pour certains soins, notamment selon les consignes de la maternité.",
+        "Le coton ou les carrés doux peuvent être utilisés pour le change ou la toilette simple.",
+        "Il vaut mieux éviter les produits irritants.",
+        "La simplicité est souvent préférable pour la peau d’un nouveau-né."
+      ]
+    },
+    {
+      "title": "Le soin du cordon",
+      "paragraphs": [
+        "Les consignes pour le cordon peuvent varier selon les maternités.",
+        "Avant la sortie, demandez comment le nettoyer, à quelle fréquence et quels signes surveiller.",
+        "Rougeur importante, mauvaise odeur, écoulement, fièvre ou bébé inhabituel doivent faire demander un avis.",
+        "Ne mettez pas de produit non conseillé sur le cordon."
+      ]
+    },
+    {
+      "title": "Les ongles",
+      "paragraphs": [
+        "Les ongles d’un nouveau-né peuvent être fins et coupants.",
+        "Selon les conseils reçus, on peut attendre un peu avant de les couper, ou utiliser une lime douce.",
+        "Si vous utilisez des ciseaux bébé ou un coupe-ongles adapté, faites-le dans un moment calme.",
+        "Les petites moufles ne doivent pas remplacer indéfiniment la liberté de bouger les mains."
+      ]
+    },
+    {
+      "title": "La peau et le siège",
+      "paragraphs": [
+        "Pour la peau, il n’est pas nécessaire d’avoir beaucoup de produits.",
+        "Un produit lavant doux si besoin, de quoi nettoyer le siège et une crème uniquement si irritation peuvent suffire.",
+        "Les rougeurs persistantes, plaies, boutons importants ou signes d’infection doivent être montrés.",
+        "Demandez conseil avant d’utiliser plusieurs crèmes en même temps."
+      ]
+    },
+    {
+      "title": "Ce qu’il vaut mieux éviter",
+      "paragraphs": [
+        "Évitez l’automédication, les huiles essentielles, les produits parfumés ou les médicaments sans avis médical.",
+        "Un bébé n’est pas un petit adulte : certains produits sont inadaptés ou dangereux.",
+        "Même les produits naturels peuvent poser problème.",
+        "En cas de doute, demandez au médecin, pharmacien, pédiatre ou sage-femme."
+      ]
+    },
+    {
+      "title": "Les documents utiles",
+      "paragraphs": [
+        "Gardez le carnet de santé accessible.",
+        "Notez les numéros utiles : maternité, sage-femme, médecin, PMI, urgences.",
+        "Avoir ces informations au même endroit évite de chercher quand on est fatigué ou inquiet.",
+        "C’est une partie simple mais importante de l’organisation."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "La trousse de soin bébé doit contenir un thermomètre, du sérum physiologique, des compresses et quelques produits simples.",
+        "N’accumulez pas les crèmes ou produits sans besoin.",
+        "Suivez les consignes de la maternité pour le cordon et les soins.",
+        "En cas de signe inquiétant, demandez un avis plutôt que de traiter seul."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "Ministère de la Santé — La santé de votre enfant au quotidien",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/article/la-sante-de-votre-enfant-au-quotidien"
+    },
+    {
+      "label": "Assurance Maladie — Syndrome du bébé secoué",
+      "url": "https://www.ameli.fr/assure/sante/urgence/bebe-enfant/syndrome-bebe-secoue"
+    }
+  ]
+}
+,
+{
+  "slug": "securite-a-la-maison-les-premiers-reflexes-avec-bebe",
+  "title": "Sécurité à la maison : les premiers réflexes avec bébé",
+  "description": "Couchage, change, bain, voiture, objets, animaux, chaleur : les premiers réflexes de sécurité à adopter à la maison avec un bébé.",
+  "category": "Vie pratique",
+  "categorySlug": "vie-pratique",
+  "subcategory": "Matériel",
+  "subcategorySlug": "materiel",
+  "readingTime": "11 min",
+  "publishedAt": "2026-07-03",
+  "updatedAt": "2026-07-03",
+  "tone": "sage",
+  "sections": [
+    {
+      "title": "L’essentiel en 30 secondes",
+      "bullets": [
+        "La sécurité commence par les gestes répétés : sommeil, change, bain, portage, voiture et objets à portée de main.",
+        "Bébé dort sur le dos, dans un lit dégagé, sur un matelas ferme et adapté.",
+        "On ne laisse jamais bébé seul en hauteur, dans le bain, sur un canapé ou dans un transat.",
+        "Les petits objets, sacs plastiques, cordons, médicaments et produits ménagers doivent être hors de portée.",
+        "Si les pleurs deviennent insupportables, il faut poser bébé en sécurité dans son lit et demander de l’aide : ne jamais secouer un bébé."
+      ],
+      "quote": "La sécurité à la maison repose souvent sur des réflexes simples, répétés chaque jour."
+    },
+    {
+      "title": "Le sommeil",
+      "paragraphs": [
+        "Le couchage est l’un des premiers points de sécurité.",
+        "Bébé doit dormir sur le dos, à plat, dans son propre lit, avec un matelas ferme et adapté.",
+        "Le lit doit rester dégagé : pas d’oreiller, couverture, tour de lit, coussin, cale-bébé ou objet mou.",
+        "Une gigoteuse adaptée remplace la couverture."
+      ]
+    },
+    {
+      "title": "Le change",
+      "paragraphs": [
+        "Pendant le change, une chute peut arriver très vite.",
+        "Préparez tout avant de poser bébé sur une table ou un matelas à langer en hauteur.",
+        "Gardez toujours une main sur lui et ne vous éloignez jamais, même pour quelques secondes.",
+        "Si vous devez partir, prenez bébé avec vous ou posez-le au sol dans un endroit sûr."
+      ]
+    },
+    {
+      "title": "Le bain",
+      "paragraphs": [
+        "Le bain doit toujours être surveillé de très près.",
+        "Ne laissez jamais bébé seul dans l’eau, même avec très peu d’eau ou dans un accessoire de bain.",
+        "Préparez serviette, couche et vêtements avant de commencer.",
+        "Si vous devez répondre au téléphone ou ouvrir la porte, sortez bébé de l’eau."
+      ]
+    },
+    {
+      "title": "Les objets à portée de main",
+      "paragraphs": [
+        "Quand bébé est petit, on oublie parfois qu’il va vite grandir et attraper.",
+        "Médicaments, produits ménagers, petits objets, piles, sacs plastiques, cordons et objets coupants doivent être rangés hors de portée.",
+        "Les surfaces près du change, du lit ou du canapé doivent rester dégagées.",
+        "Anticiper évite de réorganiser dans l’urgence."
+      ]
+    },
+    {
+      "title": "Le canapé, le lit adulte et le transat",
+      "paragraphs": [
+        "Un bébé peut glisser ou basculer plus vite qu’on ne l’imagine.",
+        "Évitez de le laisser seul sur un canapé, un lit adulte, un coussin ou dans un transat.",
+        "Le transat doit rester utilisé selon la notice, attaché et sous surveillance.",
+        "Pour dormir, bébé doit être replacé dans son couchage adapté."
+      ]
+    },
+    {
+      "title": "La voiture",
+      "paragraphs": [
+        "En voiture, bébé doit être installé dans un dispositif adapté à sa morphologie et correctement fixé.",
+        "Le siège auto doit être utilisé à chaque trajet, même court.",
+        "Vérifiez la notice, l’installation et le serrage du harnais.",
+        "Un siège mal installé peut diminuer fortement la protection."
+      ]
+    },
+    {
+      "title": "La chaleur et les vêtements",
+      "paragraphs": [
+        "Un bébé peut être sensible à la chaleur.",
+        "Évitez de trop le couvrir, surtout en intérieur ou pendant le sommeil.",
+        "La chambre doit rester à une température adaptée, et la gigoteuse doit correspondre à la saison.",
+        "En poussette, attention aux tissus qui couvrent totalement l’ouverture et peuvent faire monter la chaleur."
+      ]
+    },
+    {
+      "title": "Les animaux et les aînés",
+      "paragraphs": [
+        "Même un animal doux ou un enfant très tendre doit être surveillé avec un bébé.",
+        "Les rencontres se font progressivement, avec un adulte présent.",
+        "On évite de laisser bébé seul avec un animal ou un jeune enfant.",
+        "Il ne s’agit pas de créer de la peur, mais de garder un cadre sécurisé."
+      ]
+    },
+    {
+      "title": "Les pleurs qui épuisent",
+      "paragraphs": [
+        "Les pleurs d’un bébé peuvent devenir très difficiles à supporter.",
+        "Si vous sentez que vous perdez patience, posez bébé sur le dos dans son lit, en sécurité, et éloignez-vous quelques minutes.",
+        "Appelez quelqu’un, demandez du relais ou contactez un professionnel si vous êtes dépassé.",
+        "Il ne faut jamais secouer un bébé."
+      ]
+    },
+    {
+      "title": "À retenir",
+      "paragraphs": [
+        "Les premiers réflexes de sécurité concernent surtout le sommeil, le change, le bain, la voiture et les objets dangereux.",
+        "Bébé ne doit jamais être laissé seul en hauteur ou dans l’eau.",
+        "Le couchage doit rester simple et dégagé.",
+        "Quand la fatigue ou les pleurs deviennent trop lourds, demander de l’aide est un geste de protection."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "1000 premiers jours — Éviter les accidents domestiques des enfants",
+      "url": "https://www.1000-premiers-jours.fr/fr/eviter-les-accidents-domestiques-des-enfants"
+    },
+    {
+      "label": "Assurance Maladie — Comment bien coucher un bébé ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/bebe/coucher-bebe"
+    },
+    {
+      "label": "Sécurité routière — Transporter un enfant en voiture",
+      "url": "https://www.securite-routiere.gouv.fr/reglementation-liee-lusager/reglementation-liee-aux-enfants/transporter-un-enfant-en-voiture"
+    },
+    {
+      "label": "Assurance Maladie — Syndrome du bébé secoué",
+      "url": "https://www.ameli.fr/assure/sante/urgence/bebe-enfant/syndrome-bebe-secoue"
+    },
+    {
+      "label": "1000 premiers jours — Coin bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/coin-bebe"
+    },
+    {
+      "label": "1000 premiers jours — Le sommeil de bébé",
+      "url": "https://www.1000-premiers-jours.fr/fr/le-sommeil-de-bebe"
+    }
+  ]
+}
 ];
 
 export const categories = [
