@@ -387,6 +387,19 @@ export function getArticleImage(
     return "/images/accouchement-preparation-personne-accompagnante.png";
   }
 
+
+  if (slug === "quand-partir-a-la-maternite") {
+    return "/images/articleImages/quand-partir-a-la-maternite.png";
+  }
+
+  if (slug === "que-faire-pendant-le-debut-du-travail-a-la-maison") {
+    return "/images/articleImages/que-faire-pendant-le-debut-du-travail-a-la-maison.png";
+  }
+
+  if (slug === "que-se-passe-t-il-si-le-terme-est-depasse") {
+    return "/images/articleImages/que-se-passe-t-il-si-le-terme-est-depasse.png";
+  }
+
   const images: Record<string, string> = {
     "avant-grossesse": "/images/projet-bebe.png",
     "pendant-grossesse": "/images/hero-maman-pas-a-pas.png",
