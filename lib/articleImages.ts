@@ -2,11 +2,15 @@ export function getArticleImage(
   categorySlug: string,
   slug?: string
 ) {
-  if (slug === "que-se-passe-t-il-a-larrivee-a-la-maternite") {
-    return "/images/articleImages/que-se-passe-t-il-a-larrivee-a-la-maternite-v3.png";
+  if (
+    slug === "que-se-passe-t-il-a-l-arrivee-a-la-maternite" ||
+    slug === "que-se-passe-t-il-a-larrivee-a-la-maternite"
+  ) {
+    return "/images/articleImages/que-se-passe-t-il-a-l-arrivee-a-la-maternite.png";
   }
 
-  if (slug === "comment-se-deroule-lexamen-du-col") {
+
+if (slug === "comment-se-deroule-lexamen-du-col") {
     return "/images/articleImages/comment-se-deroule-lexamen-du-col.png";
   }
 
