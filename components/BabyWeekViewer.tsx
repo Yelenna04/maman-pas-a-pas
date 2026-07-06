@@ -1,190 +1,83 @@
 "use client";
 
 import Image from "next/image";
-import { useMemo, useState } from "react";
-import {
-  Baby,
-  CalendarDays,
-  ChevronLeft,
-  ChevronRight,
-  Heart,
-  Leaf,
-  Ruler,
-  Scale,
-  Sparkles,
-} from "lucide-react";
+import { Baby, CalendarDays, Heart, Lightbulb, Ruler, Scale, Sparkles, Stethoscope } from "lucide-react";
 import styles from "./BabyWeekViewer.module.css";
 
-const weeks = [
-  { week: 4, size: "1 mm", weight: "< 1 g", fruit: "graine de pavot", trimester: "1er trimestre", baby: "Les toutes premières structures se mettent en place.", mama: "Le corps commence déjà à produire les hormones de grossesse." },
-  { week: 5, size: "2 mm", weight: "< 1 g", fruit: "graine de sésame", trimester: "1er trimestre", baby: "L’embryon grandit très vite. Chaque grossesse évolue à son rythme.", mama: "Fatigue, seins sensibles ou tiraillements peuvent apparaître." },
-  { week: 6, size: "4–6 mm", weight: "< 1 g", fruit: "lentille", trimester: "1er trimestre", baby: "Les premiers grands repères du développement apparaissent.", mama: "Les nausées peuvent commencer ou s’intensifier." },
-  { week: 7, size: "1 cm", weight: "< 1 g", fruit: "myrtille", trimester: "1er trimestre", baby: "Le corps de bébé continue de se former progressivement.", mama: "Le besoin de repos peut être plus important." },
-  { week: 8, size: "1,5 cm", weight: "≈ 1 g", fruit: "framboise", trimester: "1er trimestre", baby: "Le développement avance rapidement, même si bébé reste encore minuscule.", mama: "Les symptômes peuvent varier beaucoup d’un jour à l’autre." },
-  { week: 9, size: "2–3 cm", weight: "≈ 2 g", fruit: "cerise", trimester: "1er trimestre", baby: "Les bras et les jambes se dessinent davantage.", mama: "Le ventre peut rester inchangé, c’est normal." },
-  { week: 10, size: "3 cm", weight: "≈ 4 g", fruit: "fraise", trimester: "1er trimestre", baby: "Bébé prend une forme de plus en plus reconnaissable.", mama: "L’utérus commence doucement à prendre plus de place." },
-  { week: 11, size: "4 cm", weight: "≈ 7 g", fruit: "figue", trimester: "1er trimestre", baby: "Les mouvements existent déjà, même s’ils ne sont pas encore ressentis.", mama: "La fatigue peut encore être très présente." },
-  { week: 12, size: "5–6 cm", weight: "≈ 14 g", fruit: "prune", trimester: "1er trimestre", baby: "C’est souvent la période de la première échographie.", mama: "Certaines personnes commencent à se sentir un peu mieux." },
-  { week: 13, size: "7 cm", weight: "≈ 20 g", fruit: "citron vert", trimester: "1er trimestre", baby: "La fin du premier trimestre approche.", mama: "Le ventre peut commencer à s’arrondir très légèrement." },
-  { week: 14, size: "8–9 cm", weight: "≈ 40 g", fruit: "pêche", trimester: "2e trimestre", baby: "Le deuxième trimestre commence. Bébé continue de grandir.", mama: "L’énergie peut revenir progressivement." },
-  { week: 15, size: "10 cm", weight: "≈ 70 g", fruit: "pomme", trimester: "2e trimestre", baby: "Les traits se précisent et la croissance continue.", mama: "Les vêtements peuvent commencer à serrer." },
-  { week: 16, size: "11–12 cm", weight: "≈ 100 g", fruit: "avocat", trimester: "2e trimestre", baby: "Bébé bouge de plus en plus, même si les mouvements ne sont pas toujours ressentis.", mama: "Certaines ressentent les premiers petits mouvements." },
-  { week: 17, size: "13 cm", weight: "≈ 140 g", fruit: "poire", trimester: "2e trimestre", baby: "La croissance se poursuit doucement.", mama: "Des tiraillements ligamentaires peuvent apparaître." },
-  { week: 18, size: "14 cm", weight: "≈ 190 g", fruit: "poivron", trimester: "2e trimestre", baby: "Les mouvements peuvent commencer à être perçus comme des bulles.", mama: "Le ventre devient souvent plus visible." },
-  { week: 19, size: "15 cm", weight: "≈ 240 g", fruit: "mangue", trimester: "2e trimestre", baby: "Bébé devient plus actif.", mama: "Les sensations peuvent rester irrégulières au début." },
-  { week: 20, size: "16 cm", weight: "≈ 300 g", fruit: "banane", trimester: "2e trimestre", baby: "Bébé bouge beaucoup. C’est souvent une période rassurante.", mama: "L’échographie morphologique approche ou a lieu autour de cette période." },
-  { week: 21, size: "26 cm", weight: "≈ 360 g", fruit: "carotte", trimester: "2e trimestre", baby: "La taille est souvent mesurée de la tête aux pieds à partir de cette période.", mama: "Le ventre prend davantage de place." },
-  { week: 22, size: "27–28 cm", weight: "≈ 430 g", fruit: "papaye", trimester: "2e trimestre", baby: "Les sens poursuivent leur développement.", mama: "Les mouvements peuvent devenir plus réguliers." },
-  { week: 23, size: "29 cm", weight: "≈ 500 g", fruit: "pamplemousse", trimester: "2e trimestre", baby: "Le visage se dessine davantage.", mama: "Le dos ou le bassin peuvent être plus sensibles." },
-  { week: 24, size: "30 cm", weight: "≈ 600 g", fruit: "maïs", trimester: "2e trimestre", baby: "Bébé grandit et prend des forces.", mama: "Le sommeil peut commencer à être moins confortable." },
-  { week: 25, size: "32 cm", weight: "≈ 700 g", fruit: "chou-fleur", trimester: "2e trimestre", baby: "La peau reste fine, mais bébé continue à se développer.", mama: "Les besoins de repos peuvent augmenter." },
-  { week: 26, size: "33–34 cm", weight: "≈ 800 g", fruit: "courgette", trimester: "2e trimestre", baby: "Le rythme veille-sommeil peut devenir plus perceptible.", mama: "Les mouvements sont souvent plus nets." },
-  { week: 27, size: "35 cm", weight: "≈ 900 g", fruit: "aubergine", trimester: "2e trimestre", baby: "Le deuxième trimestre touche à sa fin.", mama: "Le ventre est maintenant bien présent." },
-  { week: 28, size: "36 cm", weight: "≈ 1 kg", fruit: "courge", trimester: "3e trimestre", baby: "Le troisième trimestre commence. Bébé prend surtout du poids.", mama: "Le suivi devient progressivement plus rapproché." },
-  { week: 29, size: "37 cm", weight: "≈ 1,2 kg", fruit: "petit chou", trimester: "3e trimestre", baby: "Les mouvements doivent rester présents.", mama: "En cas de doute sur les mouvements, il faut appeler la maternité." },
-  { week: 30, size: "38–39 cm", weight: "≈ 1,3 kg", fruit: "concombre", trimester: "3e trimestre", baby: "Bébé prend progressivement de la place.", mama: "Le repos devient souvent plus nécessaire." },
-  { week: 31, size: "40 cm", weight: "≈ 1,5 kg", fruit: "noix de coco", trimester: "3e trimestre", baby: "La croissance continue.", mama: "Le souffle peut être plus court." },
-  { week: 32, size: "41 cm", weight: "≈ 1,7 kg", fruit: "jicama", trimester: "3e trimestre", baby: "La troisième échographie a souvent lieu autour de cette période.", mama: "On vérifie la croissance et la position de bébé." },
-  { week: 33, size: "42 cm", weight: "≈ 1,9 kg", fruit: "ananas", trimester: "3e trimestre", baby: "Bébé continue de prendre du poids.", mama: "Les positions peuvent changer jusqu’à la fin." },
-  { week: 34, size: "43 cm", weight: "≈ 2,1 kg", fruit: "melon", trimester: "3e trimestre", baby: "Bébé se prépare doucement à la naissance.", mama: "Reflux, sommeil et jambes lourdes peuvent être présents." },
-  { week: 35, size: "45 cm", weight: "≈ 2,4 kg", fruit: "melon miel", trimester: "3e trimestre", baby: "La valise de maternité peut être finalisée.", mama: "Le corps commence à se préparer au jour J." },
-  { week: 36, size: "46 cm", weight: "≈ 2,6 kg", fruit: "laitue romaine", trimester: "3e trimestre", baby: "La fin approche.", mama: "Les rendez-vous peuvent devenir plus rapprochés." },
-  { week: 37, size: "47 cm", weight: "≈ 2,9 kg", fruit: "bette", trimester: "3e trimestre", baby: "Bébé continue de prendre du poids.", mama: "Les signes de début de travail sont à surveiller." },
-  { week: 38, size: "48–49 cm", weight: "≈ 3,1 kg", fruit: "pastèque", trimester: "3e trimestre", baby: "La naissance peut arriver bientôt.", mama: "Le rythme de bébé doit rester surveillé." },
-  { week: 39, size: "49–50 cm", weight: "≈ 3,3 kg", fruit: "citrouille", trimester: "3e trimestre", baby: "La date prévue approche.", mama: "En cas de perte des eaux ou contractions régulières, on appelle la maternité." },
-  { week: 40, size: "50 cm", weight: "≈ 3,5 kg", fruit: "nouveau-né", trimester: "3e trimestre", baby: "Bébé est proche du terme.", mama: "Le suivi de fin de grossesse permet de vérifier que tout va bien." },
-];
-
 export default function BabyWeekViewer() {
-  const [selectedWeek, setSelectedWeek] = useState(20);
-
-  const week = useMemo(
-    () => weeks.find((item) => item.week === selectedWeek) ?? weeks[16],
-    [selectedWeek]
-  );
-
-  const index = weeks.findIndex((item) => item.week === selectedWeek);
-  const previous = () => setSelectedWeek(weeks[Math.max(index - 1, 0)].week);
-  const next = () => setSelectedWeek(weeks[Math.min(index + 1, weeks.length - 1)].week);
-
   return (
     <main className={styles.page}>
-      <section className={styles.breadcrumb}>
-        Accueil <span>›</span> Grossesse <span>›</span> Mon bébé semaine par semaine
-      </section>
-
       <section className={styles.hero}>
-        <div>
-          <p className={styles.kicker}>Outil grossesse</p>
-          <h1>Mon bébé semaine par semaine</h1>
-          <p>
-            Une expérience douce pour suivre l’évolution de bébé, comprendre les grandes étapes
-            et revenir chaque semaine avec des repères simples.
-          </p>
-        </div>
+        <p className={styles.kicker}>Outil grossesse</p>
+        <h1>Mon bébé semaine par semaine</h1>
+        <p>
+          Une page douce pour suivre l’évolution de bébé, comprendre les grandes étapes
+          et retrouver des repères simples à chaque semaine de grossesse.
+        </p>
       </section>
 
-      <section className={styles.appGrid}>
-        <aside className={styles.infoCard}>
-          <div className={styles.weekTop}>
-            <div>
-              <span>Semaine</span>
-              <strong>{week.week}</strong>
-              <small>{week.week} SA</small>
-            </div>
-            <div className={styles.trimester}>
-              <CalendarDays size={19} />
-              {week.trimester}
-            </div>
+      <section className={styles.weekNav}>
+        <button>‹</button>
+        {["4 SA", "5 SA", "6 SA", "7 SA", "8 SA", "9 SA", "10 SA", "11 SA", "12 SA", "…", "40 SA"].map((item) => (
+          <span key={item} className={item === "6 SA" ? styles.active : ""}>{item}</span>
+        ))}
+        <button>›</button>
+      </section>
+
+      <section className={styles.grid}>
+        <article className={styles.mainCard}>
+          <div className={styles.topLine}>
+            <div><strong>6</strong><span>SA</span></div>
+            <p><CalendarDays size={18} /> 1er trimestre</p>
           </div>
+
+          <p className={styles.intro}>
+            Ton bébé est encore minuscule, mais son développement avance à grands pas.
+          </p>
 
           <div className={styles.stats}>
-            <div>
-              <Ruler size={20} />
-              <span>Taille du bébé</span>
-              <strong>{week.size}</strong>
-            </div>
-            <div>
-              <Scale size={20} />
-              <span>Poids du bébé</span>
-              <strong>{week.weight}</strong>
-            </div>
+            <div><Ruler size={20} /><span>Taille</span><strong>4–6 mm</strong><small>environ</small></div>
+            <div><Scale size={20} /><span>Poids</span><strong>&lt; 1 g</strong><small>environ</small></div>
+            <div><Heart size={20} /><span>Comparable à</span><strong>—</strong></div>
           </div>
 
-          <div className={styles.fruit}>
-            <Sparkles size={18} />
-            <p>Comparable à : <strong>{week.fruit}</strong></p>
-          </div>
+          <InfoBlock icon={<Heart size={20} />} title="Côté bébé" text="Le tube neural se forme, le cœur commence à battre et les premiers bourgeons des bras et des jambes apparaissent." />
+          <InfoBlock icon={<Baby size={20} />} title="Côté maman" text="Les hormones de grossesse augmentent. Fatigue, seins sensibles ou nausées peuvent apparaître." />
+          <InfoBlock icon={<Stethoscope size={20} />} title="Examens" text="Première prise de sang et début du suivi de grossesse. Échographie de datation selon les recommandations." />
+          <InfoBlock icon={<Lightbulb size={20} />} title="Conseils" text="Prends l’acide folique si elle t’a été prescrite, évite l’alcool, le tabac et les médicaments non validés." />
+        </article>
 
-          <div className={styles.textBlock}>
-            <Heart size={19} />
-            <div>
-              <h2>Côté bébé</h2>
-              <p>{week.baby}</p>
-            </div>
-          </div>
-
-          <div className={styles.textBlockLight}>
-            <Baby size={19} />
-            <div>
-              <h2>Côté maman</h2>
-              <p>{week.mama}</p>
-            </div>
-          </div>
-
-          <p className={styles.disclaimer}>
-            Les tailles et poids sont indicatifs. Ils ne remplacent jamais le suivi médical.
-          </p>
-        </aside>
-
-        <section className={styles.viewerCard}>
-          <div className={styles.viewerHeader}>
-            <span><Leaf size={18} /> Vue illustrée</span>
-            <small>{week.week} SA</small>
-          </div>
-
-          <div className={styles.viewer}>
+        <article className={styles.imageCard}>
+          <div className={styles.badge}><Sparkles size={18} /> Vue dans le ventre de maman</div>
+          <div className={styles.imageWrap}>
             <Image
-              src={`/images/babyWeeks/bebe-${String(week.week).padStart(2, "0")}-sa.png`}
-              alt={`Illustration douce du bébé à ${week.week} SA`}
+              src="/images/babyWeeks/bebe-semaine-par-semaine-premium.png"
+              alt="Aperçu premium de la page Mon bébé semaine par semaine"
               fill
               priority
               sizes="(max-width: 900px) 100vw, 60vw"
-              className={styles.babyImage}
+              className={styles.image}
             />
           </div>
-
-          <div className={styles.viewerControls}>
-            <button onClick={previous} type="button">
-              <ChevronLeft size={18} /> Semaine précédente
-            </button>
-            <button onClick={next} type="button">
-              Semaine suivante <ChevronRight size={18} />
-            </button>
-          </div>
-        </section>
+        </article>
       </section>
 
-      <section className={styles.timeline}>
-        <div className={styles.timelineTitle}>
-          <h2>Choisissez une semaine</h2>
-          <span>{week.week} SA</span>
-        </div>
-
-        <div className={styles.weekList}>
-          {weeks.map((item) => (
-            <button
-              key={item.week}
-              type="button"
-              className={item.week === selectedWeek ? styles.activeWeek : ""}
-              onClick={() => setSelectedWeek(item.week)}
-            >
-              <span className={styles.miniBaby} />
-              <strong>{item.week} SA</strong>
-            </button>
-          ))}
+      <section className={styles.reminder}>
+        <Lightbulb size={24} />
+        <div>
+          <h2>À retenir</h2>
+          <p>Chaque grossesse évolue à son rythme. Ces informations sont indicatives et ne remplacent jamais l’avis d’un professionnel de santé.</p>
         </div>
       </section>
     </main>
+  );
+}
+
+function InfoBlock({ icon, title, text }: { icon: React.ReactNode; title: string; text: string }) {
+  return (
+    <div className={styles.infoBlock}>
+      {icon}
+      <div><h2>{title}</h2><p>{text}</p></div>
+    </div>
   );
 }
