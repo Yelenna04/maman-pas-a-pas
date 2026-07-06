@@ -1,1 +1,248 @@
-.page{min-height:100vh;padding:3rem clamp(1rem,5vw,5.5rem) 5rem;color:#332621;background:radial-gradient(circle at top left,rgba(232,218,198,.55),transparent 34rem),linear-gradient(180deg,#fffaf5 0%,#f8efe7 100%)}.hero{max-width:1280px;margin:0 auto 1.8rem;text-align:center}.kicker{display:inline-flex;padding:.45rem .9rem;border-radius:999px;background:#eef0e5;color:#6f8059;font-weight:900;margin:0 0 1rem}.hero h1{font-family:var(--font-lora),Georgia,serif;font-size:clamp(2.7rem,5vw,5.3rem);line-height:1;margin:0 0 .75rem;letter-spacing:-.04em}.hero p{max-width:760px;margin:0 auto;color:#67584f;font-size:1.08rem;line-height:1.8}.weekNav{max-width:1280px;margin:0 auto 1.4rem;display:flex;align-items:center;gap:.55rem;overflow-x:auto;padding:.5rem 0}.weekNav button,.weekNav span{border:1px solid #eaded3;background:rgba(255,255,255,.75);color:#5d5048;border-radius:999px;min-width:84px;padding:.8rem 1rem;text-align:center;font-weight:800;white-space:nowrap}.weekNav button{min-width:44px;cursor:pointer;font-size:1.5rem;line-height:1}.weekNav .active{background:#7b8b63;color:white;border-color:#7b8b63}.grid{max-width:1280px;margin:0 auto;display:grid;grid-template-columns:minmax(360px,.9fr) minmax(0,1.35fr);gap:1.4rem;align-items:stretch}.mainCard,.imageCard,.reminder{background:rgba(255,255,255,.82);border:1px solid #eaded3;border-radius:30px;box-shadow:0 28px 90px rgba(87,63,44,.09)}.mainCard{padding:clamp(1.2rem,2.5vw,2rem)}.topLine{display:flex;align-items:center;justify-content:space-between;gap:1rem;border-bottom:1px solid #eee2d7;padding-bottom:1.3rem;margin-bottom:1rem}.topLine strong{font-family:var(--font-lora),Georgia,serif;color:#6f8059;font-size:5rem;line-height:.9}.topLine span{font-weight:900;font-size:1.5rem;margin-left:.25rem}.topLine p{background:#eef0e5;color:#6f8059;font-weight:900;border-radius:999px;padding:.65rem .85rem;display:flex;gap:.45rem;align-items:center}.intro{color:#5f5148;font-weight:700;line-height:1.6;margin:0 0 1rem}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem;margin-bottom:1rem}.stats div{border:1px solid #eaded3;border-radius:20px;padding:.9rem;background:#fffaf5;text-align:center}.stats svg{color:#9d8666;margin-bottom:.5rem}.stats span,.stats small{display:block;color:#7e6f64;font-size:.82rem}.stats strong{display:block;font-size:1.25rem;margin:.35rem 0 .15rem}.infoBlock{display:flex;gap:.8rem;border:1px solid #eaded3;border-radius:22px;padding:.95rem;margin-top:.75rem;background:#fffaf5}.infoBlock:first-of-type{background:#f2f0e5}.infoBlock svg{flex-shrink:0;color:#7b8b63;margin-top:.15rem}.infoBlock h2{margin:0 0 .25rem;font-size:1rem}.infoBlock p{margin:0;color:#5d5048;line-height:1.6}.imageCard{padding:1.3rem}.badge{display:inline-flex;align-items:center;gap:.5rem;background:#fffaf5;color:#6f8059;border:1px solid #eaded3;font-weight:900;border-radius:999px;padding:.65rem .9rem;margin-bottom:1rem}.imageWrap{position:relative;min-height:620px;border-radius:26px;overflow:hidden;background:#ead9c6;border:1px solid #eaded3}.image{object-fit:cover}.reminder{max-width:860px;margin:1.5rem auto 0;padding:1.1rem 1.25rem;display:flex;gap:1rem;align-items:center;color:#65574e}.reminder svg{color:#7b8b63;flex-shrink:0}.reminder h2{margin:0 0 .25rem;font-family:var(--font-lora),Georgia,serif}.reminder p{margin:0;line-height:1.6}@media(max-width:980px){.page{padding:2rem 1rem 4rem}.grid{grid-template-columns:1fr}.imageWrap{min-height:520px}}@media(max-width:640px){.hero{text-align:left}.hero h1{font-size:2.55rem}.topLine,.stats{grid-template-columns:1fr;display:grid}.imageWrap{min-height:420px}.stats{grid-template-columns:1fr}}
+.page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(232, 218, 198, 0.45), transparent 34rem),
+    linear-gradient(180deg, #fffaf5 0%, #f8efe7 100%);
+  color: #332621;
+  padding: 1.1rem clamp(1rem, 2.4vw, 2rem) 2rem;
+}
+
+.shell {
+  max-width: 1540px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 430px minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: stretch;
+}
+
+.panel,
+.visualCard,
+.weekNav {
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px solid #eaded3;
+  box-shadow: 0 22px 70px rgba(87, 63, 44, 0.08);
+}
+
+.panel {
+  border-radius: 26px;
+  padding: 2rem 1.55rem 1.5rem;
+}
+
+.back {
+  display: inline-flex;
+  color: #6f8059;
+  font-weight: 900;
+  text-decoration: none;
+  margin-bottom: 1.3rem;
+}
+
+.weekTitle {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+}
+
+.weekTitle strong {
+  font-family: var(--font-lora), Georgia, serif;
+  color: #6f8059;
+  font-size: 5.8rem;
+  line-height: 0.85;
+}
+
+.weekTitle span {
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.trimester {
+  display: inline-flex;
+  margin-top: 0.65rem;
+  background: #6f8059;
+  color: white;
+  font-weight: 900;
+  border-radius: 999px;
+  padding: 0.45rem 0.8rem;
+}
+
+.divider {
+  height: 1px;
+  background: #eaded3;
+  margin: 1.25rem 0;
+}
+
+.metric {
+  display: grid;
+  grid-template-columns: 40px 1fr auto;
+  gap: 0.95rem;
+  align-items: center;
+  padding: 1rem 0;
+  border-bottom: 1px solid #eaded3;
+}
+
+.metric svg {
+  color: #6f8059;
+}
+
+.metric p {
+  margin: 0 0 0.25rem;
+  color: #7c6f65;
+}
+
+.metric strong {
+  display: block;
+  font-size: 1.25rem;
+  color: #2f2520;
+}
+
+.metric small {
+  display: block;
+  margin-top: 0.15rem;
+  color: #7c6f65;
+}
+
+.infoIcon {
+  color: #8f8175 !important;
+}
+
+.textBlock {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 0.85rem;
+  background: rgba(255, 250, 245, 0.92);
+  border: 1px solid #eaded3;
+  border-radius: 18px;
+  padding: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+.textBlock span {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: #e9eee0;
+  color: #6f8059;
+}
+
+.textBlock h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+  color: #3b2f29;
+}
+
+.textBlock p {
+  margin: 0;
+  color: #5d5048;
+  line-height: 1.45;
+  font-size: 0.92rem;
+}
+
+.visualCard {
+  position: relative;
+  border-radius: 26px;
+  padding: 0;
+  overflow: hidden;
+  min-height: 810px;
+  background: #d9a07f;
+}
+
+.visualBadge {
+  position: absolute;
+  top: 1.35rem;
+  left: 1.35rem;
+  z-index: 2;
+  border-radius: 999px;
+  background: #eef0e5;
+  color: #6f8059;
+  font-weight: 900;
+  padding: 0.8rem 1.05rem;
+}
+
+.imageWrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 810px;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.weekNav {
+  max-width: 1540px;
+  margin: 1rem auto 0;
+  border-radius: 22px;
+  padding: 0.8rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: clamp(0.5rem, 1.6vw, 1.3rem);
+  overflow-x: auto;
+}
+
+.weekNav button,
+.weekNav a {
+  flex: 0 0 auto;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 1px solid #eaded3;
+  background: #fffaf5;
+  color: #332621;
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+  font-weight: 900;
+}
+
+.weekNav button {
+  cursor: pointer;
+}
+
+.weekNav a span {
+  display: block;
+  font-size: 0.78rem;
+  margin-top: -0.7rem;
+}
+
+.activeWeek {
+  background: #6f8059 !important;
+  color: white !important;
+}
+
+.dots {
+  font-size: 1.6rem;
+  font-weight: 900;
+}
+
+@media (max-width: 980px) {
+  .shell {
+    grid-template-columns: 1fr;
+  }
+
+  .visualCard,
+  .imageWrap {
+    min-height: 520px;
+  }
+}
+
+@media (max-width: 560px) {
+  .page {
+    padding: 1rem;
+  }
+
+  .panel {
+    padding: 1.3rem 1rem;
+  }
+
+  .weekTitle strong {
+    font-size: 4.7rem;
+  }
+
+  .visualCard,
+  .imageWrap {
+    min-height: 420px;
+  }
+}
