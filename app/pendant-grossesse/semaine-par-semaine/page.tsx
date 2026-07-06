@@ -1,4 +1,4 @@
-import BabyWeekApp from "@/components/BabyWeekApp";
+import BabyWeekApp from "@/components/baby-week/BabyWeekApp";
 
 export const metadata = {
   title: "Mon bébé semaine par semaine | Maman, Pas à Pas",
