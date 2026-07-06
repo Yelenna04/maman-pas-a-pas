@@ -1,11 +1,10 @@
-import BabyWeekArticles from "@/components/BabyWeekArticles";
+import BabyWeekPremium from "@/components/BabyWeekPremium";
 
 export const metadata = {
   title: "Mon bébé semaine par semaine | Maman, Pas à Pas",
-  description:
-    "Les fiches de grossesse semaine par semaine, de 4 SA à 40 SA.",
+  description: "Suivre l’évolution de bébé semaine après semaine, de 4 SA à 40 SA.",
 };
 
 export default function SemaineParSemainePage() {
-  return <BabyWeekArticles />;
+  return <BabyWeekPremium />;
 }
