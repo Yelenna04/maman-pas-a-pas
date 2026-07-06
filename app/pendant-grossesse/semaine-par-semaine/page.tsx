@@ -1,11 +1,11 @@
-import BabyWeekViewer from "@/components/BabyWeekViewer";
+import BabyWeekApp from "@/components/BabyWeekApp";
 
 export const metadata = {
   title: "Mon bébé semaine par semaine | Maman, Pas à Pas",
   description:
-    "Fiche 4 SA : taille, poids, développement de bébé et repères côté maman.",
+    "Une mini-application grossesse pour suivre l’évolution de bébé semaine après semaine.",
 };
 
 export default function SemaineParSemainePage() {
-  return <BabyWeekViewer />;
+  return <BabyWeekApp />;
 }
