@@ -1,1 +1,319 @@
-main{padding:40px;}
+.baby-week-page {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(179, 194, 169, 0.25), transparent 34rem),
+    radial-gradient(circle at top right, rgba(224, 196, 176, 0.22), transparent 30rem),
+    #fbf7f1;
+  color: #3f342d;
+}
+
+.baby-week-shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 42px 0 72px;
+}
+
+.baby-week-back {
+  display: inline-flex;
+  margin-bottom: 24px;
+  color: #6f846a;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.baby-week-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 22px;
+  align-items: stretch;
+}
+
+.baby-week-hero-content,
+.baby-week-current-card,
+.baby-week-stage,
+.baby-week-progress {
+  border: 1px solid rgba(84, 67, 55, 0.1);
+  background: rgba(255, 253, 249, 0.84);
+  box-shadow: 0 24px 70px rgba(73, 55, 41, 0.08);
+  backdrop-filter: blur(14px);
+}
+
+.baby-week-hero-content {
+  border-radius: 36px;
+  padding: clamp(30px, 5vw, 58px);
+}
+
+.baby-week-kicker {
+  margin: 0 0 14px;
+  color: #6f846a;
+  font-size: 0.86rem;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.baby-week-hero h1 {
+  max-width: 780px;
+  margin: 0;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(2.4rem, 6vw, 5.2rem);
+  line-height: 0.98;
+  color: #3f342d;
+}
+
+.baby-week-hero p {
+  max-width: 690px;
+  margin: 22px 0 0;
+  color: #6b5f55;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+.baby-week-current-card {
+  border-radius: 32px;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.baby-week-current-card span {
+  color: #7d7065;
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.baby-week-current-card strong {
+  margin: 12px 0;
+  color: #6f846a;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.baby-week-current-card p {
+  margin: 0;
+  color: #65594f;
+  line-height: 1.55;
+}
+
+.baby-week-timeline {
+  display: flex;
+  gap: 10px;
+  margin: 24px 0 16px;
+  padding: 14px;
+  overflow-x: auto;
+  border: 1px solid rgba(84, 67, 55, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 253, 249, 0.78);
+}
+
+.baby-week-timeline button {
+  flex: 0 0 auto;
+  border: 0;
+  border-radius: 999px;
+  padding: 11px 16px;
+  background: transparent;
+  color: #665a50;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+  transition: background 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.baby-week-timeline button:hover {
+  transform: translateY(-1px);
+}
+
+.baby-week-timeline button.active {
+  background: #6f846a;
+  color: #fff;
+  box-shadow: 0 12px 28px rgba(111, 132, 106, 0.24);
+}
+
+.baby-week-progress {
+  margin-bottom: 24px;
+  border-radius: 24px;
+  padding: 18px 22px;
+}
+
+.baby-week-progress > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 10px;
+  color: #776b61;
+  font-size: 0.92rem;
+}
+
+.baby-week-progress strong {
+  color: #6f846a;
+}
+
+.baby-week-progress-track {
+  height: 12px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: #ece3d8;
+}
+
+.baby-week-progress-track span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #a8ba9c, #6f846a);
+  transition: width 220ms ease;
+}
+
+.baby-week-stage {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 390px;
+  gap: 24px;
+  align-items: stretch;
+  min-height: 560px;
+  padding: clamp(20px, 4vw, 38px);
+  border-radius: 40px;
+}
+
+.baby-week-visual-card {
+  min-height: 480px;
+  border-radius: 34px;
+  background:
+    radial-gradient(circle at center, rgba(255, 255, 255, 0.95), rgba(240, 231, 220, 0.65));
+  border: 1px solid rgba(84, 67, 55, 0.08);
+  display: grid;
+  place-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.baby-week-visual {
+  display: grid;
+  place-items: center;
+}
+
+.baby-week-soft-circle {
+  width: clamp(210px, 32vw, 360px);
+  height: clamp(210px, 32vw, 360px);
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: rgba(255, 255, 255, 0.62);
+  box-shadow:
+    inset 0 0 0 1px rgba(111, 132, 106, 0.12),
+    0 32px 80px rgba(99, 76, 58, 0.11);
+}
+
+.baby-week-embryo {
+  width: 30px;
+  height: 30px;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 34% 28%, #fff7ee 0 14%, transparent 15%),
+    radial-gradient(circle at 52% 55%, #d9b4a2 0 40%, #bd8d78 72%);
+  box-shadow: 0 18px 38px rgba(147, 108, 88, 0.24);
+  transform: rotate(-18deg);
+}
+
+.baby-week-visual-note {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  bottom: 20px;
+  margin: 0;
+  color: #7b7067;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.baby-week-info-panel {
+  border-radius: 34px;
+  padding: 30px;
+  background: #f5eee6;
+  border: 1px solid rgba(84, 67, 55, 0.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.baby-week-panel-label {
+  margin: 0 0 12px;
+  color: #6f846a;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.baby-week-info-panel h2 {
+  margin: 0;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.04;
+}
+
+.baby-week-info-panel > p:not(.baby-week-panel-label) {
+  margin: 18px 0 0;
+  color: #675b50;
+  line-height: 1.75;
+}
+
+.baby-week-stats-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin-top: 26px;
+}
+
+.baby-week-stats-grid div {
+  padding: 18px;
+  border-radius: 22px;
+  background: rgba(255, 253, 249, 0.75);
+}
+
+.baby-week-stats-grid span {
+  display: block;
+  margin-bottom: 6px;
+  color: #7b6f64;
+  font-size: 0.82rem;
+  font-weight: 900;
+}
+
+.baby-week-stats-grid strong {
+  color: #3f342d;
+  font-size: 1.06rem;
+}
+
+@media (max-width: 940px) {
+  .baby-week-hero,
+  .baby-week-stage {
+    grid-template-columns: 1fr;
+  }
+
+  .baby-week-current-card {
+    min-height: 210px;
+  }
+}
+
+@media (max-width: 640px) {
+  .baby-week-shell {
+    width: min(100% - 22px, 1180px);
+    padding-top: 28px;
+  }
+
+  .baby-week-hero-content,
+  .baby-week-current-card,
+  .baby-week-stage,
+  .baby-week-visual-card,
+  .baby-week-info-panel {
+    border-radius: 26px;
+  }
+
+  .baby-week-stage {
+    min-height: auto;
+  }
+
+  .baby-week-visual-card {
+    min-height: 380px;
+  }
+}
