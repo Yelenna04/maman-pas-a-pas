@@ -1,11 +1,8 @@
-import BabyWeekViewer from "@/components/BabyWeekViewer";
+import type { Metadata } from "next";
+import { CategoryPage } from "@/components/CategoryPage";
 
-export const metadata = {
-  title: "Mon bébé semaine par semaine | Maman, Pas à Pas",
-  description:
-    "Suivre l’évolution de bébé semaine après semaine avec des repères doux, simples et rassurants.",
-};
+export const metadata: Metadata = { title: "Pendant la grossesse" };
 
-export default function SemaineParSemainePage() {
-  return <BabyWeekViewer />;
+export default function Page() {
+  return <CategoryPage slug="pendant-grossesse" />;
 }
