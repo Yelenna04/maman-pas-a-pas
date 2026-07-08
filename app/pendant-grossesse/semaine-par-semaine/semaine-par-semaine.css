@@ -10,12 +10,12 @@
 .mpap-week-shell {
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
-  padding: 36px 0 72px;
+  padding: 28px 0 72px;
 }
 
 .mpap-week-back {
   display: inline-flex;
-  margin-bottom: 22px;
+  margin-bottom: 18px;
   color: #6f846a;
   font-weight: 800;
   text-decoration: none;
@@ -23,10 +23,10 @@
 
 .mpap-week-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 260px;
-  gap: 20px;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 18px;
   align-items: stretch;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
 }
 
 .mpap-week-hero > div,
@@ -44,39 +44,39 @@
 }
 
 .mpap-week-hero > div:first-child {
-  border-radius: 34px;
-  padding: clamp(30px, 4vw, 48px);
+  border-radius: 30px;
+  padding: clamp(24px, 3.2vw, 38px);
 }
 
 .mpap-kicker {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
   color: #6f846a;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 900;
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
 .mpap-week-hero h1 {
-  max-width: 760px;
+  max-width: 720px;
   margin: 0;
   font-family: var(--font-lora), Georgia, serif;
-  font-size: clamp(2.4rem, 5.5vw, 4.6rem);
-  line-height: 0.98;
+  font-size: clamp(2.15rem, 4.7vw, 4rem);
+  line-height: 1;
   letter-spacing: -0.04em;
 }
 
 .mpap-week-hero p {
   max-width: 650px;
-  margin: 18px 0 0;
+  margin: 16px 0 0;
   color: #6d6156;
-  font-size: 1.02rem;
-  line-height: 1.75;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .mpap-week-badge {
-  border-radius: 34px;
-  padding: 26px;
+  border-radius: 30px;
+  padding: 24px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -88,24 +88,24 @@
 }
 
 .mpap-week-badge strong {
-  margin: 10px 0;
+  margin: 8px 0;
   color: #6f846a;
   font-family: var(--font-lora), Georgia, serif;
-  font-size: 3.6rem;
+  font-size: 3.35rem;
   line-height: 1;
 }
 
 .mpap-week-badge p {
   margin: 0;
   color: #665b51;
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 .mpap-week-nav {
   display: flex;
   gap: 10px;
   margin-bottom: 14px;
-  padding: 10px;
+  padding: 9px;
   border-radius: 999px;
   overflow-x: auto;
 }
@@ -125,46 +125,73 @@
 }
 
 .mpap-timeline {
+  position: relative;
   display: flex;
-  gap: 6px;
+  gap: 14px;
   margin-bottom: 14px;
-  padding: 14px;
+  padding: 20px 18px 16px;
   border-radius: 28px;
   overflow-x: auto;
+}
+
+.mpap-timeline::before {
+  content: "";
+  position: absolute;
+  left: 32px;
+  right: 32px;
+  top: 35px;
+  height: 2px;
+  background: rgba(111, 132, 106, 0.22);
 }
 
 .mpap-timeline button {
   appearance: none;
   -webkit-appearance: none;
+  position: relative;
+  z-index: 1;
   flex: 0 0 auto;
-  min-width: 54px;
+  min-width: 48px;
   border: 0;
   border-radius: 999px;
-  padding: 10px 12px;
+  padding: 0 0 2px;
   background: transparent;
   color: #665b51;
   display: grid;
   place-items: center;
+  gap: 8px;
   font: inherit;
   font-weight: 900;
   cursor: pointer;
 }
 
-.mpap-timeline button.is-active {
+.mpap-timeline button::before {
+  content: "";
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  background: #d8cfc4;
+  box-shadow: 0 0 0 6px #fffdf9;
+}
+
+.mpap-timeline button.is-active::before {
+  width: 26px;
+  height: 26px;
   background: #6f846a;
-  color: white;
-  box-shadow: 0 14px 26px rgba(111, 132, 106, 0.24);
+  box-shadow: 0 0 0 8px rgba(111, 132, 106, 0.14), 0 10px 22px rgba(111, 132, 106, 0.26);
+}
+
+.mpap-timeline button.is-active span {
+  color: #6f846a;
 }
 
 .mpap-timeline button small {
-  font-size: 0.66rem;
-  opacity: 0.72;
+  display: none;
 }
 
 .mpap-progress {
   position: relative;
   margin-bottom: 22px;
-  padding: 18px 20px 22px;
+  padding: 16px 20px 22px;
   border-radius: 24px;
   overflow: hidden;
 }
@@ -214,7 +241,7 @@
 }
 
 .mpap-visual-card {
-  min-height: 500px;
+  min-height: 520px;
   border-radius: 32px;
   background:
     radial-gradient(circle at 50% 42%, rgba(255, 255, 255, 0.98), rgba(241, 231, 219, 0.68));
@@ -225,20 +252,41 @@
   overflow: hidden;
 }
 
+.mpap-visual-card::before,
+.mpap-visual-card::after {
+  content: "";
+  position: absolute;
+  border-radius: 999px;
+  border: 1px solid rgba(111, 132, 106, 0.12);
+}
+
+.mpap-visual-card::before {
+  width: 72%;
+  height: 72%;
+}
+
+.mpap-visual-card::after {
+  width: 52%;
+  height: 52%;
+  background: rgba(255, 255, 255, 0.32);
+}
+
 .mpap-visual-glow {
+  position: relative;
+  z-index: 1;
   width: clamp(230px, 32vw, 380px);
   height: clamp(230px, 32vw, 380px);
   border-radius: 50%;
   display: grid;
   place-items: center;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.62);
   box-shadow:
     inset 0 0 0 1px rgba(111, 132, 106, 0.12),
     0 32px 80px rgba(83, 64, 50, 0.12);
 }
 
 .mpap-embryo {
-  border-radius: 999px;
+  border-radius: 999px 999px 999px 70%;
   background:
     radial-gradient(circle at 32% 28%, #fff8ef 0 14%, transparent 15%),
     radial-gradient(circle at 54% 56%, #d6ad9c 0 40%, #b98775 74%);
@@ -249,12 +297,13 @@
 
 .mpap-visual-title {
   position: absolute;
+  z-index: 2;
   left: 22px;
   right: 22px;
   bottom: 22px;
   padding: 16px;
   border-radius: 24px;
-  background: rgba(255, 253, 249, 0.82);
+  background: rgba(255, 253, 249, 0.84);
   text-align: center;
 }
 
@@ -301,31 +350,36 @@
 
 .mpap-stats {
   display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
   margin-top: 24px;
 }
 
 .mpap-stats article {
-  padding: 17px;
-  border-radius: 22px;
-  background: rgba(255, 253, 249, 0.76);
-}
-
-.mpap-stats span,
-.mpap-glance article {
-  color: #766a60;
-  font-weight: 900;
+  min-height: 120px;
+  padding: 18px;
+  border-radius: 24px;
+  background: rgba(255, 253, 249, 0.78);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .mpap-stats span {
   display: block;
-  margin-bottom: 6px;
-  font-size: 0.84rem;
+  color: #6f846a;
+  font-size: 1.25rem;
+}
+
+.mpap-stats small {
+  display: block;
+  color: #766a60;
+  font-weight: 900;
 }
 
 .mpap-stats strong {
   color: #40352e;
-  font-size: 1.08rem;
+  font-size: 1.02rem;
 }
 
 .mpap-glance {
@@ -351,6 +405,8 @@
   padding: 18px;
   border-radius: 22px;
   background: #f4ece3;
+  color: #766a60;
+  font-weight: 900;
 }
 
 .mpap-cards {
@@ -360,9 +416,15 @@
 }
 
 .mpap-cards > article {
-  min-height: 210px;
+  min-height: 220px;
   border-radius: 30px;
   padding: 24px;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.mpap-cards > article:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 28px 70px rgba(72, 55, 43, 0.1);
 }
 
 .mpap-cards span {
@@ -395,9 +457,10 @@
   }
 
   .mpap-week-badge {
-    min-height: 190px;
+    min-height: 170px;
   }
 
+  .mpap-stats,
   .mpap-glance > div:last-child {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -406,7 +469,7 @@
 @media (max-width: 640px) {
   .mpap-week-shell {
     width: min(100% - 22px, 1180px);
-    padding-top: 26px;
+    padding-top: 24px;
   }
 
   .mpap-week-hero > div:first-child,
@@ -420,13 +483,14 @@
   }
 
   .mpap-week-badge strong {
-    font-size: 3.2rem;
+    font-size: 3rem;
   }
 
   .mpap-visual-card {
-    min-height: 420px;
+    min-height: 430px;
   }
 
+  .mpap-stats,
   .mpap-glance > div:last-child {
     grid-template-columns: 1fr;
   }
