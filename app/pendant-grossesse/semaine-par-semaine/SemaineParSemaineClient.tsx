@@ -10,24 +10,25 @@ type Week = {
   size: string;
   comparison: string;
   weight: string;
+  imageLabel: string;
   embryoSize: number;
   highlights: string[];
   cards: { icon: string; title: string; text: string }[];
 };
 
-const weeks = Array.from({ length: 37 }, (_, index) => index + 4);
+const weekNumbers = Array.from({ length: 37 }, (_, index) => index + 4);
 
-const content: Record<number, Week> = {
+const weeks: Record<number, Week> = {
   4: {
     week: 4,
     trimester: "Premier trimestre",
     title: "Le tout début de l’aventure",
-    subtitle:
-      "À 4 SA, tout commence à peine. L’embryon est microscopique et les premiers échanges avec ton corps se mettent en place.",
+    subtitle: "À 4 SA, tout commence à peine. L’embryon est microscopique et les premiers échanges avec ton corps se mettent en place.",
     size: "≈ 0,2 mm",
     comparison: "graine de pavot",
     weight: "< 1 g",
-    embryoSize: 26,
+    imageLabel: "Graine de pavot",
+    embryoSize: 30,
     highlights: ["Bêta-hCG en hausse", "Échographie souvent trop précoce", "Symptômes très variables"],
     cards: [
       { icon: "🧠", title: "Développement", text: "Les premières cellules se spécialisent. L’embryon reste encore invisible à l’œil nu." },
@@ -42,12 +43,12 @@ const content: Record<number, Week> = {
     week: 5,
     trimester: "Premier trimestre",
     title: "Les premières structures se dessinent",
-    subtitle:
-      "À 5 SA, l’embryon reste minuscule mais son organisation avance très vite. Le sac gestationnel peut parfois commencer à être visible.",
+    subtitle: "À 5 SA, l’embryon reste minuscule mais son organisation avance très vite. Le sac gestationnel peut parfois commencer à être visible.",
     size: "≈ 1 mm",
     comparison: "graine de sésame",
     weight: "< 1 g",
-    embryoSize: 34,
+    imageLabel: "Graine de sésame",
+    embryoSize: 38,
     highlights: ["Croissance rapide", "Fatigue fréquente", "Nausées possibles"],
     cards: [
       { icon: "🧠", title: "Développement", text: "Les grandes bases du futur embryon s’organisent, même si les détails ne sont pas encore visibles." },
@@ -62,12 +63,12 @@ const content: Record<number, Week> = {
     week: 6,
     trimester: "Premier trimestre",
     title: "Un minuscule cœur commence à se former",
-    subtitle:
-      "À 6 SA, le développement est très actif. Selon le terme exact, une activité cardiaque peut parfois commencer à être repérée.",
+    subtitle: "À 6 SA, le développement est très actif. Selon le terme exact, une activité cardiaque peut parfois commencer à être repérée.",
     size: "≈ 2 à 4 mm",
     comparison: "petit grain de riz",
     weight: "< 1 g",
-    embryoSize: 42,
+    imageLabel: "Petit grain de riz",
+    embryoSize: 48,
     highlights: ["Cœur en formation", "Quelques millimètres", "Suivi à organiser"],
     cards: [
       { icon: "🧠", title: "Développement", text: "Le tube neural et les premières ébauches d’organes poursuivent leur développement." },
@@ -78,10 +79,44 @@ const content: Record<number, Week> = {
       { icon: "⚠️", title: "À surveiller", text: "Vomissements répétés avec impossibilité de boire ou manger : demande un avis médical." },
     ],
   },
+  7: {
+    week: 7,
+    trimester: "Premier trimestre",
+    title: "La croissance s’accélère",
+    subtitle: "À 7 SA, l’embryon grandit vite. Les premiers bourgeons des membres commencent à se dessiner progressivement.",
+    size: "≈ 8 à 12 mm",
+    comparison: "myrtille",
+    weight: "< 1 g",
+    imageLabel: "Myrtille",
+    embryoSize: 60,
+    highlights: ["Croissance active", "Membres en ébauche", "Nausées fréquentes"],
+    cards: [
+      { icon: "🧠", title: "Développement", text: "Le cerveau et le système nerveux poursuivent leur organisation." },
+      { icon: "🤰", title: "Chez maman", text: "Les nausées, la fatigue et les seins sensibles peuvent être plus marqués." },
+      { icon: "❤️", title: "Conseils", text: "Écoute ton corps et repose-toi autant que possible." },
+    ],
+  },
+  8: {
+    week: 8,
+    trimester: "Premier trimestre",
+    title: "Une silhouette se précise",
+    subtitle: "À 8 SA, la silhouette de l’embryon devient plus reconnaissable. Les structures principales continuent à se former.",
+    size: "≈ 14 à 20 mm",
+    comparison: "framboise",
+    weight: "< 1 g",
+    imageLabel: "Framboise",
+    embryoSize: 74,
+    highlights: ["Silhouette visible", "Organes en formation", "Fatigue possible"],
+    cards: [
+      { icon: "🧠", title: "Développement", text: "Les organes poursuivent leur mise en place et la tête reste proportionnellement importante." },
+      { icon: "🤰", title: "Chez maman", text: "Les symptômes peuvent fluctuer d’un jour à l’autre, ce qui est fréquent." },
+      { icon: "❤️", title: "Conseils", text: "Prévois un suivi régulier et note tes questions pour le prochain rendez-vous." },
+    ],
+  },
 };
 
-function getWeek(week: number): Week {
-  return content[week] ?? {
+function getWeekData(week: number): Week {
+  return weeks[week] ?? {
     week,
     trimester: week < 14 ? "Premier trimestre" : week < 28 ? "Deuxième trimestre" : "Troisième trimestre",
     title: "Semaine en préparation",
@@ -89,7 +124,8 @@ function getWeek(week: number): Week {
     size: "à compléter",
     comparison: "à compléter",
     weight: "à compléter",
-    embryoSize: Math.min(26 + (week - 4) * 4, 150),
+    imageLabel: "À venir",
+    embryoSize: Math.min(30 + (week - 4) * 4, 150),
     highlights: ["Contenu à venir", `${week} SA`, "Base prête"],
     cards: [
       { icon: "🧠", title: "Développement", text: "Le contenu détaillé de cette semaine sera ajouté dans une prochaine version." },
@@ -101,93 +137,84 @@ function getWeek(week: number): Week {
 
 export default function SemaineParSemaineClient() {
   const [selectedWeek, setSelectedWeek] = useState(4);
-  const week = getWeek(selectedWeek);
+  const week = getWeekData(selectedWeek);
   const progress = useMemo(() => Math.round(((selectedWeek - 4) / 36) * 100), [selectedWeek]);
+  const gallery = [4, 5, 6, 7, 8].map(getWeekData);
 
   return (
-    <main className="mpap-week-app">
-      <div className="mpap-week-shell">
-        <a className="mpap-week-back" href="/pendant-grossesse">← Pendant la grossesse</a>
-
-        <section className="mpap-week-hero">
-          <div>
+    <main className="mpap-app">
+      <div className="mpap-shell">
+        <section className="mpap-showcase">
+          <aside className="mpap-intro">
             <p className="mpap-kicker">Mon suivi de grossesse</p>
             <h1>Bébé semaine par semaine</h1>
-            <p>Un suivi visuel, doux et clair pour découvrir l’évolution de bébé, les repères importants et ce qui peut changer dans ton corps.</p>
-          </div>
-          <div className="mpap-week-badge">
-            <span>{week.trimester}</span>
+            <p>Découvre son évolution, les changements dans ton corps et les repères importants à chaque étape.</p>
+            <button type="button">Voir comment ça marche <span>›</span></button>
+            <div className="mpap-trust">🌿 Contenu fiable, doux et non culpabilisant</div>
+          </aside>
+
+          <section className="mpap-main-scene">
+            <p className="mpap-today">Aujourd’hui</p>
             <strong>{week.week} SA</strong>
-            <p>{week.title}</p>
-          </div>
-        </section>
-
-        <section className="mpap-week-nav" aria-label="Navigation du suivi">
-          {['👶 Bébé', '🤰 Mon corps', '📅 Examens', '🍽️ Alimentation', '❤️ Conseils'].map((item, index) => (
-            <span className={index === 0 ? 'is-active' : ''} key={item}>{item}</span>
-          ))}
-        </section>
-
-        <section className="mpap-timeline" aria-label="Choisir une semaine">
-          {weeks.map((item) => (
-            <button
-              key={item}
-              type="button"
-              className={item === selectedWeek ? 'is-active' : ''}
-              onClick={() => setSelectedWeek(item)}
-            >
-              <span>{item}</span>
-              <small>SA</small>
-            </button>
-          ))}
-        </section>
-
-        <section className="mpap-progress" aria-label="Progression">
-          <div><span>4 SA</span><strong>{progress}%</strong><span>40 SA</span></div>
-          <i style={{ width: `${Math.max(progress, 4)}%` }} />
-        </section>
-
-        <section className="mpap-stage">
-          <div className="mpap-visual-card">
-            <div className="mpap-visual-glow">
-              <div className="mpap-embryo" style={{ width: week.embryoSize, height: week.embryoSize }} />
+            <span>{week.trimester}</span>
+            <div className="mpap-bubble">
+              <div className="mpap-baby" style={{ width: week.embryoSize, height: week.embryoSize }} />
             </div>
-            <div className="mpap-visual-title">
-              <span>{week.week} SA</span>
-              <strong>{week.title}</strong>
-            </div>
-          </div>
+            <article>
+              <h2>{week.title}</h2>
+              <p>{week.subtitle}</p>
+            </article>
+          </section>
 
-          <div className="mpap-info-card">
+          <aside className="mpap-side-card">
             <p className="mpap-kicker">{week.trimester}</p>
             <h2>{week.title}</h2>
             <p>{week.subtitle}</p>
-            <div className="mpap-stats">
-              <article><span>📏 Taille</span><strong>{week.size}</strong></article>
-              <article><span>🌱 Comparable à</span><strong>{week.comparison}</strong></article>
-              <article><span>⚖️ Poids</span><strong>{week.weight}</strong></article>
+            <div className="mpap-stat-row">
+              <article><span>📏</span><small>Taille</small><strong>{week.size}</strong></article>
+              <article><span>🌱</span><small>Comparable à</small><strong>{week.comparison}</strong></article>
+              <article><span>⚖️</span><small>Poids</small><strong>{week.weight}</strong></article>
             </div>
-          </div>
+            <div className="mpap-tip"><strong>💗 Conseil du jour</strong><p>Avance pas à pas. Les symptômes peuvent varier et chaque grossesse évolue à son rythme.</p></div>
+          </aside>
         </section>
 
-        <section className="mpap-glance">
+        <section className="mpap-weekline">
+          <button type="button" onClick={() => setSelectedWeek(Math.max(4, selectedWeek - 1))}>‹</button>
           <div>
-            <p className="mpap-kicker">En un coup d’œil</p>
-            <h2>Les repères essentiels à {week.week} SA</h2>
+            {weekNumbers.slice(0, 13).map((item) => (
+              <button key={item} type="button" className={item === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item)}>
+                <i />
+                <span>{item}</span>
+                <small>SA</small>
+              </button>
+            ))}
           </div>
+          <button type="button" onClick={() => setSelectedWeek(Math.min(40, selectedWeek + 1))}>›</button>
+        </section>
+
+        <section className="mpap-progress"><span>4 SA</span><i><b style={{ width: `${Math.max(progress, 4)}%` }} /></i><strong>{progress}% du chemin parcouru</strong><span>40 SA</span></section>
+
+        <section className="mpap-glance">
+          <div><p className="mpap-kicker">En un coup d’œil</p><h2>Les repères essentiels à {week.week} SA</h2></div>
+          <div>{week.highlights.map((item) => <article key={item}>{item}</article>)}</div>
+        </section>
+
+        <section className="mpap-gallery">
+          <h2>L’évolution de ton bébé</h2>
           <div>
-            {week.highlights.map((item) => <article key={item}>{item}</article>)}
+            {gallery.map((item) => (
+              <button key={item.week} type="button" className={item.week === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item.week)}>
+                <span>{item.week} SA</span>
+                <div><i style={{ width: item.embryoSize, height: item.embryoSize }} /></div>
+                <footer><strong>{item.size}</strong><small>{item.imageLabel}</small></footer>
+              </button>
+            ))}
           </div>
         </section>
 
         <section className="mpap-cards">
-          {week.cards.map((card) => (
-            <article key={card.title}>
-              <span>{card.icon}</span>
-              <h3>{card.title}</h3>
-              <p>{card.text}</p>
-            </article>
-          ))}
+          {week.cards.map((card) => <article key={card.title}><span>{card.icon}</span><h3>{card.title}</h3><p>{card.text}</p></article>)}
         </section>
       </div>
     </main>
