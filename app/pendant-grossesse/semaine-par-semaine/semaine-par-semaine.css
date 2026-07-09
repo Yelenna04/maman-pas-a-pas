@@ -1,55 +1,44 @@
-.mpap-week-app {
+.mpap-app {
   min-height: 100vh;
-  background:
-    radial-gradient(circle at 8% 0%, rgba(157, 174, 145, 0.25), transparent 32rem),
-    radial-gradient(circle at 92% 10%, rgba(225, 194, 172, 0.28), transparent 30rem),
-    #fbf7f1;
+  background: #fbf7f1;
   color: #40352e;
 }
 
-.mpap-week-shell {
-  width: min(1180px, calc(100% - 32px));
+.mpap-shell {
+  width: min(1220px, calc(100% - 32px));
   margin: 0 auto;
   padding: 28px 0 72px;
 }
 
-.mpap-week-back {
-  display: inline-flex;
-  margin-bottom: 18px;
-  color: #6f846a;
-  font-weight: 800;
-  text-decoration: none;
-}
-
-.mpap-week-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 250px;
-  gap: 18px;
-  align-items: stretch;
-  margin-bottom: 16px;
-}
-
-.mpap-week-hero > div,
-.mpap-week-badge,
-.mpap-week-nav,
-.mpap-timeline,
+.mpap-showcase,
+.mpap-weekline,
 .mpap-progress,
-.mpap-stage,
 .mpap-glance,
-.mpap-cards > article {
-  border: 1px solid rgba(86, 70, 58, 0.09);
-  background: rgba(255, 253, 249, 0.9);
-  box-shadow: 0 22px 60px rgba(72, 55, 43, 0.07);
-  backdrop-filter: blur(16px);
+.mpap-gallery,
+.mpap-cards article {
+  border: 1px solid rgba(86, 70, 58, 0.1);
+  background: rgba(255, 253, 249, 0.92);
+  box-shadow: 0 24px 70px rgba(73, 55, 41, 0.08);
 }
 
-.mpap-week-hero > div:first-child {
-  border-radius: 30px;
-  padding: clamp(24px, 3.2vw, 38px);
+.mpap-showcase {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr) 340px;
+  min-height: 520px;
+  overflow: hidden;
+  border-radius: 32px;
+}
+
+.mpap-intro,
+.mpap-side-card {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .mpap-kicker {
-  margin: 0 0 10px;
+  margin: 0 0 12px;
   color: #6f846a;
   font-size: 0.78rem;
   font-weight: 900;
@@ -57,374 +46,363 @@
   text-transform: uppercase;
 }
 
-.mpap-week-hero h1 {
-  max-width: 720px;
+.mpap-intro h1 {
   margin: 0;
   font-family: var(--font-lora), Georgia, serif;
-  font-size: clamp(2.15rem, 4.7vw, 4rem);
-  line-height: 1;
-  letter-spacing: -0.04em;
+  font-size: clamp(2.35rem, 4.5vw, 4.2rem);
+  line-height: 0.98;
 }
 
-.mpap-week-hero p {
-  max-width: 650px;
-  margin: 16px 0 0;
+.mpap-intro p,
+.mpap-side-card p,
+.mpap-main-scene article p,
+.mpap-cards p {
   color: #6d6156;
-  font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.68;
 }
 
-.mpap-week-badge {
-  border-radius: 30px;
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.mpap-week-badge span {
-  color: #776a60;
-  font-weight: 900;
-}
-
-.mpap-week-badge strong {
-  margin: 8px 0;
-  color: #6f846a;
-  font-family: var(--font-lora), Georgia, serif;
-  font-size: 3.35rem;
-  line-height: 1;
-}
-
-.mpap-week-badge p {
-  margin: 0;
-  color: #665b51;
-  line-height: 1.5;
-}
-
-.mpap-week-nav {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 14px;
-  padding: 9px;
-  border-radius: 999px;
-  overflow-x: auto;
-}
-
-.mpap-week-nav span {
-  flex: 0 0 auto;
-  border-radius: 999px;
-  padding: 10px 16px;
-  color: #665b51;
-  font-weight: 850;
-}
-
-.mpap-week-nav span.is-active {
-  background: #6f846a;
-  color: white;
-  box-shadow: 0 12px 24px rgba(111, 132, 106, 0.22);
-}
-
-.mpap-timeline {
-  position: relative;
-  display: flex;
-  gap: 14px;
-  margin-bottom: 14px;
-  padding: 20px 18px 16px;
-  border-radius: 28px;
-  overflow-x: auto;
-}
-
-.mpap-timeline::before {
-  content: "";
-  position: absolute;
-  left: 32px;
-  right: 32px;
-  top: 35px;
-  height: 2px;
-  background: rgba(111, 132, 106, 0.22);
-}
-
-.mpap-timeline button {
-  appearance: none;
-  -webkit-appearance: none;
-  position: relative;
-  z-index: 1;
-  flex: 0 0 auto;
-  min-width: 48px;
+.mpap-intro button {
+  width: fit-content;
+  margin-top: 22px;
   border: 0;
   border-radius: 999px;
-  padding: 0 0 2px;
-  background: transparent;
-  color: #665b51;
-  display: grid;
-  place-items: center;
-  gap: 8px;
+  padding: 13px 18px;
+  background: #6f846a;
+  color: white;
   font: inherit;
   font-weight: 900;
   cursor: pointer;
+  box-shadow: 0 16px 30px rgba(111, 132, 106, 0.24);
 }
 
-.mpap-timeline button::before {
-  content: "";
-  width: 14px;
-  height: 14px;
+.mpap-intro button span { padding-left: 18px; }
+
+.mpap-trust {
+  width: fit-content;
+  margin-top: 26px;
+  padding: 12px 16px;
+  border: 1px solid rgba(111, 132, 106, 0.18);
   border-radius: 999px;
-  background: #d8cfc4;
-  box-shadow: 0 0 0 6px #fffdf9;
+  color: #665b51;
+  background: rgba(255, 253, 249, 0.7);
+  font-size: 0.88rem;
+  font-weight: 750;
 }
 
-.mpap-timeline button.is-active::before {
-  width: 26px;
-  height: 26px;
-  background: #6f846a;
-  box-shadow: 0 0 0 8px rgba(111, 132, 106, 0.14), 0 10px 22px rgba(111, 132, 106, 0.26);
-}
-
-.mpap-timeline button.is-active span {
-  color: #6f846a;
-}
-
-.mpap-timeline button small {
-  display: none;
-}
-
-.mpap-progress {
+.mpap-main-scene {
   position: relative;
-  margin-bottom: 22px;
-  padding: 16px 20px 22px;
-  border-radius: 24px;
-  overflow: hidden;
-}
-
-.mpap-progress div {
-  display: flex;
-  justify-content: space-between;
-  gap: 14px;
-  margin-bottom: 12px;
-  color: #776b61;
-  font-size: 0.92rem;
-}
-
-.mpap-progress strong {
-  color: #6f846a;
-}
-
-.mpap-progress::after {
-  content: "";
-  position: absolute;
-  left: 20px;
-  right: 20px;
-  bottom: 14px;
-  height: 10px;
-  border-radius: 999px;
-  background: #ece2d7;
-}
-
-.mpap-progress i {
-  position: absolute;
-  left: 20px;
-  bottom: 14px;
-  z-index: 1;
-  height: 10px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, #a5b89a, #6f846a);
-  transition: width 220ms ease;
-}
-
-.mpap-stage {
-  display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(340px, 0.92fr);
-  gap: 22px;
-  padding: clamp(18px, 3vw, 30px);
-  border-radius: 38px;
-  margin-bottom: 22px;
-}
-
-.mpap-visual-card {
   min-height: 520px;
-  border-radius: 32px;
-  background:
-    radial-gradient(circle at 50% 42%, rgba(255, 255, 255, 0.98), rgba(241, 231, 219, 0.68));
-  border: 1px solid rgba(86, 70, 58, 0.08);
   display: grid;
   place-items: center;
-  position: relative;
   overflow: hidden;
+  background:
+    radial-gradient(circle at center, rgba(255,255,255,0.94), rgba(246, 203, 185, 0.35) 46%, rgba(232, 185, 164, 0.45)),
+    linear-gradient(135deg, #f6dfd2, #f7eee5);
 }
 
-.mpap-visual-card::before,
-.mpap-visual-card::after {
+.mpap-main-scene::before,
+.mpap-main-scene::after {
   content: "";
   position: absolute;
   border-radius: 999px;
-  border: 1px solid rgba(111, 132, 106, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.58);
 }
 
-.mpap-visual-card::before {
-  width: 72%;
-  height: 72%;
+.mpap-main-scene::before { width: 74%; height: 74%; }
+.mpap-main-scene::after { width: 52%; height: 52%; background: rgba(255,255,255,0.16); }
+
+.mpap-today {
+  position: absolute;
+  top: 22px;
+  margin: 0;
+  padding: 8px 16px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.65);
+  color: #6f846a;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
 }
 
-.mpap-visual-card::after {
-  width: 52%;
-  height: 52%;
-  background: rgba(255, 255, 255, 0.32);
+.mpap-main-scene > strong {
+  position: absolute;
+  top: 58px;
+  color: #6f846a;
+  font-family: var(--font-lora), Georgia, serif;
+  font-size: 3.4rem;
+  line-height: 1;
 }
 
-.mpap-visual-glow {
+.mpap-main-scene > span {
+  position: absolute;
+  top: 112px;
+  color: #5d544b;
+  font-weight: 800;
+}
+
+.mpap-bubble {
   position: relative;
   z-index: 1;
-  width: clamp(230px, 32vw, 380px);
-  height: clamp(230px, 32vw, 380px);
+  width: clamp(220px, 29vw, 360px);
+  height: clamp(220px, 29vw, 360px);
   border-radius: 50%;
   display: grid;
   place-items: center;
-  background: rgba(255, 255, 255, 0.62);
-  box-shadow:
-    inset 0 0 0 1px rgba(111, 132, 106, 0.12),
-    0 32px 80px rgba(83, 64, 50, 0.12);
+  background: rgba(255,255,255,0.28);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.5), 0 30px 80px rgba(134, 89, 73, 0.16);
 }
 
-.mpap-embryo {
-  border-radius: 999px 999px 999px 70%;
-  background:
-    radial-gradient(circle at 32% 28%, #fff8ef 0 14%, transparent 15%),
-    radial-gradient(circle at 54% 56%, #d6ad9c 0 40%, #b98775 74%);
-  box-shadow: 0 18px 38px rgba(147, 108, 88, 0.24);
+.mpap-baby,
+.mpap-gallery i {
+  border-radius: 999px 999px 999px 72%;
+  background: radial-gradient(circle at 32% 28%, #fff8ef 0 13%, transparent 14%), radial-gradient(circle at 54% 56%, #dfb3a1 0 40%, #b98675 74%);
+  box-shadow: 0 16px 38px rgba(147, 108, 88, 0.25);
   transform: rotate(-18deg);
   transition: width 260ms ease, height 260ms ease;
 }
 
-.mpap-visual-title {
+.mpap-main-scene article {
   position: absolute;
+  left: 80px;
+  right: 80px;
+  bottom: 30px;
   z-index: 2;
-  left: 22px;
-  right: 22px;
-  bottom: 22px;
-  padding: 16px;
+  padding: 18px 22px;
   border-radius: 24px;
-  background: rgba(255, 253, 249, 0.84);
   text-align: center;
+  background: rgba(255, 253, 249, 0.78);
 }
 
-.mpap-visual-title span {
-  display: block;
-  color: #6f846a;
-  font-weight: 900;
-}
-
-.mpap-visual-title strong {
-  display: block;
-  margin-top: 4px;
-  font-family: var(--font-lora), Georgia, serif;
-  font-size: 1.28rem;
-}
-
-.mpap-info-card {
-  border-radius: 32px;
-  padding: clamp(24px, 3vw, 34px);
-  background: #f4ece3;
-  border: 1px solid rgba(86, 70, 58, 0.08);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.mpap-info-card h2,
+.mpap-main-scene article h2,
+.mpap-side-card h2,
 .mpap-glance h2,
+.mpap-gallery h2,
 .mpap-cards h3 {
   margin: 0;
   font-family: var(--font-lora), Georgia, serif;
   line-height: 1.05;
 }
 
-.mpap-info-card h2 {
-  font-size: clamp(2rem, 4vw, 3rem);
-}
+.mpap-main-scene article p { margin: 8px 0 0; }
 
-.mpap-info-card > p:not(.mpap-kicker) {
-  margin: 16px 0 0;
-  color: #675b50;
-  line-height: 1.72;
-}
+.mpap-side-card h2 { font-size: 1.9rem; }
 
-.mpap-stats {
+.mpap-stat-row {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 12px;
-  margin-top: 24px;
+  margin-top: 20px;
 }
 
-.mpap-stats article {
-  min-height: 120px;
-  padding: 18px;
-  border-radius: 24px;
-  background: rgba(255, 253, 249, 0.78);
+.mpap-stat-row article {
+  min-height: 130px;
+  padding: 16px;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.78);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.mpap-stats span {
-  display: block;
-  color: #6f846a;
-  font-size: 1.25rem;
+.mpap-stat-row span { font-size: 1.25rem; }
+.mpap-stat-row small { color: #6f846a; font-weight: 800; }
+.mpap-stat-row strong { font-size: 0.95rem; }
+
+.mpap-tip {
+  margin-top: 20px;
+  padding: 18px;
+  border-radius: 18px;
+  background: #fff1ec;
 }
 
-.mpap-stats small {
-  display: block;
-  color: #766a60;
+.mpap-tip p { margin: 8px 0 0; }
+
+.mpap-weekline {
+  display: grid;
+  grid-template-columns: 48px 1fr 48px;
+  align-items: center;
+  gap: 12px;
+  padding: 18px;
+  border-radius: 0 0 28px 28px;
+}
+
+.mpap-weekline > button {
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 999px;
+  background: #f3ede6;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.mpap-weekline > div {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  overflow-x: auto;
+}
+
+.mpap-weekline > div::before {
+  content: "";
+  position: absolute;
+  left: 26px;
+  right: 26px;
+  top: 18px;
+  height: 2px;
+  background: rgba(111,132,106,0.18);
+}
+
+.mpap-weekline div button {
+  position: relative;
+  z-index: 1;
+  min-width: 50px;
+  border: 0;
+  background: transparent;
+  color: #665b51;
+  display: grid;
+  place-items: center;
+  gap: 5px;
+  font: inherit;
   font-weight: 900;
+  cursor: pointer;
 }
 
-.mpap-stats strong {
-  color: #40352e;
-  font-size: 1.02rem;
+.mpap-weekline i {
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: #d8cec3;
+  box-shadow: 0 0 0 6px #fffdf9;
 }
+
+.mpap-weekline .active i {
+  width: 25px;
+  height: 25px;
+  background: #6f846a;
+  box-shadow: 0 0 0 8px rgba(111,132,106,0.14);
+}
+
+.mpap-weekline small { font-size: 0.68rem; }
+
+.mpap-progress {
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 24px;
+  padding: 18px 24px;
+  border-radius: 0 0 28px 28px;
+  color: #665b51;
+}
+
+.mpap-progress i {
+  height: 10px;
+  border-radius: 999px;
+  background: #eadfd4;
+  overflow: hidden;
+}
+
+.mpap-progress b {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: #6f846a;
+}
+
+.mpap-progress strong { color: #6f846a; }
 
 .mpap-glance {
   display: grid;
-  grid-template-columns: 310px 1fr;
+  grid-template-columns: 290px 1fr;
   gap: 18px;
-  margin-bottom: 22px;
-  padding: clamp(22px, 3vw, 30px);
-  border-radius: 32px;
-}
-
-.mpap-glance h2 {
-  font-size: clamp(1.65rem, 3vw, 2.3rem);
+  margin-bottom: 24px;
+  padding: 26px;
+  border-radius: 28px;
 }
 
 .mpap-glance > div:last-child {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
 }
 
 .mpap-glance article {
-  padding: 18px;
-  border-radius: 22px;
-  background: #f4ece3;
-  color: #766a60;
+  padding: 20px;
+  border-radius: 18px;
+  background: #f2e9df;
+  color: #665b51;
   font-weight: 900;
 }
 
+.mpap-gallery {
+  margin-bottom: 24px;
+  padding: 26px;
+  border-radius: 28px;
+}
+
+.mpap-gallery h2 {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.mpap-gallery > div {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+
+.mpap-gallery button {
+  overflow: hidden;
+  border: 1px solid rgba(86, 70, 58, 0.1);
+  border-radius: 18px;
+  background: #fffdf9;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+}
+
+.mpap-gallery button > span {
+  position: absolute;
+  margin: 10px;
+  border-radius: 999px;
+  padding: 6px 10px;
+  background: #6f846a;
+  color: white;
+  font-weight: 900;
+  font-size: 0.78rem;
+}
+
+.mpap-gallery button > div {
+  min-height: 150px;
+  display: grid;
+  place-items: center;
+  background: radial-gradient(circle, #fff, #f1d7ca);
+}
+
+.mpap-gallery footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 12px;
+  color: #665b51;
+}
+
+.mpap-gallery small { font-size: 0.84rem; }
+
+.mpap-gallery .active { outline: 3px solid rgba(111,132,106,0.24); }
+
 .mpap-cards {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 18px;
 }
 
-.mpap-cards > article {
-  min-height: 220px;
-  border-radius: 30px;
+.mpap-cards article {
+  border-radius: 24px;
   padding: 24px;
-  transition: transform 180ms ease, box-shadow 180ms ease;
-}
-
-.mpap-cards > article:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 28px 70px rgba(72, 55, 43, 0.1);
 }
 
 .mpap-cards span {
@@ -438,64 +416,18 @@
   font-size: 1.25rem;
 }
 
-.mpap-cards h3 {
-  font-size: 1.34rem;
-}
+.mpap-cards p { margin-bottom: 0; }
 
-.mpap-cards p {
-  margin: 12px 0 0;
-  color: #675b50;
-  line-height: 1.68;
-}
-
-@media (max-width: 980px) {
-  .mpap-week-hero,
-  .mpap-stage,
-  .mpap-glance,
-  .mpap-cards {
-    grid-template-columns: 1fr;
-  }
-
-  .mpap-week-badge {
-    min-height: 170px;
-  }
-
-  .mpap-stats,
-  .mpap-glance > div:last-child {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
+@media (max-width: 1040px) {
+  .mpap-showcase { grid-template-columns: 1fr; }
+  .mpap-gallery > div, .mpap-cards { grid-template-columns: repeat(2, 1fr); }
+  .mpap-glance { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 640px) {
-  .mpap-week-shell {
-    width: min(100% - 22px, 1180px);
-    padding-top: 24px;
-  }
-
-  .mpap-week-hero > div:first-child,
-  .mpap-week-badge,
-  .mpap-stage,
-  .mpap-visual-card,
-  .mpap-info-card,
-  .mpap-glance,
-  .mpap-cards > article {
-    border-radius: 26px;
-  }
-
-  .mpap-week-badge strong {
-    font-size: 3rem;
-  }
-
-  .mpap-visual-card {
-    min-height: 430px;
-  }
-
-  .mpap-stats,
-  .mpap-glance > div:last-child {
-    grid-template-columns: 1fr;
-  }
-
-  .mpap-cards > article {
-    min-height: auto;
-  }
+  .mpap-shell { width: min(100% - 22px, 1220px); padding-top: 22px; }
+  .mpap-showcase { border-radius: 26px; }
+  .mpap-main-scene article { left: 18px; right: 18px; }
+  .mpap-stat-row, .mpap-glance > div:last-child, .mpap-gallery > div, .mpap-cards { grid-template-columns: 1fr; }
+  .mpap-progress { grid-template-columns: 1fr; }
 }
