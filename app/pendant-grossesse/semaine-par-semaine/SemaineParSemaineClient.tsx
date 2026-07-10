@@ -153,7 +153,7 @@ export default function SemaineParSemaineClient() {
             <div className="mpap-trust">🌿 Contenu fiable, doux et non culpabilisant</div>
           </aside>
 
-          <section className="mpap-main-scene">
+          <section className="mpap-main-scene mpap-week-transition" key={`scene-${selectedWeek}`}>
             <p className="mpap-today">Aujourd’hui</p>
             <strong>{week.week} SA</strong>
             <span>{week.trimester}</span>
@@ -166,7 +166,7 @@ export default function SemaineParSemaineClient() {
             </article>
           </section>
 
-          <aside className="mpap-side-card">
+          <aside className="mpap-side-card mpap-week-transition" key={`side-${selectedWeek}`}>
             <p className="mpap-kicker">{week.trimester}</p>
             <h2>{week.title}</h2>
             <p>{week.subtitle}</p>
@@ -195,7 +195,7 @@ export default function SemaineParSemaineClient() {
 
         <section className="mpap-progress"><span>4 SA</span><i><b style={{ width: `${Math.max(progress, 4)}%` }} /></i><strong>{progress}% du chemin parcouru</strong><span>40 SA</span></section>
 
-        <section className="mpap-glance">
+        <section className="mpap-glance mpap-week-transition" key={`glance-${selectedWeek}`}>
           <div><p className="mpap-kicker">En un coup d’œil</p><h2>Les repères essentiels à {week.week} SA</h2></div>
           <div>{week.highlights.map((item) => <article key={item}>{item}</article>)}</div>
         </section>
@@ -213,7 +213,7 @@ export default function SemaineParSemaineClient() {
           </div>
         </section>
 
-        <section className="mpap-cards">
+        <section className="mpap-cards mpap-week-transition" key={`cards-${selectedWeek}`}>
           {week.cards.map((card) => <article key={card.title}><span>{card.icon}</span><h3>{card.title}</h3><p>{card.text}</p></article>)}
         </section>
       </div>
