@@ -1,0 +1,35 @@
+.mpap-bubble,
+.mpap-gallery button > div {
+  position: relative;
+  overflow: hidden;
+}
+
+.mpap-baby-image {
+  object-fit: cover;
+  border-radius: 50%;
+  animation: mpap-image-breathe 6s ease-in-out infinite;
+}
+
+.mpap-gallery-image {
+  object-fit: cover;
+  transition: transform 260ms ease, filter 260ms ease;
+}
+
+.mpap-gallery button:hover .mpap-gallery-image,
+.mpap-gallery button.active .mpap-gallery-image {
+  transform: scale(1.04);
+  filter: saturate(1.05) contrast(1.02);
+}
+
+@keyframes mpap-image-breathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.018); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mpap-baby-image,
+  .mpap-gallery-image {
+    animation: none;
+    transition: none;
+  }
+}
