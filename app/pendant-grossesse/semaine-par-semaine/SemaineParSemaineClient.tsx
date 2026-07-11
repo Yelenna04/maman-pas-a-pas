@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useMemo, useState } from "react";
 
 type Week = {
@@ -11,6 +12,7 @@ type Week = {
   comparison: string;
   weight: string;
   imageLabel: string;
+  image?: string;
   embryoSize: number;
   highlights: string[];
   cards: { icon: string; title: string; text: string }[];
@@ -28,6 +30,7 @@ const weeks: Record<number, Week> = {
     comparison: "graine de pavot",
     weight: "< 1 g",
     imageLabel: "Graine de pavot",
+    image: "/images/baby-week/04-sa.svg",
     embryoSize: 30,
     highlights: ["Bêta-hCG en hausse", "Échographie souvent trop précoce", "Symptômes très variables"],
     cards: [
@@ -48,6 +51,7 @@ const weeks: Record<number, Week> = {
     comparison: "graine de sésame",
     weight: "< 1 g",
     imageLabel: "Graine de sésame",
+    image: "/images/baby-week/05-sa.svg",
     embryoSize: 38,
     highlights: ["Croissance rapide", "Fatigue fréquente", "Nausées possibles"],
     cards: [
@@ -68,6 +72,7 @@ const weeks: Record<number, Week> = {
     comparison: "petit grain de riz",
     weight: "< 1 g",
     imageLabel: "Petit grain de riz",
+    image: "/images/baby-week/06-sa.svg",
     embryoSize: 48,
     highlights: ["Cœur en formation", "Quelques millimètres", "Suivi à organiser"],
     cards: [
@@ -88,6 +93,7 @@ const weeks: Record<number, Week> = {
     comparison: "myrtille",
     weight: "< 1 g",
     imageLabel: "Myrtille",
+    image: "/images/baby-week/07-sa.svg",
     embryoSize: 60,
     highlights: ["Croissance active", "Membres en ébauche", "Nausées fréquentes"],
     cards: [
@@ -105,6 +111,7 @@ const weeks: Record<number, Week> = {
     comparison: "framboise",
     weight: "< 1 g",
     imageLabel: "Framboise",
+    image: "/images/baby-week/08-sa.svg",
     embryoSize: 74,
     highlights: ["Silhouette visible", "Organes en formation", "Fatigue possible"],
     cards: [
@@ -158,12 +165,13 @@ export default function SemaineParSemaineClient() {
             <strong>{week.week} SA</strong>
             <span>{week.trimester}</span>
             <div className="mpap-bubble">
-              <div className="mpap-baby" style={{ width: week.embryoSize, height: week.embryoSize }} />
+              {week.image ? (
+                <Image className="mpap-baby-image" src={week.image} alt={`Illustration du développement à ${week.week} SA`} fill sizes="(max-width: 1040px) 70vw, 360px" priority={week.week === 4} />
+              ) : (
+                <div className="mpap-baby" style={{ width: week.embryoSize, height: week.embryoSize }} />
+              )}
             </div>
-            <article>
-              <h2>{week.title}</h2>
-              <p>{week.subtitle}</p>
-            </article>
+            <article><h2>{week.title}</h2><p>{week.subtitle}</p></article>
           </section>
 
           <aside className="mpap-side-card mpap-week-transition" key={`side-${selectedWeek}`}>
@@ -181,15 +189,7 @@ export default function SemaineParSemaineClient() {
 
         <section className="mpap-weekline">
           <button type="button" onClick={() => setSelectedWeek(Math.max(4, selectedWeek - 1))}>‹</button>
-          <div>
-            {weekNumbers.slice(0, 13).map((item) => (
-              <button key={item} type="button" className={item === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item)}>
-                <i />
-                <span>{item}</span>
-                <small>SA</small>
-              </button>
-            ))}
-          </div>
+          <div>{weekNumbers.slice(0, 13).map((item) => <button key={item} type="button" className={item === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item)}><i /><span>{item}</span><small>SA</small></button>)}</div>
           <button type="button" onClick={() => setSelectedWeek(Math.min(40, selectedWeek + 1))}>›</button>
         </section>
 
@@ -202,15 +202,7 @@ export default function SemaineParSemaineClient() {
 
         <section className="mpap-gallery">
           <h2>L’évolution de ton bébé</h2>
-          <div>
-            {gallery.map((item) => (
-              <button key={item.week} type="button" className={item.week === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item.week)}>
-                <span>{item.week} SA</span>
-                <div><i style={{ width: item.embryoSize, height: item.embryoSize }} /></div>
-                <footer><strong>{item.size}</strong><small>{item.imageLabel}</small></footer>
-              </button>
-            ))}
-          </div>
+          <div>{gallery.map((item) => <button key={item.week} type="button" className={item.week === selectedWeek ? "active" : ""} onClick={() => setSelectedWeek(item.week)}><span>{item.week} SA</span><div>{item.image ? <Image className="mpap-gallery-image" src={item.image} alt={`Illustration ${item.week} SA`} fill sizes="220px" /> : <i style={{ width: item.embryoSize, height: item.embryoSize }} />}</div><footer><strong>{item.size}</strong><small>{item.imageLabel}</small></footer></button>)}</div>
         </section>
 
         <section className="mpap-cards mpap-week-transition" key={`cards-${selectedWeek}`}>
