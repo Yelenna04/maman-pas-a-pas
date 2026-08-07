@@ -32867,6 +32867,388 @@ export const articles: Article[] = [
   ]
 }
 
+,
+
+  {
+    slug: "quand-commencer-preparer-projet-bebe",
+    title: "Quand commencer à préparer un projet bébé ?",
+    description:
+      "Des repères simples pour savoir quand commencer à préparer une grossesse, sans attendre un moment parfait ni chercher à tout contrôler.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
+    readingTime: "6 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Il n’existe pas de moment parfait pour commencer un projet bébé.",
+          "Dès que l’envie devient concrète, une consultation préconceptionnelle peut être utile, même avant l’arrêt de la contraception.",
+          "Certaines démarches gagnent à être anticipées : vitamine B9, vaccins, traitements, maladies chroniques et habitudes de vie.",
+          "L’objectif n’est pas de tout changer d’un coup, mais de repérer ce qui mérite réellement d’être préparé."
+        ],
+        quote:
+          "Préparer un projet bébé, ce n’est pas chercher à rendre sa vie parfaite. C’est simplement prendre un peu d’avance sur ce qui peut être utile."
+      },
+      {
+        title: "Faut-il attendre que tout soit parfaitement aligné ?",
+        paragraphs: [
+          "Travail, logement, budget, couple, fatigue, projets personnels : il est fréquent de se demander s’il faudrait attendre que toutes les conditions soient réunies avant d’essayer d’avoir un enfant.",
+          "En pratique, il existe rarement une période où tout semble parfaitement stable. Se préparer peut donc consister à vérifier quelques éléments importants, tout en acceptant qu’une partie de la parentalité restera imprévisible.",
+          "Avoir encore des questions ou des inquiétudes ne signifie pas que le projet est mal préparé. Elles peuvent justement aider à identifier les sujets dont vous avez envie de parler avec votre partenaire ou un professionnel."
+        ]
+      },
+      {
+        title: "Dès que le projet devient concret, penser à la consultation préconceptionnelle",
+        paragraphs: [
+          "L’Assurance Maladie conseille une consultation préconceptionnelle lorsqu’un projet d’enfant existe. Elle peut être réalisée par un médecin généraliste, un gynécologue ou une sage-femme.",
+          "Ce rendez-vous permet de faire le point sur votre santé, vos antécédents personnels et familiaux, vos cycles, vos précédentes grossesses éventuelles, vos traitements, vos vaccinations et vos habitudes de vie.",
+          "Vous n’avez pas besoin d’attendre plusieurs mois d’essais pour prendre ce rendez-vous : il peut justement être organisé avant l’arrêt de la contraception ou au tout début du projet."
+        ],
+        quote:
+          "Une consultation préconceptionnelle n’est pas un examen à réussir : c’est un temps pour poser des questions et adapter les conseils à votre situation."
+      },
+      {
+        title: "La vitamine B9 : l’un des points à anticiper tôt",
+        paragraphs: [
+          "La vitamine B9, ou acide folique, fait partie des éléments qui gagnent à être abordés avant la conception.",
+          "Les recommandations françaises prévoient une supplémentation dès le projet de grossesse afin de réduire le risque de certaines anomalies de fermeture du tube neural chez l’embryon.",
+          "Le professionnel de santé vous indiquera la dose adaptée à votre situation. Certaines situations médicales peuvent nécessiter une prescription différente de la dose habituellement utilisée."
+        ]
+      },
+      {
+        title: "Faire le point sur les vaccins et les traitements",
+        paragraphs: [
+          "Un projet de grossesse est aussi un bon moment pour vérifier le carnet de vaccination. Certaines vaccinations peuvent être réalisées avant la grossesse alors qu’elles ne seront plus recommandées une fois enceinte.",
+          "Signalez tous vos traitements, y compris ceux pris occasionnellement, les médicaments sans ordonnance, les compléments alimentaires et les produits à base de plantes.",
+          "Si vous avez une maladie chronique ou un traitement au long cours, n’arrêtez rien seule. Le médecin peut anticiper un éventuel ajustement avant la conception et, si nécessaire, travailler avec le spécialiste qui vous suit."
+        ]
+      },
+      {
+        title: "Changer certaines habitudes sans transformer son quotidien",
+        paragraphs: [
+          "Les recommandations préconceptionnelles portent notamment sur l’arrêt de l’alcool, le tabac et les autres substances, une alimentation variée et une activité physique régulière.",
+          "Il n’est pas nécessaire de suivre une routine parfaite ou de multiplier les compléments. Les changements les plus utiles sont ceux qui répondent à votre situation réelle.",
+          "Si un changement est difficile, notamment l’arrêt du tabac ou de l’alcool, demander de l’aide à un professionnel est préférable à essayer de tout gérer seule."
+        ]
+      },
+      {
+        title: "Et le ou la partenaire ?",
+        paragraphs: [
+          "Le projet bébé peut aussi être l’occasion de parler de la santé et des habitudes de vie du ou de la partenaire.",
+          "Il peut être utile d’échanger sur les antécédents familiaux, le tabac, l’alcool, certains traitements, les inquiétudes concernant la fertilité et la façon dont chacun imagine les prochains mois.",
+          "Vous n’avez pas besoin d’avoir exactement le même rythme émotionnel. L’important est de pouvoir parler de vos attentes et des sujets qui vous préoccupent."
+        ]
+      },
+      {
+        title: "Quand commencer concrètement ?",
+        bullets: [
+          "Dès que vous envisagez sérieusement une grossesse : prenez rendez-vous si vous souhaitez faire un point préconceptionnel.",
+          "Avant les essais : vérifiez traitements, vaccins et vitamine B9.",
+          "Progressivement : travaillez les habitudes de vie qui méritent d’être adaptées.",
+          "À votre rythme : discutez des aspects pratiques, émotionnels et relationnels sans chercher à tout décider avant la grossesse."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Il n’existe pas de date idéale pour commencer à préparer un projet bébé. En revanche, certaines démarches sont plus utiles lorsqu’elles sont anticipées.",
+          "Une consultation préconceptionnelle, la vitamine B9, la vérification des traitements et des vaccins ainsi que quelques habitudes protectrices constituent une base suffisante pour commencer.",
+          "Le reste peut se construire progressivement : préparer une grossesse ne signifie pas tout contrôler avant qu’elle commence."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Assurance Maladie — Projet de grossesse : vaccinations et médicaments",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/projet-de-grossesse-vaccinations-et-medicaments"
+      },
+      {
+        label: "Assurance Maladie — Modifier ses habitudes de vie avant d’être enceinte",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/modifier-ses-habitudes-de-vie-avant-d-etre-enceinte"
+      },
+      {
+        label: "Santé publique France — Je pense bébé. Je pense B9",
+        url: "https://www.santepubliquefrance.fr/nutrition-et-activite-physique/depliantflyer/je-pense-bebe-je-pense-b9-la-vitamine-b9-le-bon-reflexe-pour-bien-preparer-votre-grossesse"
+      },
+      {
+        label: "Haute Autorité de santé — Projet de grossesse : informations, messages de prévention, examens à proposer",
+        url: "https://www.has-sante.fr/jcms/c_1360649/fr/projet-de-grossesse-informations-messages-de-prevention-examens-a-proposer"
+      }
+    ]
+  },
+
+  {
+    slug: "projet-bebe-gerer-attente-pression",
+    title: "Projet bébé : comment gérer l’attente et la pression ?",
+    description:
+      "Cycles, tests, impatience, entourage et peur que la grossesse tarde : des repères pour traverser les essais bébé avec moins de pression.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
+    readingTime: "7 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Plusieurs cycles peuvent être nécessaires avant d’obtenir une grossesse, sans que cela signifie automatiquement qu’il existe un problème de fertilité.",
+          "Suivre son cycle peut aider, mais les applications, tests d’ovulation et tests de grossesse ne sont utiles que s’ils restent supportables émotionnellement.",
+          "L’infertilité peut avoir un impact important sur le stress, l’anxiété et l’estime de soi : la souffrance liée à l’attente mérite d’être prise au sérieux.",
+          "Un bilan est généralement envisagé après 12 mois d’essais réguliers avant 35 ans, et souvent après 6 mois à partir de 35 ans ou plus tôt en présence d’un facteur de risque."
+        ],
+        quote:
+          "Alléger la pression ne signifie pas moins désirer ce bébé. Cela signifie aussi prendre soin de vous pendant le chemin qui mène à lui."
+      },
+      {
+        title: "Pourquoi chaque cycle peut devenir si chargé ?",
+        paragraphs: [
+          "Au début des essais, il est fréquent de regarder le calendrier avec enthousiasme. Puis les jours peuvent se transformer en une succession de calculs : période fertile, ovulation, symptômes, date des règles, moment du test.",
+          "Quand les règles arrivent, la déception peut être plus forte que prévu. À l’inverse, un retard ou une sensation inhabituelle peut faire naître beaucoup d’espoir.",
+          "Ces variations émotionnelles ne signifient pas que vous gérez mal les essais. Un projet important peut naturellement occuper beaucoup de place."
+        ]
+      },
+      {
+        title: "Ne pas confondre plusieurs cycles d’attente et infertilité",
+        paragraphs: [
+          "La grossesse ne survient pas nécessairement lors du premier cycle, même lorsque les deux partenaires n’ont pas de problème connu.",
+          "L’Organisation mondiale de la Santé définit l’infertilité par l’absence de grossesse après au moins 12 mois de rapports sexuels réguliers non protégés.",
+          "En France, l’Assurance Maladie conseille généralement un bilan après un an d’essais réguliers avant 35 ans. À partir de 35 ans, ce délai est souvent ramené à environ six mois, et une consultation peut être proposée plus tôt en cas de maladie ou d’antécédent pouvant réduire la fertilité."
+        ],
+        quote:
+          "Quelques cycles sans grossesse ne permettent pas, à eux seuls, de conclure à un problème de fertilité."
+      },
+      {
+        title: "Suivre son cycle : utile seulement si cela vous aide",
+        paragraphs: [
+          "Certaines personnes se sentent rassurées en connaissant leur période fertile ou en utilisant des tests d’ovulation. D’autres constatent que ces outils rendent chaque journée plus tendue.",
+          "Vous pouvez choisir un suivi très précis, un suivi plus simple, ou faire des pauses si vous sentez que les chiffres et les tests prennent trop de place.",
+          "L’objectif est d’obtenir des repères, pas de transformer les rapports sexuels, les sorties ou les vacances en contraintes permanentes."
+        ]
+      },
+      {
+        title: "Les tests de grossesse et l’envie de savoir tout de suite",
+        paragraphs: [
+          "La période entre l’ovulation supposée et les règles peut sembler particulièrement longue.",
+          "Si faire des tests très tôt vous expose surtout à davantage de doute ou de déception, vous pouvez décider à l’avance d’un moment où vous préférez tester.",
+          "À l’inverse, si tester tôt vous aide à mieux vivre l’attente, vous n’avez pas à vous imposer une règle rigide. Le meilleur rythme est celui qui protège le mieux votre équilibre."
+        ]
+      },
+      {
+        title: "Quand le projet bébé commence à prendre toute la place",
+        paragraphs: [
+          "L’OMS souligne que les difficultés de fertilité peuvent être associées à du stress émotionnel, de l’anxiété, une baisse de l’estime de soi et parfois une dépression.",
+          "Même avant qu’un diagnostic d’infertilité soit posé, l’attente peut devenir pesante. Il peut être utile de réintroduire volontairement des moments qui n’ont aucun lien avec les essais : loisirs, sorties, projets professionnels ou temps en couple.",
+          "Il ne s’agit pas de « ne plus y penser », mais d’éviter que le projet bébé devienne le seul sujet autour duquel toute la vie s’organise."
+        ]
+      },
+      {
+        title: "Protéger le couple",
+        paragraphs: [
+          "Deux partenaires peuvent vivre l’attente de manière très différente. L’un peut vouloir beaucoup parler des essais, l’autre avoir besoin de moments où le sujet disparaît.",
+          "Il peut être utile de se demander régulièrement : de quoi avons-nous besoin cette semaine ? Plus d’informations, moins de calculs, une pause dans les discussions, un rendez-vous médical ?",
+          "Les rapports sexuels peuvent aussi devenir très programmés. Préserver de la tendresse, de l’intimité et des moments sans objectif de conception peut aider à maintenir un espace de couple en dehors du calendrier."
+        ]
+      },
+      {
+        title: "Poser des limites à l’entourage",
+        paragraphs: [
+          "Les questions comme « Alors, c’est pour quand ? » ou « Vous essayez depuis longtemps ? » peuvent être difficiles à entendre.",
+          "Vous n’avez aucune obligation de parler de vos cycles, de vos tests ou de la durée des essais.",
+          "Une réponse courte peut suffire : « On vous en parlera quand on en aura envie », « C’est un sujet personnel » ou « Je préfère qu’on ne me pose pas cette question »."
+        ]
+      },
+      {
+        title: "Quand consulter ?",
+        paragraphs: [
+          "Consultez sans attendre le délai habituel si vos cycles sont très irréguliers, si vous avez une maladie gynécologique connue ou suspectée, des antécédents pouvant affecter la fertilité ou si votre médecin vous a conseillé un suivi plus précoce.",
+          "Avant 35 ans, un bilan d’infertilité est le plus souvent envisagé après 12 mois de rapports réguliers sans contraception. À partir de 35 ans, l’Assurance Maladie indique qu’une consultation peut être proposée beaucoup plus tôt, souvent après six mois.",
+          "Vous pouvez également consulter plus tôt simplement pour poser vos questions, faire le point sur votre santé ou parce que l’attente devient trop difficile émotionnellement."
+        ]
+      },
+      {
+        title: "Quand demander du soutien émotionnel ?",
+        paragraphs: [
+          "Parlez-en si vous pleurez souvent, si vous avez du mal à dormir, si chaque annonce de grossesse devient insupportable, si vous évitez vos proches ou si les pensées liées aux essais occupent presque tout votre esprit.",
+          "Un médecin, une sage-femme ou un psychologue peut vous aider sans attendre qu’un diagnostic de fertilité soit posé.",
+          "Demander du soutien n’enlève rien à votre désir d’enfant. Cela permet simplement de ne pas porter seule toute la charge émotionnelle des essais."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Plusieurs cycles d’essais peuvent être nécessaires et ne signifient pas automatiquement qu’il existe un problème.",
+          "Le suivi du cycle, les tests et les applications sont des outils : vous pouvez les utiliser davantage, moins, ou faire une pause selon ce qu’ils provoquent chez vous.",
+          "Si l’attente devient envahissante ou si le délai médical recommandé est atteint, demander un avis est une étape normale du parcours."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Bilan médical de l’infertilité",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/sterilite-pma-infertilite/bilan-medical-infertilite-sterilite"
+      },
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "Organisation mondiale de la Santé — Infertilité",
+        url: "https://www.who.int/fr/news-room/fact-sheets/detail/infertility"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Evaluating Infertility",
+        url: "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+      }
+    ]
+  },
+
+  {
+    slug: "projet-bebe-apres-fausse-couche-experience-difficile",
+    title: "Projet bébé après une fausse couche ou une expérience difficile : comment avancer ?",
+    description:
+      "Des repères médicaux et émotionnels pour envisager un nouveau projet bébé après une fausse couche, une grossesse arrêtée ou une expérience difficile, sans se brusquer.",
+    category: "Avant la grossesse",
+    categorySlug: "avant-grossesse",
+    subcategory: "Projet bébé",
+    subcategorySlug: "projet-bebe",
+    readingTime: "8 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "rose",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Une fausse couche ou une autre expérience de grossesse difficile peut laisser une vraie trace émotionnelle, même lorsque la grossesse s’est arrêtée très tôt.",
+          "Après une fausse couche isolée, l’Assurance Maladie indique qu’une nouvelle grossesse peut être envisagée une fois que vous êtes rétablie ; le bon moment émotionnel reste personnel.",
+          "Il est fréquent d’avoir à la fois envie de réessayer et peur que l’expérience se reproduise.",
+          "Un rendez-vous médical et, si vous le souhaitez, un soutien psychologique peuvent aider à préparer la suite."
+        ],
+        quote:
+          "Avancer ne veut pas dire oublier ce qui s’est passé. Cela peut simplement vouloir dire retrouver suffisamment de sécurité pour envisager la suite."
+      },
+      {
+        title: "Reconnaître que l’expérience a compté",
+        paragraphs: [
+          "Une fausse couche, une grossesse arrêtée, une grossesse extra-utérine, une interruption médicale, une complication grave ou un parcours de fertilité difficile peuvent bouleverser la façon dont on imagine une prochaine grossesse.",
+          "L’American College of Obstetricians and Gynecologists rappelle qu’une perte de grossesse peut être vécue comme traumatisante quel que soit le terme auquel elle survient.",
+          "Tristesse, colère, peur, jalousie, culpabilité, soulagement ou impression de vide peuvent coexister. Il n’existe pas une réaction correcte ou une durée imposée pour traverser cette période."
+        ]
+      },
+      {
+        title: "Une fausse couche isolée n’est généralement pas liée à quelque chose que vous avez fait",
+        paragraphs: [
+          "Après une fausse couche, il est fréquent de chercher une explication dans un aliment, un effort, une journée stressante ou un geste du quotidien.",
+          "L’Assurance Maladie indique que la cause d’une fausse couche isolée est rarement recherchée et qu’elle est le plus souvent liée à une anomalie du développement de l’embryon, notamment chromosomique.",
+          "Cela ne supprime pas la douleur de l’événement, mais peut aider à alléger une culpabilité qui n’a souvent pas de fondement médical."
+        ],
+        quote:
+          "Chercher une cause est humain. Mais une fausse couche isolée n’est, dans la grande majorité des situations, pas la conséquence d’un geste banal du quotidien."
+      },
+      {
+        title: "Quand peut-on envisager une nouvelle grossesse après une fausse couche ?",
+        paragraphs: [
+          "L’Assurance Maladie recommande d’attendre environ deux semaines avant de reprendre les rapports sexuels après une fausse couche afin de limiter notamment le risque infectieux.",
+          "Elle précise qu’un nouveau projet de grossesse peut être envisagé dès que vous êtes rétablie.",
+          "Ce repère ne s’applique pas de la même façon à toutes les situations. Une fausse couche tardive, une grossesse extra-utérine, une interruption médicale, une infection, une intervention chirurgicale ou un traitement particulier peuvent nécessiter des consignes différentes : suivez alors l’avis de l’équipe qui vous a prise en charge."
+        ]
+      },
+      {
+        title: "Être médicalement prête et émotionnellement prête ne sont pas toujours la même chose",
+        paragraphs: [
+          "Votre corps peut être rétabli alors que l’idée d’une nouvelle grossesse reste difficile. L’inverse est également possible : vous pouvez ressentir très vite l’envie de réessayer alors que le suivi médical n’est pas encore terminé.",
+          "Il n’existe pas de délai émotionnel universel. Certaines personnes ont besoin de plusieurs mois, d’autres trouvent au contraire que reprendre rapidement un projet les aide à avancer.",
+          "Le bon moment est celui qui tient compte à la fois de votre récupération médicale, de vos souhaits et de ce que vous vous sentez capable de traverser."
+        ]
+      },
+      {
+        title: "Pourquoi la grossesse suivante peut être plus anxieuse",
+        paragraphs: [
+          "Après une perte ou une complication, un test positif peut apporter de la joie tout en réactivant immédiatement la peur.",
+          "Les rendez-vous, les échographies, certaines dates ou certains symptômes peuvent rappeler ce qui s’est passé auparavant.",
+          "Cette vigilance n’est pas un signe que vous profitez mal de la grossesse. Elle peut être une conséquence logique de l’expérience vécue.",
+          "Si vous envisagez une nouvelle grossesse, parler à l’avance de ces peurs avec votre médecin ou votre sage-femme peut permettre d’anticiper les moments qui seront les plus difficiles."
+        ]
+      },
+      {
+        title: "Le couple peut avancer à deux rythmes différents",
+        paragraphs: [
+          "Deux partenaires ne vivent pas toujours une perte de la même manière. L’un peut vouloir réessayer rapidement, l’autre avoir besoin de davantage de temps.",
+          "L’ACOG souligne que les partenaires peuvent ressentir et exprimer le deuil différemment.",
+          "Il peut être utile de distinguer trois questions : sommes-nous médicalement autorisés à reprendre les essais ? avons-nous envie de le faire maintenant ? de quel soutien aurions-nous besoin si une nouvelle grossesse commence ?"
+        ]
+      },
+      {
+        title: "Faire un point médical avant de réessayer",
+        paragraphs: [
+          "Une consultation peut permettre de reprendre calmement le déroulement de l’événement, de vérifier si un contrôle est nécessaire et de discuter de la prochaine grossesse.",
+          "Après une fausse couche isolée, un bilan approfondi n’est pas systématique. En revanche, des fausses couches répétées ou certains antécédents justifient une évaluation médicale spécifique.",
+          "Profitez du rendez-vous pour parler également de la vitamine B9, de vos traitements, de vos vaccins et des éventuels ajustements à prévoir avant une nouvelle conception."
+        ]
+      },
+      {
+        title: "Quand demander un soutien psychologique ?",
+        paragraphs: [
+          "Vous pouvez demander de l’aide simplement parce que vous en ressentez le besoin : il n’est pas nécessaire d’attendre que la souffrance devienne extrême.",
+          "Un soutien est particulièrement utile si la tristesse ou la culpabilité s’installent, si l’anxiété perturbe le sommeil ou le quotidien, si vous évitez tout ce qui rappelle la grossesse ou si vous revivez régulièrement l’événement de manière très pénible.",
+          "Votre médecin, votre sage-femme ou votre gynécologue peut vous orienter vers un psychologue, un psychiatre, un groupe de soutien ou un dispositif adapté."
+        ],
+        quote:
+          "Vous avez le droit de demander de l’aide même si l’événement remonte à plusieurs semaines ou plusieurs mois."
+      },
+      {
+        title: "Et si vous n’avez pas envie de réessayer tout de suite ?",
+        paragraphs: [
+          "Il est possible de vouloir un enfant et de ne pas vouloir reprendre immédiatement les essais.",
+          "Vous pouvez avoir besoin de retrouver votre corps, votre couple, votre sommeil ou une sensation de sécurité avant de vous replonger dans les rendez-vous, les tests et l’attente.",
+          "Il est également possible que votre projet change. Il n’existe pas de décision émotionnellement parfaite : l’important est qu’elle soit la vôtre et qu’elle puisse être réévaluée avec le temps."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Après une fausse couche ou une expérience difficile, le projet bébé peut revenir avec davantage de peur et d’ambivalence.",
+          "Après une fausse couche isolée, une nouvelle grossesse peut généralement être envisagée une fois la récupération terminée, mais certaines situations nécessitent un délai ou un suivi spécifique.",
+          "Vous n’avez pas à choisir entre avancer et reconnaître votre peine : les deux peuvent exister en même temps.",
+          "Un accompagnement médical et psychologique peut rendre la reprise du projet plus sécurisante, surtout si la peur prend beaucoup de place."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Fausse couche",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/fausse-couche"
+      },
+      {
+        label: "Assurance Maladie — Consulter avant d’être enceinte : la consultation préconceptionnelle",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/concevoir-un-enfant/consultation-et-mode-de-vie-en-vue-d-une-grossesse/avant-d-etre-enceinte-la-consultation-preconceptionnelle"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Finding Emotional Support After Pregnancy Loss",
+        url: "https://www.acog.org/womens-health/experts-and-stories/the-latest/finding-emotional-support-after-pregnancy-loss"
+      },
+      {
+        label: "American College of Obstetricians and Gynecologists — Repeated Miscarriages",
+        url: "https://www.acog.org/womens-health/faqs/repeated-miscarriages"
+      },
+      {
+        label: "Haute Autorité de santé — Accompagnement médico-psycho-social en période périnatale",
+        url: "https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal"
+      }
+    ]
+  }
 ];
 
 export const categories = [
