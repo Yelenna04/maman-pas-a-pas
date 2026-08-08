@@ -121,7 +121,14 @@ export default function HomePage() {
                   <Icon size={24} />
                 </div>
 
-                <div>
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    justifyContent: "flex-start",
+                    minHeight: 68
+                  }}
+                >
                   <h3>{title}</h3>
                   <p>{description}</p>
                 </div>
