@@ -135,10 +135,19 @@ export default function HomePage() {
                     display: "flex",
                     flexDirection: "column",
                     justifyContent: "flex-start",
-                    minHeight: 68
+                    minHeight: 68,
+                    minWidth: 0
                   }}
                 >
-                  <h3>{title}</h3>
+                  <h3
+                    style={{
+                      fontSize: "1rem",
+                      marginBottom: 4,
+                      whiteSpace: "nowrap"
+                    }}
+                  >
+                    {title}
+                  </h3>
                   <p>{description}</p>
                 </div>
               </Link>
