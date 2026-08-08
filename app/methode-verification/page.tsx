@@ -6,7 +6,7 @@ export const metadata: Metadata = { title: "Méthode de vérification" };
 export default function MethodPage() {
   return (
     <>
-      <section className="page-hero">
+      <section className="page-hero" style={{ paddingBottom: 24 }}>
         <div className="container">
           <div className="breadcrumbs"><Link href="/">Accueil</Link><span>›</span><span>Méthode</span></div>
           <p className="eyebrow">Transparence éditoriale</p>
@@ -14,7 +14,7 @@ export default function MethodPage() {
           <p className="lead">Une méthode simple, visible et reproductible pour renforcer la confiance.</p>
         </div>
       </section>
-      <section className="section-sm">
+      <section className="section-sm" style={{ paddingTop: 24 }}>
         <div className="container legal prose">
           <h2>1. Choix des sources</h2>
           <p>
