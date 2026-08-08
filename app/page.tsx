@@ -81,7 +81,7 @@ export default function HomePage() {
                 className="btn btn-secondary"
                 href="/methode-verification"
               >
-                Notre méthode
+                La méthode
               </Link>
             </div>
 
@@ -206,7 +206,7 @@ export default function HomePage() {
             </h2>
 
             <p className="lead">
-              Nous transformons des recommandations médicales et
+              Maman, Pas à Pas transforme des recommandations médicales et
               institutionnelles en réponses simples, accessibles et utiles au
               quotidien.
             </p>
@@ -228,7 +228,7 @@ export default function HomePage() {
               className="link-arrow"
               href="/methode-verification"
             >
-              Découvrir notre méthode
+              Découvrir la méthode
               <ArrowRight size={17} />
             </Link>
           </div>
@@ -256,7 +256,7 @@ export default function HomePage() {
           </div>
 
           <Link className="btn btn-primary" href="/contact">
-            Nous écrire
+            Écrire
             <BookOpenCheck size={18} />
           </Link>
         </div>
