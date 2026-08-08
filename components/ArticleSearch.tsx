@@ -16,14 +16,33 @@ type ArticleSearchProps = {
   articles: SearchableArticle[];
 };
 
+const preferredCategoryOrder = [
+  "Avant la grossesse",
+  "Pendant la grossesse",
+  "Accouchement",
+  "Post-partum",
+  "Vie pratique"
+];
+
 export function ArticleSearch({ articles }: ArticleSearchProps) {
   const [query, setQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("Tous");
 
-  const categories = useMemo(
-    () => ["Tous", ...Array.from(new Set(articles.map((article) => article.category)))],
-    [articles]
-  );
+  const categories = useMemo(() => {
+    const availableCategories = Array.from(
+      new Set(articles.map((article) => article.category))
+    );
+
+    const orderedCategories = preferredCategoryOrder.filter((category) =>
+      availableCategories.includes(category)
+    );
+
+    const remainingCategories = availableCategories.filter(
+      (category) => !preferredCategoryOrder.includes(category)
+    );
+
+    return ["Tous", ...orderedCategories, ...remainingCategories];
+  }, [articles]);
 
   const filteredArticles = useMemo(() => {
     const normalizedQuery = query.trim().toLocaleLowerCase("fr");
