@@ -23,8 +23,7 @@ export default function ContactPage() {
             <Mail size={32} color="#a45e68" />
             <h2 style={{ fontSize: "2rem", marginTop: 18 }}>Contact</h2>
             <p className="muted">
-              Ce formulaire prépare un e-mail dans votre application de messagerie.
-              Pour un vrai envoi automatique, vous pourrez ensuite connecter Formspree, Resend ou Brevo.
+              Envoyez votre message directement depuis le formulaire. Il sera reçu à l’adresse ci-dessous.
             </p>
             <p><strong>{siteConfig.email}</strong></p>
             <div className="notice">
