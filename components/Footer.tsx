@@ -69,7 +69,7 @@ export function Footer() {
             <h3>À propos</h3>
 
             <div className="footer-links">
-              <Link href="/a-propos">Notre démarche</Link>
+              <Link href="/a-propos">La démarche</Link>
               <Link href="/methode-verification">
                 Méthode de vérification
               </Link>
