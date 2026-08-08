@@ -33248,6 +33248,702 @@ export const articles: Article[] = [
         url: "https://www.has-sante.fr/jcms/p_3271226/fr/accompagnement-medico-psycho-social-des-femmes-des-parents-et-de-leur-enfant-en-situation-de-vulnerabilite-pendant-la-grossesse-et-en-postnatal"
       }
     ]
+  },
+
+{
+    slug: "troisieme-trimestre-a-quoi-sattendre-de-28-sa-a-laccouchement",
+    title: "Troisième trimestre : à quoi s’attendre de 28 SA jusqu’à l’accouchement ?",
+    description:
+      "De 28 SA jusqu’à la naissance, le troisième trimestre apporte de nouveaux repères : croissance du bébé, échographie, suivi mensuel, position, mouvements et préparation à l’accouchement.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "11 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Le troisième trimestre commence autour de 28 SA et se poursuit jusqu’à l’accouchement.",
+          "Le bébé continue surtout à grandir, prendre du poids et faire mûrir ses organes, notamment le cerveau et les poumons.",
+          "En France, le suivi reste mensuel. La troisième échographie est habituellement réalisée entre 30 et 35 SA et la consultation d’anesthésie est programmée au huitième mois.",
+          "Les mouvements du bébé peuvent changer de sensation, mais ils ne doivent pas diminuer simplement parce qu’il manque de place.",
+          "Saignement, perte de liquide, diminution ou changement inhabituel des mouvements du bébé, contractions régulières avant 37 SA ou malaise important doivent faire demander un avis rapidement."
+        ],
+        quote:
+          "Le troisième trimestre est moins une ligne droite vers le jour J qu’une période de surveillance, d’adaptation et de préparation progressive."
+      },
+      {
+        title: "À partir de quand parle-t-on de troisième trimestre ?",
+        paragraphs: [
+          "Dans le suivi de grossesse, le troisième trimestre correspond globalement aux trois derniers mois, à partir d’environ 28 semaines d’aménorrhée.",
+          "À ce stade, le bébé est déjà bien formé, mais sa croissance et la maturation de plusieurs organes se poursuivent activement.",
+          "La fin de grossesse n’évolue pas exactement de la même manière pour toutes les femmes : le terme, la croissance du bébé, le placenta, la tension artérielle, les antécédents et le déroulement général de la grossesse peuvent modifier le rythme du suivi."
+        ]
+      },
+      {
+        title: "Ce qui change surtout pour le bébé",
+        paragraphs: [
+          "Au troisième trimestre, le bébé continue à prendre du poids et ses réserves de graisse augmentent.",
+          "Le cerveau poursuit une maturation importante, tout comme les poumons et le système nerveux.",
+          "Les mouvements deviennent souvent plus puissants et plus faciles à identifier. Leur forme peut changer lorsque l’espace devient plus réduit : davantage de roulements, d’étirements ou de déplacements, parfois moins de grands coups.",
+          "La position du bébé devient également un élément important du suivi à mesure que l’accouchement approche."
+        ]
+      },
+      {
+        title: "Le corps maternel continue aussi à s’adapter",
+        paragraphs: [
+          "L’utérus prend davantage de place et peut accentuer certains inconforts : essoufflement à l’effort, reflux, envies fréquentes d’uriner, difficultés à trouver une position confortable pour dormir, lourdeur pelvienne ou jambes plus lourdes.",
+          "La fatigue peut revenir après une période parfois plus confortable au deuxième trimestre.",
+          "Ces symptômes sont souvent liés aux changements normaux de la fin de grossesse, mais leur intensité et leur évolution comptent : un symptôme brutal, inhabituel ou très marqué mérite un avis médical."
+        ]
+      },
+      {
+        title: "Le suivi médical reste mensuel",
+        paragraphs: [
+          "En France, une grossesse sans complication est suivie par des consultations prénatales régulières, généralement mensuelles à partir du quatrième mois.",
+          "Au troisième trimestre, ces rendez-vous permettent notamment de contrôler la tension artérielle, la prise de poids, la hauteur utérine, les urines, les bruits du cœur du bébé, ses mouvements et sa présentation.",
+          "Le professionnel réévalue aussi les symptômes, les résultats d’examens, les traitements éventuels et les éléments qui pourraient modifier le projet d’accouchement."
+        ]
+      },
+      {
+        title: "La troisième échographie",
+        paragraphs: [
+          "L’Assurance Maladie indique que la troisième échographie programmée est réalisée entre 30 et 35 SA.",
+          "Elle permet notamment d’évaluer la croissance du bébé, sa position dans l’utérus, la localisation du placenta et certains éléments du bien-être fœtal.",
+          "Elle ne prédit pas exactement le poids de naissance : l’estimation échographique comporte toujours une marge d’incertitude.",
+          "Si un élément nécessite une surveillance particulière, d’autres échographies ou examens peuvent être proposés."
+        ],
+        quote:
+          "La troisième échographie donne des repères importants, mais elle reste une photographie à un moment donné de la grossesse."
+      },
+      {
+        title: "La consultation avec l’anesthésiste",
+        paragraphs: [
+          "Au huitième mois, une consultation d’anesthésie est programmée.",
+          "Selon l’Assurance Maladie, elle est obligatoire même si vous pensez accoucher sans péridurale.",
+          "Elle permet d’anticiper une éventuelle anesthésie pendant l’accouchement ou une intervention imprévue et de faire le point sur vos antécédents, traitements, allergies et résultats biologiques utiles.",
+          "C’est aussi le moment de poser vos questions sur la péridurale, la rachianesthésie ou les autres possibilités d’analgésie et d’anesthésie."
+        ]
+      },
+      {
+        title: "Le dépistage du streptocoque B",
+        paragraphs: [
+          "En France, la recherche du streptocoque du groupe B par prélèvement vaginal est recommandée en fin de grossesse.",
+          "Les recommandations françaises situent ce dépistage entre environ 35 et 38 SA.",
+          "Être porteuse ne signifie pas être malade : la bactérie peut être présente sans symptôme. Le résultat sert surtout à décider si une antibioprophylaxie sera nécessaire pendant le travail afin de diminuer le risque d’infection néonatale.",
+          "Le professionnel qui suit votre grossesse vous indique quand et comment réaliser ce prélèvement."
+        ]
+      },
+      {
+        title: "Penser aux vaccinations recommandées",
+        paragraphs: [
+          "Le troisième trimestre peut être l’occasion de vérifier que les vaccinations recommandées pendant la grossesse ont bien été abordées.",
+          "La Haute Autorité de santé recommande la vaccination contre la coqueluche à chaque grossesse, de préférence entre 20 et 36 SA, afin de transmettre des anticorps au bébé avant sa naissance.",
+          "Selon la saison et les recommandations en vigueur, d’autres vaccinations peuvent être proposées. La vaccination maternelle contre le VRS, lorsqu’elle est indiquée, est recommandée entre 32 et 36 SA.",
+          "Votre sage-femme, votre médecin ou votre pharmacien peut vérifier avec vous ce qui correspond à votre situation."
+        ]
+      },
+      {
+        title: "La position du bébé devient un repère important",
+        paragraphs: [
+          "Au cours du troisième trimestre, beaucoup de bébés se placent progressivement tête en bas.",
+          "La troisième échographie permet notamment de vérifier la présentation.",
+          "Si le bébé est encore en siège à la fin de la grossesse, cela ne signifie pas automatiquement qu’une césarienne sera nécessaire. Une version par manœuvre externe peut être discutée, ainsi que les différentes voies d’accouchement selon votre situation et les pratiques de la maternité.",
+          "La décision se prend avec l’équipe obstétricale après une évaluation individuelle."
+        ]
+      },
+      {
+        title: "Les mouvements du bébé restent un signal important",
+        paragraphs: [
+          "Au troisième trimestre, vous connaissez généralement mieux la façon dont votre bébé bouge.",
+          "Il n’existe pas de nombre universel de mouvements considéré comme normal : chaque bébé a son propre rythme.",
+          "En revanche, il est important de connaître le schéma habituel de votre bébé. Les mouvements ne sont pas censés diminuer simplement parce que la place devient plus réduite.",
+          "Si vous remarquez une diminution, un arrêt ou un changement inhabituel de son activité, contactez immédiatement la maternité ou la sage-femme qui vous suit, sans attendre le lendemain."
+        ]
+      },
+      {
+        title: "À partir de 37 SA, l’accouchement peut survenir à tout moment",
+        paragraphs: [
+          "À l’approche de 37 SA, la naissance devient progressivement une possibilité concrète.",
+          "Cela ne veut pas dire qu’elle commencera ce jour-là : la date prévue d’accouchement reste une estimation.",
+          "L’Assurance Maladie rappelle qu’un accouchement peut survenir entre 37 et 42 SA dans le cadre d’une grossesse à terme.",
+          "Les consignes de votre maternité restent prioritaires pour savoir quand appeler ou vous déplacer."
+        ]
+      },
+      {
+        title: "Les signes qui doivent faire demander un avis rapidement",
+        paragraphs: [
+          "Tout saignement vaginal au troisième trimestre doit être évalué rapidement.",
+          "Une perte de liquide pouvant évoquer une rupture de la poche des eaux doit faire contacter la maternité et s’y rendre selon les consignes reçues.",
+          "Une diminution, un arrêt ou une modification inhabituelle des mouvements du bébé nécessite un contact immédiat avec la maternité.",
+          "Avant 37 SA, des contractions régulières ou douloureuses, une pression pelvienne inhabituelle, des douleurs de règles ou une perte de liquide peuvent évoquer un travail prématuré et nécessitent une évaluation.",
+          "Enfin, tout malaise important, douleur inhabituelle ou symptôme qui vous inquiète justifie de demander un avis."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Le troisième trimestre est une période de croissance importante du bébé et de préparation progressive à la naissance.",
+          "Le suivi médical reste régulier avec notamment la troisième échographie, la consultation d’anesthésie et les examens de fin de grossesse.",
+          "La position et les mouvements du bébé deviennent des repères particulièrement importants.",
+          "Les inconforts sont fréquents mais un changement brutal, des saignements, une perte de liquide ou une diminution des mouvements du bébé doivent être évalués rapidement.",
+          "L’objectif n’est pas de tout anticiper, mais d’arriver aux dernières semaines avec des repères clairs et les bons contacts."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi mensuel de la grossesse à partir du 4e mois",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/consultation-suivi-mensuel"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
+      },
+      {
+        label: "Haute Autorité de santé — Grossesse : les vaccins recommandés",
+        url: "https://www.has-sante.fr/jcms/p_3590575/fr/grossesse-les-vaccins-recommandes"
+      },
+      {
+        label: "Assurance Maladie — Comment se déroule un accouchement ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/accouchement-nouveau-ne-et-retour-la-maison/accouchement"
+      }
+    ]
+  },
+
+  {
+    slug: "mouvements-bebe-troisieme-trimestre-ce-qui-change-et-quand-consulter",
+    title: "Mouvements de bébé au troisième trimestre : ce qui change et quand consulter",
+    description:
+      "Au troisième trimestre, la façon dont bébé bouge peut évoluer, mais ses mouvements ne doivent pas simplement diminuer. Voici les repères utiles et quand contacter la maternité.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "10 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Chaque bébé a son propre rythme : il n’existe pas de nombre universel de mouvements à ressentir chaque jour.",
+          "Les mouvements augmentent généralement jusqu’autour de 32 semaines puis restent globalement présents jusqu’à l’accouchement, même si leur type peut changer.",
+          "Il est faux de considérer qu’un bébé doit moins bouger en fin de grossesse parce qu’il manque de place.",
+          "Si les mouvements diminuent, s’arrêtent ou changent nettement par rapport au rythme habituel de votre bébé, contactez immédiatement la maternité ou votre sage-femme.",
+          "Un Doppler à domicile ou une application ne peut pas remplacer une évaluation médicale."
+        ],
+        quote:
+          "Le meilleur repère n’est pas un chiffre identique pour toutes les grossesses : c’est la façon habituelle dont votre propre bébé bouge."
+      },
+      {
+        title: "Pourquoi les mouvements sont-ils importants ?",
+        paragraphs: [
+          "Les mouvements du bébé sont un des signes que les parents peuvent observer eux-mêmes pendant la grossesse.",
+          "Ils reflètent l’activité du bébé et font partie des éléments pris en compte lorsque les professionnels évaluent son bien-être.",
+          "Une diminution inhabituelle des mouvements peut parfois être le premier signe qu’un bébé ne va pas bien.",
+          "C’est pourquoi les recommandations insistent sur l’importance de demander un avis rapidement lorsqu’un changement est remarqué."
+        ]
+      },
+      {
+        title: "Au troisième trimestre, les sensations peuvent changer",
+        paragraphs: [
+          "À mesure que le bébé grandit, les mouvements peuvent être ressentis différemment.",
+          "Les petits battements du début laissent souvent place à des coups plus francs, des étirements, des roulements ou des déplacements du corps.",
+          "À l’approche du terme, l’espace disponible est plus réduit et la forme des mouvements peut évoluer.",
+          "Mais cette évolution ne signifie pas que l’activité du bébé doit devenir nettement moins fréquente."
+        ]
+      },
+      {
+        title: "Bébé ne doit pas arrêter de bouger en fin de grossesse",
+        paragraphs: [
+          "Le NHS et le Royal College of Obstetricians and Gynaecologists rappellent qu’il est faux de penser qu’un bébé bouge moins à la fin de la grossesse parce qu’il manque de place.",
+          "Les mouvements continuent jusqu’au début du travail et pendant le travail.",
+          "Après environ 32 semaines, le nombre de mouvements tend à rester globalement stable, même si leur nature change.",
+          "Une diminution réelle par rapport au rythme habituel doit donc être prise au sérieux."
+        ],
+        quote:
+          "Moins de place peut modifier la façon dont bébé bouge, pas faire disparaître son activité."
+      },
+      {
+        title: "Existe-t-il un nombre de mouvements “normal” ?",
+        paragraphs: [
+          "Non. Il n’existe pas un nombre unique de mouvements qui conviendrait à tous les bébés.",
+          "Certains sont très actifs à certains moments de la journée, d’autres ont des périodes plus calmes.",
+          "Les recommandations actuelles mettent surtout l’accent sur la connaissance du rythme propre à votre bébé.",
+          "Vous n’avez donc pas besoin de comparer votre bébé à celui d’une autre grossesse ou à un chiffre trouvé sur Internet."
+        ]
+      },
+      {
+        title: "Faut-il compter les coups tous les jours ?",
+        paragraphs: [
+          "Le NHS ne recommande pas de compter systématiquement chaque coup ou mouvement chez toutes les femmes enceintes.",
+          "L’essentiel est de repérer le schéma habituel de votre bébé : les moments où il est souvent actif, la force habituelle de ses mouvements et ce qui vous semble normal pour lui.",
+          "Dans certaines situations médicales, votre équipe peut vous donner des consignes spécifiques de surveillance. Ces consignes personnalisées priment alors sur les repères généraux.",
+          "Si vous êtes inquiète, ne laissez pas un comptage retarder l’appel à la maternité."
+        ]
+      },
+      {
+        title: "Pourquoi je peux parfois moins les sentir ?",
+        paragraphs: [
+          "Votre perception des mouvements peut varier selon votre activité, votre position, la position du bébé ou l’emplacement du placenta.",
+          "Quand vous êtes très occupée ou en mouvement, vous pouvez simplement remarquer moins facilement les mouvements.",
+          "Un placenta situé à l’avant de l’utérus peut aussi atténuer certaines sensations.",
+          "Ces explications peuvent modifier la perception, mais elles ne doivent pas servir à banaliser un changement inhabituel du rythme de votre bébé."
+        ]
+      },
+      {
+        title: "Les périodes de sommeil du bébé",
+        paragraphs: [
+          "Le bébé alterne des périodes d’activité et de sommeil dans l’utérus.",
+          "Pendant une période de sommeil, il peut bouger beaucoup moins ou ne pas être perçu pendant un certain temps.",
+          "Avec les semaines, vous apprenez souvent à reconnaître certains moments où votre bébé est naturellement plus calme.",
+          "Ce qui doit attirer l’attention est une différence nette par rapport à ce que vous connaissez habituellement."
+        ]
+      },
+      {
+        title: "Quand faut-il appeler la maternité ?",
+        paragraphs: [
+          "Contactez immédiatement la maternité ou la sage-femme si votre bébé bouge moins que d’habitude.",
+          "Appelez également si vous ne le sentez plus du tout ou si vous remarquez un changement net dans son schéma habituel.",
+          "Il ne faut pas attendre le lendemain, le prochain rendez-vous ou la prochaine échographie pour demander conseil.",
+          "Même si vous avez déjà consulté une fois pour ce motif, une nouvelle diminution des mouvements mérite une nouvelle évaluation."
+        ],
+        quote:
+          "Si quelque chose vous semble différent dans les mouvements de votre bébé, l’appel à la maternité est la bonne démarche, même au milieu de la nuit."
+      },
+      {
+        title: "Que va faire la maternité ?",
+        paragraphs: [
+          "L’évaluation dépend du terme et de votre situation.",
+          "Le CNGOF propose, en cas de diminution des mouvements fœtaux, de vérifier la présence de l’activité cardiaque et de rechercher d’éventuels facteurs de risque.",
+          "Une surveillance du rythme cardiaque fœtal peut être réalisée et une échographie peut être proposée pour observer les mouvements, la quantité de liquide amniotique et d’autres éléments selon le contexte.",
+          "Dans de nombreux cas, les examens sont rassurants, mais ils sont nécessaires pour ne pas passer à côté d’un problème."
+        ]
+      },
+      {
+        title: "Pourquoi le Doppler à domicile ne suffit pas",
+        paragraphs: [
+          "Entendre le cœur du bébé avec un Doppler à domicile peut sembler rassurant, mais cela ne permet pas d’évaluer correctement son état.",
+          "Le NHS précise qu’un Doppler domestique ne doit pas être utilisé pour se rassurer en cas de diminution des mouvements.",
+          "Même si un battement cardiaque est entendu, cela ne prouve pas que tout va bien.",
+          "Si les mouvements ont changé, l’évaluation doit être réalisée par un professionnel."
+        ]
+      },
+      {
+        title: "Faut-il boire quelque chose de sucré ou attendre allongée ?",
+        paragraphs: [
+          "De nombreuses astuces circulent pour essayer de faire bouger le bébé : manger sucré, boire froid, s’allonger ou stimuler le ventre.",
+          "Ces gestes ne doivent jamais retarder un appel si vous avez l’impression que votre bébé bouge moins ou différemment.",
+          "Le bon réflexe est de contacter directement la maternité afin qu’elle vous dise quoi faire.",
+          "L’objectif n’est pas simplement d’obtenir un mouvement isolé, mais de vérifier le bien-être du bébé lorsque son activité habituelle a changé."
+        ]
+      },
+      {
+        title: "Et si bébé recommence à bouger après l’appel ?",
+        paragraphs: [
+          "Si vous avez constaté une diminution nette puis que les mouvements reprennent, informez tout de même la maternité de ce qui s’est passé si vous êtes encore inquiète.",
+          "L’équipe décidera avec vous si une évaluation reste nécessaire en fonction du terme, de la durée du changement et de vos antécédents.",
+          "Votre perception compte : vous êtes la personne qui connaît le mieux le rythme habituel de votre bébé.",
+          "Il n’y a pas de “mauvais appel” lorsqu’il s’agit d’un changement des mouvements fœtaux."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Au troisième trimestre, la forme des mouvements peut changer mais leur présence doit rester régulière jusqu’à l’accouchement.",
+          "Il n’existe pas de nombre universel de coups à compter : apprenez surtout à reconnaître le rythme habituel de votre bébé.",
+          "Une diminution, un arrêt ou un changement inhabituel doit faire contacter immédiatement la maternité.",
+          "N’attendez pas le lendemain et ne vous fiez pas à un Doppler domestique pour vérifier que tout va bien.",
+          "La plupart des évaluations sont rassurantes, mais consulter rapidement est la conduite la plus sûre."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "CNGOF — Consensus sur la diminution des mouvements actifs fœtaux, repris dans le consensus sur l’hémorragie fœto-maternelle",
+        url: "https://cngof.fr/app/uploads/2026/05/CFE-Hemorragie-foeto-maternelle-2026.pdf"
+      },
+      {
+        label: "NHS — Your baby's movements",
+        url: "https://www.nhs.uk/pregnancy/keeping-well/your-babys-movements/"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Your baby's movements in pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/your-babys-movements-in-pregnancy/"
+      },
+      {
+        label: "Assurance Maladie — Suivi mensuel de la grossesse à partir du 4e mois",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/consultation-suivi-mensuel"
+      }
+    ]
+  },
+
+  {
+    slug: "bebe-tete-en-bas-ou-en-siege-position-au-troisieme-trimestre",
+    title: "Bébé tête en bas ou en siège : comment sa position évolue au troisième trimestre ?",
+    description:
+      "Au troisième trimestre, la position de bébé devient importante pour préparer l’accouchement. Présentation céphalique, siège, version externe et choix du mode de naissance : les repères essentiels.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "10 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "Avant la fin de la grossesse, le bébé peut encore changer plusieurs fois de position.",
+          "La présentation la plus fréquente à l’approche de la naissance est la présentation céphalique : tête en bas.",
+          "À terme, environ 3 à 5 % des bébés uniques restent en présentation du siège.",
+          "Si bébé est en siège en fin de grossesse, une version par manœuvre externe peut être proposée afin d’essayer de le tourner tête en bas.",
+          "Un siège ne signifie pas automatiquement césarienne : le mode d’accouchement se discute au cas par cas avec l’équipe obstétricale."
+        ],
+        quote:
+          "La position observée au début du troisième trimestre n’est pas forcément la position définitive du bébé."
+      },
+      {
+        title: "Pourquoi la position du bébé change-t-elle ?",
+        paragraphs: [
+          "Pendant une grande partie de la grossesse, le bébé dispose de suffisamment d’espace pour se tourner et changer régulièrement de position.",
+          "À mesure qu’il grandit, ses mouvements deviennent plus contraints et une présentation tend à se stabiliser.",
+          "Beaucoup de bébés se placent spontanément tête en bas avant l’accouchement.",
+          "Une position en siège observée assez tôt au troisième trimestre n’est donc pas forcément définitive."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une présentation céphalique ?",
+        paragraphs: [
+          "La présentation céphalique signifie que la tête du bébé se trouve vers le bas de l’utérus, en direction du bassin.",
+          "C’est la présentation la plus fréquente avant l’accouchement.",
+          "La tête peut cependant être plus ou moins fléchie et orientée de différentes façons, ce qui influence parfois le déroulement du travail.",
+          "Le professionnel vérifie la présentation par l’examen clinique et, si nécessaire, par échographie."
+        ]
+      },
+      {
+        title: "Qu’est-ce qu’une présentation du siège ?",
+        paragraphs: [
+          "En présentation du siège, ce sont les fesses ou les pieds du bébé qui se trouvent vers le bas.",
+          "Il existe plusieurs types de siège selon la position des jambes.",
+          "Le CNGOF et la HAS indiquent qu’environ 3 à 5 % des bébés uniques sont encore en siège au moment d’un accouchement à terme.",
+          "Cette présentation demande une évaluation spécifique pour décider de la conduite à tenir."
+        ]
+      },
+      {
+        title: "Quand la position est-elle vérifiée ?",
+        paragraphs: [
+          "La position du bébé est évaluée au cours du suivi de fin de grossesse.",
+          "L’Assurance Maladie indique que la troisième échographie, réalisée entre 30 et 35 SA, précise notamment la position du bébé dans l’utérus.",
+          "La présentation est ensuite réévaluée lors des consultations, car le bébé peut encore se retourner après cette échographie.",
+          "En cas de doute, une échographie peut confirmer la présentation."
+        ]
+      },
+      {
+        title: "Si bébé est en siège à la troisième échographie",
+        paragraphs: [
+          "Découvrir un siège lors de la troisième échographie ne signifie pas qu’il restera nécessairement dans cette position jusqu’à la naissance.",
+          "L’équipe surveille l’évolution et réévalue la présentation au fil des semaines.",
+          "Si le siège persiste vers 36 SA, les options sont discutées plus précisément.",
+          "Il est important de demander à votre maternité comment elle organise la prise en charge des présentations du siège."
+        ],
+        quote:
+          "Un siège à 32 SA est une information à surveiller, pas une décision d’accouchement déjà prise."
+      },
+      {
+        title: "La version par manœuvre externe : de quoi s’agit-il ?",
+        paragraphs: [
+          "La version par manœuvre externe, ou VME, consiste à essayer de faire tourner le bébé à travers la paroi abdominale afin qu’il se place tête en bas.",
+          "Elle est réalisée par un professionnel entraîné, dans un environnement permettant de surveiller la mère et le bébé.",
+          "Le CNGOF recommande d’informer les femmes dont le bébé est en siège de la possibilité d’une tentative de VME.",
+          "Selon les recommandations et les maternités, elle est généralement proposée autour de 36 à 37 semaines."
+        ]
+      },
+      {
+        title: "Comment se déroule une VME ?",
+        paragraphs: [
+          "Avant la tentative, une échographie permet de confirmer la présentation et d’évaluer certains éléments utiles à la sécurité du geste.",
+          "Le rythme cardiaque du bébé est surveillé avant et après la manœuvre.",
+          "Un médicament destiné à relâcher l’utérus peut être utilisé, car il augmente les chances de réussite.",
+          "Le professionnel exerce ensuite une pression contrôlée sur l’abdomen pour essayer d’accompagner la rotation du bébé."
+        ]
+      },
+      {
+        title: "Est-ce que la VME fonctionne toujours ?",
+        paragraphs: [
+          "Non. Le taux de réussite varie selon les situations.",
+          "Le CNGOF indique qu’il est généralement inférieur à 50 % dans les études, tandis que les informations du RCOG retiennent un ordre de grandeur proche d’une tentative sur deux.",
+          "Les chances dépendent notamment du terme, de la quantité de liquide amniotique, de la position du bébé, de la tonicité de l’utérus et du fait d’avoir déjà accouché ou non.",
+          "Une tentative qui échoue ne signifie pas qu’il y a eu un problème : cela signifie simplement que le bébé n’a pas pu être retourné dans ces conditions."
+        ]
+      },
+      {
+        title: "La VME est-elle sans risque ?",
+        paragraphs: [
+          "La VME est réalisée avec une surveillance spécifique parce qu’elle n’est pas totalement dépourvue de risques.",
+          "Les complications graves sont rares, mais des anomalies transitoires du rythme cardiaque fœtal peuvent survenir.",
+          "C’est pourquoi la procédure est effectuée dans un cadre médical permettant une prise en charge rapide si nécessaire.",
+          "Après la VME, des saignements, des douleurs importantes, des contractions ou une diminution des mouvements du bébé doivent être signalés sans attendre."
+        ]
+      },
+      {
+        title: "Si bébé reste en siège, faut-il forcément une césarienne ?",
+        paragraphs: [
+          "Non. La présentation du siège n’est pas, à elle seule, une indication automatique de césarienne programmée.",
+          "La HAS et le CNGOF prévoient qu’une tentative d’accouchement par voie basse peut être discutée dans des situations sélectionnées, après évaluation des critères obstétricaux et selon l’expérience de l’équipe.",
+          "Dans d’autres situations, une césarienne programmée sera considérée comme plus sûre.",
+          "La décision doit être individualisée et partagée avec la femme enceinte."
+        ],
+        quote:
+          "Si bébé reste en siège, il existe plusieurs options : l’important est de comprendre pourquoi l’une d’elles est recommandée dans votre situation."
+      },
+      {
+        title: "Quels éléments sont étudiés pour décider du mode d’accouchement ?",
+        paragraphs: [
+          "L’équipe tient compte du type de siège, de la position de la tête du bébé, de ses mensurations estimées, du bassin maternel, des antécédents obstétricaux et d’éventuelles autres complications.",
+          "Les pratiques et l’expérience de la maternité sont également importantes, notamment lorsqu’une voie basse en siège est envisagée.",
+          "La décision n’est donc pas basée sur une seule mesure ou sur une seule échographie.",
+          "N’hésitez pas à demander quelles sont les options possibles dans votre maternité et quels critères guident la recommandation."
+        ]
+      },
+      {
+        title: "Les positions ou exercices peuvent-ils faire tourner bébé ?",
+        paragraphs: [
+          "De nombreuses méthodes circulent pour tenter de faire tourner un bébé : postures, exercices, techniques manuelles ou méthodes alternatives.",
+          "Le niveau de preuve scientifique n’est pas le même pour toutes et aucune ne doit remplacer l’évaluation obstétricale ni la discussion autour de la VME.",
+          "Avant d’essayer une méthode, parlez-en à votre sage-femme ou à votre médecin, surtout si votre grossesse comporte un facteur de risque.",
+          "Le fait que le bébé reste en siège ne signifie pas que vous avez fait quelque chose de mal."
+        ]
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "La position du bébé peut encore évoluer pendant le troisième trimestre.",
+          "La présentation céphalique, tête en bas, est la plus fréquente à l’approche de la naissance.",
+          "Si un siège persiste vers 36 SA, une version par manœuvre externe peut être proposée.",
+          "Si bébé reste en siège, césarienne programmée et voie basse peuvent être discutées selon des critères précis et l’organisation de la maternité.",
+          "Le choix du mode d’accouchement doit reposer sur une information claire et une décision partagée."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "CNGOF — Recommandations pour la pratique clinique : présentation du siège",
+        url: "https://cngof.fr/app/pdf/RPC/RPC%20DU%20CNGOF/Obst%C3%A9trique/Manoeuvres%20obst%C3%A9tricales%2C%20accouchements/Siege%202020-RPC-presentation-siege.pdf"
+      },
+      {
+        label: "Assurance Maladie — Comment se déroule un accouchement ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/accouchement-nouveau-ne-et-retour-la-maison/accouchement"
+      },
+      {
+        label: "Haute Autorité de santé — Césarienne programmée à terme : document d’information",
+        url: "https://www.has-sante.fr/jcms/c_1233744/fr/cesarienne-programmee-a-terme-document-d-information-destine-aux-femmes-enceintes"
+      },
+      {
+        label: "Royal College of Obstetricians and Gynaecologists — Breech baby at the end of pregnancy",
+        url: "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/breech-baby-at-the-end-of-pregnancy/"
+      }
+    ]
+  },
+
+  {
+    slug: "dernieres-semaines-de-grossesse-comment-se-preparer-sereinement-a-la-naissance",
+    title: "Dernières semaines de grossesse : comment se préparer sereinement à la naissance ?",
+    description:
+      "Valise, maternité, derniers rendez-vous, retour à la maison et signes à connaître : une préparation simple et réaliste pour vivre les dernières semaines avant la naissance.",
+    category: "Pendant la grossesse",
+    categorySlug: "pendant-grossesse",
+    subcategory: "Troisième trimestre",
+    subcategorySlug: "troisieme-trimestre",
+    readingTime: "11 min",
+    publishedAt: "2026-08-07",
+    updatedAt: "2026-08-07",
+    tone: "sage",
+    sections: [
+      {
+        title: "L’essentiel en 30 secondes",
+        bullets: [
+          "À partir des dernières semaines, l’objectif n’est pas de tout prévoir mais d’avoir les repères essentiels : maternité, documents, valise, transport et personnes à appeler.",
+          "Vérifiez que les rendez-vous de fin de grossesse sont faits ou programmés : suivi mensuel, anesthésiste, examens prescrits et dépistage du streptocoque B.",
+          "Préparez aussi le retour à la maison : repas simples, aide concrète, professionnel qui assurera le suivi postnatal et affaires de première nécessité.",
+          "À partir de 37 SA, l’accouchement peut débuter à tout moment, mais la date prévue reste une estimation.",
+          "Perte des eaux, saignement, diminution des mouvements du bébé ou autre symptôme inhabituel doivent faire contacter la maternité selon les consignes reçues."
+        ],
+        quote:
+          "Bien préparer les dernières semaines, ce n’est pas tout contrôler : c’est enlever quelques décisions pratiques du jour où le travail commencera."
+      },
+      {
+        title: "Ne pas attendre un “jour J” parfaitement prévisible",
+        paragraphs: [
+          "La date prévue d’accouchement est un repère, pas une date à laquelle la naissance doit absolument avoir lieu.",
+          "La Haute Autorité de santé insiste sur la notion de période probable d’accouchement plutôt que sur un jour unique.",
+          "L’Assurance Maladie rappelle qu’un accouchement à terme peut survenir entre 37 et 42 SA.",
+          "Il est donc utile d’être progressivement prête sans vivre chaque journée comme si le travail devait forcément commencer dans les heures qui suivent."
+        ]
+      },
+      {
+        title: "Faire le point sur les derniers rendez-vous",
+        paragraphs: [
+          "Avant la naissance, vérifiez que les rendez-vous prévus dans votre suivi ont bien été réalisés ou programmés.",
+          "La troisième échographie est habituellement effectuée entre 30 et 35 SA.",
+          "La consultation d’anesthésie est programmée au huitième mois et reste obligatoire même si vous ne prévoyez pas de péridurale.",
+          "La dernière consultation de suivi d’une grossesse sans complication a lieu au neuvième mois."
+        ]
+      },
+      {
+        title: "Ne pas oublier les examens de fin de grossesse",
+        paragraphs: [
+          "Certains examens sont prescrits selon votre situation et votre immunité.",
+          "Le dépistage du streptocoque B par prélèvement vaginal est recommandé en fin de grossesse, autour de 35 à 38 SA selon les recommandations françaises.",
+          "La surveillance de la toxoplasmose se poursuit jusqu’à la fin de la grossesse chez les femmes non immunisées, selon les prescriptions reçues.",
+          "Gardez vos résultats accessibles, notamment si vous devez vous rendre à la maternité."
+        ]
+      },
+      {
+        title: "Préparer les documents utiles pour la maternité",
+        bullets: [
+          "Pièce d’identité et carte Vitale.",
+          "Dossier de grossesse et résultats d’examens récents.",
+          "Carte de groupe sanguin si elle vous a été remise.",
+          "Ordonnances ou liste de traitements en cours.",
+          "Documents demandés spécifiquement par votre maternité."
+        ]
+      },
+      {
+        title: "Préparer une valise simple",
+        paragraphs: [
+          "La valise peut être préparée quelques semaines avant le terme pour éviter d’avoir à chercher des affaires au dernier moment.",
+          "Les besoins exacts varient selon les maternités : certaines fournissent plusieurs produits, d’autres demandent davantage d’affaires personnelles.",
+          "Le plus simple est de consulter la liste de votre établissement plutôt que d’acheter une longue liste générique.",
+          "Préparez séparément quelques affaires pour la salle de naissance afin de ne pas avoir à vider toute la valise en arrivant."
+        ]
+      },
+      {
+        title: "Anticiper le trajet vers la maternité",
+        paragraphs: [
+          "Vérifiez le trajet, l’entrée à utiliser la nuit, les possibilités de stationnement et le numéro de téléphone de la maternité.",
+          "Si vous habitez loin de l’établissement, parlez-en à l’équipe : des dispositifs spécifiques peuvent exister dans certaines situations.",
+          "Prévoyez qui peut vous accompagner et une solution de secours si cette personne n’est pas disponible.",
+          "Ces quelques détails pratiques peuvent réduire beaucoup de stress lorsque le travail commence."
+        ],
+        quote:
+          "Connaître le numéro de la maternité et savoir comment y aller est souvent plus utile que d’essayer de prévoir l’heure exacte du départ."
+      },
+      {
+        title: "Exprimer ses préférences pour la naissance",
+        paragraphs: [
+          "Les dernières semaines sont un bon moment pour parler de vos préférences avec l’équipe : mobilité pendant le travail, gestion de la douleur, péridurale, accompagnant, peau à peau ou premiers soins du bébé.",
+          "La HAS recommande une prise en charge de l’accouchement normal qui tient compte des préférences de la femme tout en s’adaptant à l’évolution clinique.",
+          "Un projet de naissance peut servir de support de discussion, mais il n’est pas un contrat rigide.",
+          "L’objectif est surtout que l’équipe connaisse ce qui compte pour vous et puisse vous expliquer ce qui sera possible selon la situation."
+        ]
+      },
+      {
+        title: "Préparer aussi le retour à la maison",
+        paragraphs: [
+          "L’Assurance Maladie conseille d’anticiper le professionnel qui assurera votre suivi et celui du bébé au retour à domicile.",
+          "Vous pouvez prendre contact avec une sage-femme avant l’accouchement afin de savoir comment s’organisera le suivi postnatal.",
+          "À la maison, quelques repas faciles, des produits de base et une aide prévue pour les courses ou le ménage peuvent être plus utiles qu’une organisation très complexe.",
+          "Si vous avez déjà un enfant, prévoyez aussi qui pourra s’en occuper au moment du départ à la maternité."
+        ]
+      },
+      {
+        title: "Prévoir de l’aide concrète plutôt que beaucoup de visites",
+        paragraphs: [
+          "Les premières journées avec un nouveau-né sont souvent très fatigantes.",
+          "Avant la naissance, il peut être utile de réfléchir avec vos proches à l’aide dont vous aurez réellement besoin.",
+          "Un repas apporté, des courses, une lessive, un trajet ou du relais avec un aîné sont souvent plus utiles qu’une succession de visites.",
+          "Vous pouvez décider à l’avance de limiter les visites ou de les reporter si vous avez besoin de récupérer."
+        ]
+      },
+      {
+        title: "Les mouvements du bébé restent à surveiller",
+        paragraphs: [
+          "Même dans les toutes dernières semaines, le bébé doit continuer à bouger.",
+          "La forme des mouvements peut changer, mais une diminution ou une modification inhabituelle ne doit pas être attribuée au simple manque de place.",
+          "Si votre bébé bouge moins, ne bouge plus ou si son rythme vous paraît nettement différent, contactez immédiatement la maternité.",
+          "N’attendez pas le lendemain et n’utilisez pas un Doppler domestique pour vous rassurer."
+        ]
+      },
+      {
+        title: "Que faire si la poche des eaux se rompt ?",
+        paragraphs: [
+          "Une rupture de la poche des eaux peut se manifester par un écoulement de liquide clair, soudain ou continu, que vous ne pouvez pas retenir.",
+          "L’Assurance Maladie recommande de se rendre à la maternité lorsque la poche des eaux se rompt, même si les contractions ne sont pas encore intenses.",
+          "Notez si possible l’heure et l’aspect du liquide et suivez les consignes données par votre maternité.",
+          "Si vous avez un doute entre pertes vaginales, urine et liquide amniotique, appelez la maternité."
+        ]
+      },
+      {
+        title: "Contractions : suivre les consignes de sa maternité",
+        paragraphs: [
+          "Le début du travail est souvent marqué par des contractions qui deviennent progressivement plus régulières, plus longues et plus intenses.",
+          "Le moment conseillé pour venir dépend de votre terme, de vos antécédents, de la distance avec la maternité et des consignes de l’établissement.",
+          "Avant 37 SA, des contractions régulières ou douloureuses nécessitent un avis rapide car elles peuvent annoncer un travail prématuré.",
+          "Après 37 SA, si vous hésitez sur le rythme des contractions ou sur le moment du départ, appelez la maternité plutôt que d’essayer de trancher seule."
+        ]
+      },
+      {
+        title: "Les signes pour lesquels il ne faut pas attendre",
+        paragraphs: [
+          "Tout saignement vaginal au troisième trimestre nécessite une évaluation urgente.",
+          "Une diminution ou un arrêt des mouvements du bébé doit faire contacter immédiatement la maternité.",
+          "Une perte de liquide évoquant une rupture des membranes nécessite également un contact et une évaluation selon les consignes de l’équipe.",
+          "Un malaise important, une douleur inhabituelle, une fièvre ou tout symptôme qui vous inquiète justifient aussi de demander un avis.",
+          "Les consignes personnalisées données par votre maternité ou votre professionnel restent toujours prioritaires."
+        ]
+      },
+      {
+        title: "Se préparer mentalement sans chercher à tout contrôler",
+        paragraphs: [
+          "La préparation à la naissance peut aussi consister à accepter qu’une partie de l’accouchement restera imprévisible.",
+          "Vous pouvez connaître vos préférences tout en laissant de la place à une adaptation si la situation médicale change.",
+          "Les séances de préparation à la naissance et à la parentalité sont justement là pour comprendre les différentes étapes, poser des questions et découvrir des outils pour mieux vivre le travail.",
+          "Se sentir prête ne signifie pas ne plus avoir peur : cela signifie souvent savoir à qui parler et quoi faire lorsque les choses commencent."
+        ],
+        quote:
+          "On peut être préparée sans tout prévoir, et confiante sans être certaine de la façon dont l’accouchement se déroulera."
+      },
+      {
+        title: "À retenir",
+        paragraphs: [
+          "Les dernières semaines sont surtout le moment de simplifier : vérifier les rendez-vous, rassembler les documents, préparer la valise et organiser le trajet.",
+          "Pensez également au retour à la maison et au professionnel qui vous suivra après la naissance.",
+          "Continuez à être attentive aux mouvements du bébé jusqu’au travail.",
+          "Perte des eaux, saignement, diminution des mouvements ou symptôme inhabituel doivent faire contacter la maternité sans attendre.",
+          "Le reste peut rester souple : la meilleure préparation est celle qui vous donne des repères sans transformer la fin de grossesse en liste interminable de choses à réussir."
+        ]
+      }
+    ],
+    sources: [
+      {
+        label: "Assurance Maladie — Suivi mensuel de la grossesse à partir du 4e mois",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/consultation-suivi-mensuel"
+      },
+      {
+        label: "Assurance Maladie — Comment se déroule un accouchement ?",
+        url: "https://www.ameli.fr/assure/sante/devenir-parent/accouchement-nouveau-ne-et-retour-la-maison/accouchement"
+      },
+      {
+        label: "Haute Autorité de santé — Grossesse : vous êtes enceinte et l’accouchement c’est quand ?",
+        url: "https://www.has-sante.fr/jcms/c_1679827/fr/grossesse-vous-etes-enceinte-et-l-accouchement-c-est-quand"
+      },
+      {
+        label: "Haute Autorité de santé — Accouchement normal : accompagnement de la physiologie et interventions médicales",
+        url: "https://www.has-sante.fr/jcms/c_2820336/fr/accouchement-normal-accompagnement-de-la-physiologieetinterventions-medicales"
+      },
+      {
+        label: "Haute Autorité de santé — Suivi et orientation des femmes enceintes en fonction des situations à risque identifiées",
+        url: "https://www.has-sante.fr/jcms/c_547976/fr/suivi-et-orientation-des-femmes-enceintes-en-fonction-des-situations-a-risque-identifiees"
+      }
+    ]
   }
 ];
 
