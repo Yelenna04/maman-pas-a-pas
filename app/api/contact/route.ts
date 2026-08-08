@@ -67,7 +67,7 @@ export async function POST(request: Request) {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        from: "Maman, Pas à Pas <onboarding@resend.dev>",
+        from: "Maman, Pas à Pas <contact@mamanpasapas.fr>",
         to: [CONTACT_EMAIL],
         reply_to: email,
         subject: `[Maman, Pas à Pas] ${subject}`,
