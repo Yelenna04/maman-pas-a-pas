@@ -39,6 +39,12 @@ const steps = [
     description: "Se retrouver après la naissance.",
     href: "/post-partum",
     Icon: Leaf
+  },
+  {
+    title: "Vie pratique",
+    description: "S’organiser au quotidien sereinement.",
+    href: "/vie-pratique",
+    Icon: BookOpenCheck
   }
 ];
 
@@ -110,6 +116,9 @@ export default function HomePage() {
           <div
             className="step-strip"
             aria-label="Parcourir le site par étape"
+            style={{
+              gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))"
+            }}
           >
             {steps.map(({ title, description, href, Icon }) => (
               <Link
