@@ -7,7 +7,10 @@ import { getArticleImage } from "@/lib/articleImages";
 
 export function ArticleCard({ article }: { article: Article }) {
   return (
-    <article className="card card-hover article-card editorial-card">
+    <article
+      className="card card-hover article-card editorial-card"
+      style={{ display: "flex", flexDirection: "column", height: "100%" }}
+    >
       <Link
         href={`/articles/${article.slug}`}
         aria-label={`Lire ${article.title}`}
@@ -23,7 +26,10 @@ export function ArticleCard({ article }: { article: Article }) {
         </div>
       </Link>
 
-      <div className="article-card-body">
+      <div
+        className="article-card-body"
+        style={{ display: "flex", flex: 1, flexDirection: "column" }}
+      >
         <span className="badge">
           {article.subcategory || article.category}
         </span>
@@ -41,6 +47,7 @@ export function ArticleCard({ article }: { article: Article }) {
         <Link
           className="link-arrow"
           href={`/articles/${article.slug}`}
+          style={{ marginTop: "auto" }}
         >
           Lire l’article
           <ArrowRight size={17} />
