@@ -24,6 +24,10 @@ const preferredCategoryOrder = [
   "Vie pratique"
 ];
 
+const categoryRank = new Map(
+  preferredCategoryOrder.map((category, index) => [category, index])
+);
+
 export function ArticleSearch({ articles }: ArticleSearchProps) {
   const [query, setQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("Tous");
@@ -47,22 +51,28 @@ export function ArticleSearch({ articles }: ArticleSearchProps) {
   const filteredArticles = useMemo(() => {
     const normalizedQuery = query.trim().toLocaleLowerCase("fr");
 
-    return articles.filter((article) => {
-      const matchesCategory =
-        selectedCategory === "Tous" || article.category === selectedCategory;
+    return articles
+      .filter((article) => {
+        const matchesCategory =
+          selectedCategory === "Tous" || article.category === selectedCategory;
 
-      const searchableText = [
-        article.title,
-        article.description,
-        article.category,
-        article.subcategory ?? ""
-      ]
-        .join(" ")
-        .toLocaleLowerCase("fr");
+        const searchableText = [
+          article.title,
+          article.description,
+          article.category,
+          article.subcategory ?? ""
+        ]
+          .join(" ")
+          .toLocaleLowerCase("fr");
 
-      return matchesCategory &&
-        (normalizedQuery === "" || searchableText.includes(normalizedQuery));
-    });
+        return matchesCategory &&
+          (normalizedQuery === "" || searchableText.includes(normalizedQuery));
+      })
+      .sort((articleA, articleB) => {
+        const rankA = categoryRank.get(articleA.category) ?? Number.MAX_SAFE_INTEGER;
+        const rankB = categoryRank.get(articleB.category) ?? Number.MAX_SAFE_INTEGER;
+        return rankA - rankB;
+      });
   }, [articles, query, selectedCategory]);
 
   return (
