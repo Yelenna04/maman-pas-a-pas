@@ -12,7 +12,7 @@ export default function ContactPage() {
       <section className="page-hero">
         <div className="container">
           <div className="breadcrumbs"><Link href="/">Accueil</Link><span>›</span><span>Contact</span></div>
-          <p className="eyebrow">Nous écrire</p>
+          <p className="eyebrow">Contact</p>
           <h1>Parlons de ce qui vous serait utile.</h1>
           <p className="lead">Question, suggestion de sujet, correction ou proposition de partenariat.</p>
         </div>
