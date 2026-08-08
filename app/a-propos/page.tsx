@@ -10,7 +10,7 @@ export default function AboutPage() {
       <section className="page-hero">
         <div className="container">
           <div className="breadcrumbs"><Link href="/">Accueil</Link><span>›</span><span>À propos</span></div>
-          <p className="eyebrow">Notre raison d’être</p>
+          <p className="eyebrow">La raison d’être</p>
           <h1>Une information qui soutient, jamais qui culpabilise.</h1>
           <p className="lead">
             Maman, Pas à Pas est un média indépendant pensé pour rendre les informations
@@ -23,17 +23,17 @@ export default function AboutPage() {
           <div className="card">
             <div className="icon-chip"><Heart /></div>
             <h3>Bienveillance</h3>
-            <p className="muted">Nous respectons la diversité des parcours, des familles et des choix.</p>
+            <p className="muted">Respecter la diversité des parcours, des familles et des choix.</p>
           </div>
           <div className="card">
             <div className="icon-chip sage"><SearchCheck /></div>
             <h3>Clarté</h3>
-            <p className="muted">Nous expliquons les notions importantes avec des mots simples et précis.</p>
+            <p className="muted">Expliquer les notions importantes avec des mots simples et précis.</p>
           </div>
           <div className="card">
             <div className="icon-chip sand"><ShieldCheck /></div>
             <h3>Fiabilité</h3>
-            <p className="muted">Nous citons les sources et révisons régulièrement les informations sensibles.</p>
+            <p className="muted">Citer les sources et réviser régulièrement les informations sensibles.</p>
           </div>
         </div>
       </section>
@@ -49,10 +49,10 @@ export default function AboutPage() {
               d’étapes, de changements, de questions et parfois de détours.
             </p>
             <p>
-              Notre objectif est de vous aider à comprendre vos options et à préparer vos échanges
+              L’objectif de Maman, Pas à Pas est de vous aider à comprendre vos options et à préparer vos échanges
               avec les professionnels qui vous accompagnent.
             </p>
-            <Link className="btn btn-primary" href="/methode-verification">Voir notre méthode</Link>
+            <Link className="btn btn-primary" href="/methode-verification">Voir la méthode</Link>
           </div>
         </div>
       </section>
