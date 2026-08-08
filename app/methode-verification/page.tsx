@@ -10,7 +10,7 @@ export default function MethodPage() {
         <div className="container">
           <div className="breadcrumbs"><Link href="/">Accueil</Link><span>›</span><span>Méthode</span></div>
           <p className="eyebrow">Transparence éditoriale</p>
-          <h1>Comment vérifions-nous nos contenus ?</h1>
+          <h1>Comment les contenus sont-ils vérifiés ?</h1>
           <p className="lead">Une méthode simple, visible et reproductible pour renforcer la confiance.</p>
         </div>
       </section>
@@ -18,7 +18,7 @@ export default function MethodPage() {
         <div className="container legal prose">
           <h2>1. Choix des sources</h2>
           <p>
-            Nous privilégions les autorités sanitaires, les organismes publics, les sociétés savantes,
+            Maman, Pas à Pas privilégie les autorités sanitaires, les organismes publics, les sociétés savantes,
             les recommandations professionnelles et les publications scientifiques reconnues.
           </p>
           <h2>2. Rédaction accessible</h2>
