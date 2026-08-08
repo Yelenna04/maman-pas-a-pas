@@ -33,22 +33,6 @@ export default async function SubcategoryPage({ params }: PageProps) {
     <>
       <section className="page-hero">
         <div className="container">
-          <Link
-            href={`/${categorySlug}`}
-            style={{
-              alignItems: "center",
-              color: "var(--rose-dark)",
-              display: "inline-flex",
-              fontSize: ".92rem",
-              fontWeight: 700,
-              gap: 7,
-              marginBottom: 16
-            }}
-          >
-            <ArrowLeft size={17} />
-            Retour à {category.title}
-          </Link>
-
           <div className="breadcrumbs">
             <Link href="/">Accueil</Link>
             <span>›</span>
