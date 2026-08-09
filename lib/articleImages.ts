@@ -311,6 +311,18 @@ if (slug === "quand-annoncer-grossesse-proches-employeur") {
     return "/images/troisieme-trimestre-perte-des-eaux.png";
   }
 
+  if (slug === "mouvements-bebe-troisieme-trimestre-ce-qui-change-et-quand-consulter") {
+    return "/images/mouvements-bebe-troisieme-trimestre-ce-qui-change-et-quand-consulter.png";
+  }
+
+  if (slug === "bebe-tete-en-bas-ou-en-siege-position-au-troisieme-trimestre") {
+    return "/images/bebe-tete-en-bas-ou-en-siege-position-au-troisieme-trimestre.png";
+  }
+
+  if (slug === "dernieres-semaines-de-grossesse-comment-se-preparer-sereinement-a-la-naissance") {
+    return "/images/dernieres-semaines-de-grossesse-comment-se-preparer-sereinement-a-la-naissance.png";
+  }
+
 
   if (slug === "premier-rendez-vous-de-grossesse-comment-se-deroule-t-il") {
     return "/images/examens-suivi-premier-rendez-vous-grossesse.png";
