@@ -34,6 +34,18 @@ if (slug === "comment-se-deroule-lexamen-du-col") {
     return "/images/articleImages/quel-est-le-role-de-la-sage-femme-pendant-laccouchement.png";
   }
 
+  if (slug === "quand-partir-a-la-maternite") {
+    return "/images/quand-partir-a-la-maternite.png";
+  }
+
+  if (slug === "que-faire-pendant-le-debut-du-travail-a-la-maison") {
+    return "/images/que-faire-pendant-le-debut-du-travail-a-la-maison.png";
+  }
+
+  if (slug === "que-se-passe-t-il-si-le-terme-est-depasse") {
+    return "/images/que-se-passe-t-il-si-le-terme-est-depasse.png";
+  }
+
 if (slug === "quand-annoncer-grossesse-proches-employeur") {
     return "/images/premier-trimestre-quand-annoncer-grossesse.png";
   }
