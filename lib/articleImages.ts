@@ -54,6 +54,18 @@ if (slug === "quand-annoncer-grossesse-proches-employeur") {
     return "/images/projet-bebe-parler-partenaire.png";
   }
 
+  if (slug === "quand-commencer-preparer-projet-bebe") {
+    return "/images/quand-commencer-a-preparer-un-projet-bebe.png";
+  }
+
+  if (slug === "projet-bebe-gerer-attente-pression") {
+    return "/images/projet-bebe-comment-gerer-lattente-et-la-pression.png";
+  }
+
+  if (slug === "projet-bebe-apres-fausse-couche-experience-difficile") {
+    return "/images/projet-bebe-apres-une-fausse-couche-ou-une-experience-difficile-comment-avancer.png";
+  }
+
 
   if (slug === "apres-arret-contraception-quand-cycle-revient") {
     return "/images/fertilite-cycle-retour-cycle-apres-contraception.png";
