@@ -242,7 +242,6 @@ export default function HomePage() {
               <li>
                 Des sources reconnues : HAS, Ameli, OMS, Santé publique France.
               </li>
-              <li>Des dates de mise à jour visibles.</li>
               <li>Un ton chaleureux et jamais culpabilisant.</li>
               <li>
                 Des indications claires pour savoir quand consulter.
