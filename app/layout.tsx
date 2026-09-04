@@ -4,6 +4,7 @@ import { BackToTop } from "@/components/BackToTop";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { siteConfig } from "@/lib/site";
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <main id="contenu">{children}</main>
         <Footer />
         <BackToTop />
+        <Analytics />
       </body>
     </html>
   );
